@@ -1,0 +1,3651 @@
+Page 1:
+ENVIRONMENTAL, SOCIAL
+& GOVERNANCE REPORT
+FOR THE YEAR 2023
+
+Page 2:
+2© AerCap - Confidential property of the company, not for disclosure or use without permission
+CONTENTS
+01 Overview
+ESG Committee Chair Message 3
+CEO Message 4
+About AerCap 5
+ESG Highlights for 2023 6
+Our Approach to ESG Risk Factors 7
+Aligning Our Actions with the UN’s Sustainable Development 
+Goals 10
+02 Care for Our Environment
+Delivering Net-Zero Aviation by 2050 13
+Fleet Transformation Strategy 15
+Net-Zero 2050: SAF & Other Pathways 18
+AerCap’s Leading Role in Policy Collaboration 21
+AerCap’s Decarbonization Vision 22
+Circular Economy & Aviation 23
+Efficient AerCap Office Operations 24
+Funding of Emissions Reduction Projects 25
+Carbon Emissions Disclosures 26
+03 Corporate Citizenship
+Understanding Aviation’s Contribution to Society 30
+Supporting Local Community and Education 31
+Diversity and Inclusion 32
+Our Employees 34
+Health and Safety 37
+Corporate Social Responsibility Outreach at AerCap 38
+04 World-Class Governance
+Governance at AerCap 43
+AerCap’s Board of Directors 44
+ESG Governance Structure 48
+Ethics and Compliance 49
+Privacy and Data Protection 53
+Information Security 54
+Risk Management 56
+Transparent Tax Policies 57
+05 Reporting Approach
+Our ESG Stakeholder Mapping 59
+ESG Rating Agencies 60
+Climate & ESG Regulatory Disclosures 61
+Stakeholder Engagement Approach 63
+GRI Content Index 67
+Supplemental Information 75
+Reporting Period
+• This report covers the 2023 financial year from January 1, 2023 
+to December 31, 2023
+Reporting Scope
+• Information in this report covers AerCap Holdings N.V. and all of 
+our consolidated subsidiaries (which are listed in Exhibit 8.1 of 
+our 20-F), unless specified otherwise
+Reporting Process
+• We follow the recommended reporting principles of stakeholder 
+inclusiveness, sustainability context, significance and 
+completeness
+• This report is produced with reference to the GRI Standards
+• AerCap has a formal process to identify new relevant regulatory 
+and stakeholder expectations.  As such, AerCap is preparing to 
+report as required under upcoming regulations including CSRD 
+and the SEC and this will be addressed in future reports.  As 
+such, this report is not designed to meet all future regulatory 
+reporting obligations
+Media 
+Gillian Culhane
+VP, Corporate Communications
+gculhane@aercap.com
+ESG 
+Donal Handley
+Head of Government Affairs & Sustainability 
+dhandley@aercap.com
+Contacts:
+We value our stakeholders’ input and welcome feedback on this report 
+or any aspect of our ESG approach 
+
+Page 3:
+3© AerCap - Confidential property of the company, not for disclosure or use without permission
+A MESSAGE FROM OUR ESG COMMITTEE CHAIR
+It's with great pleasure that I present AerCap's seventh annual 
+ESG Report, covering the year 2023. As we reflect on our 
+journey, marked by two years of dedicated work by our ESG 
+board committee and staff, I am proud of the strides we have 
+made and excited about the path ahead.
+As the leading aviation lessor, AerCap is deeply invested in 
+fostering sustainable growth within our industry. We 
+recognize aviation's indispensable role in economic 
+development, harmonizing international relations and 
+facilitating cross-border trade.
+The airline industry is faced with increased costs associated 
+with funding the cost of decarbonization, such as carbon 
+charges (e.g., European-Emission Trading Scheme), and 
+higher costs for sustainable aviation fuels. 
+Against this backdrop, our ESG Committee convened four 
+times during 2023, monitoring the implementation of our work 
+program and, in particular, the Company’s preparations to 
+comply with the requirements of the recently adopted EU and 
+U.S. climate disclosure rules. 
+AerCap’s ESG Strategy (approved by AerCap's Board in 
+December 2022) remains the foundation of our ESG 
+Committee.  We firmly believe that sustainability cannot exist 
+in isolation but must be seamlessly integrated into our 
+overarching corporate strategy. By identifying areas where 
+AerCap can maximize its impact and by proactively 
+addressing key risks and opportunities, we aim to drive 
+meaningful change within our industry. 
+Public ESG and sustainability reporting is becoming more 
+broadly expected by lenders, investors, shareholders, and 
+other parties. ESG rating agencies provide corporate 
+governance and other corporate risk information to investors 
+and shareholders. I am pleased that AerCap’s ESG ratings have 
+continued to maintain a positive trajectory, as evidenced by 
+our upgrade by MSCI ESG Ratings to ‘AA’ or ‘Leader’ level in 
+September 2023, and by our upgrade by Morningstar 
+Sustainalytics to ‘Low Risk’ level in April 2024. 
+Beyond climate concerns, AerCap remains steadfast in its 
+commitment to exemplary governance, diversity and 
+inclusion, and corporate values. We strive to attract and 
+nurture the best talent, leveraging our human capital to deliver 
+sustainable returns for stakeholders. Moreover, we endeavor 
+to make a positive societal impact commensurate with our 
+market leadership position.
+Our approach in the year ahead will continue to be twofold: to 
+assert control where feasible, and to exert influence where 
+necessary. By staying ahead of emerging trends and 
+preparing for future challenges, we are confident in our ability 
+to lead our industry toward a more sustainable future.
+In closing, I extend my gratitude to our dedicated team and 
+valued stakeholders for their unwavering support. Together, 
+we will continue to chart a course towards a more sustainable 
+and prosperous future for AerCap and the aviation industry at 
+large.
+  
+- Stacey Cartwright, ESG Committee Chair  
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+Dear Stakeholders, 
+
+Page 4:
+4© AerCap - Confidential property of the company, not for disclosure or use without permission
+A MESSAGE FROM OUR CEO 
+The aviation industry has committed to 
+achieving Net-Zero flying by 2050. However, 
+the path to reaching this goal is complex. It 
+requires a unique level of cooperation across 
+the entire aviation ecosystem, including 
+airlines, OEMs, lessors, lenders, fuel 
+suppliers, and trade associations. 
+The activity that currently contributes most to 
+decarbonization is fleet renewal, and AerCap 
+continues to play a leading role by investing 
+in the most fuel-efficient new technology 
+aircraft. 
+By the end of 2023, ~70% of our owned 
+commercial aircraft fleet consisted of new 
+technology aircraft on lease to ~80 airlines, 
+along with a fleet of ~80% new technology 
+engines and an additional ~$18 billion of new 
+technology assets on order.1 Since 2014, we 
+have invested ~$50 billion in new technology 
+aircraft, more than any airline or any other 
+lessor. As a result of this investment, our 
+Scope 3 emissions intensity has improved, 
+generating a 15% reduction in gCO2 per 
+seat/km across our entire fleet in the last 
+decade despite doubling in size through 
+M&A.2  
+We have ~300 customers and we directly aid 
+our customers’ decarbonization efforts. Many 
+airlines lack the financing or delivery slots to 
+enable their transition to new technology 
+aircraft that produce lower emissions, so 
+lessors like AerCap must play a key role. 
+More recently, OEM supply chain constraints 
+have placed further pressure on airlines’ 
+ability to access the most efficient aircraft 
+types. 
+In that regard, during 2023, AerCap:
+• Executed a total of 953 transactions, 
+including 592 lease agreements;
+• Completed purchases of 173 assets, 
+including 80 fuel-efficient, new 
+technology owned aircraft, for 
+approximately $6.4 billion; and 
+• Completed sales of 167 assets for 
+aggregate proceeds of approximately 
+$2.8 billion, including 74 owned aircraft 
+with an average age of 16 years.
+Building on fleet renewal, AerCap continues 
+to take account of all decarbonization tools 
+and regulatory obligations in our efforts to 
+support Net-Zero Aviation 2050, including:
+• The scale-up of Sustainable Aviation Fuels 
+(“SAF”);
+• Preparing for EU and U.S. climate-related 
+regulatory disclosures;
+• Aircraft decommissioning and recycling; 
+• Engagement in ESG reporting; and 
+• Assessing potential opportunities relating to 
+sustainable finance and carbon measures, 
+as well as developments relating to future 
+disruptive technologies. 
+We have continued to build on our Diversity 
+and Inclusion (“D&I”) framework and we are 
+continuing to make positive strides to 
+address the historical underrepresentation of 
+women in our industry. I am pleased to report 
+that in 2023, 50% of our new hires were 
+female. 
+Training was made available to all employees 
+during 2023 and all relevant corporate 
+policies and procedures were reviewed and 
+adapted where necessary, to promote 
+alignment with the Company’s D&I 
+objectives. 
+AerCap’s senior leadership team, together 
+with the ESG Committee, will continue to 
+engage and utilize feedback from employees 
+to further develop programs and initiatives 
+that support our D&I strategy.
+Our Corporate Social Responsibility (“CSR”) 
+Committee, led by our employees, 
+successfully oversees our charitable 
+activities. In 2023, AerCap, together with our 
+employees, donated over $800,000 to 
+charities and partnerships. 
+  - Aengus Kelly, AerCap CEO
+See Supplemental Information – Endnotes.
+To all our stakeholders, thank you for your ongoing support of AerCap and our sustainability efforts. As always, we welcome your feedback and suggestions 
+as we continue to drive aviation to reach new heights and perform at its best. 
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+Dear Stakeholders,
+
+Page 5:
+5© AerCap - Confidential property of the company, not for disclosure or use without permission
+ABOUT AERCAP
+UNRIVALED LEADER 
+IN AVIATION
+GLOBALLY DIVERSE 
+REACH
+TRANSITIONING TO 
+A GREENER FLEET
+ATTRACTIVE ORDER 
+BOOK
+HIGH CALIBER 
+TEAM
+With 50 years of experience 
+dating back to the founding of 
+the aircraft leasing industry, 
+AerCap has an unrivalled level 
+of expertise; our ongoing 
+commitment to the 
+development of our 
+employees is a key tenet of 
+our success
+Our order book of 338 aircraft 
+comprises exclusively of the 
+most in-demand, fuel-efficient, 
+new technology aircraft –
+around which airlines are 
+building their future fleets2
+We are at the forefront of the 
+transition to new technology, 
+having invested  ~$50 billion in 
+new technology aircraft since 
+2014, thereby lowering the 
+operating costs and carbon 
+emissions of our airline 
+customers
+We are a strategic partner to 
+the Original Equipment 
+Manufacturers (“OEMs”) and 
+airlines’ globally; AerCap has 
+~300 active customer 
+relationships around the world 
+and has taken delivery of more 
+aircraft than any other 
+airline or lessor
+With total leased assets of 
+~$60 billion and a fleet of 
+1,740 aircraft, ~1,000 engines 
+and 300 helicopters, our 
+unmatched team of aviation 
+experts are leading and 
+shaping the leasing industry1
+See Supplemental Information – Endnotes.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 6:
+6
+ESG HIGHLIGHTS FOR 2023
+STRONG ESG 
+GOVERNANCE
+COLLABORATION REMAINS 
+AT THE FOREFRONT
+PROGRESS ON OUR ~75% 
+NEW TECHNOLOGY 
+AIRCRAFT BY 20242
+ESG RATING AGENCY 
+UPGRADES - MSCI & 
+SUSTAINALYTICS1
+DIVERSITY, EQUITY, 
+INCLUSION & BELONGING 
+(“DEIB”)
+AerCap’s Board-level 
+ESG Committee provides 
+oversight of ESG risks 
+and opportunities at the highest 
+level. In 2023, our Board-level 
+ESG Committee met four times. 
+ESG factors are a key 
+consideration in our Board and 
+management’s decision-making 
+process
+Through our Government Affairs & 
+Sustainability function, we had 
+continuous interaction with EU, 
+U.S., UK, and other bodies on 
+policy and decarbonization 
+matters.  Dialogue and 
+collaboration with regulatory 
+policymakers, government bodies, 
+industry trade associations and key 
+business partners provides AerCap 
+with a unique insight to regulatory 
+developments; this aids our 
+situational awareness and ability to 
+influence policy
+We continued our corporate fleet 
+modernization strategy to ensure 
+we own the most in-demand 
+aircraft – this also has the benefit of 
+contributing to the significant 
+reduction of CO2 emissions. 
+As of December 31, 2023, AerCap’s 
+assets consisted of ~70% new 
+technology commercial aircraft and 
+~80% new technology engines, 
+with an additional ~$18 billion of 
+new technology assets on order. 
+We have also improved our Scope 
+3 emissions intensity, achieving a 
+15% reduction in gCO2 per seat/km 
+across our entire fleet in the last 
+decade
+Strong ESG focus highlighted and 
+acknowledged by ratings agencies; 
+in September 2023, AerCap’s ESG 
+rating was upgraded from ‘A’ to 
+‘AA’ by MSCI, with strong 
+governance a key rating positive 
+for the Company, as well as by 
+Morningstar Sustainalytics, 
+improving from ‘Medium’ to  ‘Low 
+Risk’ level in April 2024
+AerCap continued to make 
+progress on our Diversity, Equity, 
+Inclusion and Belonging framework 
+and strategy, conducting focus 
+groups and training sessions 
+throughout 2023 to identify and 
+focus on the issues that matter 
+most to our employees
+AerCap continues to make progress on key environmental sustainability, social responsibility and governance matters
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+See Supplemental Information – Endnotes.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 7:
+RELATED RISKS
+Indirect Physical Risks
+• The occurrence of severe weather events or natural 
+disasters may impact demand for air travel or make 
+airlines unable to operate from certain regions, and the 
+frequency or severity of these types of events may 
+worsen as a result of climate change
+• However, due to the mobile nature of our assets and 
+our ability to work effectively from various locations, 
+we consider direct physical risks to AerCap to be 
+limited
+Indirect Transition Risks
+• Due to growing concerns over the risks of climate 
+change, many jurisdictions are moving towards 
+imposing more stringent limits on greenhouse gas 
+emissions from aircraft engines
+• The general public’s increasing interest in less carbon-
+intensive travel methods will likely lead to airlines 
+favoring aircraft with lower emissions, and airlines may 
+choose to exit older technology assets more quickly 
+• This may affect lease rates on our older technology 
+aircraft and pose’s a risk to their residual values
+7
+© AerCap - Confidential property of the company, not for disclosure 
+or use without permission
+OUR APPROACH TO ESG RISK FACTORS
+ENVIRONMENTAL
+See Supplemental Information – Endnotes.
+AERCAP APPROACH
+• 99.9% of our total reported emissions in 2023 related to 
+Scope 3 downstream use of our owned assets across our 
+global fleet. We do not have direct control over these 
+emissions, as the assets are operated by our customers, 
+and this fact restricts our ability to directly impact the 
+quantum of our reported emissions
+• In line with our commercial strategy, AerCap’s aircraft fleet 
+reached ~70% new technology at the end of 2023 and our 
+order book consists of 100% new technology aircraft, 
+underpinning our fleet transition strategy towards ~75% 
+new technology in 20241
+• In 2023, we purchased 80 new technology aircraft, and 
+sold 74 older technology aircraft, with an average age of 16 
+years, improving the risk profile of our portfolio
+• AerCap supports our customers’ fleet renewal plans. Eighty 
+of our airline customers now lease new technology aircraft.
+• As a lessor of scale, with an installed base of assets with 
+~300 customers, we are frequently asked to partner with 
+the aircraft OEMs on major campaigns for new technology 
+aircraft
+• In 2021, the airline members of the International Air 
+Transport Association (“IATA”) approved a resolution to 
+achieve Net-Zero carbon emissions by 2050. 
+Approximately 190 of those airlines are AerCap customers. 
+AerCap is enabling their journey through the provision of 
+the latest new technology aviation assets
+• Through our Government Affairs & Sustainability function, 
+we actively engage policymakers and industry on 
+regulatory developments across all Net-Zero aviation areas
+• AerCap is exploring how to encourage the scale-up of SAF 
+to support our customers’ emissions reduction efforts
+• AerCap is preparing procedures to meet all EU and U.S. 
+climate reporting obligations
+• Through AerCap Cargo, we recycle older aircraft by 
+placing them into cargo conversion programs, helping our 
+cargo customers reduce their emissions
+• Through AerCap Materials, we efficiently retire aircraft, 
+with strict processes around adherence to environmental 
+and safety protocols
+• We are engaged with our OEM partners, airlines, and other 
+industry players in discussions regarding the design and 
+commercialization of the next generation of aircraft and 
+engine technology
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 8:
+OUR APPROACH TO ESG RISK FACTORS
+SOCIAL
+RELATED RISKS
+Internal Risks
+• Aircraft leasing is a competitive and niche industry. Our 
+business relies heavily on people, and our ability to 
+attract and retain the best talent in the industry  
+• Our stance and actions, either as a company or by our 
+employees individually, directly convey our values
+Downstream Risks
+• Increased public scrutiny over social aspects of airlines’ 
+behavior may lead to disruptions to airline schedules or 
+impair airlines’ ability to operate at full capacity and 
+efficiency, thereby affecting their ability to meet their 
+lease obligations
+Upstream Risks
+• Social issues adversely affecting the ability of our 
+suppliers, the OEMs, to meet their delivery obligations 
+may impact our financial performance and pose 
+potential reputational risks
+See Supplemental Information – Endnotes.
+© AerCap - Confidential property of the company, not for disclosure 
+or use without permission
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+AERCAP APPROACH
+• AerCap has a high-performance culture and operates in a 
+dynamic and fast-paced industry. Our employees are one 
+of our most important assets and we seek to hire, reward 
+and retain the best talent in the industry to help retain our 
+global leadership position 
+• We are focused on building a diverse talent pipeline, both 
+internally through our continuous professional 
+development programs and externally through our 
+sponsorship of educational programs and partnerships 
+with other industry players
+• AerCap provides air mobility to airlines in emerging 
+markets, which represented ~53% of our lease revenue in 
+2023, enabling countries to develop economic links that 
+support their development and economic growth1
+• As part of our, DEIB framework, an extensive staff survey, 
+and focus groups were conducted in 2022 and 2023. 
+Training on topics related to DEIB was made available to 
+all employees during 2023 and all relevant corporate 
+policies and procedures were reviewed, and adapted 
+where necessary, to promote alignment with the 
+Company’s DEIB objectives. AerCap’s senior leadership 
+team, together with the ESG Committee, will continue to 
+engage and utilize feedback from employees to further 
+develop programs and initiatives that support our DEIB 
+strategy
+• At an industry level, we partner with a variety of 
+organizations that are focused on advancing gender 
+diversity and gender equality, including Advancing 
+Women in Aviation Roundtable (“AWAR”), Women in 
+Aviation Singapore Chapter, and PropelHer
+• AerCap offers attractive packages to our employees, 
+including competitive salaries, performance-based 
+bonuses, and employee share schemes, as well as 
+comprehensive health and dental coverage and a wide 
+selection of wellness initiatives promoted throughout 
+2023
+• We partner with charities in our local communities and 
+with our airline customers and the OEMs on charitable and 
+social initiatives. In 2023, together with our employees, 
+AerCap donated over $800,000 to charitable and social 
+causes
+8
+
+Page 9:
+9
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+OUR APPROACH TO ESG RISK FACTORS
+GOVERNANCE
+AERCAP APPROACH
+• Our Board of Directors is a key competitive 
+advantage for AerCap, and provides a wealth of 
+knowledge and experience, with deep industrial 
+and financial expertise, as well as diversity of 
+gender and nationality 
+• We strive to conduct our business with integrity 
+and in an honest and responsible manner and to 
+build relationships with our customers, suppliers, 
+shareholders, employees and other stakeholders
+• Governance of ESG-related risks and opportunities 
+was further enhanced with the establishment of a 
+Board-level ESG Committee in December 2021
+• Our Government Affairs & Sustainability function, 
+located in Brussels, is focused on legislative 
+developments and strategic matters emerging from 
+Europe and beyond, helping AerCap to understand 
+the emerging regulatory landscape and be heard
+• Our Code of Conduct outlines the high standards 
+and business principles expected from all 
+employees and business partners 
+• No material/reported compliance breaches or 
+major lawsuits against AerCap in 2023
+• Top-class IT systems with no major employee, 
+Company or customer data privacy breaches in 
+20231 . (See page 55 which refers to a 
+cybersecurity incident, which occurred in January 
+2024 and was disclosed in January 2024)
+• AerCap is preparing procedures to meet all EU and 
+U.S. climate reporting obligations
+• Transparency: AerCap has published an annual ESG 
+Report since 2018 and each year we strive to 
+improve the report to promote transparency and to 
+confirm that the disclosures provided are relevant 
+and focused on what matters most to our 
+stakeholders
+RELATED RISKS
+• Public ESG and sustainability reporting is now broadly expected by 
+lenders, investors, shareholders and other stakeholders. Furthermore, 
+both the EU and the U.S. have introduced enhanced disclosure regulations 
+requiring aircraft lessors to report on various climate-related matters
+• Aircraft leasing requires both financial and industrial expertise, so it is 
+important to have the correct mix of expertise on the Board of Directors 
+• Having operations, assets and customers in many different parts of the 
+world requires internationally diverse expertise
+• Regulation of aircraft and engine noise and emissions levels are 
+increasingly being adopted and can apply based on where the aircraft is 
+registered or where the aircraft is operated
+• Given that aviation is a hard-to-abate sector, there is a heightened risk of 
+being accused of greenwashing
+• IT security threats are emerging with growing complexities
+• Following the implementation of the General Data Protection Regulation 
+(“GDPR”) in the EU, the mishandling of personal data can result in 
+significant financial and reputational damage to the Company
+See Supplemental Information – Endnotes.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 10:
+10© AerCap - Confidential property of the company, not for disclosure or use without permission
+• AerCap offers a range of health and wellbeing programs for our 
+employees, including comprehensive medical and dental insurance, 
+24/7 access to counselling, flexible working arrangements, fitness 
+classes, wellness talks, onsite health assessments, as well as a variety 
+of social clubs such as tag rugby, golf and cycling
+• We are committed to maintaining an environment where employees 
+feel safe and are treated with mutual dignity and respect
+• AerCap supports the next generation of aviation industry professionals 
+through a variety of educational programs
+• AerCap has a partnership with Concern Worldwide on the CHANGE 
+program in Ethiopia. The program aims to support marginalized girls 
+achieve better literacy and numeracy skills and provides seed money to 
+develop sustainable livelihoods
+• AerCap has collaborated with the Museum of Literature Ireland in 
+launching “MoLI in the Classroom,” a free-to-access, interactive online 
+workshop for primary school students in Ireland
+• AerCap is an equal opportunities employer, and we recruit, employ 
+and promote employees based on qualifications and performance
+• 44% of our employees, 24% of our senior management and 30% of 
+our board are female
+• AerCap continues to support the development of the next 
+generation of female talent through several educational and 
+industry-led initiatives
+• We published our Gender Pay Gap Report for 2023, which is 
+available to view on our website
+• Our employees are one of our most important assets and we seek to 
+hire, reward and retain the best talent in the industry 
+• AerCap offers competitive remuneration packages, including base 
+salaries, performance-based bonuses, employee share schemes, 
+retirement savings plans and generous benefits
+• We are committed to training and developing our employees, so 
+they can grow and develop
+• AerCap has zero tolerance for human rights violations, including, but 
+not limited to, modern-day slavery, forced labor, child labor or 
+human trafficking 
+ALIGNING OUR ACTIONS WITH THE UN’S SDGS
+AerCap is committed to supporting the Sustainable Development Goals (“SDGs”)  of the United Nations (“UN”) through our strategy and our actions
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 11:
+11© AerCap - Confidential property of the company, not for disclosure or use without permission
+• AerCap provides air mobility to airlines in emerging markets, which 
+represented ~53% of our lease revenue in 2023, allowing countries 
+to develop economic links which support their development and 
+economic growth 
+• In 2023, we continued our support of Airlink, a global humanitarian 
+charity dedicated to delivering critical aid to communities in crisis 
+worldwide
+• Centralized supply chain used by our Dublin office catering partner 
+to significantly reduce its carbon footprint
+• Through our waste supplier, we have a zero-to-landfill policy, and 
+our organic waste from our Dublin office is converted to bio-fuels
+• Our offices are supplied with ~49% renewable electricity
+• As the largest aviation lessor in the world, we endeavor to lead the 
+industry towards a lower carbon economy
+• Our order book comprises 100% new technology aircraft, the most 
+fuel-efficient aircraft available
+• We have a target of transitioning our commercial aircraft fleet to 
+~75% new technology by NBV in 2024
+• We have a relatively small direct carbon footprint and endeavor to 
+reduce our emissions where possible; we have a partnership with 
+First Climate to support climate action with verified carbon credits 
+equivalent to our own GHG emissions, including two projects, which 
+amounted to approximately 3,500 tonnes of CO2. 
+• We strive to conduct our business with integrity and in an honest and 
+responsible manner
+• We have various policies and procedures in place designed to 
+facilitate compliance with relevant laws and regulations; details of 
+some of our most important policies can be found on our website 
+and further on in this report
+ALIGNING OUR ACTIONS WITH THE UN’S SDGS
+AerCap is committed to supporting the Sustainable Development Goals  of the United Nations through our strategy and our actions
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+
+Page 12:
+CARE FOR OUR
+ENVIRONMENT
+
+Page 13:
+13© AerCap - Confidential property of the company, not for disclosure or use without permission
+DELIVERING NET-ZERO AVIATION BY 2050
+Requires significant intergovernmental and industry collaboration
+Collaboration is key
+• The airline industry has committed to achieving Net-Zero flying by 2050. 
+However, the path to reaching this goal is complex
+• Aviation decarbonization faces unique challenges due to weight 
+constraints, long innovation cycles, and the relatively high cost of new 
+technologies
+• The aviation sector’s participants, including airlines, OEMs, and 
+suppliers, are highly dependent on one another to achieve Net-Zero 
+emissions by 2050
+• The investment needed to bring about aviation’s transition to Net-Zero 
+by 2050 could be as high as $5 trillion over the period to 2050. The 
+annual investments required in that case would be close to $180 billion1
+Recent policy and industry developments
+• Many countries have continued to develop policies to support the 
+delivery of ICAO’s Long-Term Aspirational Goal (“LTAG”) of Net-Zero 
+2050
+• In October 2023, ReFuelEU was adopted by the EU, including a mandate 
+for the supply of SAF at EU airports, and a requirement of at least 6% 
+SAF in all jet fuel in 2030, rising to 20% in 2035 and reaching 70% by 
+2050, half of which must be eFuel
+• ReFuelEU also includes provisions in relation to the establishment of a 
+Monitoring, Reporting and Verification (“MRV”) scheme for Non-CO2, 
+emissions and the creation of an aviation “eco-label” to transparently 
+show passengers their expected emissions on their flights
+• The U.S. Inflation Reduction Act provides a tax credit incentive to 
+encourage Sustainable Aviation Fuel (“SAF”) production
+• In November 2023, the International Civil Aviation Organization (“ICAO”) 
+adopted an aspirational  “global vision” to reduce CO2 emissions in 
+international aviation by 5% by 2030. This vision will need to be 
+achieved through a basket of measures, most importantly a significant 
+scaling up of the supply of SAF
+See Supplemental Information – Endnotes.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 14:
+14© AerCap - Confidential property of the company, not for disclosure or use without permission
+PATHWAYS TO NET-ZERO AVIATION
+Multiple pathways are required to achieve Net-Zero aviation
+65%3%
+13%
+19%
+IATA Net-Zero 
+Aviation 20501
+Sustainable Aviation Fuel 
+Offsets & Carbon Capture
+Infrastructure & Operational Efficiencies 
+New Technology, Electric & Hydrogen
+IMPORTANCE OF FLEET RENEWAL 
+• As indicated by the Air Transport Action Group (“ATAG”), in 
+their Waypoint 2050 report, significant CO2 savings will 
+continue to materialize in the coming decades through 
+continuous fleet renewal with today’s new generation 
+aircraft providing immediate 20-25% fuel and CO2 savings 
+compared to the previous generation3
+• Therefore, during the transitional phase, the renewal of 
+aircraft fleets from old, less efficient aircraft types to the 
+newest available technology will be essential
+• The global commercial aircraft fleet comprises ~25% new 
+technology, leaving a ~75% gap to renew the current global 
+fleet over the next two decades4
+• Prior to the deployment of future technology aircraft at 
+commercial scale, industry roadmaps assume that the 
+expected growth in the worldwide fleet over the next two 
+decades, includes lower-emitting new technology aircraft. 
+In that context, through our global leasing business, 
+AerCap’s fleet renewal activities play a key role in helping 
+the industry to transition to Net-Zero Aviation
+• AerCap’s fleet already consists of ~70% new technology 
+aircraft and ~80% new technology engine assets, as well as 
+an order book comprising of 100% new technology assets5
+See Supplemental Information – Endnotes.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+NET-ZERO ROADMAPS
+• In 2021, the International Air Transport Association (“IATA”) 
+member airlines committed to achieving net-zero carbon 
+emissions from their operations by 2050, built around the 
+“Fly Net-Zero” framework
+• Building on this, in June 2023, “IATA” launched a series of 
+Net-Zero roadmaps to guide the aviation industry towards 
+achieving Net-Zero2  
+• These roadmaps contain a number of solutions including:
+• Aircraft Technology
+• Energy and New Fuels Infrastructure
+• Operations
+• Finance
+• Policy
+
+
+Page 15:
+15
+FLEET TRANSFORMATION STRATEGY
+6% ~70% ~75%
+TARGET
+New technology 
+aircraft share of our 
+owned fleet
+(as a % of NBV)4
+37%
+2014 2017 2023 20243
+AerCap’s Transition to 
+New Technology Aircraft
+• 2006 – 2013: Orders for the Boeing 787 aircraft, Airbus A350 
+aircraft, Airbus A320neo Family aircraft and Embraer E2s
+• 2014: Acquired ILFC from AIG, purchasing a fleet of >900 
+owned aircraft and an order book of >300 aircraft at a 
+discount to book value
+• 2015-2021: Orders for the Boeing 737MAX, Boeing 787, 
+Airbus A330neo, and Airbus A320neo Family. Furthermore, in 
+2021 we acquired GECAS from GE, purchasing a fleet of ~820 
+aircraft and an order book of exclusively new technology 
+aircraft 
+• 2021:  We introduced a new ambitious target of transitioning 
+our fleet to ~75% new technology aircraft by the end of 2024 
+and we are making progress towards that target
+• 2023: We purchased 80 new technology aircraft and sold 74 
+older technology aircraft, providing a ~25% gain in efficiency 
+in our portfolio and reaching ~70% new technology fleet
+• Today:  Our order book of 338 new technology aircraft will 
+form the backbone of our future fleet, supporting airlines 
+in achieving their sustainability targets5
+• In addition, our engine fleet consists of ~80% new 
+technology assets, and we have an additional ~$18 billion 
+of new technology assets on order
+Our ambitious target is for new technology aircraft to comprise ~75% of our aircraft fleet by 2024.1 In 2023, we 
+continued our fleet modernization strategy to ensure we own the most in-demand aircraft – this also has the 
+benefit of driving a significant reduction in airline CO2 emissions. 
+See Supplemental Information – Endnotes.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+NEW TECHNOLOGY 
+AIRCRAFT3
+CURRENT 
+TECHNOLOGY 
+NARROWBODY 
+AIRCRAFT2
+CURRENT TECHNOLOGY 
+WIDEBODY AIRCRAFT2
+20232014 2017
+Previous Technology 
+Aircraft
+GECAS Acquisition
+2021
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+
+Page 16:
+16
+Fleet Investment
+• While we own many aircraft, we do not 
+operate them. However, as the global 
+leader in aviation leasing, we feel a sense 
+of responsibility to lead the industry 
+towards a lower-carbon economy. The 
+best way for us to do so is to support our 
+airline customers’ adoption of the most 
+fuel-efficient aircraft available
+• Since 2014, AerCap has invested ~$50 
+billion in new technology aircraft.2 This 
+investment significantly enhances the 
+fuel efficiency of our customers’ fleets, 
+reducing their Scope 1 emissions and 
+reducing Scope 3 emissions for AerCap. 
+In addition, these aircraft significantly 
+reduce noise and air pollution
+• As a result of our $50 billion investment in 
+the latest new technology assets, our 
+Scope 3 Emissions intensity has 
+improved, generating a 15% reduction in 
+gCO2  per seat/km across our entire fleet 
+in the last decade 
+• As of December 31, 2023, ~70% of our 
+owned aircraft fleet and ~80% of our 
+engines were new technology assets, on 
+lease to ~80 airlines 
+• Driven by our order book of 338 new 
+technology aircraft, we expect to see a 
+further positive impact for our customers 
+and for AerCap 
+• All of our aircraft are capable of flying 
+with up to a 50% blend of SAF and both 
+Airbus and Boeing are targeting 2030 for 
+100% SAF capability and certification, an 
+important step on the path to Net-Zero
+FLEET EMISSIONS CARBON INTENSITY REDUCTION
+Despite the significant growth of our fleet as a result of the GECAS acquisition, our emissions intensity has continuously im proved due to 
+our fleet modernization investment, generating a 15% reduction in emissions per seat/km in the last decade 1
+Aircraft Fleet Emissions Intensity (Scope 3 for AerCap)
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+See Supplemental Information – Endnotes.
+75% Target
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+ 65.00
+ 70.00
+ 75.00
+ 80.00
+ 85.00
+ 90.00
+ 95.00
+ 100.00
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+% New Technology (by NBV)
+gCO2 per seat/km 
+gCO2 per seat/km % New Technology Aircraft (by NBV)
+71.7 gCO2 
+per seat/km
+84.5 gCO2 per 
+seat/km
+2
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 17:
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+PROGRESSIVELY MODERNIZING OUR FLEET
+SIGNIFICANT FUEL EFFICIENCY GAINS WITH NOISE AND POLLUTION REDUCTIONS1
+AIRCRAFT FUEL CONSUMPTION NITROGEN OXIDES (NOX EMISSIONS) NOISE
+Airbus A350-900 25% lower fuel burn per seat Up to 23% margin to CAEP/8 Up to 24.8 EPNdB noise margin to ICAO Chapter 4
+Airbus A330neo 25% lower fuel burn per seat Up to 20% below CAEP/8 Up to 18.8 EPNdB noise margin to ICAO Chapter 4
+Boeing 787 31% lower fuel burn per seat 36% margin to CAEP/8 >17.1 EPNdB noise margin to ICAO Chapter 4
+Airbus A321neo 22% lower fuel burn per seat Up to 11% below CAEP/8 (CFM Engine)
+Up to 49% below CAEP/8 (PW Engine) Up to 17.9 EPNdB noise margin to ICAO Chapter 4
+Boeing 737 MAX 21% lower fuel burn per seat 17% margin to CAEP/8 >13.2 EPNdB noise margin to ICAO Chapter 4
+Airbus A320neo 20% lower fuel burn per seat Up to 43% below CAEP/8 (CFM Engine)
+Up to 49% below CAEP/8 (PW Engine)Up to 21.4 EPNdB noise margin to ICAO Chapter 4
+Airbus A220-300 25% lower fuel burn per seat Up to 38% below CAEP/8 Up to 17.4 EPNdB noise margin to ICAO Chapter 4
+Embraer 195-E2 25% lower fuel burn per seat 40% margin to CAEP/8 Up to 18.9 EPNdB noise margin to ICAO Chapter 4
+New technology aircraft provide 20-31% fuel burn savings per seat, while also lowering C02 emissions, 
+NOx pollution and noise, and are capable of flying with up to a 50% blend of sustainable aviation fuel 
+See Supplemental Information – Endnotes.
+17
+~25%  of the global fleet now comprises New Technology aircraft, leaving a 75% gap to 
+renew the current global  fleet over the next two decades2
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 18:
+18
+NET-ZERO 2050 - CRITICALITY OF 
+SUSTAINABLE AVIATION FUEL
+SAF is expected to provide ~65% of emission reductions by 2050 
+• SAF is a “drop-in” fuel which, when blended with up to 
+50% conventional jet fuel, requires no aircraft 
+modifications and is available for use in aircraft and 
+helicopters operating today. Airbus, Boeing, and 
+Embraer have committed to delivering aircraft that are 
+100% SAF capable by 2030
+• However, SAF production is still at an early stage, and 
+SAF accounts for only 0.2% of all jet fuel in 2023. 
+Challenges include the availability of feedstock or green 
+electricity, cost, sustainability certification, investment, 
+and competing demand from other sectors such as road 
+transport
+• 43 airlines around the globe have made voluntary SAF 
+commitments, corresponding to ~13 Mt of SAF use by 
+2030, or ~3.8 % of global aviation jet fuel demand in 
+20301
+• Global SAF production capacity is expected to increase 
+10-fold by the end of the decade, provided projects 
+materialize on schedule and producers lock in adequate 
+feedstock volumes. It is expected to account for 5% of 
+total jet fuel by 20302
+2019 2023 
+estimated
+2024 
+forecasted 2030 2050
+Estimated SAF Output (Mt) <0.02 0.5 1.5
+14 Mt  SAF Required to meet 
+ICAO Global Vision1
+ 
+=> 5% CO2 emissions 
+reduction
+500 Mt SAF 
+Required to meet 
+Net-Zero
+ 
+=> 65% reduction 
+of CO2 to meet     
+Net-Zero
+Global Jet Fuel (Mt) 288 271 285
+SAF % of Global Fuel <0.01% 0.2% 0.5%
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+See Supplemental Information – Endnotes.
+AerCap is exploring how to encourage the scale- up of SAF to support our customers
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 19:
+19© AerCap - Confidential property of the company, not for disclosure or use without permission
+NET-ZERO 2050 = “SAF PLUS”…
+Beyond SAF there are many other tools to achieve Net-Zero 
+• Fleet renewal: New technology 
+aircraft are ~20% more efficient. 
+~25%  of the global fleet now 
+consists of new technology 
+aircraft, leaving a 75% gap to 
+renew the current global fleet 
+over the next two decades, as 
+well as ~20% performance 
+improvements for all additional 
+aircraft growth
+• Circular economy: ICAO 
+estimates that ~85-90% of an 
+aircraft is typically reused or 
+recycled. ~40-50% is returned to 
+the parts distribution pipeline and 
+used again in aircraft 
+maintenance, with the remaining 
+materials recycled
+• EU Reporting: The EU Corporate 
+Sustainability Reporting Directive 
+(“CSRD”) will require aviation 
+businesses to report on their 
+climate-related activities and 
+transition plans, as well as 
+taxonomy-aligned aircraft assets 
+• U.S. Reporting: The U.S. SEC 
+climate disclosure requirements for 
+public companies were adopted in 
+March 2024
+• Disruptive propulsion & airframe 
+technologies: Aircraft and engine 
+OEMs are heavily engaged in 
+exploring innovative propulsion and 
+airframe technologies to reduce 
+emissions
+Very small and regional aircraft 
+(~30-50 seats) will likely be early 
+adopters of hydrogen, electrical and 
+hybrid systems
+The next generation of large 
+transport aircraft (~150-200 seats) 
+will continue to be combustion fuel-
+powered, including SAF, systems 
+but with a further step-up in 
+efficiency
+• Sustainable-linked lending: The 
+volume of sustainable finance 
+activities with embedded 
+sustainable performance targets, is 
+steadily rising, mainly between 
+banks and airlines
+• Lenders: The banking sector has 
+developed initiatives in relation to 
+sustainable aviation lending, such 
+as the Climate Aligned Finance 
+“Pegasus Principles” and IMPACT 
+for Aviation “Milestone Concept”
+The investment needed to bring 
+about aviation’s transition to Net -
+Zero by 2050 could be as high as 
+$5 trillion over the period to 2050
+• Direct Air Carbon Capture & 
+Storage: Key technology in the 
+future to manage aviation 
+emissions
+• Carbon charges: The EU Emissions 
+Trading System (“ETS”) is a cap-
+and-trade system for greenhouse 
+gas emissions, and includes all 
+flights within the EU; airline costs 
+are increasing due to the phase-out 
+of free ETS allowances. ICAO’s 
+Carbon Offsetting and Reduction 
+Scheme for International Aviation 
+(“CORSIA”) is a global market-
+based scheme aimed at reducing 
+emissions from international 
+aviation. The first phase runs 
+between 2024-26
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+Fleet Renewal 
+& Recycling
+Regulatory
+Disclosures  
+Emerging 
+Technologies
+Sustainable 
+Finance
+Carbon 
+Measures
+
+Page 20:
+20© AerCap - Confidential property of the company, not for disclosure or use without permission
+AerCap plays an important role across many of the key decarbonization tools
+Fleet renewal is key to our 
+core business, and we are 
+progressing towards our 
+target of ~75% new 
+technology commercial 
+aircraft by the end of 2024 
+(based on NBV)
+AerCap Materials has 50+ 
+years of experience in aircraft 
+dismantling and recycling, 
+whilst AerCap Cargo has 25+ 
+years’ of Passenger to Freight 
+(“P2F”) conversion programs, 
+extending the useful life of in-
+service aircraft and avoiding 
+the environmental impact of 
+building new freighters
+AerCap is preparing 
+procedures to meet all new EU 
+and U.S. reporting obligations, 
+including the completion of a 
+double-materiality assessment
+AerCap is playing a leading role 
+in key areas such as defining 
+the composition of Scope 3 
+emissions for lessors and the 
+development of taxonomy 
+alignment reporting
+These activities involve 
+significant investments and play 
+a key role in creating consistent 
+reporting and transparency
+This is a steadily evolving area 
+with most transactions involving 
+lenders with airline customers. 
+Recent certainty has come about 
+in relation to frameworks such as 
+the EU Taxonomy on Sustainable 
+Finance and the Pegasus 
+Principles 
+AerCap seeks to deploy capital in 
+the most efficient way possible to 
+support our customers and we 
+will continue to explore potential 
+sustainable finance opportunities 
+with our lenders and investors, as 
+well as innovative assessment 
+mechanisms
+Due to our market leadership, 
+AerCap has deep relationships 
+with our OEM partners and 
+continues to engage on airframe 
+and engine efficiency gains and 
+step changes
+AerCap’s focus relates to R&D of 
+leading-edge technology that 
+can upgrade existing new 
+technology aircraft systems as 
+well as engine and airframe 
+innovations for the next 
+generation of large transport 
+aircraft
+We do not have direct control over 99.9% of our emissions (Scope 3) and believe we must use the levers under our direct control or influence to help 
+mitigate these emissions. AerCap is taking account of all decarbonization tools and regulatory obligations in our efforts to support Net-Zero Aviation 2050. 
+Our decisions must take account of investor expectations and customer needs, while simultaneously ensuring the best use of capital deployed
+To balance our unavoidable 
+direct emissions, we contribute 
+to an overall reduction in global 
+GHG emissions by financing 
+carbon reduction/removal 
+projects with carbon credits
+Carbon Capture technology is in 
+its infancy and AerCap has had 
+early engagement with leading 
+innovators. Carbon as a 
+feedstock for eFuel will also 
+likely play an important role in 
+the future
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+Fleet Renewal 
+& Recycling
+Regulatory
+Disclosures  
+Emerging 
+Technologies
+Sustainable 
+Finance
+Carbon 
+Measures
+NET-ZERO 2050 – AERCAP CONSIDERATIONS
+
+Page 21:
+© AerCap - Confidential property of the company, not for disclosure or use without permission 21
+AERCAP'S LEADING ROLE IN POLICY COLLABORATION
+Achieving Net-Zero aviation requires a unique level of cooperation across the entire aviation 
+ecosystem, including airlines, OEMs, lessors, lenders, fuel suppliers and trade associations
+See Supplemental Information – Endnotes.
+Through our Government Affairs  & Sustainability 
+function, we are in continuous dialogue & collaboration 
+with government bodies and key business partners
+Policy Bodies 
+• Continuous engagement with policymakers in the EU, U.S., 
+Ireland, UK, etc., which helps AerCap to positively influence 
+outcomes 
+• Dedicated AerCap Government Affairs & Sustainability 
+function based in Brussels with regular interaction with EU 
+bodies on all aviation decarbonization policies
+• Provide support to the EU and industry in responding to EU 
+reporting requirements
+Industry Collaboration
+• Working closely with our industry partners on sustainability 
+developments provides AerCap with many benefits, such as:
+ Creating an ability to strengthen the position of AerCap 
+through alignment
+ Providing inside awareness of Industry needs, challenges, 
+and plans
+ Developing a deeper understanding of key policy 
+developments
+• AerCap plays an active role in the activities of many 
+representative bodies across numerous areas, such as 
+industry metrics, taxonomy guidance, next-generation aircraft 
+& engine technology, and SAF
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+• Only aircraft lessor with membership of the European 
+Commission’s Renewable and Low-Carbon Fuels Value Chain 
+Industrial Alliance (“RLCFA”), which aims to boost SAF 
+production and usage
+• Only aircraft lessor with membership of the European 
+Commission’s Alliance for Zero-Aviation Aircraft (“AZEA”), 
+which aims to prepare the aviation market for entry into 
+service of electrical and hydrogen aircraft
+
+Page 22:
+22© AerCap - Confidential property of the company, not for disclosure or use without permission
+Portfolio Management 
+• ~$50 billion invested in new technology 
+aircraft since 2014
+• By December 31, 2023 AerCap’s assets 
+comprised ~70% new technology 
+commercial aircraft and ~80% new 
+technology engines, with an order book for 
+~$18 billion
+• 100% new technology order book of 338 
+aircraft for ~$18 billion
+Circular Economy 
+• AerCap Materials has over 50 years of 
+experience in aircraft dismantling and 
+recycling, helping to ensure that aircraft 
+are retired in adherence to strict protocols
+• AerCap Cargo has an unparalleled 25-year 
+track record of  P2F conversion programs, 
+extending the useful life of our passenger 
+aircraft
+Operational Optimisation
+• Continuous efficiency enhancements in our 
+office locations globally
+• To balance our unavoidable direct 
+emissions (relating to Scope 1) and indirect 
+emissions (Scope 2 Gas and Scope 3 
+business travel), we contribute to an overall 
+reduction in GHG emissions by financing 
+carbon reduction/removal projects
+ 
+Voluntary Disclosures
+• We disclose information to, and are rated 
+by, several ESG rating agencies. A 
+company’s sustainability performance as 
+rated by these agencies has become an 
+important component of stakeholder 
+decision-making
+Future Required Disclosures
+• We are defining our approach and 
+procedures in preparation for new 
+regulatory obligations (U.S. SEC and EU 
+CSRD) 
+AERCAP’S DECARBONIZATION VISION
+As the largest aviation lessor in the world, we believe we have a responsibility to lead the industry 
+towards a lower carbon economy
+• Achieving Net-Zero aviation requires a unique level of cooperation across the entire aviation ecosystem, including airlines, OEMs, 
+lessors, lenders, fuel suppliers, and trade associations
+• As asset owners rather than operators, some areas are not within our direct control 
+• In these areas, we seek opportunities to influence and lead the industry toward real, meaningful and creative solutions
+• AerCap is in continuous dialogue and collaboration with regulatory policymakers, government bodies, industry trade associatio ns, and 
+key business partners 
+CONTROL
+INFLUENCE 
+THROUGH COLLABORATION & PARTNERSHIP
+See Supplemental Information – Endnotes.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+
+Page 23:
+23
+CIRCULAR ECONOMY AND AVIATION
+According to ICAO, ~85-90% of an aircraft is typically reused or recycled. ~40-50% of an aircraft is returned to the parts distribution pipeline 
+and used again in aircraft maintenance, with most of the remaining materials recycled and returned to the supply chain as raw materials.  
+• AerCap is involved in the whole life of our assets, taking delivery of brand-new aircraft from the
+OEMs and remaining involved until those aircraft are disassembled, and their parts returned into 
+the supply chain to be used once again
+• AerCap Materials has more than 50 years of experience in aircraft dismantling. Its facility is ISO 
+certified and Aircraft Fleet Recycling Association (“AFRA”) accredited, helping to ensure that 
+aircraft are retired in adherence to strict environmental and safety protocols2
+• Proper disassembly of an aircraft in accredited facilities promotes the correct separation of 
+different structural materials, which allows them to be recycled and prevents hazardous materials 
+from entering the environment
+Products & Services
+• Spares Distribution
+• Dismantling 
+• Financing
+• Acquisitions (of aircraft & 
+inventory) 
+• Rotable Leasing (individual 
+components or larger pools)
+It is estimated that there will be around 1,100 aircraft retirements per year by 20381
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+See Supplemental Information – Endnotes.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+
+Page 24:
+Water and Waste 
+• All drinking water in our Dublin HQ comes directly 
+from filtered taps
+• ~12,200m3  of water used by AerCap in 20234
+• Commitment to reducing single-use plastic
+• “Zero-to-Landfill” policy at our waste partner for our 
+Dublin HQ
+24
+EFFICIENT AERCAP OFFICE OPERATIONS
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+See Supplemental Information – Endnotes.
+~68% 
+of waste generated 
+in our Dublin and 
+Shannon offices was 
+either recycled or 
+composted2
+~82
+tons of waste 
+were generated 
+by AerCap 
+offices in 20233
+Locally sourced produce in 
+office restaurants, with 
+plenty of healthy options 
+~49% 
+of our electricity 
+usage across our 
+global offices in 2023 
+was from renewable 
+energy1
+36% 
+of our leased car fleet 
+is electric, with EV 
+charging points in our 
+main offices
+LED lighting in all 
+our offices 
+HQ LEED Platinum 
+Certified Offices in 
+Dublin, APAC and Miami 
+Business Travel 
+• The global nature of our business and the location of our 
+offices means some business travel is critical to our 
+operations
+• By working with our travel partners, we aim to optimize 
+each trip and minimize our impact on the environment
+Cycle to work scheme, bike 
+racks and shower facilities
+Light and air-conditioning/heat motion 
+sensors; 70% capacity during business 
+hours and 5% at weekends and at night 
+100%
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+
+Page 25:
+25© AerCap - Confidential property of the company, not for disclosure or use without permission
+FUNDING OF EMISSIONS REDUCTION PROJECTS 
+We support climate action with carbon credits to balance our unavoidable emissions
+Notwithstanding the fact our direct emissions (relating to 
+Scope 1) and indirect emissions (Scope 2 and Scope 3 business 
+travel) are immaterial, we balance these emissions by 
+contributing to an overall reduction in GHG emissions by 
+financing carbon reduction/removal projects
+In 2023, AerCap contributed to reducing GHG emissions by 
+purchasing carbon credits equivalent to ~80% of our 
+unavoidable direct and indirect emissions for the year 2022, up 
+from ~60% the prior year. This amounted to approximately 
+3,500 tonnes of CO2
+Through our partnership with First Climate, two projects were 
+selected. First Climate projects are certified to rigorous 
+standards with the goal of making sure that the carbon credits 
+are real, measurable, permanent, and third-party verified
+We are currently evaluating options for our 2024 Scope 1, 
+Scope 2, and Scope 3 Business Travel emissions
+Balancing our unavoidable direct emissions 
+Renewable wind energy in the district of 
+Tiruppur in Tamil Nadu state, India
+This project involves the installation and operation of 14 
+wind turbines. To harness the favorable wind conditions 
+at the southernmost tip of India
+The electricity output of the wind farm is sufficient to 
+sustainably supply 54,000 homes in India with clean 
+electricity
+Projects selected for 2023
+Afforestation in China - Based in Nanzhou 
+County
+The project covers 27,380 ha of formerly barren hills and 
+wasteland in Henan Province. The project is owned and 
+managed by local village collectives from 15 towns within 
+the county
+The implementation of the project is expected not only to 
+achieve reliable and measurable carbon sequestration by 
+avoiding commercial logging but will also contribute to 
+sustainable development within the project region
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 26:
+26
+Scope 1 & 2 Emissions
+Given the nature of the Company’s 
+operations and corporate footprint, our 
+Scope 1 and 2 emissions are not considered 
+material – both from a corporate 
+perspective and as a percentage of total 
+associated emissions
+Our Scope 1 & 2 Emissions combined 
+generated <0.01% of our total reported 
+emissions in 2023. Nevertheless, we 
+endeavour to minimize our impact on the 
+environment where it is feasible to do so
+To balance our unavoidable direct and 
+indirect emissions (relating to Scope 1, 2, 
+and Scope 3 business travel), we contribute 
+to an overall reduction in GHG emissions by 
+financing carbon reduction/removal 
+projects (See previous slide)
+AerCap’s Scope 1 Emissions are direct 
+emissions that stem from natural gas for the 
+heating of our offices, our leased car fleet, 
+and corporate jet fuel
+• 37% reduction in gas consumption across 
+AerCap's offices from 2022 to 2023 owing 
+to reduced consumption
+• 23% reduction in leased car emissions 
+from 2022 to 2023, due to an increase in 
+fully electric cars in the fleet
+AerCap Scope 2 Emissions are comprised 
+of indirect emissions related to the 
+purchased electricity for our offices
+• 49% of our electricity usage across our 
+global offices in 2023 was derived from 
+renewable sources
+• 37% reduction in electricity usage across 
+AerCap's offices from 2022 to 2023
+CARBON EMISSIONS DISCLOSURES – SCOPE 1 & 2
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+Emissions (tonnes CO2e) 2020 2021 2022 2023
+Scope 1
+Leased Car Fleet 34 293 99 76
+Gas1 ,2 - 71 217 135
+Corporate Jet Fuel - - - 3,740
+Total Scope 1 Emissions 34 100 316 3,951
+Scope 22
+Purchased Electricity - 114 265 166
+Total Scope 2 Emissions - 114 265 166
+Total Scope 1 & 2 Emissions 34 214 581 4,117
+Total Scope 1, 2 & 3 
+Emissions 16,402,045 22,102,642 38,408,930 44,412,228
+Scope 1 & 2 as % of Total 
+Emissions0.0002% 0.0010% 0.0015% 0.0093%
+Please Note: We continue to refine how 
+we measure and estimate our Scope 1, 2, 
+and 3 emissions. Discrepancies to past 
+disclosures may result from changes in 
+the way we estimate our emissions and/or 
+the reporting ability of third-party 
+providers
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 27:
+27
+Scope 3 Emissions
+• Our Scope 3 emissions encompass both owned aircraft and business travel and accounted for 
+99.9% of our total reported emissions in 2023. Within that, the vast majority relate to the 
+downstream use of owned assets across our global fleet. We do not have direct control over 
+these emissions as the assets are operated by our customers, and this fact limits our ability to 
+directly impact the quantum of our reported emissions. The addition of emissions relating to 
+aircraft purchases, leased engines, and leased helicopters is being considered for future years 
+and is dependent on the finalization of an accurate method of calculating these emissions
+• AerCap recorded 16% growth in our global Scope 3 Emissions in 2023 compared to 2022, 
+which was primarily attributable to the resurgence of traffic in the APAC region post-COVID-
+19, largely driven by the reopening of China in 2023. IATA reported that traffic (in RPKs) 
+increased by 126% in the APAC region in 2023 compared to 2022. APAC accounted for 34% of 
+AerCap’s total lease revenue in 2023
+CARBON EMISSIONS DISCLOSURES – SCOPE 3
+Emissions (tonnes CO2e) 2015 2016 2017 2018 2019 2020 2021 2022 2023
+Scope 3
+First year of our 
+major investment 
+in new technology 
+aircraft 
+Impact of COVID-19 across all 
+AerCap markets
+First full year of 
+AerCap 
+operations with 
+GECAS 
+integration (near 
+doubling of fleet) 
+and COVID-19 
+Recovery
+Addition of COVID-
+19 recovery of 
+traffic in APAC 
+region 
+Owned Aircraft1 43,300,000 40,600,000 38,400,000 35,600,000 35,000,000 16,400,000 22,100,000 38,400,000 44,400,000
+Business Travel2 - - - 4,767 3,952 2,0112,3 2,4282,3 8,3492,3 8,1112
+Total Scope 3 Emissions 43,300,000 40,600,000 38,400,000 35,604,767 35,003,952 16,402,011 22,102,428 38,408,349 44,408,111
+• As a result of our $50 billion investment in new technology assets, our Scope 3 Emissions 
+intensity has improved, generating a 15% reduction in gCO2 per Seat/km across our entire fleet 
+in the last decade, despite the aircraft fleet doubling in size over this period as a result of the 
+GECAS acquisition 
+• AerCap's business travel accounted for 0.0156% of its Total Scope 3 emissions in 2023
+• In preparation for future climate disclosure reporting requirements, AerCap is currently 
+analyzing and refining the composition of Scope 3 emissions, as they pertain to aircraft lessors. 
+We are collaborating with the Air Transport Action Group (“ATAG”), Aircraft Leasing Ireland 
+(“ALI”), and industry peers and anticipate that additional categories will be incorporated in 
+future disclosures
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 28:
+28
+Bridge from 2022 to 2023 Scope 3 Emissions
+SCOPE 3 EMISSIONS 2022 VS 2023
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+Scope 3 Emissions (Mt CO2) 
+ 38.4 Mt CO2
+44.4 Mt CO2
+-3 Mt CO2
+2.2 Mt CO2
+4.3 Mt CO2
+1.2 Mt CO2
+1.3 Mt CO2
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+• AerCap recorded ~16% growth in our global 
+Scope 3 Emissions in 2023 compared to 2022
+• In 2023, increased utilization across EMEA, the 
+Americas, and APAC led to a significant rise in 
+Scope 3 emissions. Much of this increase was 
+driven by the reopening of China in 2023 post-
+COVID-19. IATA reported traffic (in RPKs) 
+increased by 126% in the APAC region in 2023 
+compared to 2022.  Notably, APAC accounted for 
+34% of AerCap’s total leased revenue in 2023
+• On December 31, 2023, AerCap had 1,556 aircraft 
+compared to 1,572 at the end of 2022, resulting in 
+a 1% reduction in our global fleet. The impact of 
+the sale of older technology aircraft from the fleet 
+resulted in a decrease of ~3 Mt CO2
+• During 2023, AerCap purchased 80 new 
+technology aircraft, generating a ~25% CO2 
+efficiency gain for those aircraft. Combined with 
+the impact of aircraft purchases across our entire 
+fleet, AerCap generated a ~2.2% reduction in 
+gCO2  per Seat/km compared to 2022
+Impact of Increased Utilization by Airlines
+
+Page 29:
+CORPORATE
+CITIZENSHIP
+
+Page 30:
+30
+See Supplemental Information – Endnotes.
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+UNDERSTANDING AVIATION’S CONTRIBUTION TO SOCIETY
+Only global rapid
+transportation network
+Facilitates sustainable economic growth, 
+particularly in developing countries
+Development of
+social and economic networks
+Facilitates world trade by 
+increasing access to 
+international markets 
+Deployment of essential services and 
+humanitarian aid during emergencies
+Enriches quality of life through 
+cultural awareness and diversity
+AerCap contributes to the growth, affordability, and accessibility of air travel by enabling our 
+airline customers to connect communities around the world, with ~53% of our lease revenues 
+coming from airlines in emerging markets1
+128 THOUSAND FLIGHTS 
+per day
+18 BILLION DOLLARS 
+of world trade every day
+12.5 MILLION PASSENGERS 
+per day
+7.8 BILLION PASSENGERS 
+forecasted to be carried by airlines in 2036
+143 MILLION JOBS 
+forecasted to be supported by global air transport by 
+2038
+6.3 TRILLION DOLLARS 
+forecasted to be contributed to the global economy by 
+2038
+THE IMPORTANCE 
+OF AVIATION2
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 31:
+Ireland is recognized as a center of excellence in the aviation 
+leasing industry and as such, AerCap benefits from having a 
+large, attractive pool of experienced talent available to us
+AerCap is committed to supporting the next generation of 
+industry professionals through a variety of educational 
+programs. These programs provide a pipeline of indigenous 
+talent that supports the future growth and development of 
+our industry
+AerCap is a sponsor of the prestigious MSc in Aviation 
+Finance program at University College Dublin (“UCD”) 
+Michael Smurfit Graduate Business School. In addition to the 
+sponsorship, this program involves lectures by some of our 
+key employees and internships provided by the Company to 
+a number of students from the program, giving graduates 
+the opportunity to gain valuable experience across a range 
+of disciplines
+In August 2021, AerCap launched a 4-year scholarship 
+program, providing 10 scholarships to students of the 
+Faculty of Engineering at the International School of 
+Engineering at Chulalongkorn University, Thailand’s 
+number one-ranked university and a world-class leader
+in aerospace engineering education. In addition to the 
+scholarships, AerCap provides a range of tailored supports 
+to students, including guest lectures, workshops and 
+summer internships
+In 2019, AerCap launched a Women in Aviation scholarship 
+program, the first program of its type in Ireland, with the 
+University of Limerick. The scholarship program provides 
+students of the Aeronautical Engineering degree program 
+with a range of supports, including an 8-month internship at 
+AerCap. Now in its sixth year, the program aims to create 
+awareness among female students pursuing degrees in 
+Aeronautical Engineering about the career opportunities 
+available to them in the aviation leasing industry. It also aims 
+to encourage more female students to consider programs in 
+engineering fields
+AerCap recently established a partnership with the ISTAT 
+Foundation to sponsor students pursuing undergraduate or 
+graduate degree programs focused on aviation studies. The 
+scholarships will be awarded to students at U.S. universities, 
+undertaking studies in aviation-related fields such as 
+engineering, aircraft finance and leasing, and aviation law
+31
+SUPPORTING LOCAL 
+COMMUNITY AND EDUCATION
+Members of the AerCap Contracts team with students of the MSc 
+Aviation Finance program at UCD Michael Smurfit Business School 
+Members from the AerCap Singapore Technical team with faculty members and 
+students of the Aerospace Engineering program at Chulalongkorn University
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 32:
+32
+• AerCap is committed to building a pipeline of 
+diverse talent through a variety of initiatives
+• In 2023, we launched a DEIB survey inviting 
+employees to share their perspectives and 
+insights on the matters that are important to 
+them, as well as indicating areas of focus for 
+the Company. The responses to the survey 
+revealed several themes and areas of 
+interest, enabling us to further develop our 
+DEIB framework
+• As part of the program, we conducted focus 
+groups across our global offices to gain 
+insights into which areas of DEIB are of 
+greatest interest to our employees
+• We partnered with a global organization that 
+helps companies build culture and 
+behavioural change programs, to deliver 
+diversity and inclusion awareness training for 
+all employees 
+• We are committed to creating an 
+environment where our employees can grow 
+and develop while contributing to the 
+ongoing success of the Company, regardless 
+of race, religion, gender, marital status, 
+family/civil status, sexual orientation, age or 
+disability
+• AerCap is a signatory of the Aircraft Leasing 
+Ireland Sustainability Charter. The Charter 
+sets out ten key industry initiatives, including 
+a commitment to diversity and equal 
+opportunities in the workplace and the wider 
+aviation industry
+We are committed to developing programs and initiatives to support DEIB  
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+OUR D&I PROGRAMS AND INITIATIVES 
+
+Page 33:
+33
+Promoting Women in Aviation
+At an industry level, we partner with a variety of organizations 
+that are focused on advancing gender diversity and 
+gender equality
+AerCap has been a long-time supporter of AWAR, Advancing 
+Women in Aviation Roundtable, and in 2023 we were 
+a sponsor of AWAR’s annual Dublin luncheon
+AerCap is a member of Women in Aviation 
+Singapore Chapter which aims to promote diversity and 
+inclusion in Singapore’s aviation industry and inspire young 
+female students to develop theirpassion for a career in the 
+aviation and aerospace industry. These initiatives aim to 
+promote the development and advancement of women 
+leaders in the aviation and aerospace industries through a 
+global network
+In addition, in Ireland, we work with PropelHer, a network of 
+aviation leasing professionals focused on the promotion 
+of women in the aviation industry. Members of the AerCap 
+team participate in the PropelHer Mentoring program as 
+mentors and mentees
+Leading Through Inclusion
+We are focused on raising awareness among our employees 
+and fostering a deeper understanding of the broader 
+definition of diversity and inclusion. In 2023, we supported 
+AsIAm, Ireland’s National Autism Charity. To mark World 
+Autism Awareness Day, we welcomed the CEO of the charity, 
+Adam Harris, to speak to AerCap employees. Adam shared
+his story to our global audience of his experiences of 
+growing up as a young autistic person in Ireland and the 
+related challenges
+During Pride Month, we took the opportunity to raise 
+awareness around sexual orientation and gender diversity. As 
+part of the awareness campaign, we welcomed LGBTQ+ and 
+HIV activist Rebecca Tallon de Havilland, a trailblazer in the 
+LGBTQ+ community. Rebecca spoke about her remarkable 
+life experiences as a transgender woman in Ireland, as well 
+assharing details of her transition journey
+In addition, employees across our global offices took part 
+ina Stride for Pride charity walk to raise awareness and 
+funds for LGBTQIA+ organizations around the world
+including LGBT Ireland, Oogachaga, Singapore, and the 
+Stonewall Community Foundation in the U.S
+We have recently partnered with the Trinity Centre for People 
+with intellectual disabilities (“TCPID”), which provides high-
+quality training and education to people with intellectual 
+disabilities, enabling them to transition to meaningful 
+employment or further education
+OUR D&I PROGRAMS AND INITIATIVES 
+We are committed to developing programs and initiatives to support DEIB  
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 34:
+34© AerCap - Confidential property of the company, not for disclosure or use without permission
+OUR EMPLOYEES
+Our diverse workforce is a key competitive advantage, and we continue 
+to support more equal gender representation at AerCap
+We pride ourselves on being a global business, operating across many 
+countries with diverse and talented teams
+Management Levels Male Female
+Board of Directors 70% 30%
+Executive Leadership Team 86% 14%
+Senior Management 76% 24%
+Under 30, 
+10%
+30-50, 
+65%
+Over 50, 
+25%
+EMPLOYEE AGE RANGES
+NEW HIRES 
+50%
+Female
+50%
+Male
+PROMOTIONS
+44%
+Female
+56%
+Male
+Office Locations % of Employees
+Ireland 69%
+United States 18%
+Singapore 8%
+Other1 5%
+GENDER MIX
+See Supplemental Information – Endnotes.
+Male, 
+56%
+Female, 
+44%
+2023
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD CLASS GOVERNANCE
+
+Page 35:
+Competitive remuneration packages include:1 
+• Base salary 
+• Performance-based bonuses
+• Employee share scheme
+35© AerCap - Confidential property of the company, not for disclosure or use without permission
+TALENT RETENTION AND ATTRACTION
+At AerCap, our employees are one of our most important assets and we seek to hire, reward and 
+retain the best talent in the industry 
+REMUNERATION
+BENEFITS 
+DEVELOPMENT
+• Generous leave policies, including annual 
+leave, maternity leave, and compassionate 
+leave
+• Comprehensive health plans are provided to 
+employees and their families
+• Flexible working policy 
+• Policies that support employees for absence 
+due to short or long-term illness
+• Health and wellness initiatives
+• Retirement savings plans
+1. See Supplemental Information – Endnotes.
+• Promotion and development opportunities
+• Tuition reimbursement policy to facilitate 
+career development
+• Ongoing performance and development 
+discussions
+• Support a variety of continuous professional 
+development programs internally and 
+externally
+• Paid professional memberships
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 36:
+36
+EMPLOYEE WELLBEING
+AerCap has a high-performance culture and operates in a 
+dynamic and fast-paced industry. We offer a range of health 
+and wellness programs to strengthen connections and 
+improve the overall well-being of our employees 
+• Monthly Socials
+• Summer/Christmas Events
+• Tag Rugby
+• Golf Society
+• Football
+• Cycling
+• Book Club 
+SOCIAL 
+INITIATIVES
+HEALTHY 
+LIVING
+PHYSICAL 
+HEALTH 
+MENTAL 
+HEALTH 
+• Provision of complimentary healthy snacks and fresh fruit in all offices 
+• On-site gyms in our offices in Dublin and Shannon
+• Bike-to-Work Scheme
+• Medical and Dental Insurance
+• Fitness Classes
+• Wellness Talks 
+• Onsite Health Assessments
+• 24/7 access to counselling through our health insurance partners
+• Flexible working arrangements
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 37:
+37© AerCap - Confidential property of the company, not for disclosure or use without permission
+HEALTH AND SAFETY
+The safety of our employees is of the utmost importance and  is inextricably linked to the financial success of AerCap 
+Respect & Dignity
+• AerCap is committed to maintaining a productive 
+working environment in which all employees are 
+treated with mutual dignity and respect
+• All employees have the right to work in an 
+environment that is free from sexual harassment, 
+other forms of harassment and bullying
+• Our policies apply to employees both in the 
+workplace and at work-associated events such 
+as meetings, conferences, and social events, 
+whether on AerCap premises or off-site
+• AerCap is committed to creating an environment 
+where employees feel comfortable discussing 
+any complaints
+• A prompt and thorough investigation of 
+complaints will be undertaken, and appropriate 
+disciplinary action taken
+• The reporting and escalation process is clearly 
+outlined in our Dignity at Work policy, which is 
+available to all employees
+Safe Workplace
+• The AerCap House Safety Statement governs 
+workplace safety practices in our Dublin HQ. This 
+statement is approved by our CEO and is 
+updated regularly. It includes:
+ Health and Safety (“H&S”) responsibility
+ Hazard identification and risk assessment
+ Emergency response
+ Worker exposure
+ Contractor obligations
+ Safe systems and training
+• Similar policies have been implemented in other 
+offices and warehouses globally, where we are 
+obliged to obey all local H&S laws and 
+regulations
+Safe Products
+• We only deliver certified aircraft that meet strict 
+regulatory standards to customers 
+• Our customers are contractually required to 
+operate and maintain our assets according to the 
+laws and regulations of the FAA, EASA or a 
+competent equivalent local authority
+• We have regular oversight of the operating and 
+maintenance records of our aircraft
+• We also monitor the health and safety conditions 
+of our supply chain partners
+1. See Supplemental Information – Endnotes.
+0 
+TRIR / LTR 
+There were no fatalities or workplace 
+injuries at AerCap in 20231
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+In line with future regulatory obligations, namely CSRD, we will have an enhanced focus on our value chain in future reports
+
+Page 38:
+38© AerCap - Confidential property of the company, not for disclosure or use without permission
+• Our Corporate Social Responsibility Committee was 
+established in 2017 to oversee the selection of 
+charities and the implementation of fundraising and 
+volunteering initiatives across the organization
+• The CSR Committee is led by employees and has 
+representatives from the Dublin,Shannon, and 
+Singapore offices, as well as representatives in 
+each of the larger overseas offices who coordinate 
+local initiatives
+• At the beginning of each calendar year, the CSR 
+Committeevotes for their preferred charitable and 
+social themes. Throughout the year, the CSR 
+Committee is responsible for reviewing and 
+evaluating requests for support for charitable and 
+community-related initiatives aligned with the 
+chosen themes. In addition to this, the CSR 
+Committee can nominate charity partners and 
+organizationsthat would benefit from longer-term 
+partnerships with AerCap, rather than one-time 
+donations
+• In 2023, we had ongoing partnerships with the 
+Leinster Hockey Association, the Museum of 
+Literature Ireland (“MoLI”), UNICEF, and Airlink Inc. 
+We also continued our partnership with the 
+Community Foundation Ireland (“CFI”), through 
+which we directed charitable donations in line with 
+our chosen themes for the year:
+1. Mental Health & Suicide Prevention 
+Support Services
+2. Domestic Abuse & the Prevention of 
+Violence Against Women
+3. Child Protection
+4. Cancer Care & Hospice Services
+5. Adults and Children with Special Needs
+CSR OUTREACH IN OUR 
+LOCAL COMMUNITIES
+Engaging with our local communities brings employees together to help make a 
+difference and inspire positive change through volunteering and fundraising initiatives
+Members of our Shannon team participating in a 
+voluntary community clean-up session in 2023
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 39:
+© AerCap - Confidential property of the company, not for disclosure or use without permission 39
+HIGHLIGHTS OF OUR 
+COMMUNITY OUTREACH
+Pieta House
+We invited employees from across our global offices to 
+participate in the Darkness into Light Walk in support of 
+several international charities, includingPieta House in 
+Ireland. Pieta House is a charity that offers free 
+counselingto individuals experiencing suicidal ideation or 
+who have been bereaved by suicide
+In 2023, more than 100 employees and their families donned 
+yellow t-shirts  to participate in the dawn walk at various 
+locations around the world, contributing to the raising 
+of funds
+United Way
+United Way of Leflore County, is a non-profit organization 
+that supports 13 local charities in the Mississippi Delta region
+In 2023, the AerCap Materials' Greenwood 
+Team volunteered in United Way's annual 'Day of Caring’ 
+initiative. This year's chosen project was the Fuller Center 
+for Housing, a local charity that builds new homes, renovates 
+existing properties, and provides rental housing to low-
+income families in the region
+St. Gabriel’s Foundation
+In 2023, a team of employees from our Shannon office, 
+along withtheir families, volunteered to repaint the 
+gymnasium at St. Gabriel’s Children’s Respite House in 
+Dooradoyle in Limerick. St. Gabriel's is a specialist school 
+that provides services to children with disabilities and 
+support to their families
+The gymnasium plays an important role in the 
+children’s physical therapy and education, forming an 
+integral part of the program
+Members of our Shannon team volunteered to participate in 
+painting the gymnasium at St. Gabriel’s Respite Centre
+AerCap Materials' Greenwood Team volunteered in 
+United Way's annual “Day of Caring” initiative in 2023
+A team from AerCap’s Singapore office participated 
+in the Darkness into Light Walk in 2023 
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+
+Page 40:
+© AerCap - Confidential property of the company, not for disclosure or use without permission 40
+HIGHLIGHTS OF OUR 
+COMMUNITY OUTREACH
+Orbis Ireland
+Orbis Ireland is an international non-profit charity fighting 
+avoidable blindness in Ethiopia, where four million people 
+are blind or visually impaired due to high rates of trachoma, 
+a painful blinding eye disease. Orbis operates a flying eye 
+hospital, which is a fully accredited ophthalmic teaching 
+hospital, complete with an operating room
+One of Orbis’ annual fundraisers is the Great Ethiopian Run. 
+In 2023, AerCap supported a group of 12 employees in their 
+fundraising efforts to participate in the event, by covering 
+their travel and accommodation expenses.The employees 
+travelled to Addis Ababa to take part in a 10K road race. 
+They then embarked on a tripto Southern Ethiopia where 
+they witnessed Orbis’ sight-saving work firsthand
+Airlink
+In 2023, we continued our support of  Airlink, a global 
+humanitarian charity dedicated to delivering critical aid to 
+communities in crisis worldwide. The organization provides 
+airlift and logistical solutions to NGO partners
+Throughout the year, AerCap provided contributions 
+to several humanitarian crises including the earthquakes in 
+Turkey and Syria, and Morocco along with the 
+devastating floods in Libya. Employees were invited to 
+make donations to these appeals, and the Company 
+matched employee donations through its matching donation 
+program
+UNICEF 
+UNICEF works across 190 countries and territories to reach 
+the world's most disadvantaged children – to save lives, 
+defend their rights and help them fulfill their potential
+In 2023, in response to the humanitarian crisis unfolding in 
+Gaza, AerCap employees took part in a fundraising initiative 
+in support of UNICEF’s Emergency Gaza Appeal to help get 
+vital aid and emergency supplies to children and 
+their families
+AerCap matched all employee donations through its 
+Matching Donation program
+AerCap sent a team to participate in the Great Ethiopian Run in November 
+2023 in Addis Ababa 
+ 
+AerCap continued making contributions to communities in crisis 
+through Airlink in 2023
+ 
+AerCap employees took part in a fundraising initiative in 
+support of UNICEF’s Emergency Gaza Appeal in 2023
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 41:
+41© AerCap - Confidential property of the company, not for disclosure or use without permission
+AERCAP EMPLOYEES SUPPORT CHARITABLE & SOCIAL CAUSES
+Our Corporate Social Responsibility (“CSR”) Committee, led by our employees, successfully oversees our charitable activities. In 2023, AerCap, together with our 
+employees, donated over $800,000 to charities and partnerships 
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 42:
+WORLD-CLASS
+GOVERNANCE
+
+Page 43:
+© AerCap - Confidential property of the company, not for disclosure or use without permission 43
+Our Board of Directors is a key competitive 
+advantage for AerCap, and provides a 
+wealth of knowledge and experience, with 
+deep industrial and financial expertise, as 
+well as diversity of gender and nationality 
+We strive to conduct our business with 
+integrity and in an honest and responsible 
+manner and to build relationships with our 
+customers, suppliers, shareholders, 
+employees, and other stakeholders
+Our high-caliber leadership team holds 
+themselves to rigorous ethical and 
+professional standards. Best-in-class 
+policies and procedures clearly describe the 
+expectations we have of all our employees, 
+wherever they are in the world
+We expect our customers and suppliers to 
+operate with a similar level of integrity
+We comply with NYSE corporate 
+governance standards that apply to a 
+foreign private issuer and with the Dutch 
+Corporate Governance Code
+GOVERNANCE AT AERCAP
+AerCap is at the forefront of aviation leasing and we pride ourselves 
+on our world-class governance
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 44:
+PAUL DACIER AENGUS KELLY BRAD BRANCH STACEY CARTWRIGHT RITA FORST
+Non-Executive Chairman, AerCap. 
+Partner with Quinn Emanuel Urquhart & 
+Sullivan. Former General Counsel, EMC 
+and Indigo Agriculture. Non-Executive 
+Director, Progress Software Inc.
+Over 30 years of corporate law 
+experience and more than 10 years 
+on aircraft leasing boards.
+CEO, AerCap
+Over 20 years of aviation leasing and 
+financing experience, including twelve 
+years as CEO of AerCap.
+Former Senior Advisor in the Office of 
+the CEO, Deloitte Touche Tohmatsu Ltd
+Significant global financial services and 
+audit experience, over a 40-year career 
+in accounting practice, including a 
+sector focus on air transportation.
+Non-Executive Director of Savills PLC, 
+Genpact, Gymshark and Majid al Futtaim 
+Entertainment. Chair of the Advisory 
+Committee of Majid al Futtaim Lifestyle.
+Extensive executive management and 
+financial experience across retail, media 
+and healthcare industries.
+Non-Executive Director of Westport Fuel 
+Systems Inc. and Johnson Matthey Plc. 
+Member of the supervisory board of 
+Norma Group SE.
+Over 35 years of experience in 
+automotive and engineering industries.
+MICHAEL GRADON JIM LAWRENCE JENNIFER VANBELLE MICHAEL WALSH ROBERT WARDEN
+Former Board Director, The Peninsular & 
+Oriental Steam Navigation Company 
+(“P&O”).
+Significant legal and corporate 
+governance experience, with over 10 
+years on aircraft leasing boards.
+Chairman of Lake Harriet Capital, a 
+private investment firm. Former 
+Chairman & CEO, Rothschild North 
+America, former CFO and Executive 
+Director of Unilever and former CFO of 
+Northwest Airlines. Major corporate and 
+board experience, including in the 
+aviation industry. Significant background 
+in M&A and investment banking.
+Former CEO and Treasurer of GE and 
+GE Capital, Senior Vice President, GE 
+Capital. 
+Extensive capital markets and risk 
+management experience.
+Non-Executive director of Uisce Eireann, 
+the Irish government owned national 
+water utility, and of Limerick Civic Trust, 
+a charitable organization.
+Over 30 years’ experience as a non-
+executive director, senior executive and 
+commercial lawyer in the aircraft leasing 
+and financing industry.
+Managing Director at Fortress 
+Investment Group. Former Global Head 
+of Private Equity at Cerberus Capital 
+Management. Formerly worked in 
+private equity at Pamplona Capital 
+Management, JH Whitney, Cornerstone 
+Equity and DLJ.
+Over 25 years of financial services and 
+private equity experience.
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+As of December 31, 2023. 44
+AERCAP BOARD OF DIRECTORS
+AerCap is committed to growing our business in a responsible and sustainable way, starting with having a 
+strong and experienced Board providing effective oversight and governance to the Company
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+
+Page 45:
+45
+BOARD COMMITTEES
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+Established to assist the Board in accordance with our Articles of Association and Board Rules, each of the Board 
+Committees has at least one financial expert, one industry expert and one governance expert among its members
+Group Executive Committee (“GEC”) Group Portfolio and Investment Committee Group Treasury and Accounting Committee
+Audit Committee Nomination and Compensation Committee ESG Committee
+The GEC is tasked with assisting the CEO with the 
+operational management of the Company. It is chaired by 
+the CEO and also consists of AerCap’s Chief Commercial 
+Officer and Chief Financial Officer
+Financial Expert
+Tom Slattery 
+EVP Engines
+Joseph McGinley
+Head of IR
+Peter Juhas
+CFO
+Peter Juhas
+CFO
+Brian Canniffe
+Group Treasurer
+Peter Juhas
+CFO
+Bart Ligthart
+CIO
+Peter Juhas
+CFO
+Peter Anderson
+CCO
+Aengus Kelly
+CEO
+As of December 31, 2023.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 46:
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+BOARD COMPOSITION 
+• AerCap’s directors are from diverse legal, financial, and technical professional 
+backgrounds and combine a broad-spectrum of expertise with a reputation for integrity
+• The Chairman and CEO positions are held separately and the chairman is a non-executive 
+director
+• The non-executive directors are carefully selected based on their combined experience 
+and expertise, as outlined in the Board profile
+• In 2023, the non-executive directors performed a self-assessment of the Board’s 
+performance. This included an assessment of how well the Board, its committees and its 
+individual members functioned. The non-executive directors concluded that the Board, 
+its committees, and its individual members functioned and continue to function 
+satisfactorily. Possible improvement opportunities were documented and will be 
+monitored through to implementation
+• The average tenure for non-executive directors was 8.4 years, as of December 31, 2023. 
+Each independent director serves up to 4 years in a single term, whilst some have been 
+extended. The Company has benefited from the reappointment of non-executive 
+directors given the long-term business cycle of AerCap’s industry (e.g. the initial lease 
+for an aircraft term is typically 12 years) and the strategic focus on the long-term creation 
+of shareholder value
+Directors are appointed at the Annual General Meeting of Shareholders by a 
+majority vote
+Each director serves up to 4 years in a single term 
+This strikes the right balance between board stability and the introduction of fresh 
+perspectives
+Appointment Process
+As of December 31, 2023. See Supplemental Information – Endnotes.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+< 4 years, 
+11%
+4-9 years, 
+56%
+> 9 years, 
+33% 
+46
+14 Board Meetings in 2023 with ~97% Average Director Attendance
+8.4
+years
+Non-Executive, 
+60%
+CEO, 10%
+90%
+Non-
+Executive 
+Directors
+Board 
+Composition
+Average Tenure of Non-
+Executive Directors
+30%
+Female
+70%
+Male
+Gender
+Diversity10%
+50%20%
+20%
+Nationalities
+
+Page 47:
+47© AerCap - Confidential property of the company, not for disclosure or use without permission
+BOARD EXPERIENCE
+Dacier1 Kelly1 Branch Cartwright Forst Gradon1 Lawrence Raby* VanBelle2 Walsh Warden1
+Nationality
+AerCap Board 
+Record
+Years on the Board 14 13 6 5 5 14 7 2 2 7 17
+Board meeting attendance in 2023 100% 93% 100% 86% 100% 100% 93% 92% 100% 100% 100%
+Board &
+Management
+Total Public Boards (incl. AerCap)3 2 1 1 3 4 1 3 3 1 1 1
+Public Company CEO/CFO4
+● ● ● ●
+Industry &
+Finance
+Aerospace/Transportation Industry ● ● ● ● ● ●
+Financial Services ● ● ● ● ● ●
+M&A/Accounting ● ● ● ● ● ● ● ●
+ESG
+Governance/Legal ● ● ● ● ● ● ● ●
+Risk/Information Technology ● ● ● ●
+Social/Not-for-Profit ● ● ● ● ●
+As of December 31, 2023.
+See Supplemental Information – Endnotes.
+*Jean Raby resigned from our Board of Directors in November 2023.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 48:
+48© AerCap - Confidential property of the company, not for disclosure or use without permission
+ESG GOVERNANCE STRUCTURE
+BOARD-LEVEL 
+ESG
+COMMITTEE
+• Primary responsibility for AerCap’s ESG strategy lies 
+with the Board and its ESG Committee
+• The ESG Committee comprises 50% independent 
+Board members and 50% executives; these individuals 
+have relevant experience in areas such as governance, 
+sustainability, energy efficiency, charitable outreach, 
+financial reporting and reputational risk management 
+• The ESG Committee is responsible for defining and 
+reviewing AerCap’s strategy relating to ESG matters 
+and developing and maintaining the Company’s 
+policies, targets, and initiatives in this space
+• This creates a balance between the execution of 
+strategy at an executive level with the independent 
+oversight and counsel of the experienced board 
+members
+• An overview of the responsibilities of the ESG 
+Committee can be found on our website here
+Julian (Brad) Branch 
+Independent NED
+Stacey Cartwright (Chair) 
+Independent Non-
+Executive Director (“NED”)
+Rita Forst 
+Independent NED
+Tom Slattery 
+EVP Engines 
+Peter Juhas
+Chief Financial Officer
+Joseph McGinley 
+Head of Investor Relations
+AERCAP’S ESG GOVERNANCE STRUCTURE
+INDEPENDENT 
+OVERSIGHT
+STRATEGY & 
+EXECUTION
+REPORTING, 
+ANALYSIS 
+& CONTROLS
+ESG MANAGEMENT 
+COMMITTEE
+EMPLOYEE-LED 
+CSR COMMITTEEESG TEAM
+Our board-level ESG Committee provides dedicated oversight of ESG risks 
+and opportunities at the highest level
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 49:
+• AerCap has a zero-tolerance policy for any 
+ethical violations
+• We recognize the fundamental principles of 
+human rights, as outlined in the UN’s 
+Universal Declaration of Human Rights 
+ Zero tolerance of human rights violations, 
+including modern-day slavery, child labor, 
+and human trafficking, is built into 
+AerCap’s compliance philosophy. Our 
+industry has very low exposure to human 
+rights violations, and we monitor any 
+potential risks in our operations and 
+throughout our supply chain
+• Reports of suspicious activities can be made 
+anonymously and will be thoroughly 
+investigated
+• Disciplinary actions are taken according to set 
+policy and serious offenses, if warranted, will 
+be reported to relevant enforcement 
+authorities without delay
+• AerCap’s Code of Conduct outlines the 
+operational standards and general principles 
+of ethical behavior applicable to all AerCap 
+employees, wherever they are based in the 
+world
+• We have various policies and procedures in 
+place designed to facilitate compliance with 
+relevant laws and regulations. These provide 
+clear guidance to employees on their 
+compliance obligations and options available 
+to them in various situations
+• There were no identified compliance 
+breaches or violations in 2023
+49© AerCap - Confidential property of the company, not for disclosure or use without permission
+Economic 
+Sanctions and 
+Export Controls
+Screening and 
+Ongoing 
+Monitoring
+Anti-Money 
+Laundering and 
+Counter-Terrorism 
+Compliance 
+Review of Vendors
+Third Party Due 
+Diligence
+Anti-Bribery and 
+Fraud
+Whistle-Blower 
+PolicyInsider Dealing
+Antitrust 
+Compliance
+Disclosure of 
+Lobbying Activity
+Data Protection 
+and GDPR
+Social Media 
+Policy
+• On an annual basis, all employees are required to 
+participate in mandatory compliance training 
+courses, which include an annual review of key 
+compliance areas, including the Code of Conduct 
+and annual certifications
+• Compliance is factored into employee reviews and 
+promotions
+ETHICS AND COMPLIANCE
+We strive to conduct our business with integrity, in an honest and 
+responsible manner, holding our employees to high levels of ethical 
+and professional standards
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 50:
+50
+SPOTLIGHT ON COMPLIANCE 
+POLICIES AND PROCEDURES
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+Antitrust Compliance
+• Employees are required to be aware of antitrust rules and 
+potential limitations of their acts in the marketplace
+• Employees are governed under AerCap’s Antitrust Policy, 
+which is made available to all employees
+• Clear compliance guidance on the type of interactions, 
+conduct, and agreements that may raise antitrust 
+concerns is provided
+• Active compliance channels for consultation and 
+reporting in case of doubt or questions are in place
+Anti-Money Laundering and Counter-Terrorism 
+• AerCap does not allow any form of money laundering or 
+terrorism financing
+• Controls are in place to prevent and detect money 
+laundering and terrorism financing, including stringent 
+Know Your Customer (“KYC”) reviews. No cash is 
+accepted, and compliance approval is needed for 
+charitable donations, etc.
+• Additional KYC checks are performed on politically 
+exposed persons (“PEPs”)
+• Relevant AerCap entities have registered with the Central 
+Bank of Ireland for Anti-Money Laundering (“AML”) 
+purposes, underpinning the group’s commitment to 
+following best practices in this area
+Due Diligence / Screening and Ongoing Monitoring 
+• A KYC review is performed on new customers, trade 
+partners, vendors, and a targeted KYC review of existing 
+customers is performed using a risk-based approach
+• We cross-reference a global screening system, E2Open, 
+on a restricted party list
+• Potential red flag events are highlighted with clear lines 
+for compliance escalation
+• Approval of new vendors is required before entering any 
+transaction
+• No leasing transaction can be executed without the 
+approval of AerCap Compliance
+Whistle-blower Policy
+• Detailed and defined scope, breaches, and reporting 
+procedures. Anonymous reporting can be made via an 
+independently operated toll-free hotline that is available 
+24 hours a day
+• Reported issues are fully investigated, escalated (if 
+applicable), and recorded
+• Any employee who reports a concern regarding a 
+financial or non-financial breach that they reasonably 
+believe to be true will be given protection for such 
+reporting and we provide all necessary protections in line 
+with EU regulations
+• No tolerance for any form of threat, retaliation, or other 
+action against a whistle-blower
+
+Page 51:
+51© AerCap - Confidential property of the company, not for disclosure or use without permission
+SPOTLIGHT ON COMPLIANCE 
+POLICIES AND PROCEDURES
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+Anti-Bribery and Fraud
+• Fraud is defined as the intentional, false representation, 
+or concealment of a material fact for the purpose of 
+inducing another to act upon it to his or her injury
+• Policies clearly define behaviors that are considered to 
+be fraudulent; however, this is not intended to be 
+exhaustive, and if there is a question as to whether an 
+action constitutes fraud, the Chief Compliance Officer 
+must be consulted
+• Bribery is prohibited at AerCap. There is a wide variety 
+of situations in which bribery may occur. Guidelines are 
+provided on the anti-bribery procedures that employees 
+must follow in such situations if they occur
+Economic Sanctions and Export Controls
+• Numerous jurisdictions around the world enforce 
+economic sanctions and export controls on certain 
+countries and certain persons and entities
+• AerCap identifies Prohibited Countries and Prohibited 
+Persons and does not do business with either unless it is 
+determined that the transaction is authorized by law
+• The Bridger screening system is a tool used in support of 
+AerCap’s sanctions and export control compliance 
+program
+• Economic sanctions and export controls compliance 
+clauses are included in our contracts with customers and 
+other trade partners
+• In the past few years, compliance with sanctions arising 
+from the Russian invasion of Ukraine have been a 
+particular focus
+Disclosure of Lobbying Activity
+• AerCap is required by the Irish Regulation of Lobbying 
+Act 2015 to disclose any lobbying activity with 
+Designated Public Officials (“DPOs”). Prior approval is 
+required for any intended communication with a DPO 
+that potentially constitutes lobbying activity
+• In 2023, AerCap conducted lobbying activity related to 
+key industry and regulatory developments and their 
+impact on lessors generally, including engagement with 
+governments/regulators on ESG and the Russian 
+invasion of Ukraine. All lobbying activities were properly 
+disclosed1
+• Any political contributions made in 2023 were de 
+minimis (<$3k) and disclosed in statutory financial 
+statements
+Insider Dealing
+• Applies to all AerCap directors, employees, and 
+individuals who are subject to the influence or control of 
+an AerCap director or employee
+• Clearly defined applicable periods (during and post-
+employment)
+• Clearly listed prohibited trading activities
+• All permissible trading activities are subject to open 
+window periods and individual compliance clearance
+• Annual reporting required through an internal system
+See Supplemental Information – Endnotes.
+
+Page 52:
+52© AerCap - Confidential property of the company, not for disclosure or use without permission
+RIGOROUS INTERNAL AUDIT PROCEDURES
+Internal audit function provides assurance over risk management, controls and compliance
+• Authority and independence with a dual reporting line to the Audit Committee and CEO
+• Risk-based approach focused on risks to AerCap achieving its corporate objectives
+• Strong endorsement by CEO and GEC members
+• Open and transparent interaction across the organization
+• Follow the IIA Framework of Professional Standards
+• Aimed at anticipating internal and external risks
+• Focus on maintaining industry-leading quality and governance
+• Support speed of execution, and avoid creation of unnecessary barriers
+• Designed to underline the importance of personal responsibility 
+• Promote continued compliance with SOX 404 requirements 
+• Focused on complementing attributes that make AerCap succeed
+Key Features Key Objectives
+Five-Stage Process
+01 02 03 04 05Planning Preparation Field Work Audit Report Follow-Up
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 53:
+53© AerCap - Confidential property of the company, not for disclosure or use without permission
+PRIVACY AND DATA PROTECTION
+PRIVACY GOVERNANCE STRUCTURE
+ESG & AUDIT 
+COMMITTEES
+Privacy Officer
+IT Privacy Lead
+HR Privacy Lead
+Compliance Privacy Lead
+Governance Support
+PRIVACY TEAM
+DATA PROTECTION POLICIES AND PROCEDURES
+DATA RETENTION POLICY
+• The privacy officer and privacy leads conduct an annual refresh of the 
+personal data register 
+• Internal and external procedures and processes are clearly defined and 
+available to all employees
+DATA PROTECTION POLICY
+• Enhanced data protection training for employees
+• Projects or changes deemed to impact the transfer or processing of 
+personal data must undergo a data protection impact assessment 
+DATA BREACH POLICY
+• No material/reported personal data breaches in 2023
+• No breaches notified by suppliers in 2023
+• No reporting to the Data Commissioner required
+• Thousands of malware and phishing attempts caught by IT 
+GDPR HANDBOOK 
+• The GDPR Handbook is a reference guide with detailed information and 
+procedures in relation to the protection of personal data
+• Applicable to the Privacy Leads and the Privacy Officer; available on request 
+to all employees
+• Contains information on data quality, the personal data register, data 
+protection impact analyses, and definitions relevant to GDPR
+GDPR IMPLEMENTATION 
+• AerCap applies GDPR requirements globally through uniform processes and enhanced data 
+security
+• The responsibility is on all AerCap employees to protect and use personal data appropriately
+• AerCap employees enjoy the enhanced protection of their personal data in accordance with 
+GDPR
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 54:
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+INFORMATION SECURITY
+Robust infrastructure, policies and procedures in place to 
+protect IT assets and sensitive information
+AUDIT COMMITTEE AERCAP EMPLOYEES
+CHIEF EXECUTIVE 
+OFFICER
+CHIEF INFORMATION 
+OFFICER
+DIRECTOR OF CYBER 
+SECURITY IT SERVICE DESK
+Information Security 
+Governance 
+First Point 
+of Contact
+Cyber Security Awareness Training covers areas such as: 
+• Personal digital footprint
+• Privacy settings
+• Phishing
+• IT security at home and at work
+• Ransomware
+• Password hygiene 
+• Business email compromise
+Our business depends on the secure operation of our information systems and the information systems 
+of our third-party  providers to manage, process, store and transmit information associated with 
+aviation leasing. Like other global companies, we have, from time to time, experienced cybersecurity 
+threats to, and breaches of, data and information systems
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+54
+
+Page 55:
+55
+Code of Conduct on Use 
+of IT infrastructure
+IT Security and 
+Cybercrime Policy
+Regular vulnerability 
+and penetration testing
+Annual IT and Cyber Security 
+Training is required for all 
+employees and contractors
+Regular tests for Disaster 
+Recovery and Business 
+Continuity Plans
+24/7/365 Security 
+Operation Center 
+processes aligned to 
+NIST
+Audited externally by 
+reputable global 
+companies
+Best-of-breed, leading 
+security systems and 
+technology
+INFORMATION SECURITY
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+As reported in our 2024 6-K SEC filings, during January 2024, 
+the Company experienced a cybersecurity incident related to 
+ransomware. We promptly took steps to contain, assess and 
+remediate the incident with the support of third-party 
+cybersecurity experts. In addition, we notified law 
+enforcement and appropriate regulatory authorities. 
+The perpetrator attempted to gain broad access to the 
+Company’s information systems and also attempted to 
+encrypt the Company’s data through the use of ransomware. 
+These attempts failed as a result of the successful operation 
+of the Company’s cybersecurity safeguards. 
+Upon learning of the attack, we immediately deployed 
+business continuity and cybersecurity measures, which we 
+believe excluded the perpetrator from our systems by the 
+following day the attack and eliminated the identified 
+vulnerability. 
+Our investigation has determined that the perpetrator did not 
+gain access to our key document management systems, our 
+treasury or payment systems, or other information systems 
+which are key to internal controls over financial reporting. 
+However, the perpetrator did exfiltrate certain data of the 
+Company, representing less than 0.5% of the Company’s 
+overall data by volume.
+There was no material disruption to the Company’s 
+operations. 
+2024 Ransomware Attack on AerCap 
+
+Page 56:
+© AerCap - Confidential property of the company, not for disclosure or use without permission 56
+Customer Credit Risk
+• Ongoing and rigorous monitoring of airline credit is 
+central to our portfolio management
+• The risk team conducts regular airline visits to 
+review and assess financial performance, business 
+plans, and fleet planning issues
+• Watch-list actively maintained such that the most 
+critical exposures within the Company may be 
+readily identified and properly communicated
+Customer Credit Risk
+• Our scale gives us access to an unparalleled level of 
+data and intelligence and gives us unrivalled 
+visibility on market developments
+• Cross-departmental teams meet to discuss lease, 
+sale, and purchase opportunities. Risks, rewards, 
+and economics are reviewed, and strategies 
+developed
+• Thorough research allows for a decisive and 
+efficient decision-making process
+• Deals are reviewed and approved by members of 
+our leadership team, with decisions of a certain 
+type or scale requiring Board or shareholder 
+approval
+Business Continuity Plan
+• AerCap’s Business Continuity Plan deals with major 
+business disruption events and involves multiple 
+levels of management and departments
+• Our emergency management team includes two 
+members of the GEC, the Chief Information Officer, 
+Head of HR, Head of Investor Relations and Head of 
+Corporate Communications
+• This plan is available internally to all employees
+Supply Chain Management
+• AerCap has a global supply chain supporting its 
+long-term development and success
+• We work closely with our suppliers and set 
+governance and performance standards that they 
+are required to meet
+• AerCap’s critical suppliers include the aircraft, 
+engine, and helicopter OEMs
+• Compliance review of all suppliers, including initial 
+KYC and AML checks and continuous monitoring
+• Strict anti-bribery and insider trading policies 
+covering all suppliers
+RISK MANAGEMENT 
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 57:
+© AerCap - Confidential property of the company, not for disclosure or use without permission 57
+• AerCap Holdings N.V. is a Dutch-incorporated 
+company that is tax-resident in Ireland
+• Our subsidiaries are subject to taxation in a number 
+of jurisdictions, principally in Ireland and in the 
+United States
+• AerCap is committed to effective tax risk 
+management. Our tax affairs are managed in line 
+with rigorous standards of corporate governance
+• In accordance with the AerCap Code of Conduct 
+we are committed to managing our tax policy with 
+integrity and in an honest and responsible manner
+• The AerCap Tax Department consists of 
+professionals who collectively have the appropriate 
+level of knowledge and skills to manage AerCap’s 
+tax affairs and monitor tax risks across our business
+• Due to the cross-border nature of our business, we 
+are cognizant of potential risks which could arise. 
+The AerCap Tax Department assists each entity 
+within the AerCap group to actively identify, 
+monitor and manage tax risks on an ongoing basis
+• AerCap does not interpret tax laws in a manner that 
+we believe is contrary to their intention and we do 
+not undertake tax planning which is unrelated to 
+commercial transactions
+• We maintain an open and honest relationship with 
+tax authorities. In addition, we place a strong 
+emphasis on transparency, working with integrity, 
+and maintaining a collaborative and professional 
+relationship with tax authorities
+• Professional advice is obtained from qualified 
+external advisers where the treatment of specific 
+items is uncertain or complex. We seek to comply 
+with all relevant laws, rules, regulations, and 
+reporting and disclosure requirements in a manner 
+that aligns with our tax policies
+TRANSPARENT TAX POLICIES
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 58:
+REPORTING & 
+ENGAGEMENT
+APPROACH
+
+
+Page 59:
+59© AerCap - Confidential property of the company, not for disclosure or use without permission
+OUR ESG STAKEHOLDER MAPPING
+• As the world’s largest lessor AerCap has a multitude of relevant stakeholders in the 
+context of ESG, including:
+Our Financiers – lenders, investors, and rating agencies
+Our Customers – primarily airlines
+Our Business Partners – suppliers, trade associations and new partners
+Our People – employees, communities and NGOs 
+Policy Bodies – governments and regulators
+• The industry is currently facing a significant supply chain shortfall, while simultaneously 
+taking actions to decarbonize. Therefore, it is imperative for AerCap to evaluate the 
+most important sustainability challenges that we and the wider global communities in 
+which we operate face
+• We are currently in a transitional phase as we prepare the groundwork to fulfill future 
+disclosure regulatory requirements (EU CSRD and U.S. SEC). As part of our CSRD 
+preparatory activities, we are currently identifying all relevant stakeholders and the 
+most appropriate way of obtaining their input
+• We disclose to, and are rated by, several ESG rating agencies 
+• We speak regularly to sustainability experts and seek their views on our approach to 
+ESG issues
+• We will continue to engage with the sustainability community to help ensure our 
+approach remains relevant and in line with best practices in the industry
+• We welcome ongoing feedback and dialogue from our stakeholders, and queries should 
+be directed to our Head of Government Affairs & Sustainability
+Our Approach
+Continuous engagement across all relevant stakeholders
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+AerCap 
+Stakeholders
+
+Page 60:
+60© AerCap - Confidential property of the company, not for disclosure or use without permission
+ESG RATING AGENCIES
+We aim to achieve a continued upward trajectory in our ESG Rating scores to demonstrate continuous improvement  
+‘Leader’ Level
+Public ESG and sustainability reporting is now more broadly expected by lenders, 
+investors, shareholders, and other third parties. Specialist ESG rating agencies provide 
+corporate governance and other corporate risk information to investors and shareholders, 
+as well as scores and ratings to evaluate companies and investment funds based on ESG or 
+sustainability metrics
+We disclose to and are rated by several ESG rating agencies (see below sample) and 
+recognize that our sustainability performance as rated by these agencies has become an 
+increasingly important component of stakeholders’ decision-making
+This industry is evolving, and concerns have been raised about the lack of consistency 
+between different rating agencies and methodologies. Efforts are underway, especially 
+within the EU, to regulate the sector and we support this development. See Page 21 for 
+examples of how we are proactively engaging with policy bodies and collaborating with 
+the industry
+We aim to achieve a continued upward trajectory in our ESG Rating scores to demonstrate 
+continuous improvement in our ESG activities and we have been successful in our efforts, as 
+evidenced by our recent rating upgrades by MSCI and Morningstar Sustainalytics.
+Engagement with ESG Rating Agencies
+MSCI ESG Ratings: We have steadily been upgraded since 
+February 2020 to “AA” / “Leader” level in September 2023 
+37
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+‘Low Risk’ level
+Morningstar Sustainalytics: Upgraded in April 2024 to “Low Risk” level
+29 D
+Other ESG Ratings
+FEB 2020
+BB
+AUG 2020
+BBB
+DEC 2022
+A
+SEP 2023
+AA
+DEC 2021
+A
+2022
+20.53
+Medium Risk APR 2024
+18.07 
+Low Risk 
+2020
+20.59
+Medium Risk
+2019
+20.48
+Medium Risk
+
+Page 61:
+61© AerCap - Confidential property of the company, not for disclosure or use without permission
+CLIMATE & ESG RELATED REGULATORY DISCLOSURES 
+We are preparing our procedures to fulfill future disclosure regulatory requirements
+•  AerCap’s first EU Corporate Sustainability Reporting Directive disclosure is due in 
+2026 for the year 2025 
+• Significant work has already been undertaken within AerCap to facilitate future 
+fulfillment of our reporting obligations, including: 
+Initial gap assessment
+Commencement of “double materiality” assessment
+Preparatory procedures are being adapted to support efficient and compliant 
+reporting 
+• CSRD requires businesses to provide disclosure on their Net-Zero transition plans
+• Emerging requirements are focused on providing investors with 
+information on a company’s strategy, approach and activity on 
+material climate change matters (SEC & EU) and material ESG topics 
+more broadly (EU)
+• The Output: It will allow for objective and consistent comparisons 
+within industries. It will enable stakeholders to more clearly assess 
+the trajectory of one business, compared to another 
+• Upstream and Downstream: Requires the business to look at its 
+financial and climate impacts from an upstream perspective (its 
+supply lines) and downstream perspective (its customers) 
+• Assurance: Auditors will have to be satisfied with reported 
+disclosures (levels of assurance required vary). This is a major 
+change
+Key Features Of New Disclosures Rules  
+• Following a lengthy consultation process, the U.S. Securities and Exchange Commission 
+(“SEC”) adopted its new Climate Disclosure rules in March 2024
+• AerCap began reviewing the proposed rules when they were first published in 2022 and 
+is continuing to prepare on the basis of the final rules. AerCap’s first U.S. SEC disclosure 
+under these rules is due in 2026 for the 2025 financial year
+These activities are significant undertakings for all companies, but will play a key role in creating consistent reporting, and transparency, with the aspiration of 
+driving sustainable investment
+AerCap’s ESG Board Committee continues to monitor the Company's preparatory work to help ensure a smooth transition. AerCap is playing a leading role 
+across the industry in key areas such as the composition of Scope 3 emissions as it pertains to lessors, as well as the development of EU taxonomy alignment 
+reporting guidance material
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 62:
+62© AerCap - Confidential property of the company, not for disclosure or use without permission
+TRANSITION TO DOUBLE-MATERIALITY ASSESSMENT 
+Importance to our stakeholders
+Importance to AerCap
+Indirect GHG 
+Emissions 
+(Fleet)
+Resource Use 
+(Own Operations)
+Waste & Water 
+Management Air Quality
+Noise Pollution
+Climate Change 
+Management 
+Human Rights
+Community 
+Engagement & 
+Investment
+Employee 
+Training & 
+Development
+Diversity, Equity 
+& Inclusion
+Talent Attraction 
+& Retention
+Political Influence 
+& Engagement
+Staff Well-being 
+& Satisfaction
+Occupational 
+Health & Safety
+Information 
+Security
+Business Ethics & 
+Anti-Corruption
+Customer Privacy 
+& Data Protection
+Compliance with 
+Regulations
+Labor Practices
+Supply Chain 
+Management
+Risk 
+Management
+Tax Compliance
+Shareholder 
+Interests
+Corporate 
+Transparency
+Liquidity & 
+Funding
+Asset Quality & 
+Residual Value
+Customer & 
+Supplier 
+Relationships
+AerCap’s approach to 
+managing these issues 
+can be seen throughout 
+this report and in 
+regulatory filings
+Economic
+Environmental
+Social
+Governance
+Accounting for stakeholder issues
+The process of identifying stakeholder needs and expectations in relation to sustainability issues is ongoing.  
+Identified issues based on a 
+traditional assessment approach
+• As illustrated throughout this report, we engage 
+extensively with all our relevant stakeholders
+• We aim to take account of their needs and expectations, 
+with regard to ESG changes, and how we can align our 
+corporate strategy
+• At the same time, we are currently in a transitional phase 
+as we prepare the groundwork to fulfill new regulatory 
+disclosure requirements (i.e., EU CSRD and U.S. SEC)
+• One key requirement of EU CSRD is to carry out a 
+“double-materiality” assessment where the company 
+must consider the views of stakeholders to obtain their 
+views about its impact on people and the environment. 
+AerCap has made significant progress in the initial phase 
+of this work and we expect the process will be completed 
+in 2024. Our future ESG reports will take account of this 
+work
+Community 
+Involvement
+In the meantime, we have continued to identify the most 
+important issues for AerCap and for our global 
+community through our extensive engagement 
+processes. See chart containing our assessment based 
+on our previous approach.
+The inclusion of information in our "double-materiality" 
+assessment, our traditional assessment or elsewhere in 
+this report is not an indication that we deem such 
+information to be "material" for purposes of U.S. 
+securities law or important to an understanding of our 
+business or an investment decision with respect to our 
+securities.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 63:
+63© AerCap - Confidential property of the company, not for disclosure or use without permission
+STAKEHOLDER ENGAGEMENT APPROACH 
+Stakeholders Engagement Our Approach
+Investors
+• Quarterly public earnings calls, as well as regular calls and meetings, to update both 
+equity and fixed-income investors on AerCap’s financial and operating performance
+• Host one-on-one and group meetings with investors at industry and investment 
+conferences
+• ESG issues are actively discussed with investors and ESG reports are publicly available 
+in the Investor Relations section of our website
+• Continuous investor communications through the Investor Relations team and senior 
+management
+• Annual General Meeting of Shareholders held each year, open to all investors
+• Video conferencing continued to be an efficient method for the AerCap team to stay in close contact with shareholders. 
+Hundreds of online calls and in-person meetings were conducted in 2023, maintaining a high volume of interactions
+• Senior executives participated in ~20 non-deal roadshows and several industry conferences throughout the year
+• We continue to see active ESG-related engagement from investors and lenders, especially from Europe
+• Wide range of corporate governance issues discussed and voted on at AGM
+• Timely disclosure of all matters significant to the business according to SEC rules and other applicable laws and 
+regulations
+• Shareholder resources portal: https://www.aercap.com/investors/shareholder-services
+• Single share class with equal voting rights
+Lenders
+• Maintain strong relationships with diverse set of funding partners around the world
+• Communicate our ESG progress to our funding partners 
+• Receive industry insights from our lenders regarding sustainable and/or green 
+financing options
+• Maintain lending relationships with over 100 banking relationships in North America, EMEA and Asia Pacific
+• Conducted hundreds of calls and meetings with lenders in 2023
+• Received formal ESG updates from several key banks in 2023
+• Maintain diverse sources of funding 
+• Liquidity coverage target of 1.2x for next 12 months’ committed uses
+ESG Rating 
+Agencies
+• We disclose to, and are rated by, several ESG rating agencies  
+• We regularly review our ESG ratings and the methodology used in the reporting 
+process
+• We ensure that the latest annual reports and ESG reports are available and accurately 
+reflected by the ratings agencies
+• We maintain continuous engagement with all major ESG rating agencies 
+• We provide information every quarter, answering questionnaires, updating and reviewing information from our annual 
+reports, ESG reports, and policies to the ratings agencies
+• We have established a new ESG Director position within our Government Affairs & Sustainability function
+ 
+With our financiers and rating agencies 
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 64:
+Stakeholders Engagement Our Approach
+Customers
+• Lease new technology, fuel-efficient aircraft, and work with airlines to transition to a 
+lower carbon economy
+• Enable airlines to grow in a cost-effective, flexible, and sustainable way
+• Offer expertise and advice on aircraft, engine, and helicopter fleet planning, strategy 
+and execution
+• Celebrate landmark events with our customers
+• We are the largest lessor in the world, ending 2023 with ~$60 billion of lease assets
+• ~70% of our aircraft fleet consists of new technology aircraft 
+• We serve ~300 customers in over 80 countries
+• AerCap leases new technology aircraft to ~80 customers
+• Dedicated leasing executives and technical teams
+• Communicate our values and ethics through customer interaction
+• Bespoke internal credit rating system monitoring risk exposure to all customers
+OEMs and Other 
+Suppliers
+• Dedicated and experienced OEM Relations team
+• ESG factors incorporated in our supply chain management
+• We work closely with the aircraft OEMs and purchased 80 new technology fuel-efficient aircraft for our owned portfolio 
+in 2023 (100% of our owned aircraft deliveries were new technology)
+• We have weekly video meetings with our larger OEM partners. At least once a quarter we will meet in person. A large 
+part of this conversation is focused on our forward order, new technology aircraft 
+• We consider ESG factors in our service partner selection processes, such as avoiding single-use plastic and a 
+preference for local suppliers in our catering services
+Other Industry 
+Partners
+• Our experienced Engine and Cargo teams maintain an excellent dialogue with our 
+strategic partners in both of these business lines 
+• We continue to have an active dialogue with other industry players regarding 
+strategic partnerships in relation to a wide variety of aviation related issues 
+• We have a joint venture with Safran called Shannon Engine Support Ltd (“SES”), which is the leading supplier of spare 
+engines for CFM International 
+• We have invested with Boeing and AEI on the B737-800 cargo conversion program, and with IAI on the B777-300ER 
+cargo conversion program 
+• Ongoing identification of opportunities to further align and partner with other players in the industry 
+Trade Associations 
+and Companies
+• Coordination on engagement on sustainability and regulatory affairs with relevant 
+stakeholder representative  bodies, such as airlines, manufacturers, lessors, and other 
+industry bodies 
+• Consultation on matters of common interest or emerging regulatory/sustainability 
+interest
+• Lessors: Membership of Aircraft Leasing Ireland (“ALI”), the Aviation Working Group (“AWG”) and the International 
+Society of Transport Air Trading (“ISTAT”)
+• Airlines: IATA Strategic Partnership member and regular engagement with Airlines For Europe (“A4E”), Airlines For 
+America (“A4A”), European Regional Airlines Association (“ERAA”), as well as with individual airlines
+• OEMs:  Regular engagement with Aerospace & Defence Industries of Europe (“ASD-Europe”), as well as Airbus, Boeing 
+and GE Aerospace
+• Sustainability policy: Regular engagement with the Air Transport Action Group (“ATAG”)
+• Recycling & decommissioning: Membership of the Aircraft Fleet Recycling Association (“AFRA”)
+• Business interests: Membership of Business Europe
+• D&I: Supporter of Advancing Women in Aviation Roundtable (“AWAR”),  PropelHer and a member of Women in Aviation 
+Singapore Chapter
+64© AerCap - Confidential property of the company, not for disclosure or use without permission
+STAKEHOLDER ENGAGEMENT APPROACH 
+With our customers and business partners 
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 65:
+65© AerCap - Confidential property of the company, not for disclosure or use without permission
+STAKEHOLDER ENGAGEMENT APPROACH 
+Stakeholders Engagement Our Approach
+Governments &  
+Regulators
+• Dedicated Government Affairs & Sustainability function based in Brussels, focused on 
+legislative developments and strategic matters emerging from Europe, the U.S., and 
+beyond, in relation to aircraft leasing, air transport, aviation sustainability, and ESG
+• Participation in industry conferences to discuss regulatory matters affecting aircraft 
+leasing and the air transportation sector
+• Through our Government Affairs & Sustainability function in Brussels, we engage in regular and coordinated 
+engagement with senior policymakers in the European Union and liaise on a variety of financial, aviation and 
+decarbonization policy domains. Engagement takes place with:
+• Senior officials from the European Commission Directorate of Mobility and Transport (“DG MOVE”), 
+Directorate of Financial Stability, Financial Services and Capital Markets Union (“DG FISMA”), and Directorate 
+for Trade (“DG Trade”), among others, 
+• Representatives from Member States, and 
+• Members of the European Parliament
+• Membership of, or regular engagement with, aviation sustainability bodies managed by the European Commission, 
+including:
+• Renewable Low Carbon Fuel Alliance (“RLCFA”) member since 2022
+• Alliance for Zero Emission Aircraft (“AZEA”) member since 2022
+• Clean Aviation Joint Undertaking 
+• Regular technical engagement with regulatory agencies, including the U.S. Federal Aviation Administration (“FAA”) and 
+the EU European Aviation Safety Agency (“EASA”), with dedicated bilateral meetings held in 2023. Furthermore, AerCap 
+functions as the leasing representative on EASA’s Stakeholder Advisory Body 
+• Regular engagement with EUROCONTROL’s Aviation Sustainability Unit throughout 2023 
+• Regular engagement with various branches of the Irish Government
+• Regular engagement with U.S. authorities, including the U.S. Departments of State and Commerce
+• Our Government Affairs team also helps coordinate on engagement and regulatory affairs with other key industry 
+stakeholders, such as airlines, manufacturers, lessors, industry bodies, and technical regulators, including regular 
+consultation on matters of common interest or emerging regulatory/sustainability interest
+Other Industry 
+Participants
+• Accounting and financial reporting in compliance with Sarbanes–Oxley (“SOX”) 
+requirements
+• Regular SEC disclosures
+• Report lobbying activities in accordance with local laws and regulations
+• Our financial reports are publicly available on our website and the SEC website
+• We report our lobbying activities to the Irish Register of Lobbying every four months, declaring whether any lobbying 
+activity was conducted and, if so, disclosing the specific lobbying activity
+• EU Transparency Register – AerCap Holdings N.V. (TR: 461173445540-46)
+• We made de minimis political contributions in 2023
+• All material litigation is disclosed in our SEC filings
+With policy bodies
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 66:
+66© AerCap - Confidential property of the company, not for disclosure or use without permission
+STAKEHOLDER ENGAGEMENT APPROACH 
+Stakeholders Engagement Our Approach
+Employees
+• Company-wide employee portal and email communications
+• One-on-one employee meetings and interaction with senior executives
+• Regular business updates to staff throughout the year
+• Employee health and wellness initiatives
+• Employee training and continuous development programs
+• Quarterly Town Hall hosted by senior executives communicating financial results and issues impacting AerCap, and acts 
+as a forum for employees’ questions that can be submitted in advance or asked live on the day
+• We seek to attract the best talent in aviation and continue to provide some of the most attractive packages in the 
+industry, including competitive salaries, performance-based bonuses, and comprehensive benefit programs to all 
+employees, supplemented by on-site health and wellness initiatives throughout the year
+• All employees received a formal annual review in 2023, with their performance in 2022 evaluated and goals for the 
+upcoming year clearly defined. Employees have regular check-ins with their managers throughout the year to help 
+them make progress toward their goals and development objectives
+• As part of our Diversity, Equality, Inclusion & Belonging (“DEIB”) framework, an extensive staff survey and focus groups 
+were conducted in 2022 and 2023. Training on topics related to D&I was made available to all employees during 2023 
+and all relevant corporate policies and procedures were reviewed, and adapted where necessary, to promote alignment 
+with the Company’s D&I objectives. AerCap’s senior leadership team, together with the ESG Committee, will continue to 
+engage and utilize feedback from employees to further develop programs and initiatives that support our D&I strategy
+• AERHUB is our staff intranet where employees can find all the latest news and event information as well as key HR-
+related documents and applications and our Facilities Hub and IT Help & Support page
+• We have comprehensive compliance policies and procedures covering all aspects of our business. Employees are 
+required to participate in compliance training annually
+• Our Code of Conduct is applicable to employees globally and covers matters of governance, risk management, social 
+responsibility, etc.
+• All employees are required to participate in mandatory IT security training annually; the policy is available internally
+Community and 
+NGOs
+• Support a range of charities each year in our communities
+• Corporate Social Responsibility Program in place that encourages employees to 
+engage with their local communities. AerCap matches funds (subject to certain limits) 
+to boost those initiatives
+• Support educational initiatives to nurture the next generation of talent for the industry
+• AerCap’s CSR Committee runs a large number of charitable initiatives in our global offices, supporting causes that are 
+aligned to themes selected by our employees. We partner with local communities in projects to the benefit of 
+communities across Ireland, as described in this report 
+• 2023 was the eighth year of our sponsorship of University College Dublin (“UCD”) Michael Smurfit Graduate Business 
+School’s MSc in Aviation Finance Program. It was also the third year of our scholarship program with Thailand’s 
+Chulalongkorn University, Faculty of Engineering, a world-class leader in aerospace engineering education. 2023 was 
+the fifth year of AerCap’s Women in Aviation scholarship program with the University of Limerick. The program began in 
+2019 and aims to create awareness amongst female students of Aeronautical Engineering as a career option and 
+encourage more women to join the industry
+• We partner with charities in our local communities and with our airline customers and the OEMs on charitable and social 
+initiatives. In 2023, together with our employees, AerCap donated over $800,000 to charitable and social causes
+With people
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 67:
+GRI CONTENT
+INDEX
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+
+Page 68:
+68© AerCap - Confidential property of the company, not for disclosure or use without permission
+GLOBAL REPORTING INITIATIVE (“GRI”) CONTENT INDEX
+This report is produced with reference to the GRI Standards. Disclosures corresponding to GRI Standards that are relevant and important to AerCap and our 
+stakeholders can be found after the general disclosures in the index below
+GRI Standard GRI Defined Disclosure Location Comment
+General Disclosures
+GRI 2: General 
+Disclosures 2021
+2-1 Organizational details
+AerCap Form 20-F 2023 P1
+AerCap Form 20-F 2023 P76 Major 
+Shareholders
+AerCap’s main offices are based in Ireland, the United States and Singapore, exact locations can be found on our 
+website: https://www.aercap.com/contact
+2-2 Entities included in the organization’s sustainability 
+reporting AerCap ESG Report 2023, P2 Reporting Scope 
+2-3 Reporting period, frequency and contact point AerCap ESG Report 2023, P2 Contact Annual Reporting Frequency; Reporting Period January 01, 2023 to December 31, 2023. 
+Contact: dhandley@aercap.com
+2-4 Restatements of information AerCap ESG Report 2023, P26. Carbon 
+Emissions Disclosures
+We continue to refine how we measure and estimate our emissions. Discrepancies to past disclosures may result 
+from changes to the way we estimate our emissions and/or the reporting ability of third-party providers
+2-5 External assurance See Comment We did not seek external assurance for this report. The report has been reviewed and approved by our board-level 
+ESG Committee, as well as Compliance and Internal Audit. 
+2-6 Activities, value chain and other business 
+relationships AerCap Form 20-F 2023 P27-28
+2-7 Employees AerCap Form 20-F 2023 P76. Employees
+AerCap ESG Report 2023 P34 Gender breakdown: 56% male, 44% female (by headcount, permanent employees only)
+2-8 Workers who are not employees See Comment AerCap has a number of contractors working in our various offices, the exact number of these employees is not 
+something we disclose publicly. 
+2-9 Governance structure and composition AerCap Form 20-F 2023 P71-74
+AerCap ESG Report 2023 P44-47 https://www.aercap.com/about-us/board-of-directors 
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 69:
+69© AerCap - Confidential property of the company, not for disclosure or use without permission
+GRI CONTENT INDEX
+GRI Standard GRI Defined Disclosure Location Comment
+General Disclosures
+GRI 2: General 
+Disclosures 2021
+2-10 Nomination and selection of the highest 
+governance body
+AerCap Form 20-F 2023 P72-73
+Articles of Association of AerCap 
+Holdings, P32, Article 15
+Profile of the Non-Executive Directors of the Board of Directors is available on the AerCap website: 
+https://www.aercap.com/esg/governance-documents
+2-11 Chair of the highest governance body AerCap Form 20-F 2023 P62
+Mr. Paul Dacier, Non-Executive Chairman of the Board of Directors
+2-12 Role of the highest governance body in overseeing 
+the management of impacts
+AerCap Form 20-F 2023 P71-74
+AerCap ESG Report for 2023 P48
+https://www.aercap.com/about-us/board-of-directors#board-committees
+2-13 Delegation of responsibility for managing impacts AerCap ESG Report for 2023 P48
+The board-level ESG Committee has delegated execution and ongoing engagement on ESG matters to the ESG Management 
+Committee. The ESG Management Committee comprises seven senior executives including AerCap's Chief Financial Officer, 
+Company Secretary and Chief Compliance Officer, General Counsel, Head of Human Resources, and Head of Investor 
+Relations
+2-14 Role of the highest governance body in 
+sustainability reporting
+AerCap ESG Report 2023, P48. ESG 
+Governance Structure
+The ESG Committee is responsible for reviewing and approving the ESG Report and other relevant information or disclosures 
+in the 20-F related to Sustainability. The ESG Report and 20-F are sent to the Committee members for review alongside the 
+supporting data, any comments or concerns are discussed, amendments made, and a second review is completed by 
+Committee members in advance of any public disclosure
+2-15 Conflicts of interest See Comment
+Related party transactions (and related conflict of interest risks) are monitored closely by both management and the board. 
+Processes include annual confirmations from relevant parties and regular compliance and Internal Audit reviews. Approval is 
+required upon the identification of new related party transactions or relevant changes in circumstances. On the limited 
+occurrence of related party transactions, disclosure of such matters to management and/ or the board is done on a case-by-
+case basis. Management and the board also discuss related party matters annually, including with reference to the annual 
+confirmation process. External disclosure of related party transactions is part of the company’s detailed corporate 
+governance and financial reporting close processes.
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 70:
+70© AerCap - Confidential property of the company, not for disclosure or use without permission
+GRI CONTENT INDEX
+GRI Standard GRI Defined Disclosure Location Comment 
+General Disclosures
+2-16 Communication of critical concerns See Comment Whistle Blower Policy is available on the AerCap website: https://www.aercap.com/esg/governance-documents
+2-17 Collective knowledge of the highest governance body
+AerCap ESG Report 2023, P44. AerCap Board of 
+Directors
+AerCap ESG Report 2023, P47. Board Experience
+AerCap ESG Report 2023, P48. ESG Governance 
+Structure
+2-18 Evaluation of the performance of the highest 
+governance body
+AerCap Dutch GAAP Annual Report 2023 P31
+In 2023, the non-executive directors of the Board also performed a self-assessment of the Board’s performance. It 
+assessed its own functioning, that of its individual members and the functioning of its committees, at a Board 
+meeting. The outcome of the self-assessment was that the Board, its committees and its individual members 
+functioned, and continue to function, satisfactorily.
+2-19 Remuneration policies AerCap Form 20-F 2023 P67-70
+AerCap Dutch GAAP Annual Report 2023 P45-47
+Remuneration Policy for AerCap's Board of Directors is available on the AerCap website: 
+https://www.aercap.com/esg/governance-documents
+2-20 Process to determine remuneration AerCap Form 20-F 2023 P73 Rules for the Board of Directors, including its Committees P6. 2.4 Remuneration
+2-21 Annual total compensation ratio AerCap Dutch GAAP Annual Report 2023 P55
+2-22 Statement on sustainable development strategy
+AerCap ESG Report for 2023 P3-4
+AerCap ESG Report 2023, P3. A Message from 
+our ESG Committee Chair
+AerCap ESG Report 2023, P4. CEO Message
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 71:
+71© AerCap - Confidential property of the company, not for disclosure or use without permission
+GRI CONTENT INDEX
+GRI Standard GRI Defined Disclosure Location Comment
+General Disclosures
+GRI 2: General 
+Disclosures 2021
+2-23 Policy commitments
+AerCap ESG Report for 2023, P50-52
+AerCap ESG Report 2023, P56. Risk Management 
+(Supply Chain Management)
+AerCap ESG Report 2023, P10. Aligning Our Actions 
+with the UN's SDGs
+AerCap ESG Report 2023, P32. Diversity and Inclusion
+Relevant policies can be found on the AerCap website: 
+https://www.aercap.com/esg/governance-documents
+2-24 Embedding policy commitments AerCap ESG Report 2023, P49-51. Ethics, Compliance, 
+Policies and Procedures
+AerCap Code of Conduct and other relevant policies are available on the AerCap website: 
+https://www.aercap.com/esg/governance-documents
+All employees are required to complete annual compliance training which covers all key compliance areas. 
+2-25 Processes to remediate negative impacts AerCap ESG Report 2023, P52-56. Reporting Approach
+2-26 Mechanisms for seeking advice and raising concerns See Comment AerCap Whistleblower Policy for Financial and Non-Financial Matters available on the AerCap website: 
+https://www.aercap.com/esg/governance-documents
+2-27 Compliance with laws and regulations See Comment None in the reporting period
+2-28 Membership associations See Comment
+AerCap is a member of The Ireland-US Council, Aircraft Leasing Ireland (“ALI”), American Chamber of 
+Commerce Ireland, Irish Chamber of Commerce (Singapore), Limerick Chamber of Commerce, IATA, ALTA, 
+CAPA, the Aviation Working Group, ASPA, Association of South Pacific Airlines, ISTAT, Airlines Association 
+of Southern Africa NPC, Airline Passenger Experience Association, International Airlines Technical Pool.
+2-29 Approach to stakeholder engagement AerCap ESG Report 2023, P58-66. Stakeholder 
+Engagement
+2-30 Collective bargaining agreements AerCap Form 20-F 2023 , P76
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 72:
+72© AerCap - Confidential property of the company, not for disclosure or use without permission
+GRI CONTENT INDEX
+GRI Standard GRI Defined Disclosure Location Comment
+Material Topics
+GRI 3: Material 
+Topics 2021
+3-1 Process to determine material topics AerCap ESG Report 2023, P58-66. Reporting & Engagement Approach
+3-2 List of material topics AerCap ESG Report 2023, P62. Transition to Double Materiality Assessment
+Economic Performance
+GRI 3: Material 
+Topics 2021 3-3 Management of material topics AerCap Form 20-F 2023 , P4-26 Risk Factors 
+AerCap ESG Report 2023, P7-9. 
+GRI 201: Economic 
+Performance 2016
+201-1 Direct economic value generated and distributed AerCap Form 20-F 2023 , F-5 AerCap N.V. and Subsidiaries, Consolidated Income Statements. 
+Notes to the Consolidated Financial Statements, beginning on F-11
+201-2 Financial implications and other risks and 
+opportunities due to climate change
+AerCap Form 20-F 2023 , P4-26. Risk Factors 
+AerCap ESG Report 2023, P7 Our Approach to ESG Risk Factors - Environmental 
+201-3 Defined benefit plan obligations and other 
+retirement plans AerCap Form 20-F 2023 , F-46
+201-4 Financial assistance received from government See Comment None in the reporting period.
+Indirect economic impacts
+GRI 3: Material 
+Topics 2021 3-3 Management of material topics AerCap Form 20-F 2023 , P4-26 Risk Factors 
+AerCap ESG Report 2023, P7-9. Our Approach to ESG Risk Factors 
+GRI 203: Indirect 
+Economic Impacts 
+2016
+203-1 Infrastructure investments and services 
+supported
+AerCap ESG Report 2023, P15. Fleet Transformation
+AerCap ESG Report 2023, P38-41. CSR Outreach at AerCap
+203-2 Significant indirect economic impacts
+AerCap ESG Report 2023, P10. Aligning our Actions with the UN's SDGs
+AerCap ESG Report 2023, P13. Delivering Net-Zero Aviation by 2050
+AerCap ESG Report 2023, P30. Understanding Aviation’s Contribution to Society
+AerCap ESG Report 2023, P31. Supporting Local Community and Education
+AerCap ESG Report 2023, P38-41. CSR Outreach at AerCap
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 73:
+73© AerCap - Confidential property of the company, not for disclosure or use without permission
+GRI CONTENT INDEX
+GRI Standard GRI Defined Disclosure Location Comment
+Anti-corruption
+GRI 3: Material 
+Topics 2021 3-3 Management of material topics
+AerCap Form 20-F 2023 , P4-26. Risk Factors 
+AerCap ESG Report 2023, P44-47. AerCap's Board of Directors
+AerCap ESG Report 2023, P9. Our Approach to ESG Risk Factors - Governance
+AerCap ESG Report 2023, P63-66. Stakeholder Engagement
+AerCap ESG Report 2023, P49-51. Ethics, Compliance and Compliance Policies 
+and Procedures 
+Relevant governance documents are available on the AerCap website: 
+https://www.aercap.com/esg/
+GRI 205: Anti-
+corruption 2016
+205-1 Operations assessed for risks related to 
+corruption
+AerCap Form 20-F 2023 , P4-26. Risk Factors Corruption is assessed as part of AerCap's overall annual risk assessment 
+and covers 100% of our locations. Anti-corruption is included in our training 
+and we have a top-down driven zero-tolerance culture
+205-2 Communication and training about anti-
+corruption policies and procedures AerCap ESG Report 2023, P49. Ethics and Compliance
+Applicable policies and procedures are available to all employees on the 
+company intranet 
+AerCap Code of Conduct is available on the AerCap website: 
+https://www.aercap.com/esg/governance-documents
+205-3 Confirmed incidents of corruption and actions 
+taken AerCap ESG Report 2023, P49. Ethics and Compliance. No incidents in 2022
+Anti-competitive behaviour
+GRI 3: Material 
+Topics 20213-3 Management of material topics
+AerCap Form 20-F 2023 , P4-26. Risk Factors 
+AerCap ESG Report 2023, P44-47. AerCap's Board of Directors
+AerCap ESG Report 2023, P9. Our Approach to ESG Risk Factors - Governance
+AerCap ESG Report 2023, P63-66. Stakeholder Engagement
+AerCap ESG Report 2023, P49-51. Ethics, Compliance and Compliance Policies 
+and Procedures
+Relevant governance documents are available on the AerCap website: 
+https://www.aercap.com/esg/governance-documents
+GRI 206: Anti-
+Competitive Behavior 
+2016
+206-1 Legal actions for anti-competitive behavior, anti-
+trust, and monopoly practices
+See Comment None in the reporting period. 
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 74:
+74© AerCap - Confidential property of the company, not for disclosure or use without permission
+GRI CONTENT INDEX
+GRI Standard GRI Defined Disclosure Location Comment 
+Energy
+GRI 3: Material 
+Topics 2021 3-3 Management of material topics
+AerCap Form 20-F 2023 P4-26. Risk Factors 
+AerCap ESG Report 2023, P48. ESG Governance Structure 
+AerCap ESG Report 2023, P7. Our Approach to ESG Risk Factors - Environmental 
+AerCap ESG Report 2023, P62. Transition to Double Materiality Assessment
+ESG Committee Charter available on the AerCap website: 
+https://www.aercap.com/about-us/board-of-directors#board-
+committees
+GRI 302: Energy 2016
+302-1 Energy consumption within the organization
+AerCap ESG Report 2023, P26. Carbon Emissions Disclosures - Scope 1 and Scope 2 
+Emissions
+AerCap ESG Report 2023, P24. Efficient AerCap Office Operations
+Electricity Consumption c.1,500,000 kWh [49% Renewable]
+Heating Consumptions 651,000 kWh
+302-2 Energy consumption outside of the organization AerCap ESG Report 2023, P26-28. Carbon Emissions Disclosures - Scope 3 
+Emissions (Downstream Leased Assets (owned aircraft only) and Business Travel)
+302-3 Energy intensity AerCap ESG Report 2023, P26-28. Carbon Emissions Disclosures
+AerCap ESG Report 2023, P15. Fleet Emissions Reduction
+302-4 Reduction of energy consumption
+AerCap ESG Report 2023, P15-17. Fleet Transformation and Fleet Emissions 
+Reduction
+AerCap ESG Report 2023, P24. Efficient AerCap Office Operations
+302-5 Reductions in energy requirements of products 
+and services
+AerCap ESG Report 2023, P15-17. Fleet Transformation and Fleet Emissions 
+Reduction
+Emissions
+GRI 3: Material 
+Topics 2021 3-3 Management of material topics
+AerCap Form 20-F 2023 P4-26. Risk Factors 
+AerCap ESG Report 2023, P48. ESG Governance Structure 
+AerCap ESG Report 2023, P7. Our Approach to ESG Risk Factors - Environmental 
+ESG Committee Charter available on the AerCap website:  
+https://www.aercap.com/about-us/board-of-directors#board-
+committees
+GRI 305: Emissions 
+2016
+305-1 Direct (Scope 1) GHG emissions AerCap ESG Report 2023, P26. Carbon Emissions Disclosures
+305-2 Energy indirect (Scope 2) GHG emissions AerCap ESG Report 2023, P26. Carbon Emissions Disclosures
+305-3 Other indirect (Scope 3) GHG emissions AerCap ESG Report 2023, P27-28. Carbon Emissions Disclosures
+305-4 GHG emissions intensity See Comment 0.636 t CO2e/$ million (revenue) direct
+OVERVIEW CARE FOR OUR ENVIRONMENT REPORTING APPROACHCORPORATE CITIZENSHIP WORLD-CLASS GOVERNANCE
+
+Page 75:
+SUPPLEMENTAL 
+INFORMATION
+
+Page 76:
+76© AerCap - Confidential property of the company, not for disclosure or use without permission
+PAGE 4: CEO MESSAGE
+1. As a % of the net book value (“NBV”) of our owned fleet.
+2. Emissions calculated as Grams of Carbon Dioxide per seat per Kilometre, using data from IBA Analytics and 
+AerCap utilization data for the period 2015-2023. Please note that certain data for the period 2015-17 is derived 
+from estimated (rather than specific) commercial aircraft fleet utilization. Data does not include pre-acquisition 
+November 2021 legacy GECAS information. 
+PAGE 5: ABOUT AERCAP
+1. Includes legacy GECAS investment in new technology aircraft.
+2. As of December 31, 2023.
+PAGE 6: ESG HIGHLIGHTS FOR 2023
+1. MSCI ESG Rating and Morningstar Sustainalytics Rating.
+2. As a % of NBV of our owned fleet; new technology includes A320neo Family, A220, A350, A330neo, B737MAX, 
+B787, and E190/195-E2 aircraft.
+PAGE 7: OUR APPROACH TO ESG RISK FACTORS – ENVIRONMENTAL 
+1. As a % of NBV of our owned fleet.
+PAGE 8: OUR APPROACH TO ESG RISK FACTORS – SOCIAL
+1. Defined as emerging market countries based on the Human Development Index published by the United Nations 
+Development Programme. AerCap derives substantial lease revenue (53% in 2023, 53% in 2022, and 54% in 2021) 
+from airlines in countries that are defined as emerging market countries.
+PAGE 9: OUR APPROACH TO ESG RISK FACTORS – GOVERNANCE 
+1. In January 2024, AerCap was the subject of a cybersecurity incident during which a perpetrator attempted to gain 
+broader access to the company’s information systems and also attempted to encrypt the company’s data through 
+the use of ransomware. All evidence to date indicates these attempts failed as a result of the successful operation 
+of the company’s cybersecurity safeguards.
+PAGE 13: DELIVERING NET-ZERO AVIATION BY 2050
+1. Decarbonizing aviation: Executing on net-zero goals | McKinsey, 
+https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/decarbonizing-aviation-executing-
+on-net-zero-goals
+PAGE 14: PATHWAYS TO NET-ZERO AVIATION
+1. IATA Fly Net-Zero Roadmap 2050.
+2. https://www.iata.org/en/programs/environment/roadmaps/
+3. ATAG Waypoint 2050.
+4. Airbus Global Market Forest 2023.
+5. As a % of NBV of our owned fleet.
+ENDNOTES
+PAGE 15: FLEET TRANSFORMATION STRATEGY
+1. As a % of NBV of our owned fleet.
+2. Current technology includes A320 Family, 737NG, Embraer E170/175, ATR, De Havilland Canada DHC8-400, B777 and 
+Airbus A330; Previous technology aircraft includes B757, B767.
+3. New technology target for 2024 is as a % of NBV of our owned fleet; new technology includes A320neo Family, A220, 
+A350, A330neo, B737MAX, B787, and E190/195-E2 aircraft.
+4. Historic new technology %’s as of June 30, 2014; December 31, 2017; and December 31, 2023, respectively, including 
+flight equipment held for operating lease, investment in finance leases, net and flight equipment held for sale
+5. AerCap 20-F 2023 - Aircraft on order.
+PAGE 16: FLEET EMISSIONS CARBON INTENSITY REDUCTION
+1. Emissions calculated as Grams of Carbon Dioxide per seat per Kilometre, using data from IBA Analytics and AerCap 
+utilization data for the period 2015-2023. Please note that certain data for the period 2015-17 is derived from estimated 
+(rather than specific) commercial aircraft fleet utilization. Data does not include pre-acquisition November 2021 legacy 
+GECAS information. 
+2. Total investment includes legacy GECAS investments in new technology aircraft since 2015.
+PAGE 17: PROGRESSIVELY MODERNIZING OUR FLEET
+1. Source: Airbus, Boeing, Embraer. Comparisons: Boeing 787 vs. Boeing 767-300ER; Airbus A350-900 vs. B777-200ER; 
+Boeing 737-9 MAX vs. Boeing 737-900ER; Airbus A330-900neo vs. Airbus A330 (NOx and noise) and B767-300ER (fuel 
+consumption); Airbus A321neo vs. Airbus A321ceo; Airbus A320neo vs. Airbus A320ceo; A220-300 vs. Embraer 195-E1 
+and Airbus A319ceo; Embraer 195-E2 vs. Embraer 195-E1. CAEP = Committee on Aviation Environmental Protection (a 
+technical committee of the ICAO Council). EPNdB = Effective Perceived Noise Decibel.
+2. Airbus Global Market Forest 2023.
+PAGE 18: NET-ZERO 2050 CRITICALITY OF SCALING SUSTAINABLE AVIATION FUELS
+1. IATA Sustainable Aviation Fuel presentation, Dublin, 1 Feb 2024.
+2. Bloomberg NEF, March 2024.
+PAGE 23: CIRCULAR ECONOMY AND AVIATION
+1. https://kpmg.com/ie/en/home/insights/2024/03/circularity-in-flight-fs-aviation.html
+PAGE 25: EFFICIENT AERCAP OPERATIONS
+1. Renewable electricity usage is available for offices representing ~77% of all permanent employees, where breakdown 
+is unavailable, we assume zero renewable energy.
+2. Representing 65% of all permanent employees. 
+3. Total waste generated includes an estimate for locations where data is not available based on headcount of permanent 
+employees and/or size, representing 36% of the total waste generated. Total waste breakdown estimate: Dry mixed 
+recycling (~7 tonnes), mixed general waste (~9 tonnes), food brown bin waste (~12 tonnes) and glass waste (~1 tonnes).
+4. Total water usage includes an estimate for locations where data is not available based on the headcount of permanent 
+employees and/or size, representing 14% of the total water usage. 
+
+Page 77:
+77© AerCap - Confidential property of the company, not for disclosure or use without permission
+PAGE 26: CARBON EMISSIONS DISCLOSURE – SCOPE 1 & 2
+1. Emissions were calculated using DEFRA GHG Conversion Factors 2023; CO2e includes CO2, CH4 and N2O. The total 
+includes an estimate for locations where data is not available based on the headcount of permanent employees 
+and/or size, representing ~31% of the total emissions generated by gas; assumes 1000kg in 1 tonne. 
+2. Gas was incorrectly allocated to Scope 2 emissions in 2021, this has been amended in this report.
+3. AerCap employee headcount increased after the GECAS acquisition in 2021, resulting in an increase in the total 
+number of leased cars.
+PAGE 27: CARBON EMISSIONS DISCLOSURE – SCOPE 3
+1. IBA InsightIQ Carbon Emissions Calculator, rounded to the nearest 100,000 tonnes; C02 only. 
+2. Emissions calculated using DEFRA Conversion Factors 2023 (with radiative force); CO2e includes CO2, CH4, and 
+N2O.
+3. Re-based measurements for the years 2020 to 2022:
+• DEFRA factors were updated in 2023 retroactively for 2022 only, and
+• Updated business travel for the years 2020 to 2022.
+PAGE 30: UNDERSTANDING AVIATION’S CONTRIBUTION TO SOCIETY
+1. Calculated as a % of AerCap’s 2023 lease revenue.
+2. Air Transport Action Group (“ATAG”), Aviation: Benefits Beyond Borders, 2020. This report refers to 2018 and 
+2019 (i.e. pre-pandemic) statistics. This report is due to be updated by ATAG in 2024.
+PAGE 34: OUR EMPLOYEES
+As of December 31. 2023 or for the year 2023, unless otherwise stated. Permanent employees only. 
+1.Includes the United Arab Emirates, United Kingdom, China, the Netherlands, France, Italy and Belgium.
+PAGE 35: TALENT RETENTION AND ATTRACTION
+1. Peer group for comparison purposes: AAR Corp., Air Lease Corporation, Ashtead Group Plc, Atlas Air Worldwide 
+Holdings, Inc., BlackRock, Inc., BOC Aviation Limited, Credit Suisse Group AG, Deutsche Bank AG, Element Fleet 
+Management Corp, Equinix, Inc., Finning International Inc., First Citizens BancShares, Inc., GATX Corporation, Herc 
+Holdings, Inc., Morgan Stanley, Northern Trust Corporation, Prologis, Inc., Public Storage, Ryder System, Inc., 
+Schroders Plc, Simon Property Group, Inc., State Street Corporation, T. Rowe Price Group, Inc, Toromont 
+Industries Ltd., Triton International Ltd., UBS Group AG, United Rentals, Inc., Wells Fargo & Company, Willis Lease 
+Finance Corporation.
+ENDNOTES
+PAGE 37: HEALTH AND SAFETY
+1. “TRIR” is the Total Recordable Injury Rate and is defined by the Occupational Safety and Health Standards 
+(“OSHA”) as the Number of Incidents x 200,000 / Total Number of Hours Worked in a Year.  “LTFR” is the Lost-
+Time Injury Frequency Rate and is defined as the number of lost time injuries that occurred during the reporting 
+period per 1 million man-hours worked.
+PAGE 47: BOARD EXPERIENCE
+As of December 31, 2023.
+1. Four of our non-executive directors (out of a total of nine) had served on our Board in excess of 12 years. Each 
+independent director serves up to 4 years in a single term, whilst some have been extended. The Company has 
+benefited from the reappointment of non-executive directors given the long-term business cycle of AerCap’s 
+industry (e.g. the initial lease for an aircraft term is typically 12 years) and the strategic focus on the long-term 
+creation of shareholder value
+2. The completion of the sale of our outstanding shares by GE resulted in the termination of GE’s right to designate 
+directors for election to our Board of Directors. In November 2023, one of GE’s previous designees, Mr. Raby, 
+resigned from our Board of Directors. Notwithstanding the termination of GE’s right to designate directors, one of 
+GE’s previous designees, Ms. VanBelle, has remained on our Board of Directors. 
+3. Public company defined as a company with publicly listed shares.
+4. Current or previous CEO/CFO experience in a public company (defined as above).
+PAGE 51: SPOTLIGHT ON COMPLIANCE POLICIES AND PROCEDURES
+1. https://www.lobbying.ie/return/66037/aercap-holdings-nv.
+
+Page 78:
+78© AerCap - Confidential property of the company, not for disclosure or use without permission
+FORWARD LOOKING STATEMENTS
+Further information regarding these and other risks is included in AerCap's annual report on Form 
+20-F and other filings with the United States Securities and Exchange Commission. In light of these 
+risks, uncertainties and assumptions, the future performance or events described in the forward-
+looking statements in this presentation might not occur. 
+Accordingly, you should not rely upon forward-looking statements as a prediction of actual results 
+and we do not assume any responsibility for the accuracy or completeness of any of these forward-
+looking statements. Except as required by applicable law, we do not undertake any obligation to, 
+and will not, update any forward-looking statements, whether as a result of new information, future 
+events or otherwise.
+No warranty or representation is given concerning such information, which must not be taken as 
+establishing any contractual or other commitment binding upon AerCap Holdings N.V. or any of its 
+subsidiaries or associated companies.
+The standards of measurement and performance contained in this report are developing and may 
+be based on assumptions, estimates or information collected on a delayed or incomplete basis. The 
+inclusion of information in this report is not an indication that we deem such information to be 
+material or important to an understanding of our business or an investment decision with respect to 
+our securities. 
+Due to rounding, numbers presented throughout this document may not add up precisely to the 
+totals provided and percentages may not precisely reflect the absolute figures.
+This presentation contains certain statements, estimates and forecasts with respect to future 
+performance and events. These statements, estimates and forecasts are “forward-looking 
+statements”. In some cases, forward-looking statements can be identified by the use of forward-
+looking terminology such as “may,” “might,” “should,” “expect,” “plan,” “intend,” “will”, “aim”, 
+“estimate,” “anticipate,” “believe,” “predict,” “potential” or “continue” or the negatives thereof or 
+variations thereon or similar terminology. Any statements other than statements of historical fact 
+included in this presentation are forward-looking statements and are based on various underlying 
+assumptions and expectations and are subject to known and unknown risks, uncertainties and 
+assumptions and may include projections of our future financial performance based on our growth 
+strategies and anticipated trends in our business. These statements are only predictions based on our 
+current expectations and projections about future events, including the impacts of, and associated 
+responses to: the Ukraine Conflict; our ability to realize anticipated synergies and cost savings from 
+the GECAS transaction; and the impact of the consummation of the GECAS transaction on 
+relationships, including with employees, suppliers, customers and competitors. There are important 
+factors that could cause our actual results, level of activity, performance or achievements to differ 
+materially from the results, level of activity, performance or achievements expressed or implied in the 
+forward-looking statements. As a result, we cannot assure you that the forward-looking statements 
+included in this presentation will prove to be accurate or correct. 
+
+Page 79:
+© AerCap - Confidential property of the company, not for disclosure or use without permission
+

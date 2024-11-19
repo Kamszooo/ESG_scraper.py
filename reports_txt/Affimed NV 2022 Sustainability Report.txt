@@ -1,0 +1,1932 @@
+Page 1:
+SUSTAINABILITY
+REPORT • 2022
+Affimed N.V .
+
+Page 2:
+Dear Stakeholders,
+It is my pleasure to share with you Affimed’s inaugural sustainability report. It reflects our unwavering commitment to 
+sustainability and the interests of our various stakeholders, including our patients, the environment, and our communities.
+As a clinical-stage biopharmaceutical company, our focus is on supporting people by developing innovative cancer therapies. 
+We believe it is our responsibility to not only fight cancer, but to do so in an environmentally and socially responsible way. This is 
+why we aim to integrate sustainability into our core business strategy, and we are proud to say that we have made significant 
+progress towards improving our ESG performance.
+Our sustainability report features a range of activities made in the past year. They include:
+• Promoting sustainable scientific and community engagement by collaborating with and supporting a range of organizations.
+• Working to ensure ethical and sustainable business practices by improving our Compliance Management System and setting 
+up an Integrity Line.
+• Creating a new Procurement Function to improve our sourcing decisions and our supply chain management.
+We are committed to continuously improving our sustainability performance and sharing our progress with our stakeholders. 
+In addition to highlighting our 2022 efforts, the report outlines our goals and targets for the coming years. We look forward to 
+sharing our progress with you.
+Thank you for your continued support as we strive to fight cancer in a powerful new way.
+Sincerely,
+Adi Hoess  CEO, Affimed
+MESSAGE FROM THE CEO
+
+
+Page 3:
+EXPANSION  of
+COMPLIANCE  Program•  NEW  • 
+Procurement Function 
+for improved sourcing
+PATENTS GRANTED
+17
+countries
+in
+�60,000
+Donations made:
+NEW  web-based learning 
+management system 
+TRAINING
+for all employees
+61.6 %
+Female 
+Employees
+ESG
+(Environmental, Social & Governance)
+Program
+Instituted an
+Significant improvement in ISS’s Corporate 
+Solutions in their E&S Disclosure QualityScore
+83 Patients
+6 Countries
+sponsored clinical trials
+in 4 Affimed
+enrolled across
+Established collaboration 
+to advance development 
+of innovative combination 
+therapy for lymphomas
+CUL TURE DAY
+Promoted corporate values with focus  
+on innovation through company-wide
+4
+Published
+Manuscripts
+at scientific conferences
+14
+Accepted
+Abstracts
+5
+Invited
+Presentations
+at industry conferences
+Promoted awareness of our data 
+and technology through presence 
+at notable scientific and industry 
+forums and publications including:
+HIGHLIGHTS 2022
+
+
+Page 4:
+TABLE OF CONTENTS
+Introduction  5
+Affimed – We are on a Mission  6
+ Affimed in a Nutshell  7
+ Our Mission and Vision  8
+ Our Culture and Values 9
+ Our Scientific Approach  10
+ Our Management, Supervisory, and  
+Scientific Advisory Boards  11
+ Our Pipeline and Clinical Trials  12
+ Our Partners 15
+ Financial Overview  16
+Affimed’s Contribution to Sustainability  17
+ Driving the Revolution in Cancer Treatment 18
+ Governance for Sustainability and  
+Sustainability Management System 19
+ Overview Material Sustainability T opics 20
+ Our Sustainability T argets and Strategy 21
+Environment 22
+ Introduction 23
+ Hazardous Waste, Emissions/Greenhouse  
+Gases (GhG), and Wastewater 24
+ Materials, Energy, and Water Use 25
+Social 26
+ Introduction 27
+ Innovative Fight Against Cancer 28
+ Quality Management and Drug Safety 29
+ Human Rights / Forced & Child Labor 30
+ Our Employees 31
+ Occupational Health & Safety 33
+ Diversity  34
+ Training & Education 35
+ Ethical Standards and  
+Compliance Management System 36
+ Community Engagement 39
+Governance 40
+ Responsibilities and Board Oversight 41
+ Supply Chain Management 42
+GRI Statement and Content Table 43
+List of Abbreviations 48
+Forward-looking Statement 49
+
+Page 5:
+5
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Introduction
+This is the first Sustainability Report (the “Report”) of Affimed 
+N.V., Netherlands, (hereinafter “we,” “us,” “our,” “Affimed” or 
+the “Company”; Nasdaq: AFMD). The Report describes the 
+status and approach of our sustainability efforts and progress 
+in accordance with Affimed’s financial reporting period from 
+January 1, 2022 to December 31, 2022, unless otherwise 
+stated. It focuses on those sustainability areas that we deem 
+of particular importance for Affimed’s business. Unless noted 
+differently, the Report is limited to Affimed and its principal 
+operational entity Affimed GmbH and, in the Report’s 
+Environment section, its Heidelberg headquarters, and does 
+not extend to Affimed’s other operations.
+We chose to publish this Report with reference to the 2021 
+reporting standards of the Global Reporting Initiative (GRI) 
+and refer to the GRI Statement and Content T able in the GRI 
+section. The Report discusses our sustainability activities in 
+the areas of environment, social, and governance (ESG).
+The Report has been approved by Affimed’s Supervisory 
+Board on April 29, 2023 and has been published on May 8, 
+2023. Any questions regarding the Report can be directed to:  
+ESG@affimed.com
+
+
+Page 6:
+6
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Affimed in a Nutshell
+Our Mission and Vision
+Our Culture and Values
+Our Scientific Approach
+Our Management, Supervisory, and Scientific Advisory Boards 
+Our Pipeline and Clinical Trials
+Our Partners 
+Financial Overview
+WE ARE on a MISSION
+
+Page 7:
+7
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+We believe that activating the 
+innate immune system holds the key 
+to providing more patients with the 
+opportunity for improved outcomes 
+and long-term remission.
+Affimed is a Dutch clinical-stage immuno-oncology company 
+with its operational headquarters in Heidelberg, Germany, 
+and research and development activities in, amongst others, 
+Germany, the United Kingdom, other European countries, 
+the United States of America, South Korea, and Australia. The 
+Company was founded in 2000, is the 100 % shareholder of 
+Affimed GmbH and its two wholly owned subsidiaries, namely 
+Affimed Inc., Delaware (with offices in New York, NY, and 
+Philadelphia, PA), and AbCheck s.r.o., Plzeň, Czech Republic. 
+Affimed’s common shares began trading on the Nasdaq on 
+September 17, 2014. As of December 2022, Affimed’s largest 
+institutional shareholders included Gilde Healthcare Partners 
+B.V. (5.44%), BlackRock Institutional Trust Company, N.A 
+(5.48%), Ridgeback Capital Investment, L.P. (8.63%), 683 
+Capital Management LLC (6.10%), and Baker Bros. Advisors LP 
+(4.42%).
+Affimed is driven by an experienced team of biotechnology 
+and pharmaceutical leaders. We are aiming to create an 
+entirely new dimension in cancer treatment and are driven by 
+a steadfast goal to keep cancer from ever derailing patients’ 
+lives. We believe that activating the innate immune system 
+holds the key to providing more patients with the opportunity 
+for improved outcomes and long-term remission.
+In the reporting period, Affimed achieved revenue from 
+research collaborations in the amount of EUR 41.2 million and 
+had 190 employees, consisting of 28 part-time employees, 
+6 employees on maternity or parental leave and a rate of 5% 
+voluntary employee turnover. This compares to revenue of 
+EUR 39.3 million and 148 employees in 2021. 61.6% of the 2022 
+employees were female and 38.4% were male. 
+Affimed in a Nutshell
+
+Page 8:
+8
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Our vision is: 
+To keep cancer from ever derailing patients’ lives. 
+We are devoted to pursuing the potential of the innate 
+immune system, giving patients back the chance to fight 
+cancer in a powerful way. We aim to create an entirely new 
+dimension in cancer treatment, a one-of-a-kind approach for 
+revolutionary outcomes.
+Our mission reflects our willingness to achieve this goal:  
+We are a team of innate immunity experts unrelenting in 
+our efforts to change the meaning of cancer. 
+Our proprietary technology activates the power of the human 
+innate immune system to eradicate tumors. We believe that 
+this approach has the potential to help patients who so far 
+have been left behind by traditional therapies. We aim to 
+revolutionize cancer treatment and make a real difference in 
+the lives of patients suffering from multiple types of cancer. 
+Our initial clinical results from our lead asset AFM13 are 
+promising. They have shown a promising objective response 
+rate (ORR) in patients who have undergone numerous earlier 
+Our Mission and Vision
+lines of therapy that were unsuccessful.  
+We are dedicated to continuing our efforts 
+to create an entirely new dimension in 
+cancer treatment.
+“I’m just as optimistic today as the day I began 
+at Affimed. We have all the necessary building 
+blocks, and we are starting to see how powerful 
+NK cells will be in the fight against cancer. It is 
+exciting to be part of the creation of something— 
+and to help scale it, grow it, and bring it to  
+the next level.”
+—AndreAs HArstrick, cMo
+
+Page 9:
+9
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+At Affimed, we believe that our culture and values are at the 
+core of who we are as a company and play a critical role in 
+our ability to achieve our mission of developing life-changing 
+cancer immunotherapies.
+In 2019, we launched our company culture and identified 
+those values that are most important to us in a one-day event 
+that included speeches, discussions, and activities. We are 
+committed to foster the behaviors that align with our five core 
+values: TEAMGEIST, PEOPLE, PERFORMANCE, PASSION, and 
+INNOVATION.
+Since the culture launch event in 2019, we have taken several 
+steps to foster the implementation of Affimed’s values. These 
+include both internal and external initiatives. T o ensure 
+appropriate focus on culture-related topics, a Culture Manager 
+was recruited into the Human Resources department in 2020. 
+In the same year a T eamgeist Award was created to recognize 
+colleagues and teams who provide exceptional examples  
+of our culture in action. For 2023, an employee survey is 
+planned, and we intend to take appropriate actions based  
+on the evaluation of the survey results.
+We recognize that our commitment to culture goes beyond 
+the normal course of business and into the communities 
+in which we live. As such, in 2019 we saw the start of 
+our annual participation in the “NCT Run” which is an 
+annual fund-raising event organized by the National 
+Center for Tumor Diseases 
+(NCT) in Heidelberg to 
+support cancer research. 
+Affimed’s participation 
+in the NCT Run includes 
+individual runners and teams of 
+colleagues.
+We understand our values and the 
+associated behaviors guide us in how we 
+pursue our mission and achieve our vision, 
+and we are committed to creating a 
+culture that supports that mission. 
+We believe that our culture and values 
+play a critical role in our ability to attract 
+and retain top talent, especially in the current dynamic work 
+environment shaped by the COVID-19 pandemic.
+Our Culture and Values
+PERFORMANCE
+The thoughtful approach 
+to our strategy with a foucs
+to deliver exceptional results.
+PASSION
+Our heart and soul go into 
+the pursuit of our vision, and 
+we will persist until patients’ lives  
+are no longer derailed by cancer.
+INNOVATION
+To deliver lif e-changing 
+medicines, we have the courage 
+to be imaginative in our approach,
+and we are convinced that change
+must be our constant.
+PEOPLE
+Embracing diversity of  thinking, 
+background, and cult ure where 
+everyone is acknowledged 
+as a valuable contributor.
+TEAMGEIST
+United and bound by a common goal  
+and committed to working together  
+and supporting each other  
+with loyalty and enthusiasm.
+
+Page 10:
+10
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+We are focused on using the body’s own immune system to 
+fight cancer by developing therapies using our proprietary 
+ROCK® (Redirected Optimized Cell Killing) platform. The 
+ROCK® platform generates potent ICE® (innate cell engagers) 
+that enable a tumor-targeted approach that can be tailored 
+across hematological and solid tumors. The ICE® molecules 
+form a connection with the CD16A (cluster of differentiation) 
+receptor on innate immune cells, such as natural killer (NK) 
+cells and macrophages, as well as a specific marker on cancer 
+cells. Upon establishing this bond, the immune cells are 
+activated and release factors that directly eliminate bound 
+tumor cells. 
+Using the ROCK® platform, we can create customized ICE® 
+molecules that help recognize and destroy a wide range 
+of hematologic and solid tumors. This has allowed us to 
+build a broad pipeline of programs for both single agent 
+and combination therapies, some wholly owned and some 
+partnered. Our innovative approach has also made us the first 
+company to have a clinical-stage ICE®.
+The innate immune system can contribute to tumor 
+suppression through direct recognition and killing, by 
+triggering a strong adaptive immune response, or through 
+both mechanisms. However, in patients with certain 
+malignancies, the innate immune system may be deficient.  
+For patients whose innate immune systems need to be 
+reactivated, combining NK cells with ICE® molecules provides 
+a powerful and well-tolerated approach to generating 
+targeted immune therapy, 
+combining ICE® molecules with 
+NK cell–based therapy. In a 
+recent study, Affimed’s 
+most clinically advanced 
+ICE®, AFM13, combined 
+with adaptive NK therapy 
+achieved 94% ORR 
+(Objective Response Rate) 
+and 71% CRR (Complete 
+Response Rate) in heavily 
+Our Scientific Approach
+CLINICALLY PROVEN EFFICACY IN ADCC*
+TOLERABLE SAFETY PROFILE*
+HIGH AFFINITY BINDING OF CD16A
+NEW EPITOPE ON CD16A
+pretreated, relapsed or refractory patients with CD30+ 
+lymphomas. This represents a transformative option for 
+patients who had few, if any, options before.
+Further information on Affimed’s scientific approach can be 
+found on our webpage (Affimed’s science and technology).
+*Based on AFM13 clinical studies.
+
+Page 11:
+11
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Our Management Board, Supervisory Board, and Scientific 
+Advisory Board represent a diverse group of experts with 
+a wide range of experience and expertise. T ogether, they 
+provide a strong foundation for our Company’s growth  
+and success.
+The Management Board is made up of experienced and 
+passionate leaders who are united in their mission to improve 
+cancer treatment for patients worldwide under the leadership 
+of CEO Adi Hoess, M.D., Ph.D. More information on the 
+members of the Management Board can be found on our 
+webpage (Affimed’s Management Board). 
+The Supervisory Board, responsible for overseeing the 
+management of the Company and ensuring that the 
+Company’s policies are in line with its mission and goals, is 
+composed of established thought leaders and experts from 
+the pharmaceutical and biotechnology industries and led 
+by chairman Dr. Thomas Hecht. More information on the 
+members of the Supervisory Board can be found on our 
+webpage (Affimed’s Supervisory Board).
+In addition, our Scientific Advisory Board includes highly 
+distinguished leaders with scientific and clinical expertise 
+in innate immunity and oncology who are committed to 
+bringing new advancements to the treatment of cancer. They 
+provide valuable insights and guidance to the management 
+team to ensure that our research and development activities 
+are aligned with the latest scientific advancements and in 
+line with our mission. More information on the members of 
+the Scientific Advisory Board can be found on our webpage 
+(Affimed’s Scientific Advisory Board).
+Our Management, Supervisory, and Scientific Advisory Boards
+andreas Harstrick, M.d.
+Chief Medical Officer
+adi Hoess, M.d., PH.d
+Chief Executive Officer
+Wolfgang fiscHer, PH.d
+Chief Operating Officer
+denise Mueller
+Chief Business Officer
+arndt scHottelius, M.d., PH.d
+Chief Scientific Officer
+angus sMitH
+Chief Financial Officer
+
+Page 12:
+12
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Affimed is developing a broad pipeline of wholly owned 
+and partnered ICE® molecules as monotherapies and in 
+combination with NK cells or I-O therapy (Immuno-Oncology 
+Therapy), to deliver unparalleled outcomes. A number of 
+clinical and preclinical programs in development featuring our 
+tetravalent bispecific ICE® molecules based on the ROCK® 
+platform have already shown favorable safety profiles and 
+promising signs of therapeutic efficacy. Our wholly owned 
+clinical stage assets are:
+• AFM13: a first-in-class ICE® molecule that is being 
+developed to help patients with CD30+ lymphomas. It has 
+shown promising results in clinical trials for patients as a 
+monotherapy and in combination with other treatments.
+• AFM24: an epidermal growth factor receptor (EGFR)-
+binding ICE® molecule that is being developed to target 
+EGFR-expressing tumors and has the potential to be safe 
+and efficacious in advanced diseases that are resistant to 
+currently available treatments. It has shown safety and  
+signs of activity in monotherapy and in combination with 
+other treatments.
+• AFM28: a novel bispecific CD16A/CD123 ICE® molecule, 
+designed to deplete leukemic blasts and Leukemic Stem 
+Cells (LSCs) through activation of Antibody-dependent cell-
+mediated cytotoxicity (ADCC), thereby inducing remission 
+and eradicating the residual leukemic cells whose depletion 
+is needed to achieve long-lasting remission. It is more recent 
+ICE® to advance to the clinical stage with patient enrollment 
+initiated in March 2023.
+Expanding our pipeline are AFM32 partnered with  Roivant 
+(Affivant), a Genentech-partnered ICE® molecule, and several 
+ICE® + NK cell combinations—all at the pre-IND stage. 
+Between January 1, 2022, and December 31, 2022, a total of 83 
+patients in 6 countries were enrolled in our ongoing  
+clinical trials.
+We are committed to advancing our pipeline and bringing new 
+therapies to patients in need. We will continue to prioritize 
+the safety of our patients and the integrity of our clinical trials. 
+We are continuously monitoring the progress and safety of 
+our clinical trials to ensure that we can provide updates on 
+our progress and the potential impact of our therapies on 
+patients, healthcare providers, and other stakeholders.
+Please continue reading for further information on our two 
+lead clinical assets, AFM13 and AFM24:
+Our Pipeline and Clinical Trials
+
+Page 13:
+13
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+AFM13 
+Lighting the way with clinical results: we are creating  
+success with monotherapies and combination therapies.
+AFM13, a first-in-class ICE® molecule targeting patients 
+with CD30-positive lymphomas. T o date, clinical efforts for 
+AFM13 have focused on patient populations with high unmet 
+need, including relapsed or refractory (R/R) peripheral T-cell 
+lymphoma (PTCL) and R/R Hodgkin lymphoma (HL) post-
+chemotherapy, post-checkpoint inhibitor (CPI), and post- 
+brentuximab vedotin(BV). 
+AFM13 monotherapy has demonstrated antitumor responses 
+in both CD30 high- and low-expressing relapsed or refractory 
+PTCL cohorts. T opline data from our Phase 2 REDIRECT study 
+were announced in December 2022. The results showed 
+that AFM13 can effectively treat patients with peripheral 
+T-cell lymphoma that has come back or doesn’t respond to 
+treatment, with a beneficial safety profile. The study found 
+that AFM13 had solid anti-tumor effects, with a 32.4 % ORR 
+which is similar to approved therapies.
+In Hodgkin lymphoma, AFM13 in combination with 
+pembrolizumab demonstrated promising signs of efficacy, 
+including an ORR of 88% at the highest treatment dose as well 
+as a CR of 46% (per independent assessment).
+Most recently, data from the Phase 1/2 study with The 
+University of T exas MD Anderson Cancer Center presented 
+in December 2022 provides that AFM13 in combination with 
+allogeneic NK cells demonstrated very high ORR and CRR in 
+patients with CD30-positive lymphomas. Out of 35 patients 
+treated with the recommended phase 2 dose 94% showed 
+a response. Strikingly, 71% of the patients experienced 
+complete remission after not showing any response to the 
+previous line of therapy.
+The study results showed that AFM13 in combination with 
+NK cells was generally well-tolerated. In particular, there was 
+no discontinuation of therapy due to side effects that are 
+typically associated with immuno-oncology drugs, such as 
+cytokine-release syndrome or neurotoxicity.  
+Affimed recently partnered with Artiva Biotherapeutics 
+to jointly develop, manufacture, and commercialize a 
+combination therapy of AFM13 and Artiva’s cord blood–
+derived, cryopreserved, off-the-shelf, allogeneic, NK cell–
+product candidate, AB-101. T ogether with Artiva, we are 
+committed to bring the innovative combination therapy of 
+AFM13 with NK cells to patients in need as soon as possible. 
+We are on track to file an IND in the first half of 2023 and 
+plan to initiate a clinical study in the second half of 2023, 
+dependent upon IND clearance. 
+AFM13
+NK cell Tumor cell
+CD30
+target
+CD16A
+target
+Innate cell
+engager
+
+Page 14:
+14
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+AFM24
+Potential to treat various solid tumor types with a more 
+acceptable safety profile while remaining immune to the 
+challenge of tumor cell resistance against current therapies.
+AFM24, an EGFR-directed ICE® molecule, represents a 
+distinctive mechanism compared to available immuno-
+oncology therapies. AM24 engages innate immune cells by 
+recruiting NK cells and macrophages to the site of the tumor 
+for effective and efficient tumor-cell killing. The differentiated 
+mode of action does not rely on the EGFR signaling pathway 
+for tumor killing but instead uses EGFR as a docking site. 
+Unlike existing therapies, AFM24 can potentially be used in all 
+EGFR-expressing tumors, including tumors that have become 
+resistant to signaling inhibition.
+Preclinical data of AFM24 indicate promising efficacy across 
+a wide variety of solid tumor types, including but not limited 
+to lung, colon, pancreatic, and head & neck cancers. Clinical 
+data are currently being generated, and if successful, AFM24 
+could address a significant patient population underserved 
+by current therapies. 
+AFM24 is being evaluated in several ongoing clinical studies as 
+a monotherapy and in combination with other I-O therapies 
+across a range of solid tumor indications. AFM24-101 is the 
+monotherapy trial that includes patients with renal cell 
+carcinoma, non-small cell lung cancer (EGFR-mutant), and 
+colorectal cancer. AFM24-102, the combination study of 
+AFM24 with the PD-L1 checkpoint inhibitor atezolizumab 
+includes patients with non-small cell lung cancer (EGFR-
+wildtype), gastric/gastroesophageal junction cancer, and a 
+basket of EGFR-expressing tumors comprising pancreatic, 
+hepatocellular, and biliary tract cancer. AFM24-103, 
+the combination study of AFM24 with NKGen Biotech’s 
+autologous NK cell therapy, SNK01, includes patients with 
+non-small cell lung cancer (EGFR-wildtype), squamous cell 
+carcinoma of the head and neck, and colorectal cancer. Data 
+from all of these studies is expected in 2023.  
+Further information on Affimed’s pipeline can be found on our 
+webpage (Affimed’s pipeline).
+AFM24
+NK cell Tumor cell
+EGFR
+target
+CD16A
+target
+Innate cell
+engager
+
+Page 15:
+15
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Cooperation is an essential aspect of Affimed’s business and 
+an important part of our commitment to sustainability. We 
+are convinced that by working together with leading academic 
+research institutions, pharmaceutical 
+and biotechnology companies, and other 
+stakeholders, we can achieve greater 
+progress towards our research, business, 
+and sustainability goals. Our partners provide us with access 
+to technologies, resources, and expertise and allow us to 
+expand our reach and impact in the field of biotechnology and 
+pharmaceuticals. They support our clinical programs, expand 
+our pipeline, and drive the technological advancement of our 
+platform. Our partners play an integral role in the success of 
+our mission.
+By the end of 2022, Affimed established collaborative 
+partnerships with several academic research institutions. 
+These include partnerships with KTH Royal Institute of 
+T echnology and Karolinska Institute (Önfelt Lab), The 
+University of T exas MD Anderson Cancer Center, Medical 
+Faculty Mannheim of Heidelberg University, Georg-Speyer 
+Haus Frankfurt a.M., and University Hospital Erlangen. These 
+partnerships allow us to access cutting-edge research and 
+expertise in our field and have enabled us to develop new and 
+innovative treatments for patients.
+In addition to our partnerships with academic research 
+institutions, Affimed has partnered with global 
+pharmaceutical and biotechnology companies to 
+revolutionize cancer treatment across a broad range of 
+tumor types. These partnerships keep our clinical programs 
+moving forward, expand our internal pipeline, and allow for 
+the technological advancement of our platform—all with the 
+goals of realizing the full potential of innate immune cells 
+in oncology and changing the lives of patients impacted 
+by cancer. Notable partnerships include those with Artiva 
+Biotherapeutics Inc., NKGen Biotech Inc., Roche Group, 
+Roivant Sciences Ltd (Affivant), Advanced Clinical GmbH, 
+Celonic AG, German Hodgkin Study Group (GHSG), Lonza Ltd., 
+Lonza Sales AG, and PSI CRO AG. Most of those companies 
+and institutions have comprehensive sustainability programs 
+themselves and publish sustainability reports.
+Integrity and compliance are the foundation of trustful 
+partnerships and cooperation. Therefore, we aim to hold 
+ourselves and our partners to the highest ethical standards. 
+We carefully select our business partners by our Third Party 
+Due Diligence (TPDD) process with the goal of ensuring that 
+they comply with all laws and principles of ethics, and we 
+aim to continue monitoring their compliance throughout our 
+relationship with regular TPDD re-qualifications. T o guide our 
+partnerships, we have developed the Code of Conduct for 
+Business Partners, which outlines Affimed’s ethical principles 
+and the expectations we have of our partners, which will be 
+discussed further in the Supply Chain Management section.
+We recognize the importance of collaboration and 
+cooperation in achieving our sustainability goals, and we will 
+continue to seek out and establish new partnerships in the 
+future. We will continue to work with our partners to share 
+knowledge, resources, and expertise to drive innovation and 
+improve our sustainability performance.
+Our Partners
+We hold ourselves and our partners to 
+the highest ethical standards.
+
+Page 16:
+16
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+The Company has generated €41.2 million in revenue from its 
+research collaborations in 2022 and €39.3 million in 2021.
+Financial Overview
+41.2
+2022
+Collaboration Revenue (€ millions)Collaboration Revenue (€ millions)
+2021 2020
+39.3
+27.8
+98.8
+2022
+Aﬃmed R&D Spend (€ millions)Aﬃmed R&D Spend (€ millions)
+2021 2020
+81.5
+50
+2022 R&D Spend by Product2022 R&D Spend by Product
+53%
+15%
+22%
+9%
+AFM 13 AFM 24 AFM 28
+Other projects and infrastructure costs
+2022 2021 2020
+Cash Position (€ millions)Cash Position (€ millions)
+190.3 197.6
+146.9
+Affimed continues to invest heavily in R&D. For further details on the Company’s 2022 financial results, 
+please refer to Affimed’s 2022 Annual Report on Form 20-F 
+filed with the SEC on March 23, 2023, which is available on the 
+website of the SEC and on the Affimed website.
+
+Page 17:
+17
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Driving the Revolution in Cancer Treatment
+Governance for Sustainability and Sustainability Management System
+Overview Material Sustainability T opics
+Our Sustainability T argets and Strategy
+AFFIMED’S CONTRIBUTION  
+to SUSTAINABILITY
+
+Page 18:
+18
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Affimed has partnered with global 
+pharmaceutical and biotechnology 
+companies to revolutionize cancer 
+treatment across a broad range of 
+tumor types. These partnerships keep 
+our clinical programs moving forward, 
+expand our internal pipeline, and allow 
+for the technological advancement 
+of our platform—all with the goal of 
+realizing the full potential of innate 
+immune cells in oncology.
+Cancer is a devastating illness that affects not just patients 
+but also family, friends, and colleagues. We are committed to 
+making a meaningful impact on the lives of cancer patients 
+and their loved ones. We believe that we are at the forefront 
+of the revolution in cancer treatment and are dedicated to 
+advancing our pipeline of clinical stage programs, unlocking 
+new possibilities for patients. Our ability to help patients fight 
+cancer has the potential to have an outstanding impact on 
+public health.
+Driving the Revolution in Cancer Treatment
+
+Page 19:
+19
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+We recognize the importance of integrating ESG 
+considerations into our business operations and the need 
+for effective management and strong governance for our 
+ESG activities. As such, we have launched an ESG program 
+that is coordinated and executed by our Compliance Officer 
+and Senior Legal Counsel. Since 2022, when they assumed 
+responsibility for actively developing our ESG program, they 
+have achieved promising initial results. Early ESG program 
+development has included the compilation of an initial 
+ESG inventory, an internal workshop with key stakeholders 
+(including members of our Management Board), stakeholder 
+interviews, development of ESG-related policies and 
+initiatives based on Affimed’s material sustainability topics, 
+and work towards the publication of this Report. Our Legal 
+Department prepares weekly ESG updates to discuss and 
+align on our further approach, efforts, and initiatives. Across 
+all departments, Affimed is working to embrace a shared 
+understanding and responsibility to embed and achieve our 
+ESG-related commitments through day-to-day operations 
+and governance activities.
+At the Supervisory Board level, Affimed’s ESG performance 
+was part of the agenda of the June 2022 Supervisory 
+Board Meeting. The Compensation, Nomination and 
+Corporate Governance Committee of the Supervisory 
+Board is responsible for monitoring the development and 
+implementation of the Company’s ESG strategy, including 
+goals with respect to ESG and sustainability matters. 
+The Committee is also responsible for, inter alia, Drug 
+Safety, Good Operating Practice (GxP), the Compliance 
+Management System, Data Protection, the Information 
+Security Management System, and for the remuneration of 
+the Management and Supervisory Board. The Committee’s 
+charter can be found on our webpage (Affimed’s Charter of 
+the Compensation, Nomination and Corporate Governance 
+Committee). Going forward, we intend to regularly address 
+ESG in future meetings of the Management Board and the 
+Compensation, Nomination and Corporate Governance 
+Committee of the Supervisory Board.
+Affimed is proud that its ESG efforts are being acknowledged 
+by ISS Corporate Solutions in their E&S Disclosure 
+QualityScore. From January to December 2022, Affimed 
+significantly improved its Environment and Social ranking 
+from 9 / 7 to 3 / 2, respectively (peer ranking from 1 (best) to  
+10 (worst)).
+A new Dutch Corporate Governance Code with diverse ESG 
+requirements came into force on January 1, 
+2023. We plan to continue monitoring the 
+developments in the Dutch legislature and 
+adapt our compliance and ESG program 
+accordingly.
+Governance for Sustainability and Sustainability Management System
+There is a shared responsibility to 
+achieve our ESG-related commitments.
+
+Page 20:
+20
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+In the following, we will provide an overview of the material 
+sustainability topics that we deem most relevant to Affimed’s 
+business. These topics have been identified through an initial 
+materiality assessment process according to GRI framework, 
+which involved engagement with stakeholders, analysis of 
+business operations and risks, and review of industry best 
+practices. The topics on which we have chosen to focus 
+are those that we believe have the greatest impact on our 
+business, our stakeholders, and the environment.
+In the following sections, we will describe the actions we have 
+taken and plan to take (T argets and Strategy) to manage and 
+mitigate the risks associated with these topics in our pursuit of 
+a sustainable future.
+Overview Material Sustainability T opics
+Supply Chain
+Management      
+Responsibilities &
+Board Oversight      
+ENVIRONMENT  GOVERNAN CE
+Emissions / GhG
+Materials & Waste
+Energy Use
+Water &
+Wastewater
+Innovation
+Quality Management
+      & Drug Safety
+Patient Safety
+Employees
+Occupational
+Health & Safety
+Diversity
+      Training
+& Education
+Ethics & CMS
+Community      
+Engagement
+SOCIAL
+Aﬃmed
+Material
+Topics
+
+Page 21:
+21
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+2023 Focus
+• Continue driving the revolution  
+in cancer treatment. 
+• Focus on internal diversity and 
+inclusion-related topics
+• Develop and conduct employee 
+engagement survey
+• Reduce environmental footprint
+• Reduce travel-related  GhG emissions
+• Launch a new procurement policy
+While Affimed’s commitment to sustainability has always 
+guided and driven us, we began formalizing our ESG 
+program in 2022. Since then, we have achieved initial but 
+promising results. Based on our materiality assessment, 
+we are continuing to further develop and implement our 
+ESG action plan. Our aim is to create sustainable, long-term 
+value for the Company and all its stakeholders. We intend to 
+support this ongoing and iterative process by incorporating 
+ESG considerations into our corporate strategy. We plan 
+to continue looking for opportunities to build sustainability 
+into day-to-day operations, revisit our global environmental 
+strategies and targets, and reassess environmental priorities 
+as our business evolves.
+In 2023, our main focus will remain on driving the revolution 
+in cancer treatment. We also have plans to improve our ESG 
+progress. With respect to people, we plan to focus on internal 
+diversity and inclusion-related topics. We also plan to develop 
+and conduct an annual employee engagement survey, with 
+a follow-up action plan. Regarding the environment, we want 
+to reduce the environmental footprint of our new offices in 
+Mannheim and aim to implement measures that make them 
+more energy-efficient and environmentally friendly in terms 
+of energy mix, waste, and recycling management. We also 
+aim to be good stewards of the environment by reducing our 
+travel-related greenhouse gas (GhG) emissions. We believe 
+our envisaged new sustainable business travel policy and 
+associated tool will support this. Last but not least, we plan  
+to launch a new procurement policy in 2023, which will have  
+a specific focus on environmental sustainability in our 
+sourcing decisions.
+Our Sustainability T argets and Strategy
+
+Page 22:
+22
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Introduction
+Hazardous Waste, Emissions / Greenhouse Gases (GhG), and Wastewater
+Materials, Energy, and Water Use
+ENVIRONMENT
+
+Page 23:
+23
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Introduction
+Affimed’s Environment, Health, and Safety (EHS) Policy, 
+which can be obtained from our webpage (Affimed’s 
+Environment, Health, and Safety Policy), defines our ethical 
+standards for the protection of the environment. We aim 
+to reduce our environmental footprint by using resources 
+efficiently and minimizing material consumption, waste, 
+and emissions through the implementation of sustainable 
+practices throughout our business.
+We are a biotechnology company focused on the 
+discovery, development, and commercialization of cancer 
+immunotherapies. So far, we conduct only limited research in 
+own laboratories and have no GMP manufacturing facilities, 
+which limits our use of materials, energy, and water as well as 
+our waste, emissions, and wastewater output. Nevertheless, 
+we understand that our operations have an impact on the 
+environment, and we plan to minimize this impact through 
+sustainable practices, starting with increased transparency.
+For this initial Sustainability Report, only partial Affimed 
+GmbH environmental data was available. Moreover, 
+environmental data presented in this Report may be based 
+on estimates extrapolated from data for 2020 or 2021. We 
+have started increasing transparency and documentation 
+for our environmental impact and plan to develop our future 
+reporting accordingly.
+PEOPLECUL TURE SCIENCE
+
+Page 24:
+24
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+ Affimed GmbH’s laboratory activities are associated with a 
+limited amount of hazardous waste, which we estimate for the 
+reporting period to be at around 83 kg. 
+With respect to GhG, we collected data that allowed us an 
+initial estimate of the CO2 emissions of Affimed GmbH’s 
+Heidelberg headquarters and certain business travel 
+activities. According to the estimate, which is based on data 
+obtained from 2020, 2021 and 2022, these emissions amount 
+to a total of approximately 1,160t, of which approximately  
+750t relate to our headquarters (heating and electricity for 
+offices and laboratories, CO2 bottles), approximately 400t  
+to business flights and approximately 10t to business trips by 
+car and taxi.
+On the basis of 2021 data, we estimate Affimed GmbH’s 
+production of wastewater for the reporting period at 6,380 m3. 
+From 2023, Affimed plans to update its travel policy and 
+progressively integrate an enhanced business travel tool, 
+which will allow us to better measure, control and minimize 
+our travel-related CO2 emissions in accordance with our ESG 
+standards. For domestic business trips, the train will become 
+the preferred mode of travel.
+Hazardous Waste, Emissions / Greenhouse Gases (GhG), and Wastewater
+~83kg
+Hazardous Waste:
+Total Emissions: 1,160 tTotal Emissions: 1,160 t
+750 t
+HEADQUARTERS
+400 t
+BUSINESS
+FLIGHTS
+10 t
+CAR & TAXI
+BUSINESS TRIPS
+~6,380m3
+Waste Water:
+
+Page 25:
+25
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+According to our initial assessment, Affimed’s most significant 
+internal material consumption relates to disposable laboratory 
+products. Specific materials data is not yet available. 
+For the use of energy, the available data is limited to Affimed 
+GmbH’s Heidelberg headquarters (offices and laboratories). 
+According to our estimate, based on data from 2021 for 
+heating and 2022 for electricity, Affimed’s respective energy 
+consumption amounts to a total of approximately 3,400 
+MWh. Of this, heating accounts for 3,200 MWh and electricity 
+for 200 MWh. We estimate that 29% of the electric energy 
+comes from renewable sources.
+T o uphold its commitment to environmental protection, 
+Affimed GmbH plans to move into a building that has been 
+renewed based on ecological construction in accordance with 
+LEED (Leadership in Energy and Environmental Design) when 
+it relocates its headquarters to Mannheim, in 2023.
+Based on data from 2020 and 2021, we estimate our water 
+consumption in Affimed GmbH’s Heidelberg headquarters to 
+be around 7,400 m3 for the reporting period. 
+Materials, Energy, and Water Use
+Energy Consumption
+Heating: 3,200 MWh
+Electricity: 200 MWh 
+TOTAL: 3,400 MWh
+(*29% renewable sources)
+Water Consumption
+TOTAL: 7,400 m³
+
+Page 26:
+26
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Introduction
+Innovative Fight Against Cancer 
+Quality Management and Drug Safety
+Human Rights / Forced & Child Labor
+Our Employees
+Occupational Health & Safety
+Diversity
+Training & Education
+Ethical Standards and Compliance Management System
+Community Engagement 
+SOCIAL
+
+Page 27:
+27
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Innovation begins with a 
+problem. The solution starts with  
+a conversation. At Affimed, we  
+know that the real powers fueling 
+innovation are the people and the 
+minds that work together in 
+courageous exploration, discourse, 
+passion, and openness. In the spirit  
+of Affimed’s value of PEOPLE, we 
+embrace diversity of thinking, 
+background, and culture, and 
+acknowledge everyone as a  
+valuable contributor.
+We strive to improve public health by finding new and better 
+ways to address certain diseases and optimize treatment, and 
+so we believe that sustainability is at the core of what we do. 
+Innovation, quality management, drug safety, and patient 
+safety all play a crucial role in our effort. Ethical behavior and 
+our Compliance Management System are also key. Ultimately, 
+Affimed can only achieve its goals through the commitment 
+of our employees, and that is why we have provided below 
+information on our workforce and on Affimed’s HR programs.
+Introduction
+
+Page 28:
+28
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Innovation is at the center of Affimed’s mission to revolutionize 
+cancer treatment through the power of innate immune cells. 
+We are committed to developing new and better ways to 
+address certain diseases and optimize treatment for patients. 
+T o achieve this, we have created an environment that fosters 
+creativity and out-of-the-box thinking.
+In 2022, Affimed demonstrated its commitment to driving 
+innovation through the publication of four manuscripts, 
+including two review articles, and the acceptance of 14 
+abstracts at scientific conference presentations. This 
+includes 12 poster presentations and two oral presentations. 
+Additionally, we participated in five presentations at industry 
+conferences (including presentations by our cooperation 
+partners if they presented results of Affimed ICE® 
+technology).
+Affimed (GmbH) received recognition for its innovative 
+efforts, including being granted patents in Belgium, Brazil, 
+Denmark, France, Germany, Hong Kong, Ireland, Japan, 
+Luxembourg, Monaco, the Netherlands, Norway, the Russian 
+Federation, Sweden, Switzerland, the United Kingdom, the 
+United States of America, and by the European Patent Office 
+(EPO) in the reporting period. We recognize that innovation 
+is essential for achieving our sustainability goals, and we 
+are dedicated to fostering an environment that encourages 
+creativity, and out-of-the-box thinking to drive new and better 
+ways to address certain diseases and optimize treatment. We 
+will continue to work with our partners and stakeholders to 
+drive sustainable innovation and improve our impact.
+Innovative Fight Against Cancer
+“I believe in restoring the patient’s 
+innate ability to fight cancer.”
+—tHoMAs scHlüter, senior ProgrAM director
+
+
+Page 29:
+29
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Affimed has implemented a comprehensive approach to 
+addressing product quality, data integrity, and drug safety 
+issues that includes a range of state-of-the-art practices, 
+routines, and activities, all with the purpose of helping ensure 
+compliance with regulatory requirements and protecting 
+patients. Affimed’s quality management system is based on 
+a strategy comprised of six imperatives, which are Expertise, 
+Oversight on Outsourced Activities, Quality Standards, 
+Continuous Improvement, Quality Culture and Quality 
+Compliance in Programs. 
+All technical development and manufacturing activities 
+are outsourced to contract development manufacturing 
+organizations (CDMOs), which we qualify initially and re-
+qualify following a risk-based analysis at the latest after three 
+years. We work to ensure product quality beginning from 
+the preclinical stage on by applying comprehensive quality 
+assurance oversight, which includes audits and quality issue 
+tracking at vendors. In 2022 we conducted 32 vendor audits, 
+9 of which were at CDMOs, 7 at clinical research organizations 
+(CROs), and 4 at clinical sites. Audits are either conducted by 
+internal auditors or by external service providers specialized 
+on auditing services. 
+At each, we put in place a defined process for establishing, 
+managing, and tracking urgent safety measures. T o address 
+any product-related quality issues raised at clinical sites 
+or distribution partners, Affimed has established robust 
+processes for managing complaints and recalls, including 
+conducting a mock recall every two years to ensure the recall 
+process is efficient. Through these processes, we aim to 
+report critical quality issues to management immediately. 
+Major quality issues and quality Key Performance Indicators 
+(KPIs) are reported as part of quarterly written quality reports 
+and are presented regularly in Management Board meetings.
+Affimed takes steps to comply with legal product and 
+service quality requirements such as the European Union 
+Good Manufacturing Practice (EU GMP), International 
+Council for Harmonization of T echnical Requirements for 
+Pharmaceuticals for Human Use (ICH) E6 Guideline, Good 
+Clinical Practice (GCP) Directive 2005/28/EC, other local 
+regulations and the Organization for Economic Cooperation 
+and Development Good Laboratory Practice (OECD GLP) 
+principles.
+Affimed has a quality policy in place, defined in the quality 
+manual and signed by the CEO, which outlines the Company’s 
+approach to product and service quality and safety issues. 
+This policy is supported by a quality strategy 
+that includes imperatives and key supporting 
+activities, as well as a comprehensive set of 
+standard operating procedures (SOPs). The 
+Company also has in place an urgent safety measures (USM) 
+task force and corresponding safety procedures that are each 
+meant to collect, handle, and report any urgent emerging 
+safety issues (ESI) in any of the clinical trials sponsored  
+by Affimed.
+Quality Management and Drug Safety
+Affimed has robust processes for 
+managing complaints and recalls.
+
+Page 30:
+30
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Reliable conduct with integrity 
+is an indispensable prerequisite for  
+any trusting collaboration. When 
+selecting our business partners,  
+we make sure that they comply with 
+the law, follow ethical principles and 
+behave in a sustainable manner.  We 
+expect from our Business Partners that 
+they commit to Affimed’s compliance 
+and ethics standards. Furthermore, a 
+comprehensive risk-based integrity 
+check of key vendors is required to 
+reduce business risks.
+We aim  to uphold the highest ethical standards and conduct 
+our business operations in a way that support and safeguard 
+everyone involved. Affimed grounds its dedication and 
+commitment to bringing life-changing treatments to cancer 
+patients on the principles set forth in the United Nations 
+Universal Declaration of Human Rights, the United Nations 
+Global Compact, and the International Labor Organization’s 
+Core Labor Standards. Affimed has a Human Rights Policy 
+in which Affimed commits to comply with internationally 
+recognized human rights. The Policy can be downloaded from 
+our website (Affimed’s Human Rights Policy). In accordance 
+with this Policy, the Company conducts comprehensive 
+employee trainings to further its goal of preventing 
+and mitigating the risks that its activities and business 
+relationships pose to human rights.
+Affimed chooses its business partners carefully to ensure 
+that they share our commitment to upholding human rights 
+as a fundamental principle in order to minimize the potential 
+consequences associated with such abuses. As set out in 
+more detail in the Supply Chain Management section, the 
+Company has developed a Code of Conduct for Business 
+Partners which sets out the expectation that business 
+partners must follow Affimed’s values and principles. With 
+our Third Party Due Diligence (TPDD) process, we carefully 
+vet and monitor our business partners to identify failures to 
+comply with our standards.
+T o our knowledge, our Company has no direct or indirect 
+link with forced, compulsory, or child labor. We expect the 
+same from our business partners. The legal minimum age for 
+employment is 18 years. Only trainees or apprentices working 
+as part of a regulated training scheme are permitted to work 
+below this age.
+Human Rights / Forced & Child Labor
+
+Page 31:
+31
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+We are a team of innate immunity experts unrelenting in our 
+efforts to change the meaning of cancer. We acknowledge 
+that all colleagues are essential to our success, and we 
+employ only the best, those who are capable of providing new 
+hope for people fighting cancer. PEOPLE, as one of Affimed’s 
+five cultural values, incorporates embracing employees’ 
+diversity, background, and culture, and acknowledging that 
+everyone is a valuable contributor. Affimed’s team structure 
+allows our employees to affect our organizational purpose 
+and pursue excellence by acquiring a holistic appreciation for 
+the Company’s operations. The satisfaction and engagement 
+of our PEOPLE is important to us. Therefore, our Company 
+offers its employees the following benefits:
+• All of our employees in Affimed GmbH have a pension 
+scheme, which may be a company pension scheme;
+• Our full-time employees receive a minimum of 28 days in 
+Affimed GmbH and a minimum of 20 days in Affimed Inc. of 
+vacation time per year  (or proportional days for part-time 
+employees);
+• Home office or mobile working is optional; 
+• We provide a stock option program where stock options are 
+issued on an annual basis to all employees; 
+• Our employees enjoy bike leasing benefits and subsidized 
+public transportation tickets;
+• We give a helping hand to our employees who are willing 
+to enhance their performance by a transparent annual 
+objective setting process with a mid-year review and a final 
+assessment at the end of each year; and
+• We launched professional development programs and 
+initiatives for our employees to maintain satisfaction  
+and growth.
+Supporting Future Leaders
+AffiLead
+AffiLead is a leadership development program for Affimed 
+employees. It offers, for a minimum of twelve months, 
+training modules on the topics of leadership essentials, 
+communication and social competencies for leaders, and 
+managerial responsibility. AffiLead also includes practice-
+oriented training tailored to the respective tasks and 
+responsibilities that participating employees may face 
+Our Employees
+
+
+Page 32:
+32
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+during work. With the support and involvement of HR and line 
+managers, AffiLead helps employees take their leadership 
+and technical skills to the next level, creating high performing 
+teams and future leaders.
+Committed to One Common Goal 
+Company Get Together
+Maintaining a workforce with a high level of skill is Affimed’s 
+top priority. We have implemented a monthly company-
+wide meeting where we inform our employees about internal 
+company procedures, process developments and strategies. 
+These gatherings also provide an opportunity for employees 
+to voice any concerns or suggestions they may have, fostering 
+a culture of collaboration and open communication. 
+We believe that by keeping our staff informed and engaged, 
+we can ensure that our efforts are integrated into all aspects 
+of our business operations.
+It’s All in the Connection
+Coffee Talk with the C-Level Management
+Affimed encourages employees to participate in Coffee T alk, 
+which we plan to continue hosting every few weeks with the 
+participation of one Management Board member. Without 
+any agenda or minutes, the initiative allows employees to 
+communicate with C-Level Managers, who listen with intent, 
+without any filter.
+Coffee T alk highlights the role of constructive feedback and 
+the importance of building on each other’s ideas in Affimed’s 
+culture, and enables our employees to have an influence on 
+company strategy.
+Authentic, Genuine, and Sincere
+Buddy Program
+The Buddy program pairs newly recruited employees with 
+a colleague who will accompany and mentor them during 
+their first months at Affimed. With the Buddy program, new 
+employees receive a warm welcome and are better able to 
+quickly adapt to our business environment.
+The program helps inspires candor, trust, and connection.
+Engaging employees in Affimed’s culture is essential for 
+building a strong, cohesive workforce. We believe that regular 
+team-building activities and events help to foster a sense 
+of community and shared purpose among employees. 
+Additionally, recognizing and rewarding employees who 
+embody the Company’s values can help to reinforce the 
+importance of these values and encourage others to follow 
+suit. T o build a more engaged and motivated workforce, 
+Affimed initiated the Affimed Culture activities mentioned in 
+the Our Culture and Values section.
+
+
+Page 33:
+33
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+We are committed to maintaining a safe and healthy work 
+environment for all our employees. As mentioned in the 
+Environment Introduction section, our EHS Policy states 
+Affimed’s commitment to ensuring safe and healthy 
+workplaces. We regularly review and update our rules and 
+procedures to align them with industry standards and comply 
+with legal requirements. Our Health and Safety team, working 
+on behalf of the Management Board and reporting on a 
+regular basis directly to the Chief Scientific Officer, aims to 
+ensure that our laboratories meet or exceed legal standards 
+for occupational health and safety by expertly checking and 
+monitoring for any biological, chemical, or physical risks or 
+hazards.
+We believe that strong occupational health and safety 
+management not only protects employees from injuries and 
+accidents but also helps to increase productivity and morale. 
+T o provide a safe and healthy work environment for our 
+employees, Affimed offers:
+• Occupational Health and Safety Initial Training and Fire 
+Safety Training during new-hire orientation; 
+• Annual Training on occupational health and safety in 
+laboratories and Affimed offices;
+• Ergonomic workstations and height-adjustable desks; and
+• Annual flu vaccinations.
+Affimed has an EHS Committee, of which our Chief Scientific 
+Officer is a member. 
+For 2022, Affimed reports that there were no instances of  
+work-related employee injuries or sickness to its knowledge.
+Occupational Health & Safety
+We are committed to highest 
+ethical standards and to conducting 
+operations in a manner that protects 
+the environment and provides a safe 
+and healthy workplace for all. We foster 
+a work environment where each of us 
+can perform best, innovate, personally 
+develop, and support each other.
+
+Page 34:
+34
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Affimed is dedicated to providing equal opportunities and 
+fostering an inclusive culture that supports a diverse and 
+engaged workforce. We strive to make decisions on hiring, 
+development, evaluation, and promotion based on merit 
+and suitability for the role. Our Company values diversity 
+and inclusion in our workforce and does not tolerate 
+discrimination based on ethnicity, culture, religion, age, 
+disability, race, sexual identity, world view, or gender. We 
+believe that creating a sense of belonging and potential for 
+growth is essential to our success. We value each human 
+for their contributions to the Company as well as for their 
+humanity. With respect to gender diversity, Affimed’s ratios  
+as of the end of the reporting period are as follows:
+• 16.67 % female members in C-Level Management;
+• 28.57 % female members in Supervisory Board; and
+• 61.6 % female employees overall (including Affimed GmbH 
+and Affimed Inc.).
+T o embrace diversity in thinking, background, and culture, 
+and recognizing the unique contributions of each individual, 
+Affimed has developed a Diversity Policy, which can be 
+downloaded from our website (Affimed’s Diversity Policy). 
+The Diversity Policy calls for the recognition and importance 
+of diversity in all areas of the Company’s business. This scope 
+of the Diversity Policy is limited to the Supervisory Board, 
+Management Board, and key leadership positions. However, 
+a Diversity and Inclusion Policy for the entire workforce is 
+currently in development. Our Chief Business Officer is 
+responsible for developing and leading our diversity and anti-
+discrimination policies.
+We understand the importance of considering a diverse 
+patient population in our clinical trials. While we recognize 
+the limitations and challenges associated with achieving truly 
+diverse patient representation in any individual study, we are 
+committed to making an effort to include a broad range of 
+patients, across race, ethnicity and gender, in our trials.  By 
+doing so, we aim to ensure that the treatments we develop are 
+effective for the diverse populations they are intended  
+to serve.
+For 2022, Affimed reports no incidents of discrimination to  
+its knowledge.
+Diversity
+“As the Chief Business Officer at 
+Affimed, my goal has always been 
+to lead by example, and for me, 
+that means fostering diversity of 
+thought and valuing each human 
+being for their contribution.”
+—denise Mueller, cBo
+
+
+Page 35:
+35
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Training and educating our employees is crucial for the 
+success of Affimed. For employees to perform their duties 
+more efficiently and effectively, Affimed provides trainings 
+and professional development programs, which we believe 
+lead to increased productivity and improved performance. 
+Our trainings help us to stay competitive in the market 
+by keeping employees up to date on the latest trends, 
+technologies, and best practices in clinical trials. We believe 
+that training and education are essential for the growth and 
+development of both individual employees and Affimed as a 
+whole. Each employee also initially receives a comprehensive, 
+role-specific training plan that covers compliance and other 
+role-specific needs. 
+In 2022, Affimed conducted six trainings on compliance 
+and ESG policies. These trainings were completed with a 
+participation rate of approximately 95% (the remaining 5% 
+are caused by maternity leave absences or long-term illness) 
+and were documented and archived by our Human Resources 
+Department. Some of the trainings provided to our employees 
+are listed below. Further educational programs are explained 
+in the Our Employees section.
+• Onboarding Training including Culture Onboarding on 
+Affimed’s guidelines and policies, received by every  
+new employee;
+• Annual obligatory Anti-Harassment Training for our Affimed 
+Inc. employees and a on a voluntary basis for Affimed GmbH 
+employees;
+• Annual Code of Conduct Trainings; and
+• Regular GxP trainings according to regulatory requirements 
+and to ensure high quality in the development value chain of 
+Affimed products.
+A new learning management system (LMS) training is being 
+progressively rolled out for trainings on certain policies, 
+including with respect to the Code of Conduct, EHS, Gifts 
+Entertainment and Hospitality, Human Rights, Compliance, 
+Data Protection and on Health & Safety. Since the beginning 
+of 2023, web-based, animated Health & Safety and Fire Safety 
+trainings have been launched. Further trainings, such as for 
+HR, IT Security and other GxP-related topics, will follow in 2023.
+Training & Education
+
+
+Page 36:
+36
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Maintaining ethical standards in business practices is vital for 
+any organization, but especially in the biotech industry where 
+trust and reputation are key factors for long-term success. 
+Adhering to ethical principles not only promotes integrity and 
+compliance within the company, but also helps to build trust 
+with patients, partners, and other stakeholders.
+As part of our approach to ethical and sustainable business 
+and in alignment with the applicable legal and regulatory 
+requirements, Affimed has a robust Compliance Management 
+System (CMS) that helps detect and prevent systemic 
+misconduct. This system covers various areas ranging from 
+fraud, bribery and corruption, third-party misconduct, and 
+professional practices to conflicts of interest and other areas. 
+The major elements of Affimed’s CMS are as follows:
+• Compliance goals and culture;
+• Compliance risk assessment;
+• Compliance program;
+• Compliance organization;
+• Compliance training and communications; and 
+• Compliance monitoring/improvement.
+T o manifest and communicate its standards, Affimed has 
+established the below policies and documentation: 
+• Code of Conduct that outlines the values and principles of 
+Affimed’s business practices and responsibilities that can 
+be downloaded from our website (Affimed’s Code  
+of Conduct);
+• Compliance Policy, outlining the major elements of 
+Affimed’s CMS;
+• Speak-up Policy, outlining how to report possible 
+misconduct and how Affimed will respond to such reports 
+that can be downloaded from our website (Affimed’s  
+Speak-up Policy); 
+• Gifts, Entertainment, and Hospitality Policy, defining 
+how gifts, entertainment, and hospitality shall be given or 
+accepted at Affimed;
+Ethical Standards and Compliance Management System
+“Compliance means much more 
+than just adherence with laws, 
+regulations, and guidelines. 
+Compliance is a mindset. Only 
+those who act responsible can 
+achieve sustained success over  
+the long term.”
+—susAnne sPieler, VP generAl counsel &  
+   coMPliAnce officer
+
+
+Page 37:
+37
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+• Interactions and Engagements with Healthcare 
+Professionals Policy, providing guidance for the interactions 
+between Affimed and healthcare professionals to ensure 
+compliance with applicable healthcare laws and prevent 
+corruption;
+• Insider Trading Policy, setting the rules to avoid illegal  
+insider trading;
+• Disclosure Policy, helping ensure compliant communication 
+of business information to the financial market and other 
+stakeholders; and a
+• Code of Conduct for Business Partners, setting out 
+standards and expectations for Affimed’s business partners 
+that can be downloaded from our website (Affimed’s Code 
+of Conduct for Business Partners).
+We believe that Affimed’s CMS, which is linked to Affimed’s 
+enterprise risk management and internal controls system, 
+minimizes the risk of compliance violations and their effects. 
+As a publicly traded company in the United States of America, 
+Affimed also complies with Sarbanes-Oxley Act of 2002 
+(SOX) and has put in place strong internal controls to detect 
+and prevent fraud, including providing Management’s Annual 
+Report on Internal Control over Financial Reporting and 
+related officer certifications in annual Exchange Act reporting 
+and maintaining adequate disclosure controls. 
+T o maintain integrity with Business Partners, Affimed’s Code 
+of Conduct in particular strictly prohibits all forms of bribery 
+or corruption and any business conduct that could create 
+the appearance of improper influence. All of our Company’s 
+international commercial operations are subject to anti-
+corruption regulations, such as the UK Bribery Act of 2010 and 
+the U.S. Foreign Corrupt Practices Act of 1977. Additionally, 
+Affimed is also subject to anti-trust laws that are designed to 
+protect fair competition. Our Code of Conduct describes anti-
+competitive behaviors that Affimed prohibits for employees.
+At Affimed, everyone is encouraged to speak up and report 
+concerns regarding non-compliance or unethical conduct. 
+Reports are given strict confidentiality and can be made in 
+person or anonymously. Affimed does not tolerate retaliation 
+against any employee who reports a concern in good faith 
+either internally, to any governmental agency or to any self-
+regulatory organization. In order to ensure compliance at all 
+levels and within all sectors at Affimed, we have instituted 
+an anonymous Integrity Line. Our anonymous Integrity Line 
+is open to employees, business partners of Affimed, and 
+all other stakeholders and can be found on our website  
+(Affimed’s Integrity Line). In the reporting 
+period, no report was submitted to the 
+Integrity Line to our knowledge. However, 
+one case of a conflict of interest was brought 
+to the attention of the Compliance team through an external 
+channel. The case was reviewed, reported to the Management 
+Board, and all necessary actions were taken. 
+With respect to data, Affimed aims to fully comply with 
+applicable data privacy laws, including the General Data 
+Protection Regulation (GDPR) and the Health Insurance 
+Portability and Accountability Act (HIPAA). We have 
+implemented strict policies and procedures aimed at 
+protecting personal data, including the data obtained from 
+clinical trials, in part by implementing data encryption 
+and access controls. We aim to be transparent about our 
+At Affimed, everyone is encouraged to 
+speak up and report concerns.
+
+Page 38:
+38
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+data collection and retention practices and to always give 
+individuals the right to access, correct, and delete their 
+personal data. Our commitment to compliance includes 
+prioritizing the protection of personal data and the trust of 
+our business partners. In the reporting year, there were no 
+substantiated complaints received concerning breaches of 
+data privacy to our knowledge.
+2021 and 2022 were years of accelerated development and 
+change for Affimed’s CMS. The General Counsel, who reports 
+to Affimed’s CEO, assumed the role of Compliance Officer, 
+replacing the prior Head of Compliance function. Since then, 
+the Compliance team has been integrated into the Legal 
+Department. It accordingly has benefited from increased 
+resources, and the business has benefited from seamless 
+support on legal and compliance topics. Also, a Senior Legal 
+Counsel, who is supporting the Compliance Officer in her 
+duties, joined Affimed GmbH and the Legal Department. 
+During the reporting period, Affimed updated or newly 
+created several of the above-mentioned Compliance policies, 
+significantly updated its business partner management and 
+TPDD Process (see Supply Chain Management section), 
+implemented the Integrity Line, drafted an initial annual 
+report on the Affimed CMS which was submitted to the 
+Management Board and Supervisory Board, and established a 
+new Compliance Committee. This Committee is a permanent 
+cross-functional committee tasked with helping ensure that 
+Affimed operates and engages in activities in accordance 
+with all applicable laws and upholds the highest standards of 
+integrity. Moreover, the Compliance team has also assumed 
+responsibility for oversight of certain ESG functions.
+
+Page 39:
+39
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+We are committed to responsible and sustainable community 
+engagement. We work hard to recognize and meet the needs 
+of the communities in which we operate and to interact with 
+stakeholders and learn about their priorities and concerns. 
+Affimed has put in place several community-related 
+activities and strives to continuously improve its community 
+engagement.
+In particular, we support organizations that are trying to 
+revolutionize cancer treatment. Affimed proudly made 
+significant donations and sponsorship payments to various 
+philanthropic organizations in a total of EUR 60,000 during 
+this reporting period. 
+Affimed also supported organizations in its local community, 
+such as the German Leukemia Research Aid-Action for 
+children with cancer (Deutsche Leukämie-Forschungs-Hilfe 
+-Aktion für krebskranke Kinder- Ortsverband Mannheim e.V.) 
+in Mannheim, with a donation of EUR 4,000 to support the 
+goal of offering physiotherapy for children with cancer. Finally, 
+Affimed contributed to the yearly NCT run and sponsored the 
+charity event “Rowing against 
+Cancer,” raised donations 
+for both events in a total 
+of EUR 5,600.
+Apart from organizations 
+working for cancer 
+treatment, Affimed made 
+additional donations in a 
+total of EUR 6,000 to the Polish 
+Humanitarian Action and the German 
+Red Cross to help the victims of  
+humanitarian crises.
+As a matter of principle, Affimed does not 
+knowingly make financial contributions 
+to political parties or associations.
+ Community Engagement
+
+
+Page 40:
+40
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+Responsibilities and Board Oversight
+Supply Chain Management
+GOVERNANCE
+
+Page 41:
+41
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+A fundamental element of Affimed’s corporate governance 
+is its two-tier system, with a separation of the Management 
+Board — which is responsible for the management of the 
+Company and the general conduct of the Company’s 
+business, including the establishment, regular oversight, and 
+continuous development of the CMS, and the Supervisory 
+Board — which is composed of 85.71% independent members, 
+each serving a 3 year term, and is tasked with supervising the 
+policies pursued by the Management Board and with general 
+oversight of the Company and its business. An English-
+language translation of Affimed’s articles of association 
+can be downloaded at our website (Affimed’s Articles of 
+Association). The rules governing the Management Board can 
+be found on our website (Affimed’s Managing Board Rules). 
+T o ensure effective oversight, the non-executive Supervisory 
+Board has established four committees: the Audit Committee 
+(100% independent members), the Compensation, 
+Nomination, and Corporate Governance Committee, the 
+Strategic Committee, and the Research and Development 
+Committee. The charters of these committees can be 
+downloaded at our website (Audit Committee Charter, 
+Compensation, Nomination and Corporate Governance 
+Committee Charter, Strategic Committee Charter and 
+Research and Development Committee Charter). The 
+Compensation, Nomination, and Corporate Governance 
+Committee is responsible for the remuneration of the 
+Management and Supervisory Boards. The respective policies 
+can be downloaded on our websites (Management Board 
+Renumeration Policy, Supervisory Board Renumeration 
+Policy).  The Compensation, Nomination, and Corporate 
+Governance Committee is also responsible for, i.a., 
+overseeing the CMS established by the Management Board 
+and monitoring the development and implementation of the 
+Company’s ESG strategy, including any goals with respect to 
+ESG and sustainability matters. 
+A new policy governance framework is currently being 
+developed and implemented by Affimed. This new framework 
+aims to ensure that all documents related to policies 
+are organized in a hierarchical manner, and that suitable 
+terminology is applied consistently. As a result, Affimed aims 
+to implement a policy management process that is effective 
+and efficient, and to improve the consistency and clarity of its 
+compliance related communications.
+Responsibilities and Board Oversight
+
+Page 42:
+42
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+In 2022, Affimed set up a new Procurement function. Its 
+mission is to streamline all procurement activities throughout 
+its value chain, end to end, and to ensure clear, simple, 
+well-governed, compliant, and documented processes 
+and operating procedures, which will be supported by a 
+procurement policy, data transparency, accurate master 
+data and fit for purpose systems, toolkits, and templates. 
+Applicable SOPs will help align vendor qualifications, 
+approvals, and requalification with GxP.
+Reliable conduct with integrity is an indispensable 
+prerequisite for any trusting collaboration. When selecting our 
+business partners, we therefore utilize our recently updated 
+risk-based TPDD Process to determine whether they meet 
+our strict requirements. The TPDD Process applies to those 
+“in-scope” business partners that we deem to pose increased 
+compliance risk. For all such in-scope business partners, the 
+internal contract owner needs to complete the TPDD Process 
+before concluding or renewing a contract.
+The TPDD Process is comprised of questionnaires that 
+include questions on a range of topics, including ESG 
+risks and considerations, which is sent to prospective 
+business partners; searches in databases; an evaluation of 
+questionnaire responses by the Compliance team; review 
+of a list of risk indicators (“red flags”); an approval process; 
+and communication of the Code of Conduct for Business 
+Partners. New business partners are expected to declare any 
+actual or prospective conflicts of interest in their engagement 
+with Affimed. If a business partner fails to comply with our 
+standards, Affimed will not enter into a business relationship 
+or reserves the right to terminate the relationship. T o this 
+date, Affimed believes that its business partners meet its 
+standards. Furthermore, Affimed has not identified any 
+business partner at which the right to freedom of association 
+and collective bargaining may be at risk.
+Although we are not currently subject to the law, Affimed will 
+strive to align its operations and governance with the principles 
+of the new German Lieferkettensorgfaltspflichtengesetz 
+(Supply Chain Act).
+Supply Chain Management
+
+
+Page 43:
+43
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+The following table is prepared with reference to the Global Reporting Initiative standards.
+GRI Content Index 
+Statement of use: Affimed has reported the information cited in this GRI content index for the period 01.01.2022–12.31.2022 with reference to the GRI Standards.
+ GRI 1 used  GRI 1: Foundation 2021
+ GRI STANDARD DISCLOSURE  LOCATION
+  GRI 2: General Disclosures 2021   2-1  Organizational details Introduction, pg 7 
+  2-2  Entities included in the organization’s sustainability reporting Introduction, pg 7
+  2-3  Reporting period, frequency and contact point Introduction
+  2-6  Activities, value chain and other business relationships pgs 8, 9, 10, 12, 15, 20, 21, 28, 29, 39, 42
+  2-7  Employees pg 7
+  2-8  Workers who are not employees pg 7
+  2-9  Governance structure and composition pgs 11, 19, 34, 41
+  2-10  Nomination and selection of the highest governance body pgs 34, 41
+  2-11  Chair of the highest governance body pg 11
+  2-12  Role of the highest governance body in overseeing the management of impacts Introduction, pgs 11, 19, 41
+  2-13  Delegation of responsibility for managing impacts pgs 19, 41
+GRI Statement and Content T able
+
+Page 44:
+44
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+  2-14  Role of the highest governance body in sustainability reporting Introduction, pgs 19, 41
+  2-15  Conflicts of interest pgs 30, 36, 41
+  2-16  Communication of critical concerns pgs 36, 42
+  2-19 Remuneration policies pg 41
+  2-20  Process to determine remuneration pg 41
+  2-22  Statement on sustainable development strategy CEO Message
+  2-23  Policy commitments pgs 19, 21, 23, 24, 29, 30, 33, 34, 35, 36, 41, 42
+  2-24  Embedding policy commitments pgs 19, 24, 29, 30, 33, 34, 36, 41, 42
+  2-26  Mechanisms for seeking advice and raising concerns pgs 31, 36, 42
+  2-27  Compliance with laws and regulations pg 36
+  2-29  Approach to stakeholder engagement pg 39
+ GRI STANDARD  DISCLOSURE  LOCATION
+  GRI 3: Material T opics 2021   3-1  Process to determine material topics pg 20
+  3-2  List of material topics pg 20
+  3-3  Management of material topics pgs 19, 29, 33, 36, 41, 42
+ GRI 205: Anti-corruption 2016   205-1 Operations assessed for risks related to corruption pgs 36, 42
+  205-2 Communication and training about anti-corruption policies and procedures pgs 35, 36 
+
+Page 45:
+45
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+  205-3 Confirmed incidents of corruption and actions taken pg 36
+ GRI STANDARD  DISCLOSURE  LOCATION
+ GRI 206: Anti-competitive    
+ Behavior 2016    206-1 Legal actions for anti-competitive behavior, anti-trust, and monopoly practices pg 36
+ GRI 302: Energy 2016   302-1 Energy consumption within the organization pgs 24, 25
+  302-2 Energy consumption outside of the organization pg 24
+  302-4 Reduction of energy consumption pg 25
+  302-5 Reductions in energy requirements of products and services pgs 21, 25
+  GRI 303: Water and   
+  Effluents 2018   303-5 Water consumption pg 25
+ GRI 305: Emissions 2016   305-2 Energy indirect (Scope 2) GHG emissions pg 24
+  305-3 Other indirect (Scope 3) GHG emissions pg 24
+  305-5 Reduction of GHG emissions pg 24
+ GRI 306: Waste 2020   306-1 Waste generation and significant waste-related impacts pgs 24, 25
+  306-3 Waste generated pg 24
+
+Page 46:
+46
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+ GRI STANDARD  DISCLOSURE  LOCATION
+ GRI 401: Employment 2016   401-1 New employee hires and employee turnover pg 7
+  401-2 Benefits provided to full-time employees that are not provided to temporary  
+   or part-time employees pg 31
+  401-3 Parental leave pg 7
+ GRI 403: Occupational   
+ Health and Safety 2018    403-1 Occupational health and safety management system pg 33
+  403-2 Hazard identification, risk assessment, and incident investigation pg 33
+  403-3 Occupational health services pg 33
+  403-9 Work-related injuries pg 33
+  403-10 Work-related ill health pg 33
+ GRI 404: Training and   
+ Education 2016   404-2 Programs for upgrading employee skills and transition assistance programs pgs 31, 35
+  404-3 Percentage of employees receiving regular performance and  
+   career development reviews pg 31
+ GRI 405: Diversity and Equal   
+ Opportunity 2016   405-1 Diversity of governance bodies and employees pgs 7, 34
+
+Page 47:
+47
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+ GRI STANDARD  DISCLOSURE  LOCATION
+ GRI 406:   
+ Non-discrimination 2016    406-1 Incidents of discrimination and corrective actions taken pg 34
+ GRI 407: Freedom of Association     
+ and Collective Bargaining 2016   407-1 Operations and suppliers in which the right to freedom of association  
+   and collective bargaining may be at risk pg 42
+ GRI 408: Child Labor 2016   408-1 Operations and suppliers at significant risk for incidents of child labor pg 30
+ GRI 409: Forced or   
+ Compulsory Labor 2016   409-1 Operations and suppliers at significant risk for incidents of forced or compulsory labor pg 30
+ GRI 413: Local Communities 2016   413-1 Operations with local community engagement, impact assessments,  
+   and development programs pgs 9, 39
+ GRI 415: Public Policy 2016   415-1 Political contributions pg 39
+ GRI 418: Customer Privacy 2016   418-1 Substantiated complaints concerning breaches of customer privacy and  
+   losses of customer data pg 36
+
+Page 48:
+48
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+ADCC Antibody-dependent Cell-mediated Cytotoxicity
+BV Brentuximab Vedotin
+CD Cluster of Differentiation 
+CDMO Contract Development and Manufacturing 
+Organization
+CEO Chief Executive Officer
+CMS Compliance Management System
+CPI Checkpoint Inhibitor
+CRO Clinical Research Organizations
+CRR Complete Response Rate
+EGFR Epidermal Growth Factor Receptor
+EHS Environment, Health, and Safety
+EPO European Patent Office
+ESG Environmental, Social and Governance
+ESI Emerging Safety Issues
+EU GMP European Union Good Manufacturing Practice
+FDA U.S. Food and Drug Administration
+GCP Good Clinical Practice
+GDPR General Data Protection Regulation
+GhG Greenhouse Gases
+GLP Good Laboratory Practice
+GMP  Good Manufacturing Practice 
+GRI Global Reporting Initiative
+GxP Good Operating Practice
+HIPAA Health Insurance Portability and Accountability Act
+HL Hodgkin Lymphoma
+HR Human Resources
+ICE® Innate Cell Engager (molecules)
+ICH International Council for Harmonization of T echnical 
+Requirements for Pharmaceuticals for Human Use
+IND Investigational New Drug 
+I-O 
+Therapy Immuno-Oncology Therapy
+ISS Institutional Shareholder Services
+KPI Key-Performance-Indicator
+LEED Leadership in Energy and Environmental Design
+LLS Leukemia & Lymphoma Society
+LMS Learning Management System
+LSC Leukemic Stem Cells
+NCT National Center for Tumor Diseases
+NK Natural Killer
+ORR [Overall/Objective] Response Rate
+PD-L1 Programmed Death-Ligand 1
+PTCL Peripheral T-cell Lymphoma
+ROCK® Redirected Optimized Cell Killing
+R/R Relapsed or Refractory
+SEC U.S. Securities and Exchange Commission
+SOP Standard Operating Procedures
+SOX Sarbanes-Oxley Act
+TPDD Third Party Due Diligence
+USM Urgent Safety Measures
+List of Abbreviations
+
+Page 49:
+49
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+This Report contains forward-looking statements. All 
+statements other than statements of historical fact are 
+forward-looking statements, which are often indicated by 
+terms such as “anticipate,” “believe,” “could,” “estimate,” 
+“expect,” “goal,” “intend,” “look forward to,” “may,” “plan,” 
+“potential,” “predict,” “project,” “should,” “will,” “would” and 
+similar expressions. Forward-looking statements appear 
+in a number of places throughout this Report and include 
+statements regarding the Company’s intentions, beliefs, 
+projections, outlook, analyses and current expectations 
+concerning, among other things, the potential of AFM13, 
+AFM24, AFM28 and the Company’s other product candidates, 
+the value of its ROCK® platform, its ongoing and planned 
+preclinical development and clinical trials, its collaborations 
+and development of its products in combination with other 
+therapies, the timing of and its ability to make regulatory 
+filings and obtain and maintain regulatory approvals for its 
+product candidates, its intellectual property position, its 
+collaboration activities, its ability to develop commercial 
+functions, clinical trial data, its results of operations, cash 
+needs, financial condition, liquidity, prospects, future 
+transactions, growth and strategies, the industry in which it 
+operates, the macroeconomic trends that may affect the 
+industry or the Company, such as the instability in the banking 
+sector experienced in the first quarter of 2023, impacts of the 
+COVID-19 pandemic, the benefits to Affimed of orphan drug 
+designation, the impact on its business by political events, 
+war, terrorism, business interruptions and other geopolitical 
+events and uncertainties, such as the Russia-Ukraine conflict,  
+the success of the Affimed-Artiva partnership, including in 
+relation to the fact that the current clinical data of AFM13 
+in combination with NK cell therapy is based on AFM13 
+precomplexed with fresh allogeneic cord blood-derived 
+NK cells from The University of T exas MD Anderson Cancer 
+Center, as opposed to AB-101, which is a cryopreserved 
+allogeneic cord blood-derived NK cell that we anticipate will 
+be co-administered with AFM13; our reliance on our current 
+strategic relationships with NKGen Biotech, Roivant, Artiva, 
+The MD Anderson Cancer Center, and Genentech and the 
+potential failure to enter into new strategic relationships 
+or difficulties with our strategic partners that may slow the 
+progress of our joint development or lead to the termination 
+of a partnership and the need to enter into a new one, all 
+of which could take substantial time and attention of our 
+management team; and other uncertainties and factors, 
+described under the heading “Risk Factors” in Affimed’s 
+filings with the U.S. Securities and Exchange Commission 
+(see Affimed’s U.S. Securities and Exchange Commission 
+Filings). Given these risks, uncertainties, and other factors, 
+you should not place undue reliance on these forward-
+looking statements, and the Company assumes no obligation 
+to update these forward-looking statements, even if new 
+information becomes available in the future.
+In addition, statistics and metrics presented in this Report 
+relating to ESG matters are estimates and may be based on 
+assumptions or developing standards. 
+In this Report, we are not using terms such as “material” or 
+“materiality” as they are used under the securities or other 
+laws of the United States or any other jurisdiction, or as they 
+are used in the context of financial statements and financial 
+reporting. Materiality, for the purposes of this document 
+Forward-looking Statement
+
+Page 50:
+50
+AFFIMED N.V.  SUST AINABILITY REPORT 2022
+should not, therefore, be read as equating to any use of the 
+word in other Company reporting. Additionally, terms such 
+as “ESG,” “impact” and “sustainability” can be subjective 
+in nature, and there is no representation or guarantee that 
+these terms will reflect the beliefs, policies, frameworks, or 
+preferred practices of any particular investor or other third 
+party or reflect market trends. Any ESG goals, targets or 
+objectives outlined in this Report are, unless explicitly stated 
+otherwise, purely voluntary, not binding on our business and/
+or management and do not constitute a guarantee, promise 
+or commitment regarding actual or potential achievements 
+or outcomes. Similarly, there can be no assurance that our 
+ESG-related policies and procedures as described in this 
+Report will continue; such policies and procedures could 
+change, even materially. We are permitted to determine in 
+our discretion that it is not feasible or practical to implement 
+or complete certain of our ESG initiatives, policies, and 
+procedures based on cost, timing, or other considerations.
+Certain information and data contained herein may have 
+been obtained from third parties. We have not independently 
+verified the data from these third-party sources. While these 
+third-party sources are believed to be reliable, we make no 
+representation or warranty, express or implied, with respect 
+to the accuracy, fairness, reasonableness, or completeness 
+of any of the information contained herein, and we expressly 
+disclaim any responsibility or liability therefor.
+
+Page 51:
+Affimed N.V.
+T echnologiepark
+Im Neuenheimer Feld 582
+69120 Heidelberg, Germany
+Phone: +49-(0)6221-6743-60
+Fax: +49-(0)6221-6743-649
+ESG@affimed.com
+

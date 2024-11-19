@@ -1,0 +1,1131 @@
+Page 1:
+Improving 
+everyday life 
+for billions of 
+people through 
+technology
+Environmental impact 
+report 
+2023
+
+Page 2:
+Prosus is a global consumer 
+internet group and one 
+of the largest technology 
+investors in the world.
+CONTENTS
+Introduction 1
+Environmental performance indicators 2
+Climate 2
+Climate data – Our own operations 2
+Climate data – Our supply chain 3
+Scope 3 emissions 4
+Supplier engagement programme 4
+Climate data – Our investment portfolio 6
+Portfolio companies where we have a minority interest 9
+Biodiversity 10
+Resource use – Packaging 11
+Packaging in Etail 11
+Packaging in Food Delivery 11
+Resource use – Water and waste 12
+Circular economy 13
+Glossary 14
+Appendix: GHG inventory scope and boundaries 16
+GHG accounting definitions and methodology 16
+PROSUS
+Environmental impact report 2023  
+
+Page 3:
+Introduction
+Introduction 
+Prosus is a global consumer 
+internet group and a long-term 
+technology investor. We combine 
+our global reach with local 
+expertise, building meaningful 
+businesses in online classifieds, 
+food-delivery, payments and 
+fintech, and education 
+technology sectors in high-
+growth markets. We serve 
+communities around the world 
+through our portfolio of digital 
+platforms that operate asset-
+light, low-carbon business 
+models. 
+Environmental impact and emissions data reporting is 
+business-activity, location and market specific. For us, 
+environmental impact reporting is about being transparent 
+and taking action to protect our planet. 
+We describe our environmental strategy, governance, risks 
+and opportunity assessment, along with our targets and 
+commitments in our environmental sustainability programme. 
+This annual environmental impact report provides an update 
+on the progress made against our environmental commitments 
+and targets over the year gone by, and it also shares a 
+perspective on the key objectives for the year ahead.
+In this report we include three scopes of our environmental 
+impact:
+1  Our own operations (direct and indirect emissions)
+2  Our extended operational activities (indirect supply chain 
+emissions)
+3  Our investment portfolio (indirect emissions)
+We welcome feedback from our stakeholders on this document; please reach us via sustainability@prosus.com.
+PROSUS
+Environmental impact report 2023 1
+
+
+Page 4:
+Environmental performance indicators
+Climate
+Across our diverse group of companies, we have defined a key set of environmental data points on which we collate and report 
+performance updates on an annual basis. These allow us to apply a consistent approach in the measurement and reporting of 
+our performance on most material environmental impact areas.
+Table 1: Environmental performance indicators
+Impact area Environmental indicators Reference FY23 report
+Climate Scope and maturity of GHG emissions reporting
+Carbon intensity (revenues)
+Share of renewables in electricity use
+Investments in climate positive solutions
+Table 9, page 7 
+Table 13, page 8 
+Table 14, page 9 
+Table 15, page 9 
+Biodiversity Locating of nature interfaces [to be published next year]
+Packaging Measurement of processed packaging 
+Measurement of procured or used packaging
+Table 17, page 11
+Table 18, page 11 and table 19, page 12
+Circular economy Avoided GHG emissions  
+Avoided use of materials and resources  
+Table 22, page 13
+Table 22, page 13
+Over the past five years, we have been tracking, reporting and auditing our carbon emissions data annually. The scope 1 and 2 
+emissions data of Prosus corporate, as well as that of its portfolio companies where it has a controlling interest, go through an 
+audit engagement every reporting cycle as ’affiliates’ to the Naspers group (the majority shareholder of Prosus group) and it has  
+obtained limited assurance for the past four reporting years (FY20 to FY23). 
+We include historical data from FY20, which is the base year for our climate target setting for a comprehensive overview of our 
+emissions inventory.
+Climate data – Our own operations 
+Our corporate operations that meet the materiality threshold to be included in our emissions reporting is limited to offices in five 
+locations around the world. These emissions generated are consequent to the provision of a workplace for our corporate 
+employees, and related use of resources are included in the scopes 1, 2 and 3 reporting.
+Table 2: Scope 1 and 2 emissions of corporate operations
+Scope 1 and 2 emissions of corporate operations
+Emissions category FY23 FY22 FY21 FY20
+Scope 1 – direct energy consumption (tCO2e) 16 15 15 31
+Scope 2 – indirect energy consumption (market-based) (tCO2e) 67 36 31 7
+2 PROSUS
+Environmental impact report 2023
+
+
+Page 5:
+Scope 1 emissions
+We use emission factors from the Intergovernmental Panel for 
+Climate Change (IPCC) to calculate scope 1 emissions. Scope 
+1 emissions from our corporate offices are consequent to the 
+use of fossil fuel-based vehicles. The Amsterdam office uses 
+renewable energy for heating and cooling purposes with the 
+Aquifer Thermal Energy Storage system (ATES), which extracts/
+injects groundwater to achieve heating and cooling of the 
+building.
+The reduction observed in scope 1 emissions from FY20 is the 
+result of reducing the number of leased cars from 11 in FY20 
+to five in FY23 and running fewer kilometres per car. In FY23, 
+we decided to dispose of all internal combustion engine 
+vehicles from our corporate office’s asset register to ensure we 
+achieved the target to reduce scope 1 from our operations to 
+zero, which was a key metric in our group CEO and CFO’s 
+short-term incentives (see the remuneration section in our FY23 
+annual report).
+Scope 2 emissions
+Purchased electricity for our corporate offices and to power 
+our electric vehicles, accounts for our scope 2 emissions (two 
+electric and two hybrid cars at the Amsterdam office). With all 
+our Prosus offices being leased premises, the electricity usage 
+is prorated as per the occupancy of office space and common 
+space as defined by the lease agreements. The majority of 
+our corporate employee population is based at the 
+Amsterdam office. We have four other leased office facilities 
+within our reporting boundary where we have more than 10 
+employees: London, San Francisco, Hong Kong and Bengaluru. 
+A small number of employees work permanently from their 
+home offices. We procure 100% renewable energy for our 
+Amsterdam and London offices.
+The increase in scope 2 emissions from FY22 to FY23 is 
+reflective of the addition of two office locations (London and 
+Bengaluru) under our scope of reporting. In FY23, we 
+implemented three core actions to ensure we reach our target 
+to reduce scope 2 emissions to zero, which was a key metric 
+in our group CEO and CFO’s short-term incentives: 
+1  where possible, we engaged with our leasing agency to 
+install on-site solar panels; 
+2  where available on the grid, we procured green energy; 
+and 
+3  for all remaining energy consumption, we procured 
+equivalent renewable-energy certificates. 
+For this coming year, it is our intention to continue making 
+further progress on this pathway and increasing the ratio of 
+green-energy procurement to renewable-energy certificates.
+The market-based method includes emissions calculations that 
+consider the purchasing decisions based on contractual 
+emissions. For grey electricity, the emission factors used are 
+derived from the Internal Energy Agency (IEA).
+Climate data – Our supply chain
+A large portion of the emissions in our extended value chain 
+are under the control of our suppliers and business partners 
+and we expect our suppliers to take action to report and 
+reduce their environmental footprint (see our supplier code of 
+conduct) when we do business with them.
+Table 3: Energy consumption of corporate operations
+Energy consumption data of corporate operations
+FY23 FY22 FY21 FY20
+Total energy consumption (MWh) 492 249 181 162
+Energy from fossil fuels (MWh) 65 62 58 118
+Energy from purchased electricity (MWh) 427 187 123 44
+Share of renewable energy 65% 51% 28% 18%
+Share of non-renewable energy 35% 49% 72% 82%
+Table 4: Emission intensity of corporate operations
+Emission intensity of corporate operations
+FY23 FY22 FY21 FY20
+Emission intensity (tCO2e/employee) 0.3 0.2 0.2 0.2
+PROSUS
+Environmental impact report 2023 3
+
+
+Page 6:
+Climate continued
+Scope 3 emissions
+We are continuously working to improve on our scope 3 measurements and disclosures that enable us to better manage 
+emissions arising from the category of activities that are material to our operations and business. FY20 has been defined as our 
+base year for our climate targets. For comparability of our emissions profile over the four-year period, we include data from FY20 
+to FY23 (our current reporting year) in this report. 
+Table 5: Scope 3 emissions corporate operations
+Scope 3 emissions of corporate operations
+Scope 3 emissions category
+FY23
+(tCO2e)
+FY22
+(tCO2e)
+FY21
+(tCO2e)
+FY20
+(tCO2e)
+Category 1 – Purchased goods and services 3 848  4 254  3 164  2 472 
+Category 2 – Capital goods 271  39 0 0
+Category 3 – Fuel and energy-related activities 38 12  10  9 
+Category 4 – Upstream transportation and distribution 4 6 4 7
+Category 5 – Waste generated in operations 1 1  1  2 
+Category 6 – Business travel 2 133   325 – 5 303
+Category 7 – Employee commuting 61 70 8 31
+Total  6 356 4 651 3 262 7 831
+Table 6: Scope 3 category 1 – purchased goods and services emissions of corporate operations
+Scope 3 category 1 emissions
+Category 1 breakdown
+FY23
+(tCO2e)
+FY22
+(tCO2e)
+FY21
+(tCO2e)
+FY20
+(tCO2e)
+Consulting fees 2 188 2 222 2 263 1 390
+Insurance fees 569 610 164 57
+Subscriptions 469 341 252 304
+IT costs – software 243 579 177 276
+Other 211 177 156 138
+Staff costs 67 221 79 143
+Marketing and donations 59 27 59 75
+Office rent and maintenance 42 76 18 96
+Total 3 848 4 254 3 167 2 479
+Supplier engagement programme
+At our corporate operations, more than 95% of our procurement activities are related to professional services such as consultants, 
+lawyers, accountants and auditors. The small volume of products we procure are IT hardware and other office supplies. 
+Consequently, we do not have any business-critical or significant suppliers, but we work with a range of trusted business partners 
+that support our work. 
+In FY23, we had commercial relationships with roughly 3 400 suppliers. Our entire supplier base is screened for compliance with 
+ESG standards, on human rights and environmental performance, using a third-party tool assessing our suppliers 24/7 to help 
+identify any areas of concern. The tool alerts us if any risks are identified, which allows us to either accept the risk, engage the 
+supplier for further information and/or corrective measures or start a process of removing the vendor from our supplier base.
+This year, we articulated the ESG standards and behaviours we expect of our suppliers in our supplier code of conduct and we 
+will implement the necessary processes and policies to make this code part of our procurement and commercial relationships 
+and contracts with our supplier base. We anticipate realising a full coverage of our supplier contracts in the coming years, as we 
+apply a phased implementation following the natural expiry and renegotiations of existing contracts. All corporate employees 
+who engage with suppliers are informed of our process of ESG risk management in our supply chain and supplier code of 
+conduct.
+4 PROSUS
+Environmental impact report 2023
+
+
+Page 7:
+During FY23 we conducted an engagement pilot with our most significant corporate suppliers based on spend, requesting 
+absolute data on their emissions and information on their climate plans. We wanted to test and better understand if our suppliers 
+are collating their emissions and are able to provide GHG emissions data relative to the scope of their services to us. 
+Furthermore, we were keen to assess how many of our vendors are taking climate action by setting targets and reporting their 
+emissions data. Below are the results from this pilot:
+Table 7: Supplier engagement pilot results
+Supplier engagement data Share
+Suppliers included in engagement survey (% of total spend) 37%
+Suppliers responded to survey (% of total spend) 30%
+Suppliers that provided primary GHG data (% of total spend) 30%
+Suppliers that have climate targets (% of total spend) 30%
+Suppliers with verified science-based targets (% of total spend) 16%
+Primary data GHG emissions reduces emissions estimations with (%) 90%
+90% of the suppliers included in the pilot, representing 30% of 
+our total FY22 procurement spend, shared their primary 
+emissions data with us. However, only a few were able to 
+allocate the exact emissions associated with the contracted 
+work or supplied services. Most suppliers were able to 
+provide their emissions intensity per revenues. This allowed us 
+to make a more accurate calculation of the emissions 
+generated from their services, compared to a spend-based 
+method using average GHG emissions intensities per industry 
+that we had used the year before. A critical insight for us was 
+that compared to calculations based on extrapolations using 
+average sector emissions intensity, emissions collated-based 
+primary data received from our suppliers were 90% lower. 
+Which is a strong incentive for us to continue on the supplier 
+engagement programme going forward.
+Table 8: Scope 3 category 6 emissions of corporate air business travel
+A substantial source of GHG emissions is our business travel, resulting from the need to engage with and grow our 
+geographically diversified investment portfolio. Consequently, we have set a target of a 30% reduction in our corporate air travel 
+emissions by FY30, with the base year as FY20.
+Scope 3 category 6 emissions – emissions from air business travel
+Travel data FY23 FY22 FY21 FY20
+Distance (passenger kilometre) 6 003 369  566 248  608 912  22 181 600 
+Emissions (tCO2e) 2 133  325  72  5 303 
+We also learned that 30% of our supplier base (based on 
+spend) have set climate reduction targets. Moreover, most of 
+these targets are verified by SBTi, representing about 16% of 
+total spend. While this a relatively high share (globally, about 
+4 000 companies have set science-based targets, on a total of 
+over 300 million companies, less than 1%), we recognise we 
+have a role to play in encouraging and supporting our 
+suppliers to start or increase their efforts on climate. The 
+roll-out of our supplier code of conduct supports this 
+opportunity, by defining climate accounting, the basis of 
+climate action, as a clear expectation of all our suppliers.
+PROSUS
+Environmental impact report 2023 5
+
+
+Page 8:
+Climate continued
+The steep reduction of air travel emissions in the years FY21 
+and FY22 resulted from the impact of the Covid-19 pandemic 
+when travel was not possible. This has taught us to embrace 
+technology to continue to do our work and collaborate with 
+colleagues and business partners across the world. 
+In FY23 we moved to a new travel agent to book, manage 
+and report our business travel. The advantages of using this 
+agent are consistency and higher quality of data and 
+measurements, and more real-time tools and insights for the 
+management of travel. During the second half of FY23 we saw 
+a sizable reduction in corporate staff, which will have a 
+longer-term result in lowering the emissions from air business 
+travel. Equally, cost containment and reduction of staff 
+members will result in a continued reduction of travel and 
+associated emissions.
+Climate data – Our investment portfolio
+Our investment portfolio generates environmental impacts 
+from the development and operation of their digital platforms 
+and online service delivery models. Their extended value 
+chain impacts are linked to the products and services of their 
+business partners and suppliers and to the footprint of their 
+customers. 
+It is important to note that the composition of our portfolio can 
+be significantly dynamic due to the nature of our business 
+activities as an investor. Significant new acquisitions and/or 
+unbundling of holdings can materially impact the boundaries 
+within this category. Furthermore, as our portfolio companies 
+mature in their GHG emissions accounting, the scope and 
+robustness of their emissions data will also improve.
+– Business air travel emissions
+Figure 1: Naspers and Prosus: Travel emissions trend against reduction target
+8 000
+7 000
+6 000
+5 000
+3 000
+2 000
+1 000
+FY20 FY21 FY22 FY23
+-
+– Business air travel emissions
+30% reduction target
+– Business air travel emissions
+-
+6 PROSUS
+Environmental impact report 2023
+
+
+Page 9:
+Portfolio companies
+High-quality carbon accounting is the backbone of climate action, and proactively support our portfolio companies to measure 
+and report their GHG emissions. It is our shared objective to increase the scope and maturity of emissions reporting every year, 
+ultimately establishing the reporting of full scope data, audited externally with reasonable assurance, in support of a multi-year 
+science-based reduction target.
+Table 9: GHG reporting indicators of portfolio companies
+GHG reporting indicators
+Portfolio company Scope of reporting Maturity of reporting
+Scope 1 and 2 Scope 3 Scope 1 and 2 Scope 3
+eMAG Full scope No reporting 3 1
+iFood Full scope Material category 3 2
+Movile Full scope No reporting 3 1
+OLX Full scope Material category 3 2
+PayU Full scope Material category 3 2
+GoodHabitz Full scope No reporting 3 0
+Stack Overflow Full scope No reporting 3 0
+0: No accounting  1: First-phase data collation  2: Readiness review  3: Limited assurance  4: Reasonable assurance
+The scope 1 and 2 emissions from our subsidiaries are included under this category. FY23 was the first year of reporting scope 1 
+and 2 emissions for GoodHabitz and Stack Overflow since their acquisition in FY22.
+Table 10: Scope 1 emissions of portfolio companies
+Scope 1 emissions
+Portfolio companies
+FY23
+(tCO2e)
+FY22
+(tCO2e)
+FY21
+(tCO2e)
+FY20
+(tCO2e)
+eMAG 12 602  12 975  5 714  4 867 
+OLX 688  389  196  13 
+iFood 1  2  1 –
+Movile –  – – –
+PayU 364  331  420  88 
+GoodHabitz 135 n/a n/a n/a
+Total 13 790  13 698  6 331  4 968 
+Table 11: Scope 2 emissions of portfolio companies 
+Scope 2 emissions
+Portfolio companies
+FY23
+(tCO2e)
+FY22
+(tCO2e)
+FY21
+(tCO2e)
+FY20
+(tCO2e)
+eMAG 2 686  4 417  3 943  5 126 
+OLX 3 249  4 078  1 682  2 480 
+iFood 524  78  83  108 
+Movile 55  50  50  65 
+PayU 1 278  1 189  1 096  1 285 
+GoodHabitz 21 n/a n/a n/a
+Stack Overflow 51 n/a n/a n/a
+Total 7 863  9 812  6 854  9 064 
+PROSUS
+Environmental impact report 2023 7
+
+
+Page 10:
+Climate continued
+Table 12: Total scope 1 and 2 emissions of portfolio companies 
+Scope 1 and 2 emissions
+Portfolio companies  
+FY23
+(tCO2e)
+FY22
+(tCO2e)
+FY21
+(tCO2e)
+FY20
+(tCO2e)
+eMAG 15 288  17 393  9 657  9 993 
+OLX 3 937  4 467  1 878  2 493 
+iFood 525  80  84  108 
+Movile 55  50  50  65 
+PayU 1 642  1 521  1 516  1 373 
+GoodHabitz 156 n/a n/a n/a
+Stack Overflow 51 n/a n/a n/a
+Total 21 653  23 510  13 185  14 032 
+Notable changes in GHG emissions from FY22 to FY23 are:
+ » eMAG: Scope 2 emissions have reduced significantly due to the increase in the renewable-energy mix in Romania’s grid, where 
+eMAG has most of its operations.
+ » OLX: Scope 1 emissions have increased due to the growth of leased cars in their LetGo division. A number of OLX office 
+facilities and inspection centres closed down, resulting in a reduction in scope 2 emissions.
+ » IFood: In FY23 iFood has included dark stores from their grocery business into the scope of accounting, leading to a significant 
+increase in their emissions.
+ » PayU: Scope 2 emissions show an increasing trend due to an increase in employees returning to the PayU India offices post the 
+Covid-19 pandemic.
+ » GoodHabitz and Stack Overflow, two recent acquisitions, were included in our scope 1 and 2 emissions accounting and 
+reporting.
+To assess progress on the decarbonisation journey of our portfolio companies and be able to benchmark their performance to 
+sector peers we use the carbon intensity metric as it provides us a better oversight on their ability to decouple their business 
+growth from GHG emissions.
+Table 13: Emission intensity of revenues of portfolio companies 
+Emission intensity by revenue of portfolio companies
+Portfolio companies
+FY23
+(tCO2e/US$’m)
+FY22
+(tCO2e/US$’m)
+FY21
+(tCO2e/US$’m)
+FY20
+(tCO2e/US$’m)
+eMAG 7.9  7.7  4.3  7.3 
+OLX 2.9  2.1  1.8  2.3 
+iFood 0.4  0.1  0.1  0.3 
+Movile 0.5  0.5  0.3  0.4 
+PayU 1.8  2.2  2.9  3.6 
+GoodHabitz 4.1 n/a n/a n/a
+Stack Overflow 0.5 n/a n/a n/a
+ » eMAG has seen a jump in emissions in FY22, while its revenues have seen a slight decline over the years, resulting in a higher 
+intensity number due to general market circumstances. eMAG has several programmes, such as installing solar panels and 
+increasing electric vehicles, that reduce its scope 1 and 2 emissions. 
+ » OLX’s revenues decreased with 37% after deciding to exit its Autos business, which resulted in higher carbon intensity and 
+impacting the comparability of the indicator across the years.
+ » PayU kept its emissions steady while it increased its revenues, showing a decline in the intensity and thereby a decarbonisation 
+of its business.
+ » While iFood was successful in growing its revenues with 38%, its intensity figure was impacted by the higher growth of its 
+emissions (+500%) after growing its use of dark stores for its grocery delivery business. The network of these stores is carefully 
+tested and optimised, triggering future developments in this area.
+8 PROSUS
+Environmental impact report 2023
+
+
+Page 11:
+Table 14: Energy consumption of portfolio companies 
+Energy consumption of portfolio companies
+Portfolio companies FY23 FY22 FY21 FY20
+eMAG (MWh) 73 531  76 024  37 848  31 683 
+IFood (MWh) 5 612  758  715  1 452 
+Movile (MWh) 585  475  412  742 
+OLX (MWh) 9 548  10 641  4 163  4 234 
+PayU (MWh) 3 314  2 888  2 880  2 836 
+GoodHabitz (MWh) 779 n/a n/a n/a
+Stack Overflow (MWh) 442 n/a n/a n/a
+Total non-renewable-energy consumption (MWh) 79 035  86 554  41 997  40 948 
+Total renewable-energy consumption (MWh) 15 268  4 233  4 021 –
+Renewable energy (%) 16% 5% 9% 0%
+Non-renewable energy (%) 84% 95% 91% 100%
+The primary contributors to the increase in energy 
+consumption for FY23 are the increase in number of operating 
+sites belonging to Takealot, increase in operating activities at 
+Takealot, and the inclusion of dark stores under iFood’s 
+reporting boundary. 
+Renewable-energy consumption has increased due to the 
+instalment of solar panels in several of eMAG’s distribution 
+centres, and the move from non-renewable contracts to green 
+contracts for some locations. 
+Furthermore, renewable-energy generation has increased due 
+to the installation of solar panels in several of eMAG’s 
+distribution centres, and the transition to increased green- 
+energy procurement at some of the locations. 
+Table 15: Investments in climate solutions 
+The table below provides an overview of operational 
+expenditure (opex) and capital expenditure (capex) 
+investments in climate solutions. Decarbonisation requires our 
+portfolio companies to make investments in technology 
+solutions, such as renewable-energy and low-emissions 
+transportation for delivery. This has to be balanced against a 
+groupwide business imperative to reach profitability. We use 
+the EU Taxonomy criteria to define investments in climate 
+solutions.
+Investments in climate solutions FY23
+Portfolio companies Opex Capex 
+eMAG (US$) 28 682  827 859 
+OLX (US$) –  239 166 
+GoodHabitz (US$) –  161 291 
+eMAG and OLX have invested in on-site solar panels, while 
+GoodHabitz introduced electric vehicles for its employees.
+Portfolio companies where we have a minority 
+interest
+Our portfolio of investments also comprises listed and 
+non-listed assets where we have a minority/non-controlling 
+stake in, associates and investees.
+While our ability to influence the operations and business 
+strategies of these companies is limited, we do take the 
+opportunity, where possible, to engage with them on their 
+climate action journey.
+With the vast geographical and business model diversity of 
+our associates and investees, along with the maturity of their 
+operations ranging from stock-listed giants such as Tencent to 
+young and highly innovative earlier-stage businesses in our 
+venture’s portfolio – understandably, their ESG maturity and 
+performance also varies.
+It is also important to highlight that our portfolio also remains 
+dynamic with significant new acquisitions and/or unbundling 
+of holdings that can materially impact the boundaries within 
+the scope of our minority-controlled portfolio companies. 
+Furthermore, as the companies in our portfolio mature in their 
+GHG accounting we have observed a natural improvement in 
+the scope and robustness of their emissions data. 
+The table below provides an overview of the scope 1 and 2 
+emissions of our portfolio of associates and investees, 
+adjusted for our shareholdings, as per the PCAF-financed 
+emissions methodology. To highlight, these are estimated 
+emissions, calculated using sector averages of emissions 
+intensity data per revenue.
+PROSUS
+Environmental impact report 2023 9
+
+
+Page 12:
+Climate continued
+Table 16: Total scope 1 and 2 emissions of our minority portfolio companies 
+Total scope 1 and 2 emissions of associates and investees
+Investment areas
+FY23
+(tCO2e)
+Share 
+of total 
+Social and internet platforms 738 290 92.3%
+Food Delivery 24 218 3.0%
+Ventures 22 237 2.8%
+Edtech 11 175 1.4%
+Classifieds 3 528 0.4%
+Payments and Fintech 194 0.0%
+Etail 165 0.0%
+Other 341 0.0%
+Total 800 148 100%
+Tencent, representing 92.3% of the total emissions of our portfolio of minority interests, has set its science-based target, committing 
+to reduce its scope 1 and 2 emissions by 70% by 2030 from a 2021 base year. For more information, see www.tencent.com.
+Delivery Hero accounts for more than 80% of emissions reported under the Food Delivery segment. The company has strong 
+programmes to decouple food delivery from emissions and has committed to set its science-based targets. More information can 
+be found on www.deliveryhero.com.
+Ventures is our investment arm, tasked with identifying future growth segments, and has invested in a diverse set of companies 
+beyond our core segments. The composition of this portfolio changes often due to acquisitions and divestments. 
+In the Edtech portfolio, Skillsoft accounts for about 25% of the emissions. The company is actively reducing its emissions footprint, 
+as can be seen on www.skillsoft.com.
+Biodiversity
+We are building our understanding of the interdependency of our group with nature and biodiversity, the risks we run to 
+negatively impact nature and the actions we can take to reduce these. As a first step, we are mapping and locating the direct 
+biodiversity interfaces and dependencies (eg related to the direct operational business activities) of our portfolio companies, as 
+prescribed by TNFD’s promoted LEAP (locate – evaluate – assess – prepare) method. From there, we will evaluate and assess the 
+risks and opportunities, to determine what actions are needed.
+10 PROSUS
+Environmental impact report 2023
+
+
+Page 13:
+Resource use – Packaging
+In our Food Delivery and Etail segments packaging is a material environmental risk as well as an opportunity. We collect data 
+from our subsidiaries on their packaging and track performance on key indicators.
+Packaging in Etail
+In our Etail portfolio companies, where there is a material packaging footprint, eMAG, Takealot and Media24 Logistics report the 
+volumes of processed packaging in their operations, which is waste generated from packaging they receive from their suppliers 
+and business partners. This packaging is out of their direct control in terms of determining the type of packaging, as it is used by 
+their suppliers and business partners for the shipment of goods to their warehouses. Packaging that is directly procured and used 
+by the Etail companies, which they use for the logistics and shipment of goods to their clients, is reported in table 18.
+Table 17: Processed packaging materials of Etail companies 
+Processed packaging of Etail companies
+Material Weight (kg) Share of total Recycled (%) Incinerated (%) Landfill (%)
+Cardboard and paper 1 459 037 72% 100 0 0
+Plastics 217 577 11% 100 0 0
+Other 337 500 17% 67 33 0.1
+Total 2 014 115 100% 94 6 0
+M24 Logistics and Takealot are both engaging customers to 
+refrain from repacking bulky boxed items sufficiently protected 
+by their original packaging, and choosing to ship certain 
+goods, like white goods, in their original packaging and 
+reducing the need to repackage. 
+All Etail companies work with professional waste management 
+companies that collect the waste and process it to be 
+recycled, incinerated or landfilled. 
+Packaging that is procured by the Etail companies is used for 
+the transportation and shipment of the goods bought on their 
+ecommerce platforms. This packaging is often delivered to the 
+homes of consumers or ends there after picking the parcel up 
+from a pick-up station. 
+Table 18: Procured packaging materials of Etail companies
+Investments in climate solutions FY23
+Packaging material used by 
+Etail companies Weight (kg) Share of total
+Cardboard and paper 1 698 337 80
+Plastics 336 916 16
+Other 94 597 4
+Total 2 129 850  100
+In FY23 we published a report that introduces 10 golden rules 
+for scaling sustainable packaging for digital delivery 
+companies, showcasing a host of initiatives our Food Delivery 
+and Etail companies are taking and can take to fight waste 
+and increase resource efficiency. For instance, plastic products 
+like tape and fillers are being replaced with recyclable paper 
+alternatives. 
+Etailer eMAG is working hard on consolidation and efficient 
+wrapping of its parcels, reducing significant volumes of 
+material. Takealot has trailed reusable pallet wraps to prevent 
+the use of unrecyclable plastic variants and has invested in 
+collection points at its collection centres. For more examples, 
+please see our scaling sustainable packaging report.
+Packaging in Food Delivery
+Our Food Delivery business iFood measures the volume of 
+packaging used by their restaurant partners. The packaging is 
+outside of the direct control of iFood and in order to be able 
+to measure and estimate the volumes of packaging used, it 
+has developed an extensive model and approach. Under 
+iFood’s sustainable packaging programme, and driven by its 
+target to reduce plastic pollution from delivery with 50% by 
+2025, it is involved in multiple efforts to help restaurant 
+partners shift to more sustainable packaging and reduce the 
+waste generated from it. 
+PROSUS
+Environmental impact report 2023 11
+
+
+Page 14:
+Table 19: Packaging materials used for Food Delivery
+Packaging in Food Delivery
+FY23 FY22
+Weight
+ (tonnes)
+Share of
+ total
+Weight
+ (tonnes)
+Share of 
+total
+Total Food Delivery packaging 67 514 100% 67 253 100%
+Total plastic 17 982 26.6% 18 267 27.2%
+Plastic avoided 379 0.6% 337 0.5%
+EPS 3 901 5.8% 4 007 6.0%
+PET 3 296 4.9% 3 316 4.9%
+HDPE 1 581 2.3% 1 559 2.3%
+PVC 145 0.2% 129 0.2%
+LDPE 354 0.5% 453 0.7%
+PP 3 295 4.9% 3 222 4.8%
+PS 1 455 2.2% 1 474 2.2%
+Other/unknown plastics 4 335 6.4% 4 444 6.6%
+Total cardboard/paper 40 849 60.5% 40 166 59.7%
+Total glass 1 159 1.7% 1 184 1.8%
+Total aluminium 1 017 1.5% 1 065 1.6%
+Total biodegradable 6 223 9.2% 6 422 9.5%
+Total grocery delivery packaging 35 0.1% 7 0.0%
+Average packaging weight per order 92 94
+Average plastic weight per order 24 25
+The volumes under ‘Plastic avoided’ is the result of iFoods’ 
+‘Amigos da Natureza’ initiative, which motivates restaurants to 
+join the programme to opt out of offering disposable items like 
+cutlery and napkins to its customers. In FY23, iFood motivated 
+90% of its restaurant partners to join this programme. As a 
+result, an average of 130 tonnes of single-use plastic is 
+prevented from being discarded every month.
+Packaging used in grocery delivery is mostly plastic bags. This 
+data does not account for the packaging of the groceries itself 
+that is in control of the grocery brand and out of scope for 
+iFood.
+Resource use – water and waste 
+Our investments portfolio is made up of digital platforms with 
+asset-light operations and limited physical infrastructure. Water 
+and waste are not material for the businesses that are 
+web-based and do not involve manufacturing or processing 
+activities. Their primary water use is municipal water for 
+limited office infrastructure. 
+Furthermore, our portfolio companies use cloud-based services 
+(from providers like AWS, Azure, and local companies) and do 
+not own data centres that would rely on water for cooling. 
+Consequently, there is no direct responsibility or control over 
+water use in operations, which lies with their suppliers and 
+business partners. Waste generation is only material for our 
+Etail businesses, discussed under ‘Packaging in Etail’
+For our headquarters in Amsterdam, where most of our 
+employees are based, the only water usage is municipal 
+water for our office space. The office is part of the municipal 
+ecosystem where water treatment facilities clean sewer water 
+before releasing it into surface water. Our office in Amsterdam 
+is BREEAM certified (BREEAM certificate number: 1488-BIU-
+2016), meaning its water consumption, efficiency and 
+management is tracked. 
+Table 20: Water use of corporate operations
+FY23 
+(m3)
+FY22 
+(m3)
+FY21
+(m3)
+Total water consumed 474 202 208
+All our headquarter offices are serviced by professional waste 
+management operators that collect and recycle the waste 
+stream in alignment with local recycling infrastructure. Our 
+Amsterdam office benefits from the very high collection and 
+recycling rates in the Netherlands.
+Table 21: Waste generated at corporate operations
+FY23 
+(kg)
+FY22 
+(kg)
+FY21
+(kg)
+Total waste 7 040 2 253 2 724
+The increase of reported waste in FY23 is a result of 
+increasing the scope of reporting – all corporate offices (five) 
+are included in this year’s data, compared to only the 
+Amsterdam office in previous years. 
+Resource use – Packaging continued
+12 PROSUS
+Environmental impact report 2023
+
+
+Page 15:
+Our Classifieds segment is enabling a circular economy by enabling its customers to trade and thereby extending the useful lives 
+of consumer products like clothing, laptops, and televisions. Consumers buying a pre-owned product forego on the need to 
+manufacture and ship a new product, saving materials, water and GHG emissions in the process. OLX calculates the 
+environmental impact of these transactions, calculating the avoided emissions, energy, materials and water.
+Table 22: Circular economy contribution by OLX 
+Circular economy
+Included items in calculations FY22 FY21 FY20 FY19
+Electronics (phones, tablets, laptops and televisions) Yes Yes Yes Yes
+Vehicles (cars and motors) Yes Yes Yes Yes
+Car parts Yes No No No
+Books and fashion No Yes Yes Yes
+Impact calculations
+Total items sold (number) 26m 26m 40m 53m
+Total GHG emissions avoided (tCO2e) 5.2m 34m 59m 67m
+Total water use avoided (m3) 645m 357m 481m 719m
+Total material use avoided (tonnes) 3.6m 4.2m 5.5m 8.1m
+Total energy saved (GJ) 122m 477m 842m 955m
+Please note that comparability of impact across the years is limited. Every year OLX improves the methodology to be as accurate as 
+possible about their impact. Changes in the methodology may be due to differences in countries in scope (due to organisational 
+changes) or due to new categories being added. For FY22, OLX added very stringent methodology improvements specifically for the 
+cars and motorcycles category. As this was the biggest category in terms of prevented impact, this resulted in lower prevented 
+impact than the prior years. Please see the OLX Impact Report for more information.
+Circular economy
+PROSUS
+Environmental impact report 2023 13
+
+
+Page 16:
+Glossary
+Term/Acronym Description
+Associate An entity over which we have significant influence, being the power to participate in the financial policy 
+decisions of the entity through our influence on the board of directors. Typically, an entity in which we have 
+an interest of 20% to 50%.
+Circular 
+economy
+An economic system in which waste and pollution is designed out, materials and products are circulated 
+within the economy and regenerates our natural environment.
+Corporate Corporate entities that have offices include the Netherlands, Unites States (Ventures), India, United 
+Kingdom and Hong Kong, and corporate employees shall mean people employed at these offices who 
+are employed by the corporate entities.
+Edtech Educational technology, marrying learning with technology, enabling new and exciting ways for more 
+people to add to their skills and knowledge.
+FSC Forest Steward Council – international, non-governmental organisation dedicated to promoting responsible 
+management of the world’s forests, and the world’s most respected and widespread forest certification 
+system.
+Group Prosus, including its subsidiaries, associates and investees.
+Investment or 
+investee
+An entity over which we don’t have significant influence, being the power to participate in the financial 
+and operating policy decisions of the entity. Generally an entity in which we have an interest of less than 
+20%.
+Majority-owned 
+company
+Portfolio company in which we have a majority shareholding, over which we have financial control (also 
+referred to as a subsidiary).
+Minority 
+investments
+Portfolio company in which we have a minority shareholding, over which we exercise significant influence, 
+but which it does not control (also referred to as an associate).
+PCAF Partnership for Carbon Accounting Financials 
+Plastic Pact National and regional, voluntary initiatives which brings together key stakeholders, both public and private, 
+to implement solutions towards a circular economy for plastic, tailored to each geography.
+Portfolio 
+companies
+Subsidiaries, excluding corporate.
+Processed 
+packaging
+Packaging used by sellers and business partners of Etail companies for the shipment of products to the 
+Etail company, often removed by the Etail company before shipping it onwards to customers of the Etail 
+platforms.
+Procured 
+packaging
+Packaging used by Etail companies for the shipment of products to its customers.
+Science-based 
+climate targets
+Decarbonisation targets that are aligned with the Paris climate agreement to keep global warming to 1.5 
+degrees Celsius.
+Science-based 
+Targets 
+initiative (SBTi)
+A partnership between CDP, the United Nations Global Compact, World Resources Institute (WRI) and the 
+World Wide Fund for Nature (WWF), drives ambitious climate action in the private sector by enabling 
+organisations to set science-based emissions reduction targets.
+Scope 1 
+emissions
+Scope 1 emissions are direct GHG emissions that arise from sources which organisations own or control. In 
+order to determine control, the group will recognise emissions from owned and controlled assets as direct 
+emissions.
+Scope 2 
+emissions
+Scope 2 emissions are indirect GHG emissions that organisations report from the generation of purchased 
+electricity that is consumed for operations owned or controlled. The group will account for electricity 
+purchased for both owned and rented buildings under scope 2.
+14 PROSUS
+Environmental impact report 2023
+
+
+Page 17:
+Term/Acronym Description
+Scope 3 
+category 1 
+emissions
+This category includes all upstream emissions from production of products purchased or acquired by the 
+reporting company in the reporting year. Products include both goods (tangible products) and services 
+(intangible products).
+Scope 3 
+category 6 
+emissions
+This category includes GHG emissions from the transportation of employees for business-related activities 
+through air travel. Business travel includes only corporate office data and excludes all subsidiaries.
+Subsidiary An entity that we control evidenced by:
+ » owning more than one half of the voting rights; 
+ » the right to govern the financial and operating policies of the entity under a statute or an agreement; 
+ » the right to appoint or remove the majority of the members of the board of directors; or
+ » the right to cast the majority of votes at a meeting of the board of directors.
+PROSUS
+Environmental impact report 2023 15
+
+
+Page 18:
+Appendix: GHG inventory scope and boundaries
+Reporting period covered Financial years 2020, 2021, 2022 and 2023.
+Our financial year runs from 1 April to 31 March.
+Organisational boundary GHG accounting for scope 1 and 2 emissions includes assets and facilities that are owned 
+or controlled by our organisation and have more than 10 employees. In some instances, we 
+host employees from our portfolio companies at our owned or controlled office facilities. In 
+this scenario, the employees will be included in the total emissions reporting for that 
+specific facility. There is also the case that office facilities owned or controlled by our 
+portfolio companies host some Naspers and Prosus corporate employees. In this scenario, 
+their emissions will be reported within the boundaries of the portfolio company.
+Operational boundary Scope 1: Direct emissions from owned/controlled operations. 
+Scope 2: Indirect emissions from the use of purchased electricity, steam, heating, and 
+cooling.
+Scope 3: The result of activities from assets not owned or controlled by the reporting 
+organisation, but that the organisation indirectly impacts in its value chain. The 
+methodology, approach, and source of emission factors for the scope 3 categories are 
+specified under each category in the following pages. 
+The following scope 3 categories are material for Prosus:
+Category 1 – Purchased goods and services
+Category 2 – Capital goods
+Category 3 – Fuel and energy-related activities
+Category 4 – Upstream transportation and distribution
+Category 5 – Waste generated in operations
+Category 6 – Business travel
+Category 7 – Employee commuting
+Category 15 – Investments
+Note: Category 8 – category 14 are not applicable for our corporate operations.
+GHG accounting definitions and methodology
+The formula below is used to convert activity data into 
+emissions figures for all Prosus activities:
+Activity data from fuel source x emission factor*  
+= CO2 equivalent (CO2e) emissions
+The following global warming potentials are used in 
+calculation the CO2 equivalent emissions.
+Greenhouse gas GWP**
+Carbon dioxide (CO2) 1
+Methane (CH4) 25
+Nitrous oxide (N2O) 298
+*   Inclusive of global warming potential (GWP). 
+**   Source: 2006 IPCC Guidelines for National Greenhouse Gas Inventories, 
+Greenhouse Gas Protocol Global Warming Potential Values Fourth 
+Assessment Report (AR4). 
+Scope 1: Direct emissions resulting from the use of fossil 
+fuels and refrigerants for operations at owned or 
+controlled assets and office facilities. Specific activities 
+contributing to direct emissions are described below;
+ » Mobile combustion: Fuels that are used in the 
+operation of vehicles of other forms of mobile 
+transportation that include gasoline, diesel, liquid 
+petroleum gas (LPG), AdBlue and fuel oil. 
+ » Stationary combustion: Fuels used for activities such as 
+heating, and in the case of inhibited power supply, for 
+generators to keep the operations going. These 
+include natural gas, gasoline, diesel and LPG.
+Department for Environment, Food and Rural Affairs 
+(DERFA), Intergovernmental Panel on Climate Change 
+(IPCC) and Environmental Protection Agency (EPA) 
+emission factors are used for the calculation of scope 1 
+emissions.
+16 PROSUS
+Environmental impact report 2023
+
+
+Page 19:
+Scope 2: Indirect emissions resulting from the 
+generation of purchased electricity for owned or 
+controlled assets and office facilities. Electricity 
+purchased for both owned and leased buildings will be 
+included within our scope 2 accounting.
+International Energy Agency (IEA) emission factors are 
+used for the calculation of scope 2 emissions
+Scope 3: Indirect emissions resulting from activities at 
+assets and facilities not owned or controlled by us as 
+the reporting organisation. Scope 3 emissions are 
+based on the reporting requirements of the GHG 
+Protocol Corporate Accounting and Reporting Standard. 
+The methodology, approach, and source of emission 
+factors for the scope 3 categories are specified under 
+each category in the following pages. 
+Category 1: Purchased goods and services
+All upstream (ie, cradle-to-gate) emissions from the 
+production of products purchased or acquired by the 
+reporting company in the reporting year. Products 
+include both goods (tangible products) and services 
+(intangible products). 
+Methodology Calculation
+Emission factor 
+source
+Spend-based 
+method 
+Amount spent 
+multiplied by a 
+cost-based 
+emissions factor
+Department for 
+Business Energy 
+and Industrial 
+Strategy, and 
+CEDA Global
+Category 2: Capital goods 
+All upstream (ie, cradle-to-gate) emissions from the 
+production of capital goods purchased or acquired by 
+the reporting company during the reporting year.  
+Methodology Calculation
+Emission factor 
+source
+Spend-based 
+method 
+Amount spent 
+multiplied by a 
+cost-based 
+emissions factor
+Department for 
+Business Energy 
+and Industrial 
+Strategy, and 
+CEDA Global
+Category 3: Fuel and energy-related activities 
+Indirect upstream emissions related to the production of 
+fuels and energy purchased and consumed in the 
+reporting year, which are not included in scope 1 or 2. 
+Well-to-tank (WTT) emissions of purchased fuels, 
+well-to-tank (WTT) emissions of purchased electricity, 
+and transmission and distribution (T&D) losses for 
+purchased electricity are included in this category. WTT 
+emissions account for the emissions arising from the 
+extraction, production, and transportation of fuels 
+consumed or used to generate electricity.
+Methodology Calculation
+Emission factor 
+source
+Average-data 
+method 
+Emissions factor 
+representing 
+the loss of the 
+respective input 
+(petrol, diesel, 
+and electricity)
+multiplied by 
+the activity data
+Department for 
+Environment, 
+Food and Rural 
+Affairs (DEFRA)
+Category 4: Upstream transportation and 
+distribution 
+Transportation and distribution services purchased by 
+the reporting company (either directly or through an 
+intermediary), including inbound logistics, outbound 
+logistics, and third-party transportation and distribution 
+between a company’s own facilities.
+Methodology Calculation
+Emission factor 
+source
+Average-data 
+method 
+Amount spent 
+multiplied by a 
+cost-based 
+emissions factor
+World Input 
+Output database 
+(WIOD), CEDA
+PROSUS
+Environmental impact report 2023 17
+
+
+Page 20:
+Appendix: GHG inventory scope and boundaries continued
+Category 5: Waste generated in operations 
+Emissions from third-party disposal and treatment of solid 
+waste generated in the reporting company’s owned or 
+controlled operations in the reporting year. For solid waste, 
+Prosus uses the waste-type-specific method to estimate 
+emissions and in facilities were this information is not 
+available, country-level waste data is used and extrapolated 
+based on headcount.
+Methodology Calculation
+Emission factor 
+source
+Average-data 
+method 
+Extrapolated 
+based on 
+employee data 
+(headcount)
+Extrapolated 
+based on 
+employee data 
+(headcount) 
+World Input 
+Output database 
+(WIOD), CEDA
+Category 6: Business travel
+Emissions from the transportation of employees for business-
+related activities through air travel. 
+Methodology Calculation
+Emission factor 
+source
+Distance-
+based method 
+Distance 
+travelled by 
+respective class 
+multiplied by an 
+activity-based 
+emissions factor
+Department for 
+Environment, 
+Food and Rural 
+Affairs (DEFRA)
+Category 7: Employee commuting
+Emissions from the transportation of employees between their 
+homes and their worksites. Emissions calculation for this 
+category is based on average employee commuting 
+emissions, such as means of transport and division of car 
+fuels/types. Estimates are based on country-level data 
+extrapolated by headcount of each office facility under scope 
+of reporting. 
+Methodology Calculation
+Emission factor 
+source
+Average-data 
+method
+Extrapolated 
+based on 
+employee data 
+(headcount)
+Centraal Bureau 
+voor de Statistiek 
+(CBS), 
+Department for 
+Environment, 
+Food and Rural 
+Affairs (DEFRA), 
+CEDA
+18 PROSUS
+Environmental impact report 2023
+
+Page 21:
+www.prosus.com
+Gustav Mahlerplein 5
+Symphony Offices
+1082 MS Amsterdam
+The Netherlands
+

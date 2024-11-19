@@ -1,0 +1,3391 @@
+Page 1:
+Sustainability 
+Supplements to the 
+Annual Report 2023
+
+
+Page 2:
+Table of contents
+1 Data definitions, boundaries, and scope 3
+2 Methodology for calculation of social impact 11
+3 Signify additional disclosures 14
+4 Task Force on Climate-related Financial Disclosures (TCFD) 16
+5 Task Force on Nature-related Financial Disclosures (TNFD) 25
+6 GRI content index 28
+7 EU non-financial reporting directive 39
+2 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 3:
+1   Data definitions,  
+boundaries, and 
+scope
+This section sets out the reporting scope and 
+methodology for Signify's 2023 corporate 
+and value chain Greenhouse Gas (GHG) 
+emissions statements as published in this 
+report for the year ended December 31, 
+2023.
+GHG accounting and reporting principles
+Signify adheres to the five key GHG 
+accounting and reporting principles of the 
+GHG Protocol (GHGP) Corporate Accounting 
+and Reporting Standard: 
+• Relevance - the principle of relevance is 
+used for selecting the appropriate GHG 
+inventory boundary that reflects the 
+substance and economic reality of the 
+company’s business relationships, 
+determined by the characteristics of the 
+company, the intended purpose of 
+information, and the needs of the users.
+• Completeness - all relevant emissions 
+sources within the chosen inventory 
+boundary need to be accounted for so that 
+we make sure a comprehensive and 
+meaningful inventory is compiled.
+• Consistency - the consistency principle is 
+to ensure the consistent application of 
+accounting approaches, inventory 
+boundary, and calculation methodologies is 
+essential to producing comparable GHG 
+emissions data over time, to allow trends 
+analysis and assess the performance of the 
+reporting company. If there are changes in 
+the inventory boundary, methods, data or 
+any other factors affecting emission 
+estimates, they need to be transparently 
+documented and justified. Signify defines a 
+significance threshold of 5% for 
+recalculation, that is a cumulative change 
+of five percent or larger in the total base 
+year emissions (tCO2e), in line with the 
+Science-Based Targets Initiative (SBTi) 
+Target Validation Protocol’s threshold of 
+significance. 
+• Transparency - relates to the degree to 
+which information on the processes, 
+procedures, assumptions, and limitations of 
+the GHG inventory are disclosed in a clear, 
+factual, neutral, and understandable 
+manner based on clear documentation and 
+archives (i.e., an audit trail). Signify’s GHG 
+emissions are assured by an independent 
+third party on the basis of “Reasonable 
+Assurance”.
+• Accuracy - data should be sufficiently 
+precise to enable intended users to make 
+decisions with reasonable assurance that 
+the reported information is credible. GHG 
+measurements, estimates, or calculations 
+should be systemically, and the 
+quantification process should be 
+conducted in a manner that minimizes 
+uncertainty.
+Organizational boundaries
+In line with the GHGP relevance principle, 
+Signify follows the operational control 
+approach and accounts for all of its GHG 
+emissions from operations over which it or 
+one of its subsidiaries has operational 
+control. New acquisitions are incorporated in 
+sustainability program and reporting following 
+our Sustainability Reporting Policy as outlined 
+in this supplement under Mergers, 
+acquisitions, divestitures definition.
+Operational boundaries
+Signify accounts for all of its direct and 
+indirect GHG emissions of Scopes 1, 2, and 3 
+from operations over which it or one of its 
+subsidiaries has operational control. It 
+accounts for all 7 greenhouse gases under 
+the Kyoto Protocol, namely carbon dioxide 
+(CO2), methane (CH4), nitrous oxide (N2O), 
+3 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 4:
+hydrofluorocarbons (HFCs), 
+perfluorocarbons (PFCs), sulphur 
+hexafluoride (SF6), and nitrogen trifluoride 
+(NF3), where applicable and expressed in 
+CO2-equivalent. Signify does not have 
+material GHG emissions other than CO2. 
+Signify does not use biomass or biofuels, thus 
+does not have material biogenic emissions. 
+For our 2025 target of doubling the pace of 
+the Paris Agreement 1.5 degrees pathway to 
+decarbonize our entire value chain, 2019 was 
+chosen as the base year. It is the earliest year 
+of verifiable emissions data for all categories 
+of Scope 1, Scope 2, and Scope 3 were data 
+was available. Scope 2 emission targets have 
+been calculated using the market-based 
+method.
+A detailed list of activities in our GHG 
+inventory is as follows:
+Scope 1 - Direct GHG emissions, from 
+stationary fuel combustion (including natural 
+gas, diesel, gasoline, propane, LPG, and fuel 
+oil), process emissions, and fugitive emissions 
+from the use of refrigerants.
+Scope 2 - Indirect GHG emissions, from 
+purchased electricity, heat, and steam. Scope 
+2 GHG emissions are accounted for using 
+both the location-based method and the 
+market-based method.
+Scope 3 - Other indirect emissions, from the 
+following categories that are relevant for 
+Signify: 
+Category 1 – Purchased goods and services
+Category 2 – Capital goods
+Category 3 – Fuel- and energy-related 
+activities not included in Scope 1 or Scope 2
+Category 4 – Upstream transportation and 
+distribution
+Category 5 – Waste generated in operations
+Category 6 – Business travel
+Category 7 – Employee commuting
+Category 8 – Upstream leased assets:  not 
+applicable. According to the GHG protocol 
+definition, this category is not applicable to 
+Signify as Signify does not have upstream 
+leased assets.
+Category 9 – Downstream transportation and 
+distribution
+Category 10 – Processing of sold products is 
+not applicable. According to the GHG 
+protocol definition, this category is not 
+applicable to Signify, as Signify does not have 
+sold products that require processing. 
+Category 11 – Use of sold products
+Category 12 – End-of-life treatment of sold 
+products
+Category 13 – Downstream Leased Assets: 
+not applicable. According to the GHG 
+protocol definition, this category is not 
+applicable to Signify as Signify does not have 
+downstream leased assets.
+Category 14 – Franchises: not applicable. 
+According to the GHG protocol definition, this 
+category is not applicable to Signify as Signify 
+does not have Franchises.
+Category 15 – Investments: not applicable. 
+According to the GHG protocol definition, this 
+category is not applicable to Signify as Signify 
+reports emissions from investments (joint 
+venture) fully in scopes 1 and 2.
+Avoided emissions
+In addition to the reported GHG emissions 
+from Scope 1, 2, and 3, Signify also reports 
+the avoided emissions (also known as Scope 4 
+emissions) to help our stakeholders such as 
+customers and investors understand the 
+environmental benefits associated with 
+Signify’s energy efficient LED-based lighting 
+products and solutions.
+The avoided emissions are calculated based 
+on LED-based products replacing less energy 
+efficient conventional lighting products. 
+Signify developed the following formula for 
+quantifying avoided emissions:
+Avoided emissions = [(weighted average 
+wattage of conventional - weighted average 
+wattage of LED)] * weighted average lifetime 
+of LED * quantity of sold LED * rate of LED 
+replacing conventional * global average 
+electricity emission factor 
+• The weighted average wattage of Signify’s 
+conventional portfolio as benchmark of 
+market reference for conventional lighting 
+products.
+• The weighted average wattage of Signify’s 
+LED-based products as benchmark of 
+market reference for LED-based lighting 
+products.
+• The weighted average lifetime hours of 
+Signify’s LED-based products as 
+benchmark of market reference for LED-
+based lighting products.
+• The quantity of sold LED refers to the total 
+products, systems, and services with LED 
+and Connected LED technologies sold in 
+the reporting year.
+• The global rate of LED replacing 
+Conventional is 71% in 2023. The 
+breakdown of the lighting market by 
+technology replacing technology is Signify’s 
+best estimate hereof, based on the market 
+modeling done by the central Market & 
+Competitive Intelligence team.
+• The global average electricity emission 
+factor is from IEA in kg CO2e per kWh for 
+the reporting year, including emissions 
+from both total upstream and combustion, 
+as required by the GHG protocol Scope 3 
+Calculation Guideline.
+4 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 5:
+GHG accounting methodology
+This table presents an overview of Signify’s GHG emissions calculation methods for each category. The Global-warming potential values (GWP) of the 100-year GWP of the latest IPCC Assessment 
+Report (AR5 or AR6) have been used.
+Scope 1 Scope 1 emissions are calculated based on the purchased quantities of stationary fuels (such as natural gas and diesel) and refrigerants, multiplied 
+by published emission factors from the listed sources. Primary data is used in the calculation for the majority of Signify industrial and non-industrial 
+sites, while extrapolation is made for small sites with a immaterial energy footprint, based on the floor area. Activity data is collected, reported, 
+and validated internally. The data is managed in a digital GHG accounting and reporting platform, which also performs the calculations.
+IPCC
+EPA Emission Factor 
+Hub
+DEFRA (UK Department 
+for Environment Food 
+and Rural Affairs)
+Scope 2 Location-
+based
+Scope 2 location-based emissions are calculated based on the purchased electricity, multiplied by the average electricity grid emission factors at 
+the national or regional levels. Primary data is used in the calculation for the majority of Signify industrial and non-industrial sites, while 
+extrapolation is made for immaterial estimation sites as defined in our environmental reporting policy, based on the floor area. Activity data is 
+collected, reported, and validated internally. The data is managed in a digital GHG accounting and reporting platform, which also performs the 
+calculations.
+IEA
+eGRID
+Scope 2 Market-
+based
+Scope 2 market-based emissions are calculated based on the purchased electricity, multiplied by the residual emission factors and the emission 
+factors associated with the contractual instruments (namely Power Purchase Agreement, renewable electricity contract, bundled and un-bundled 
+energy attribute certificates). Primary data is used in the calculation for the majority of Signify industrial and non-industrial sites, while 
+extrapolation is made for small estimation sites as defined in our environmental reporting policy, based on the floor area. Activity data is collected, 
+reported, and validated internally. The data is managed in a digital GHG accounting and reporting platform, which also performs the calculations.
+Green-e Residual Mix 
+Emission Factors
+RE-DISS Residual Mix 
+Emission Factors
+Scope 3 
+Category 1 – 
+Purchased goods 
+and services
+This category includes all upstream (cradle-to-gate) emissions from the extraction, production, and transportation of goods and services 
+purchased by Signify in the reporting year. A spend-based method is applied to calculate emissions for this category based on Signify’s spend per 
+sector in the reporting year, multiplied by the upstream supply chain emission factor by sector. The spend data is collected internally from our 
+financial system and is part of our integral financial statement. 
+EPA Supply Chain GHG 
+Emission Factors
+DEFRA Indirect 
+emissions from supply 
+chain
+Scope 3 
+Category 2 - 
+Capital goods 
+This category includes all upstream (cradle-to-gate) emissions from the extraction, production, and transportation of capital goods purchased by 
+Signify in the reporting year. A spend-based method is applied to calculate emissions for this category based on Signify’s spend per sector in the 
+reporting year, multiplied by the upstream supply chain emission factors by sector. The spend data is collected internally from our financial system 
+and is part of our integral financial statement. 
+EPA Supply Chain GHG 
+Emission Factors
+DEFRA Indirect 
+emissions from supply 
+chain
+Scope 3 
+Category 3 - Fuel 
+and energy-related 
+activities not 
+included in Scope 1 
+or 2
+This category includes all upstream (cradle-to-gate) emissions from the extraction, production, and transportation of fuels and energy purchased 
+by Signify in the reporting year, not already accounted for in Scope 1 or 2, including upstream emissions of purchased fuels, upstream emissions of 
+purchased electricity, and transmission & distribution (T&D) losses.
+An average-data method is applied to calculate emissions for this category. The upstream emissions from fuels are calculated based on the 
+purchased fuels, multiplied by the upstream emission factors for each fuel type. The upstream emissions from electricity are calculated based the 
+purchased electricity multiplied by upstream emission factors at the national level. The emissions from the transmission & distribution (T&D) losses 
+are calculated based the purchased electricity, multiplied by the T&D losses from DEFRA. The purchased fuels and electricity data is collected as 
+described in Scope 1 and Scope 2.
+DEFRA
+IEA
+Scope Emissions calculation method and data source Emission factor source
+5 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 6:
+Scope 3 
+Category 4 - 
+Upstream 
+transportation and 
+distribution
+This category includes all emissions from transportation and distribution of raw materials, components and finished products purchased by Signify 
+in the reporting year between its tier 1 suppliers and own operations, and between own facilities (in vehicles and facilities not owned or controlled 
+by the Signify). 
+A distance-based method is applied to calculate emissions for this category, which is done by determining the mass, distance, and mode of each 
+shipment, and then multiplied by the appropriate mass-distance emission factor per mode of transport. Emissions from transportation and 
+distribution are calculated per mode of transport, namely ocean transport, air transport, and road transport. 
+The transportation and distribution mass, origin, and destination data at shipment level is primarily collected internally in our TMS (Transport 
+Management System). When not available in TMS, we collect transportation and distribution data directly from the logistic service providers. The 
+transport distance is calculated using the digital GHG accounting and reporting platform based on the origin and destination at shipment level. 
+It is worth noting that the transportation and distribution data collected (from our internal system and from logistic service providers) does not 
+differentiate for upstream and downstream, therefore the emissions from Category 4 (upstream) and Category 9 (downstream) are grouped and 
+reported together in our Annual Report as “Logistics”.
+DEFRA
+Clean Cargo/Smart 
+Freight Center
+Scope 3 
+Category 5 - Waste 
+generated in 
+operations
+This category includes all emissions from disposal and treatment of waste generated in our own operations in the reporting year (in facilities not 
+owned or controlled by Signify).
+A waste-type-specific method is applied to calculate emissions for this category, which is done by consolidating mass data for each waste type 
+and for each waste disposal or treatment method, multiplied by the corresponding emission factors primarily from EPA WARM tool, when not 
+available, emission factors from Ecoinvent are used.
+The waste types include canteen wastes, electrical and electronics wastes, paper and cardboard, plastics, and wastewater; the waste disposal 
+and treatment methods include recycling, incineration, and landfill. Waste data is collected, reported, and validated internally. The data is managed 
+in a digital GHG accounting and reporting platform. 
+EPA WARM (Waste 
+Reduction Model)
+Ecoinvent 
+Scope 3 
+Category 6 - 
+Business travel
+This category includes all emissions from the transportation of employees for business-related activities (in vehicles not owned or operated by 
+Signify), specifically air travel, leased cars, and rental cars in the reporting year.
+A distance-based method is applied to calculate emissions for air travel, which is done by consolidating the travelled distances of each haulage 
+type and then multiplied by the appropriate haulage emission factors. A distance-based method is applied to calculate emissions for rental cars, 
+which is done by consolidating the travelled distances and then multiplying by the appropriate emission factors. A fuel-based method is applied to 
+calculate emissions for leased cars, which is done by consolidating the amount of fuel consumed during business travel and applying the 
+appropriate emission factor for that fuel.
+The business travel activity data is collected directly from our business travel service providers and validated internally. The data is managed in a 
+digital GHG accounting and reporting platform; where the calculations are also performed.
+DEFRA
+Scope 3 
+Category 7 - 
+Employee 
+commuting
+This category includes all emissions from the transportation of employees between their homes and their worksites the reporting year (in vehicles 
+not owned or operated by Signify), specifically automobile travel, bus travel and rail travel.
+A distance-based average method is applied to calculate emissions for this category, which is done by determining the percentage of employee 
+commuting modes, the distances of each commuting mode, and then multiplied by the appropriate emission factors. 
+The total number of employees (FTE) is collected internally from our HR systems and assured externally. The commuting activity data (percentage 
+of employees per commuting mode and travelled distances) are based on assumptions from the EU, as accurate and detailed data is not 
+consistently available due to, among others, privacy reasons. 
+DEFRA
+Scope Emissions calculation method and data source Emission factor source
+6 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 7:
+Scope 3 
+Category 9 - 
+Downstream 
+transportation and 
+distribution
+This category includes all emissions from transportation and distribution of raw materials, components and finished products purchased by Signify 
+in the reporting year between its own operations and customers (in vehicles and facilities not owned or controlled by the Signify). 
+A distance-based method is applied to calculate emissions for this category, which is done by determining the mass, distance, and mode of each 
+shipment, and then multiplied by the appropriate mass-distance emission factor for per mode of transport. Emissions from transportation and 
+distribution are calculated per mode of transport, namely ocean transport, air transport, and road transport. 
+The transportation and distribution mass, origin, and destination data at shipment level are primarily collected internally from our TMS (Transport 
+Management System). When not available in TMS, we collect transportation and distribution data directly from the logistic service providers. The 
+transport distance is calculated using a digital GHG accounting and reporting platform based on the origin and destination at the shipment level.
+It is worth noting that the transportation and distribution data collected (from our internal system and from logistics service providers) do not 
+differentiate for upstream and downstream, therefore the emissions from Category 4 (upstream) and Category 9 (downstream) are grouped and 
+reported together in our Annual Report as “Logistics”.
+DEFRA
+Clean Cargo/Smart 
+Freight Center
+Scope 3 
+Category 11 - Use 
+of sold products
+This category includes all the direct use-phase emissions of products that are sold in the reporting year and consume energy (in our case, 
+electricity) over their expected lifetime. This means for sold products that are not energy-consuming, i.e., components, accessories, and lighting 
+controls, category 11 is not applicable therefore not part of the emissions calculation. The majority (more than 90%) of our value-chain emissions 
+comes from the indirect emissions of product use, to quantify emissions from Category 11, the following calculation method is used:
+∑CO2e (per 12NC) = sold product quantity per country * power * lifetime * CO2e emission factor per country
+Where: 
+• Sold product quantity - the total unit of products sold to a specific country in the reporting year at the 12NC level (which is the lowest level of 
+our product hierarchy with the highest level of resolution), downloaded from our internal financial reporting system and is part of our integral 
+financial statement;
+• Power - the externally claimed wattage of each energy consuming product, collected internally from each Signify business unit from their data 
+management systems or via data sheets; the wattage data is obtained from official technical documents (such as test reports, product 
+specification sheet, technical data sheet, and packaging information) that are created based on the industrial standards such as the International 
+Electrotechnical Commission (IEC) Standards;
+• Lifetime - the externally claimed total use hours of each energy consuming product, collected internally from each Signify business unit from 
+their data management systems or via data sheets; the lifetime data is obtained from official technical documents (such as test reports, product 
+specification sheet, technical data sheet, and packaging information) that are created based on the industrial standards such as the International 
+Electrotechnical Commission (IEC) Standards;
+• CO2e emission factor per country - the CO2e intensity data in kg CO2e per kWh, from IEA for the reporting year, including emissions from both 
+total upstream and combustion, as required by the GHG protocol Scope 3 Calculation Guideline.
+IEA
+Scope Emissions calculation method and data source Emission factor source
+7 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 8:
+Scope 3 
+Category 11 - Use 
+of sold products
+(cont.)
+Uncertainties and assumptions in the calculation of Category 11 emissions
+A reliable and in-depth reporting of Category 11 is challenging, especially for Signify with a diverse portfolio covering more than 70,000 unique 
+products at the 12NC level. We recognize the uncertainty mainly lies in data completeness and data accuracy. To tackle, this, we have set up 
+governance, processes, systems, and controls within Signify to facilitate the end-to-end process of accounting Category 11 emissions. In terms of 
+completeness, our 2022 and 2023 product data coverage was greater than 95%. Still, there is a small gap in our product data because for some 
+special one-off local projects, product technical data is not maintained in a centralized data system. For products where data is not available, 
+their emissions are extrapolated based on the actual emissions calculated within the same business unit. In terms of accuracy, multi-level control 
+procedures have been implemented including statistical validation based on mean, medium, most repeated values. Data for sold products is 
+collected internally and assured as part of the financial statements audit. The data is managed in a digital data warehouse and reported in a 
+dynamic dashboard. 
+IEA
+Scope 3 
+Category 12 - End-
+of-life treatment 
+of sold products
+This category includes all emissions from waste disposal and treatment of products sold by the reporting company in the reporting year at the end 
+of their life. A waste-type-specific method is applied to calculate emissions for this category, which is done by consolidating total mass data of 
+sold products and packaging, their material compositions and the waste disposal or treatment methods, multiplied by the corresponding emissions 
+factors primarily from EPA WARM tool, when not available, emission factors from Ecoinvent are used.  The product end-of-life waste types include 
+electrical and electronic waste, plastic waste, and glass; the waste disposal and treatment methods include recycling, incineration, and landfill.  
+The mass of sold products and packing data are collected, reported and validated internally.
+EPA WARM (Waste 
+Reduction Model)
+Ecoinvent 
+Scope Emissions calculation method and data source Emission factor source
+Data definitions and boundaries
+Brighter lives revenues1 
+Revenues coming from our portfolio which 
+benefit society focusing on three main 
+sustainability areas: 
+• Food availability: Lighting designed to 
+enable the production of more and better-
+quality food, while optimizing the use of 
+land, water and energy and   avoiding 
+pesticides. It includes all dedicated 
+horticulture products2 and systems, all 
+dedicated urban farming products and 
+systems, all dedicated marine-based and 
+land-based aquaculture products and 
+systems, all dedicated animal farming 
+products and systems
+• Safety & security: Lighting designed to 
+have a positive effect in reducing crimes 
+such as burglary and theft in cities and 
+houses, as well as increasing safety in 
+traffic and protection against cybercrime 
+and fraud. It includes Interact solution for 
+cities, System solutions for tunnels, 
+Outdoor lighting equipped with special 
+sensors, Emergency lighting and Lifi 
+systems, Black Light Blue lamps and 
+luminaires
+• Health & well-being: Lighting designed to 
+support health, well-being and 
+performance of humans through unlocking 
+the visual, biological and emotional benefits 
+of light, and lighting designed to support 
+well-being for wildlife. It includes 
+EyeComfort, Lighting for well-being, 
+Tunable products during use phase, Non-
+invasive health supporting products and 
+disinfection.
+Signify's portfolio of products contributing to 
+Brighter lives revenues continues to grow as 
+we drive sustainable innovations across these 
+three focal areas. 
+Circular revenues1
+Revenues coming from our circular portfolio 
+meaning lighting products*, systems and 
+services that maximize (re)usability, 
+serviceability, and upgradability and minimizes 
+value destruction with the aims to preserve 
+value and avoid waste to landfill. Lighting 
+solutions contributing to this definition 
+include:
+• Serviceable luminaires: luminaire with easily 
+replaceable (using standard, widely 
+accessible tools) driver and controls and 
+LED board to facilitate lifetime 
+prolongation, or designed as circular 
+economy ready luminaires requiring an EPD
+• Circular components: replaceable and 
+recyclable LED and conventional drivers 
+and modules, most sensors supporting 
+system functionality, 3D printed housings
+• Intelligent assets: lifetime monitoring and 
+preventive maintenance scheduling
+• Circular services: services to prolong 
+luminaire lifetimes and managed services 
+with end of contract return options
+Employee data 
+The total number of employees comprises all 
+employees, including from newly acquired 
+companies and temporary employees, but 
+excludes interns. Social data covers all 
+employees that have been fully integrated in 
+our system and exclude contingency workers. 
+The Employee Net Promoter Score (NPS) 
+survey is performed on a quarterly basis and 
+is calculated through a weighted average for 
+8 Signify Sustainability Supplements 2023 < ≡ >
+1 Data stems from internal documentation based on the product attributes and is a manual process, therefore, there could be inherent uncertainties within the calculation.
+2 Products = light sources, luminaires, control gears, sensors (LED and conventional).
+
+Page 9:
+the whole year using the respondents and 
+results. It includes employees with access to 
+a company email address.
+Environmental data 
+Environmental data from manufacturing 
+operations are reported quarterly or half-
+yearly, according to defined company 
+guidelines that include definitions, 
+procedures and calculation methods. A 
+robust system of internal controls has been 
+implemented to safeguard consistent data 
+quality. The results are tracked and internally 
+reported to measure progress against our 
+program targets. Data on operational energy 
+usage includes energy use from 
+manufacturing sites and non-industrial sites & 
+excludes transmission losses to the grid. 
+Most of the environmental data covers a 
+reporting period from the 1st of December 
+2022, until the 30th of November 2023.
+Health & Safety 
+Health & Safety data is reported by sites with 
+more than 50 FTEs (full-time equivalents) and 
+voluntarily reported by sites with fewer 
+employees. Health & Safety data is reported 
+and validated monthly. The focus of reporting 
+is on work-related injuries and illnesses that 
+predominantly occur in manufacturing 
+operations and lead to a recordable injury or 
+illness case. Recordable cases include all 
+injuries and illnesses sustained at work that 
+result in medical treatment, restricted work, 
+lost workdays, or fatality. All injury and illness 
+cases are reported for staff and contractors 
+as outsourced workforce. The TRC and LWIC 
+KPIs refer to all reported cases for 
+permanent & temporary employees, including 
+students & interns. 
+Integrity code
+Alleged Integrity code concerns are 
+registered via our internet-based reporting 
+and validation tool. Our Ethics line, 
+www.signify.ethicspoint.com is available to all 
+employees and outside parties, allowing 
+concerns to be anonymously registered by 
+telephone or through an online web form. In 
+addition, local compliance officers are 
+available globally, to register concerns on 
+behalf of employees. The Integrity code 
+concerns encompass all concerns registered 
+in the Ethics line database opened 
+throughout the financial year.
+Lives Lit and Community support
+The Signify Foundation and Signify’s CSR 
+program focus on lives lit, entrepreneurs 
+trained and humanitarian lighting. We define 
+lives lit as the number of people that are 
+enabled first access to solar lighting (indoor/
+outdoor), access to improved lighting (LED 
+lighting), or access to the benefits of lighting 
+(horticulture, UV-C). The beneficiaries are 
+either reached directly through provision of 
+lighting products, or indirectly through 
+supported partners. For entrepreneurs 
+trained we count the people who have been 
+provided with business and/or technical skills 
+training through our funding support. For 
+Humanitarian lighting, we count the projects 
+that have been led during the reporting year.
+Living wages
+Signify defines a living wage as the gross 
+monthly wage needed to cover the necessary 
+living costs of an individual or a family. It is 
+calculated as the gross income necessary to 
+afford these expenditures. For all countries 
+examined (Poland, Mexico, Netherlands, 
+China, the United States of America, and 
+India, which represents 70% of the 
+workforce), Signify used WageIndicator’s 
+database (date: Q2 2023) to set its baseline. 
+WageIndicator’s database offers different 
+variations of family model (individual, with or 
+without child, national fertility rate) and 
+employment rates (full-time, part-time, 
+national employment rate). To perform its 
+analysis, Signify selected the “Standard 
+family” Living Wage as we believe it reflects 
+better the average family composition across 
+our countries of operation, maintains a stable 
+method of comparison, and is the 
+WageIndicator recommended family variation. 
+The Standard Familiy Living Wage indicates a 
+gross monthly income range for a full-time 
+equivalent worker at which the total earned 
+family income is sufficient to cover necessary 
+costs. The standard family includes two adults 
+and two children (family 2+2) and the family 
+employment rate is 1.8, which means one 
+adult is a full-time worker and the second 
+adult has a working week of 80% (4 days a 
+week). Signify uses the lower range of the 
+Standard family model for its analysis. The 
+reason for the WageIndicator database 
+selection was the extensive coverage of 
+countries, the sample-method, and the 
+research institutes involved with their study, 
+including Harvard Law School and the 
+University of Amsterdam. Signify does not 
+independently validate data from 
+WageIndicator, thereby causing an inherent 
+uncertainty regarding the accuracy of the 
+data. Statements on living wage pertain to all 
+employee types in all pay grades (including 
+Cooper but excluding LeiFei and Klite), 
+including temporary employees, but excludes 
+interns, international assignees, remote and 
+homeworkers.
+Mergers, acquisitions, divestitures
+New Signify ventures are included in 
+environmental and social disclosures to the 
+extent that the integration process of these 
+ventures has sufficiently been finalized. 
+Assuming new ventures’ sustainability 
+reporting and availability of data conform with 
+Signify requirements, the normative 
+integration period is two years. Whenever the 
+normative period is not realistic, we will 
+deviate and disclose it in our Annual Report. 
+Divestitures completed before December 
+31st of the book-year are excluded from 
+environmental and social reporting. 
+In case Signify acquires a new manufacturing 
+site or office (whether it is leased or owned), 
+Signify has 24 months to ensure the site is 
+integrated in its sustainability commitments. 
+According to the GHG protocol, for 
+consistent tracking of emissions over time, 
+the base year emissions should be 
+recalculated in case of significant structural 
+changes such as acquisitions, divestments, 
+and mergers. We follow the structural 
+changes guideline and the SBTi threshold of 
+5%.
+Plastic free packaging
+Our plastic free packaging policy aims to 
+eliminate all fossil-fuel based plastics from 
+our consumer packaging. The scope of the 
+packaging requirements is applicable for the 
+packaging components used for Signify 
+finished products and includes: 
+• Packaging for all newly introduced 
+products and changes in packaging of 
+current portfolio transport packaging (e.g. 
+A-boxes and palette boxes) 
+• Individual product packaging (e.g. boxes, 
+blisters, and sleeves) 
+• Supportive packaging materials (e.g. 
+pallets, stretch foil, stowing materials)
+9 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 10:
+Sustainable supply chain 
+Supplier audits focus on risk suppliers, based 
+on identified risk countries, (forecasted) 
+spend and maturity level. Risk countries for 
+supply chain management in 2023 can be 
+found on our website. The supplier 
+sustainability performance rate is defined as 
+the percentage of all active risk suppliers 
+that have had an audit score of at least 90 
+out of 100 points in the defined timeframe 
+(yearly or every 3-year based on maturity 
+level). Suppliers are considered compliant by 
+passing the audit, resolving identified non-
+conformities, or  are expected to resolve 
+identified non-conformities within 6 months. 
+The CDP supply chain results are based on 
+self-reporting from suppliers. This causes an 
+inherent uncertainty of the accuracy of 
+impacts from their emission reduction 
+activities. 
+Sustainable innovation 
+Sustainable innovation comprises all R&D 
+activities contributing to our sustainable focal 
+areas. This means all research and new 
+development of products, systems, or 
+services that demonstrate a measurable 
+positive impact in energy efficiency (10% or 
+greater), and preferably also in one or more 
+sustainable focal areas: Energy & solar, 
+Circularity, Packaging, Substances, Weights & 
+materials, Safety & Security, Health & well-
+being, Food availability. Sustainable innovation 
+spend is the cumulative spending of all R&D 
+projects contributing to sustainable 
+innovation. 
+Waste to landfill 
+The amount of waste sent to landfill is 
+calculated on a quarterly basis and includes 
+waste from manufacturing locations with 
+more than 50 manufacturing FTE and 
+voluntarily reported by some manufacturing 
+sites.
+To achieve “zero (manufacturing) waste to 
+landfill”, the amount of non-hazardous 
+manufacturing waste being disposed directly 
+to landfill should be <1% of total waste. In our 
+approach to zero, we exclude:
+• Chemical waste: hazardous/non-hazardous 
+and other waste classified as hazardous,
+• One time waste: e.g. demolition, 
+construction waste,
+• Regulated waste: if governed by legal 
+requirements to be landfilled, or the waste 
+collection and/or treatment company is 
+governed by local legal requirements.
+The out-of-scope material represents 1.38% 
+of our total manufacturing waste.
+Women in Leadership
+% Women in Leadership KPI is the percentage 
+of women as a percentage of the total 
+population in grades H22 and above. It 
+includes employees with or without a defined 
+end date and international assignees who are 
+in Workday, with compensation grades H22 
+and above (including EXCO). The source of 
+data is Workday. It excludes: contingent 
+workers; newly acquired companies (e.g., 
+Klite),  companies not in Workday and 
+companies not yet integrated into the Signify 
+operating model and therefore can not be 
+considered for KPIs due to missing data 
+points; employees not in the FTE count (e.g., 
+interns) and factory and warehouse workers 
+are excluded as there are no leadership roles 
+in these groups.
+10 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 11:
+2  Methodology for 
+calculation of 
+social impact
+Signify societal impact
+At Signify, sustainability is central to our 
+company, strategy, and purpose. Our aim is 
+to balance economic, social, and 
+environmental considerations. We strive to 
+maximize long-term value-creation along 
+these three dimensions.
+To guide our efforts and measure our 
+progress, we have made our approach 
+towards long-term value creation more 
+transparent by preparing our Annual Report 
+in line with key-elements of the International 
+Integrated Reporting Council’s (IIRC) 
+Integrated Reporting framework.
+At the core of our reporting approach is the 
+value creation model, included under section 
+3 of our Annual Report 2023. This model 
+shows how our business activities draw on 
+various financial, environmental, and social 
+resources that get converted to outputs. 
+Our activities and their outputs lead to 
+outcomes in terms of the impact for our 
+stakeholders and society at large.
+By expressing these impacts in monetary 
+terms, we can better compare the financial, 
+social, and environmental effects of our 
+business. This enables more effective and 
+efficient decision making and gives a holistic 
+view on our most prominent risks and 
+opportunities. It also provides further 
+transparency to our stakeholders on our 
+company performance.
+Impact Valuation
+Impact valuation is a way to identify, 
+understand, improve, and demonstrate the 
+value and cost of our business activities on 
+society - such as the cost to society of our 
+operational carbon emissions and the value 
+to society of our tax payments. 
+To facilitate comparability, the impacts and 
+external effects of business activities are 
+measured and valued in monetary terms. By 
+nature, financial, social, and environmental 
+impacts are positive or negative. By applying 
+shadow prices to the impacts of activities, 
+societal costs and benefits are determined. 
+By publishing the results of our analysis and 
+methodology, context and underlying 
+assumptions are made transparent to our 
+stakeholders. We strive to contribute to a 
+global shift from traditional reporting to 
+impact analysis via global standards based on 
+the Impact Valuation Roundtable3
+Signify societal impact trend
+The table below provides an overview of our 
+societal impact and the trend over time. 
+Signify is on a journey to measure all its 
+business impacts along the economic, social, 
+and environmental dimensions. Where 
+possible, we aim to extend the scope of our 
+analysis on an annual basis as our insights 
+increase further. 
+11 Signify Sustainability Supplements 2023 < ≡ >
+3 WBCSD Impact Valuation White Paper
+
+
+Page 12:
+Methodology for calculating our societal 
+impact
+Scope of impact analysis
+The table above shows which metrics were 
+included in our analysis to determine societal 
+impacts. 
+Detailed considerations
+The following section highlights per indicator 
+the boundaries to determine shadow prices, 
+references to the academic sources, and the 
+base price that was applied. 
+Environmental impacts
+This section explains the different metrics 
+that were included in determining our 
+environmental impact. 
+Carbon emissions
+Signify reports in line with the Greenhouse 
+Gas Protocol (GHGP). The market-based 
+method of reporting is used as a reference 
+for calculating our carbon footprint. 
+• Scope 1 – direct CO2 emissions – is based 
+on direct emissions from our industrial and 
+non-industrial sites in full. 
+• Scope 2 – indirect CO2 emissions – is 
+based on indirect emissions from our 
+industrial and non-industrial sites in full. 
+• Scope 3 – other CO2 emissions related to 
+activities not owned or controlled by 
+Signify is based on indirect emissions from 
+Business travel, Logistics, Product Use.  
+• Scope 4 – avoided CO2 emissions – is 
+based on use of our LED lamps & luminaires 
+replacing less energy efficient 
+conventional lighting products.
+When we mention carbon emission, we refer 
+to our carbon dioxide equivalent emissions 
+calculations. We convert all Kyoto gasses 
+(CO2, CH4, N2O, HFCs, PFCs, and SF6) into 
+CO2 emissions while calculating our 
+environmental footprint. 
+Shadow price considerations: Costs of 
+changes in net agricultural productivity, 
+human health, property, damages from 
+increased flood risk due to climate change.
+Shadow price sources: EPA’s SC-CO2
+S. Dietz et al. (2018), LSE
+Base price applied: €119.30 per tonne CO2
+Additional information for Scope 4 – Avoided 
+CO2 emissions
+The avoided emissions related to scope 3-
+use phase. To calculate the avoided 
+emissions from LED lamps & luminaires, the 
+following is determined:
+• The weighted average wattage of Signify’s 
+conventional portfolio as benchmark of 
+market reference for conventional lighting 
+products.
+• The weighted average wattage of Signify’s 
+LED-based products as benchmark of 
+market reference for LED-based lighting 
+products.
+• The weighted average lifetime hours of 
+Signify’s LED-based products as 
+benchmark of market reference for LED-
+based lighting products.
+• The quantity of sold LED refers to the total 
+products, systems, and services with LED 
+and Connected LED technologies sold in 
+the reporting year.
+• The global rate of LED replacing 
+Conventional is 71% in 2023. The 
+breakdown of the lighting market by 
+technology replacing technology is 
+Signify’s best estimate hereof, based on 
+the market modeling done by the central 
+Market & Competitive Intelligence team.
+• The global average electricity emission 
+factor is from IEA in kg CO2e per kWh for 
+the reporting year, including emissions 
+from both total upstream and combustion, 
+as required by the GHG protocol Scope 3 
+Calculation Guideline.
+12 Signify Sustainability Supplements 2023 < ≡ >
+Dimension Indicator Summarized consideration Boundary
+Environmental impacts Carbon emissions Impact on climate due to emitted greenhouse gas emissions 
+in scope 1, 2 and 3 - business travel and logistics Own operations
+Impact on climate due to avoided greenhouse gas emissions 
+through our energy efficient LED lamps & luminaires. Products
+Waste disposal Impact on environment due to waste disposal Own operations
+Biodiversity Biodiversity and ecosystem services conserved and restored 
+through carbon offsetting program Society
+Water usage Impact on water scarcity due to water consumption Own operations
+Social impacts Injuries & fatalities Impact on workers & communities due to occupational 
+injuries and fatalities Own operations
+Training investments Impact due to training & development of our employees and 
+entrepreneurs trained by the Signify Foundation
+Own operations and 
+value chain
+Salaries & benefits Impact on economy through remuneration of employees Own operations
+Financial impacts Interest Impact on economy through interest payments to suppliers 
+of capital Own operations
+Taxes Impact on economy through tax payments in countries where 
+we operate Own operations
+Shareholder returns Impact on economy through total shareholder return Own operations
+Formula developed by Signify: 
+Avoided emissions = [(weighted average 
+wattage of conventional - weighted 
+average wattage of LED)] * weighted 
+average lifetime of LED * quantity of sold 
+LED * rate of LED replacing conventional * 
+global average electricity emission factor
+
+Page 13:
+Biodiversity and ecosystem services 
+conserved and restored through carbon 
+offsetting program
+Through carbon offsetting projects, Signify 
+contributes to conserving and restoring 
+forests. The ecosystem services these 
+forests provide are extensive and contribute 
+to enhancing or maintaining the biodiversity in 
+those areas.
+Shadow price considerations: Societal value 
+produced by conserving and restoring 
+forests in terms of the following ecosystem 
+services which these forests provide: food, 
+(fresh) water supply, raw materials, genetic 
+resources, medicinal resources, ornamental 
+resources, influence on air quality, climate 
+regulation, moderation of extreme events, 
+regulation of water flows, waste treatment/
+water purification, erosion prevention, 
+nutrient cycling and maintenance of soil 
+fertility, pollination, gene pool protection, 
+and opportunities for recreation and tourism.
+Shadow price sources: TEEB, 2010, adjusted 
+for inflation.
+Base price applied: €14,934.28 per ha of 
+tropical forests conserved or restored 
+Waste disposal
+Data consists of manufacturing waste that is 
+delivered for landfill or incineration. Due to 
+the residual value of recycling, this method of 
+waste disposal is excluded from our 
+calculations.
+Shadow price considerations: Amenity costs 
+(odor, visual impact, noise) and costs from 
+emissions to air affecting global warming, 
+health, damage to buildings and materials, 
+and loss of agricultural production. 
+Shadow price sources: Liu (2021), adjusted 
+for inflation. 
+Base price applied: €17.11 per tonne waste to 
+landfill, €25.04 per tonne waste to 
+incineration
+Water usage
+Data consists of water usage in our 
+operations, both purchased and extracted 
+from groundwater wells.
+Shadow price considerations: water scarcity 
+costs, impacting human health, net 
+agricultural productivity, and environmental 
+deterioration.
+Shadow price sources: To understand water-
+related risks and quantify risks in financial 
+terms, Signify used the Water Risk Monetizer 
+tool developed by Ecolab in partnership with 
+Trucost and Microsoft. Signify calculated the 
+societal water price per location of its 
+operations for the coming 10 years, taking 
+into account water scarcity levels and 
+societal implications of water usage in those 
+locations.
+Base price applied: €4.27 per m3 water (on 
+average)
+Social impacts
+This section explains the different metrics 
+included in determining our social impact. 
+Work-related lost-time injuries
+Lost-time injuries are occurrences where the 
+injured employee is unable to work one or 
+more days. These work-related injuries and 
+illnesses predominantly occur in 
+manufacturing operations and Field Services. 
+All lost-time injury cases are reported for 
+Signify staff and contractors working under 
+the supervision of Signify. 
+Shadow price considerations: Costs of loss of 
+current and future income, medical costs, 
+costs for community, incl. lost revenue, social
+ welfare payments, rehabilitation.
+Shadow price sources: National Safety 
+Council America/NSC (2021), adjusted for 
+inflation. 
+Base price applied: €41,799.20 per work-
+related lost-time injury
+Work-related fatalities
+Fatalities are reported for contractors 
+working under the supervision of Signify and 
+all Signify staff.
+Shadow price considerations: Costs of loss of 
+current and future income, costs for 
+community, incl. lost revenue, social welfare 
+payments.
+Shadow price sources: National Safety 
+Council America/NSC (2021), adjusted for 
+inflation.
+Base price applied: €1,333,593.67 per work-
+related fatality
+Learning and development of employees and 
+entrepreneurs
+Data covers all employees, including 
+temporary employees and is based on the 
+learning and development spent within the 
+organization as registered through our 
+center of excellence, The Signify Learning 
+Center of Expertise. 
+Moreover, we include the investments made 
+by the Signify Foundation for the trainings of 
+entrepreneurs, which improves human capital 
+outside our organization.
+Shadow price considerations: Personal 
+returns for employees: future wage-increase 
+due to skill development at Signify. Social 
+returns include increased productivity and 
+spill-over effects of human capital to others 
+in the surroundings. 
+Shadow price sources: Venniker (2000)
+Base price applied: €1.11 per €1 spend on 
+learning and development
+Salaries and wages paid to employees
+Shadow price considerations: Enhanced 
+purchasing power positively influences 
+economic environment.
+Base price applied: Cash transfers to 
+employees (salaries) are reflected at a ratio 
+of 1:1. We assume that every Euro transferred 
+will be spent and therefore contributes to 
+the (local) economy. Even if not all of the 
+money transferred is spent, the assumption 
+of the 1:1 multiplier is justified due to 
+secondary and tertiary socio-economic ripple 
+effects, caused by cash transfers through 
+enhanced purchasing power. 
+Financial impacts
+Economic impacts quantify the positive 
+financial externalities of Signify. This consists 
+of more than our own net profits, as we 
+contribute to GDP in countries where we 
+operate. Considering our Gross Value Add, 
+Signify considers the following categories to 
+be most relevant due to their direct increase 
+in purchasing power: tax payments for 
+governments, interest payments to providers 
+of capital (including pensions interest), and 
+shareholder returns to Signify’s owners 
+(through dividend payments and share buy-
+back). 
+Signify has reflected these contributions at a 
+ratio of 1:1. We assume that every Euro 
+transferred will be spent and therefore 
+contributes to the (local) economy. Even if 
+not all of the money that is transferred gets 
+spent, the assumption of the 1:1 multiplier is 
+justified due to secondary and tertiary socio-
+economic ripple effects caused by the cash 
+transfers through enhanced purchasing 
+power.
+13 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 14:
+3   Signify additional 
+disclosures
+Hazardous Substances
+The use of hazardous substances and 
+chemicals in Signify’s manufacturing process 
+is a critical aspect of our operations. We are 
+committed to ensuring that our processes 
+are safe for our employees, and the 
+environment. As part of our commitment to 
+sustainability, we have improved our Chemical 
+Management program to ensure the safe 
+handling, storage, and disposal of hazardous 
+substances and chemicals. The program is 
+designed to comply with all relevant 
+regulations and standards, including the 
+European Union’s REACH regulation. 
+With the new chemical management program, 
+we will continue to ensure compliance by 
+continuously monitoring the use of chemicals 
+at our manufacturing sites and actively 
+phasing out several hazardous substances. 
+Emissions from mercury  
+Since 2012 we have dramatically reduced 
+mercury emissions by changing our 
+production processes and replacing liquid 
+mercury with solid mercury. In 2021, we 
+achieved zero mercury emissions from our 
+manufacturing process. In 2023, we decided 
+to discontinue the tracking of mercury 
+emissions as the transition from conventional 
+lighting to LED lighting is expected to keep 
+mercury use at zero levels in the coming 
+years. 
+Emissions from volatile organic compounds 
+(VOCs)
+For years, Signify has been focusing on 
+improving its operations relating to the 
+coating of products to reduce the use of 
+VOCs. In 2023, we developed a more precise 
+and scientific approach to calculate our VOC 
+emissions and we included sites until now out 
+of scope. In the 2023 approach, we have 
+included all manufacturing sites in the scope 
+of reporting and used an improved and 
+automated Excel tool to track all chemicals 
+used in our manufacturing process, including 
+chemicals used in surface treatment 
+activities such as cleaning, degreasing, pre-
+coating and coating, soldering, gluing, 
+finishing, chemicals used in the maintenance 
+of equipment involved in the manufacturing 
+process, chemicals used in painting lines for 
+outdoor and indoor applications, chemicals 
+produced in-house and used in the 
+manufacture of the final product and 
+chemicals used in the treatment of waste 
+streams from manufacturing processes such 
+as in wastewater treatment plants.
+As result we noticed that toluene emissions 
+have gone up. This increase can be explained 
+by a combination or our more precise 
+tracking of emissions and the addition of 
+more sites that were previously out of scope. 
+In 2024, we will continue to streamline the 
+chemical management approach to further 
+reduce our emissions.
+Emissions of VOCs (Kg)
+2021 2022 2023
+823.5 735.91 701.59
+Through sustainable design rules, all new 
+product developments meet stringent 
+sustainability criteria before their market 
+launch. All our products and systems 
+delivered to countries requiring the CE 
+marking are compliant with the RoHS 
+Directive (2011/65/ EU) and REACH (EC 
+14 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 15:
+1907/2006) Regulation. We require all our 
+suppliers to communicate all substances in 
+their components and to comply with the 
+stipulations that we have listed in our 
+Regulated Substance List (RSL), which in 
+many cases goes beyond legislation. In 2023, 
+we continued to engage with our suppliers, 
+further rolling out the publicly available 
+BOMcheck tool, in which components and 
+substances can be registered.  
+Product quality
+Signify is strongly committed to responsible 
+product stewardship. The Signify quality 
+management system is ISO 9001:2015 
+certified, covering all business activities. 
+When it comes to quality, we believe 
+prevention of defects is better than cure.
+This is reflected in our structured approach 
+towards the selection and qualification of 
+suppliers, manufacturing, installation and 
+delivery of our products and services. 
+Additionally, our employees follow in-person 
+or e-learning trainings on safety and quality. 
+As an example, our research and 
+development employees need to follow a 
+mandatory training on Design for safety and 
+this year, we launched safety awareness 
+training for our business leaders across the 
+organization. The implementation of 
+Advanced Quality methods is leading to 
+higher maturity levels of products and 
+services and consequently higher customer 
+satisfaction.
+In line with mandatory legislation all over the 
+world, Signify is committed to placing only 
+safe products on the market. In the event 
+products have been brought to market that 
+do not meet the essential safety 
+requirements, Signify takes a systematic 
+approach and appropriate actions, which 
+might  include a product recall, especially in 
+case the health and safety of individuals are 
+of concern. Signify has a robust process in 
+place to ensure impacted constituents are 
+informed. In 2023, no product safety issues 
+were found that resulted in a material fine or 
+penalty.
+Water
+Signify recognizes the growing importance of 
+water usage in our operations and everyday 
+activities. As we continue to expand our 
+portfolio of LED products, systems and 
+services, the water intensity of our 
+operations and activities continues to 
+decrease. Despite this, one manufacturing 
+site in India is in an area having extremely high 
+water stress and might face water scarcity 
+risks. To analyze and quantify our exposure to 
+water risk, we utilized the open-source 
+Water Risk Monetizer tool by Ecolab, Trucost, 
+and Microsoft. The results show that 5% of 
+our global water consumption is located in 
+regions classified as having high-water 
+scarcity. 
+While some of our facilities have reuse and 
+recycling measures in place, we continued to 
+implement and identify new and more 
+efficient water saving measures as well as 
+continuing our transition to technology and 
+business models to have lower a dependency 
+on water. We  continue to  aim to reduce our 
+water usage by 5% annually. Total water 
+intake in 2023 was 1,057,890 m3, 9% lower 
+than 2022 (1,163,961  m3)  with 61% of our 
+water intake used for domestic purposes.
+Zero Waste to landfill
+We are committed to send zero 
+manufacturing waste to landfill and keep the 
+recycle rate as high as possible. In 2023, our 
+focus has been on driving continuous 
+improvements and process optimization 
+across the globe. At the end of the year, 
+Signify was sending zero waste to landfill 
+according to its commitment and the final site 
+from a recent acquisition transitioned to zero 
+waste in Q4.
+We improved our practices regarding waste 
+segregation, waste awareness training and 
+sharing best practices across regions. In 
+2023, Signify registered 1.67 kilotonnes of 
+hazardous waste (2022: 1.61 kilotonnes), of 
+which 46% was recycled. 
+While waste increased slightly in 2023,we will 
+continue our efforts to reduce our hazardous 
+waste by 5% annually. 
+Our recycling programs address waste arising 
+from manufacturing activities, such as glass 
+or canteen waste, as well as from suppliers, 
+such as packaging materials. 88% of total 
+waste was recycled in 2023 and we 
+continued to recycle 100% of our metal and 
+glass waste. To increase circularity of 
+materials, some locations have begun reusing 
+cardboard outer packaging from incoming 
+materials as inner packing on outgoing 
+products. Previously, this cardboard material 
+would have been recycled.   For more details 
+on our commitment scope, please refer to 
+the data definitions in Section 1 of this 
+supplement.
+15 Signify Sustainability Supplements 2023 < ≡ >
+Manufacturing waste in kilotonnes
+2021 2022 2023
+Recycled 38.7 (89%) 37.7 (89) 28.1 (88%)
+Incinerated 3.8 (9%) 3.8 (9%) 3.2 (10%)
+Landfilled 0.9 (2%) 0.6 (1.5%) 0.5 (1.5%)
+In scope of commitments 0.4 (0.88%) 0.2 (0.49%) 0.04 (0.12%)
+Recycling rate per waste category
+2021 2022 2023
+Canteen waste  66 %  72 %  46 %
+Chemical waste  36 %  45 %  40 %
+Electrical and electronic waste  100 %  99 %  87 %
+Glass line rejects  100 %  100 %  100 %
+Metal scrap  100 %  100 %  100 %
+Paper and cardboard  99 %  97 %  99 %
+Plastic waste  81 %  84 %  82 %
+
+Page 16:
+4   Task Force on 
+Climate-related 
+disclosures 
+(TCFD)
+The potentially significant impacts of climate 
+change pose a challenge to the stability and 
+continuity of businesses over the short, 
+medium, and long terms. With a global 
+footprint, Signify’s manufacturing sites and 
+supply chain are exposed to these physical 
+and transition risks related to climate 
+change. On the other hand, the transition to 
+a lower-carbon economy presents climate 
+related opportunities for Signify’s sustainable 
+growth areas based on low-carbon 
+technological innovation: (1) Climate action, 
+(2) Circular economy, (3) Food availability,   
+(4) Safety & security, and (5) Health & well-
+being.
+Driven by the perceived high magnitude of 
+financial impacts attributed to climate risks, 
+the assessment of climate risks becomes 
+imperative and future-prove. Disclosing 
+climate-related physical and transition risks 
+showcases long-term business sustainability. 
+As a leader in sustainability, Signify is 
+committed to improving its global operations 
+and reducing its emissions over the entire 
+value chain. This includes understanding the 
+risks posed by climate change and how to 
+improve business resilience accordingly. 
+Therefore, it is paramount to assess the 
+potential impacts of climate related risks and 
+opportunities on our business operations and 
+financial performance under different 
+scenarios. Signify seeks to maintain an 
+evolving overview of these risks and 
+opportunities over time. 
+Signify has been reporting its climate-related 
+risks and opportunities in alignment with the 
+Task Force on Climate related Financial 
+Disclosures (TCFD) recommendations and 
+guidance since 2018. In 2023, we continued 
+our efforts to further assess our climate-
+related risks and opportunities via our 
+internal cross-department task force. As 
+disclosures have evolved, we are now moving 
+towards aligning with the relevant CSRD ESRS 
+and we conducted our annual climate risk 
+assessments in line with the four core 
+elements of governance, strategy, risk 
+management, and metrics and targets. This 
+year’s assessment has resulted in refining 
+our climate risk mitigation and adaptation 
+strategy as well as contributed to our climate 
+transition plan.
+To avoid repetition between the TCFD and 
+our Annual Report, each of the core 
+elements will have references to the Annual 
+Report that provide more details. 
+Governance
+Board's oversight of climate-related risks 
+and opportunities
+Our governance is effectively designed to 
+manage the energy transition strategy and 
+continue making significant progress towards 
+optimizing long-term value through financial, 
+environmental and social resources. The 
+Supervisory Board, Signify’s highest 
+governance body, is accountable for climate-
+related policies and strategies to combat 
+climate change as well as the double 
+materiality assessment, which shows that 
+climate action is our most material topic. 
+The Supervisory Board provides primary 
+oversight of the delivery of our sustainability 
+and energy transition strategy. The 
+Leadership team consisting of Alice 
+Steenland the Chief Strategy & Sustainability 
+Officer (CSSO) and Maurice Loosschilder the 
+Head of Sustainability, provide oversight of 
+16 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 17:
+the management of climate-related risks and 
+their financial impact with the help of the 
+Audit committee. Quarterly meetings are held 
+with the Leadership Team, Supervisory 
+Board, Audit Committee, and Board of 
+Management (BOM), dedicated to discussing 
+the company's strategy towards sustainable 
+long-term value creation. The Audit 
+committee assists the Board in overseeing 
+the macro- environment trends and changes, 
+the impact on the lighting market forecast, 
+the company's financial and sustainability 
+performance. They also review the 
+performance of the strategic initiatives and 
+how these contribute to the company's 5 
+Frontiers strategy.
+Since 2021, the annual risk workshop 
+identifies the top risks and opportunities to 
+offer a complete overview of our financial 
+and non-financial risks and opportunities and 
+improve the link between sustainability, risk 
+management, and strategy. In 2022 and 
+2023, the risk mitigation process was further 
+improved by connecting with relevant 
+strategic initiatives and follow ups on 
+progress on a quarterly basis.
+Year-round, the Leadership Team ensures 
+the proper frameworks are put in place to 
+guarantee that the progress on targets and 
+goals concerning actual and potential 
+climate-related financial and environmental 
+risks and impacts are appropriately identified 
+and assessed. And as part of the monitoring, 
+they set guidance on how to monitor 
+quantitatively targets to reduce carbon over 
+the value chain. Every quarter, Signify's BoM 
+reviews the processes relating to climate-
+relate issues together with our CSSO, 
+including material items, action plans, risk 
+management plans, sustainability budget, and 
+investment in climate-related opportunities. 
+The BoM guides the performance and 
+oversees  the progress  against targets  and 
+commitments set out in our sustainability 
+program, including the ones addressing 
+climate-related issues, and corrective 
+actions are taken when necessary. 
+Signify's Leadership Team, including our BoM, 
+are incentivized via Long Term Incentives 
+(LTI). The vesting of 25% of the LTI grant is 
+dependent on how well Signify performs on 
+its (climate-related) sustainability targets.
+References:
+• Section 8 - Supervisory Board report of 
+the Annual Report 2023                                      
+More information on our Committee’s 
+activities can be found in the 8.3 “Key 
+activities of the supervisory board 
+committees in 2023”.
+Management's role in assessing and managing 
+climate-related risks and opportunities
+Climate-related risks and opportunities are 
+managed the same way as other risks. 
+Signify’s BoM is responsible for the overall 
+risk management associated with the 
+company's activities. It is assisted by the 
+company leadership team, which participates 
+on a quarterly basis in audit risk and control 
+meetings organized by the Risk Committee, 
+to identify material risks and review progress 
+on the implementation of risk responses, 
+including climate-related risks.
+Sustainability is at the core of our strategy 
+and purpose. The executive responsibility for 
+climate-related issues is assigned to our 
+CSSO, to ensure the strong linkage and 
+synergy between the company’s strategy and 
+sustainability commitments, as well as to 
+drive Signify's performance in the space of 
+climate action. Our CSSO oversees strategy 
+setting, sustainability budget, and climate 
+action plans. Our CSSO reports directly to 
+our CEO and addresses climate-related 
+issues regularly to the BoM in case of major 
+capital expenditures, acquisitions, and 
+divestitures.
+Signify’s CSSO oversees a multi-discipline 
+Climate Risk Assessment Taskforce team, 
+consisting of experts in Operations, 
+Insurance, Risk Committee, Internal Audit, 
+Sustainability, and Environmental, Health, and 
+Safety (EHS). The Taskforce team is 
+responsible for the continuous evaluation of 
+the company’s short-term and long-term 
+climate-related risks and opportunities. This, 
+as part of Signify’s integral risk management 
+and business control, contributes to 
+maximizing climate-related opportunities and 
+improving our resilience to climate change.
+Members of the Board of Management are 
+eligible for a long-term equity-based 
+incentive under the Signify Long-term 
+Incentive Plan (LTI Plan). The objective of the 
+long-term incentive is to link pay with long-
+term sustainable value creation. In addition to 
+the Board of Management, another 
+approximately 700 employees globally are 
+eligible for participation in a similar long-term 
+incentive plan. Because of the importance of 
+sustainability for our long-term value 
+creation, the vesting of 25% of the annual 
+long-term incentive grant is dependent on 
+how well Signify performs on its sustainability 
+targets, including the targets related to 
+climate action.  
+References:
+• Sections 4.1.1 Sustainability Governance of 
+the Annual Report 2023
+• Section 13.1 - Establish strong risk 
+management environment of the Annual 
+Report 2023
+Strategy
+Climate-related risks and opportunities 
+identified and their impact
+Risks are assessed and identified annually by 
+conducting the TCFD assessment and 
+reporting the findings in the annual report. 
+Signify assesses the materiality of climate-
+related risks and opportunities based on 
+their likelihood of occurrence as well as the 
+estimated magnitude of resulting financial 
+impact. The materiality assessment 
+performed is substantially similar to that 
+which Signify applies to all business risks and 
+opportunities.
+Based on this assessment, the company has 
+identified the following short/medium/long 
+term risks. 
+Transition risks and opportunities
+According to the IEA B2DS and the IEA 450 
+scenario, we are expecting a world with 
+deeper and wider adaptation of renewable 
+energy, as well as continuous improvement of 
+energy efficiency. The upcoming 
+environmental regulations and policies are 
+expected to be more stringent across the 
+globe, which helps stimulate the transition 
+toward green and low carbon technology. 
+This, on the other hand, will increase the 
+market demand for sustainable products.
+The climate-related transition risks assessed 
+are presented in the below table. In line with 
+the IEA B2DS and the IEA 450 scenario, we 
+17 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 18:
+have focused on transition risks relevant for 
+Signify in the following aspects: policy and 
+legal, technology, market, and reputation. 
+For a few high-priority risks we performed a 
+regional deep-dive, the results of which are 
+shown in Figure A. 
+In terms of transition opportunities, we have 
+focused on the following aspects: resource 
+efficiency, products and services, markets, 
+and resilience. To understand the potential 
+impact of the short-, medium-, and long-
+term opportunities, we made the following 
+assumptions: 
+• There are varying levels of regulatory 
+requirements on energy efficiency of 
+lighting products
+• No marginal price erosion
+• Signify maintains its current market share 
+in the lighting industry
+• There will be an increased need for 
+lighting based on population increase, 
+urbanization, GDP growth and lighting 
+market intelligence.
+18 Signify Sustainability Supplements 2023 < ≡ >
+Transition risks and opportunities Potential Impact Short term 
+(2025)
+Medium term 
+(2030)
+Long term 
+(2050)
+Policy and legal
+Increased pricing of GHG 
+emission
+The broader adaption of GHG pricing, carbon taxes, and trading schemes across the 
+globe will drive up operational and productions costs. n n n
+Change in regulatory 
+requirement for low-carbon 
+products
+Increased revenue resulting from products and services that fulfill the low-carbon 
+and energy efficient requirements. This presents opportunity for Signify as we have a 
+strong and differentiating portfolio of energy efficient and low-carbon products. n n n
+Technology
+Substitution of existing products 
+and services with lower emissions 
+options
+We anticipate the introduction of more stringent minimum energy performance 
+standards for lighting products in the coming decade, in which case, the least energy 
+efficiency products in our portfolio would be phased out and substituted. Therefore, 
+revenues from these products would decrease.
+n n n
+Market
+Energy crisis driving demand form 
+energy efficient and low-carbon 
+products
+On top of the climate crisis, 2023 was also impacted by an energy crisis, making 
+energy reductions more urgent than ever. As lighting represents around 15% of 
+global electricity consumption, the lighting industry will need to speed up adapting to 
+changing environmental regulations. This presents a large opportunity for Signify. 
+Through its global leadership in energy efficient lighting, Signify’s portfolio is uniquely 
+positioned to mitigate risks and invest in these opportunities.
+n n n
+Changing customer behavior
+Growth in revenue resulting from increased customer awareness regarding climate 
+change and increase demand for products manufactured by a sustainable company 
+creating positive environmental and social impact. n n n
+Increased cost of raw materials
+Signify’s suppliers who operate in regions vulnerable to extreme weather events (e.g., 
+floods and hurricanes) could be affected by changes in physical climate parameters, 
+which may lead to disruption in supply chain and increased cost of raw materials. n n n
+Reputation Credibility of emissions-related 
+reporting and disclosure
+Signify’s sustainability statements, including all topics related to emissions are audited 
+by independent third party against Reasonable Assurance. Credibility and 
+transparency of sustainability reporting has been our strength. n n n
+
+Page 19:
+19 Signify Sustainability Supplements 2023 < ≡ >
+Transition risks and opportunities Potential Impact Short term 
+(2025)
+Medium term 
+(2030)
+Long term 
+(2050)
+Resource efficiency Use of more efficient 
+production processes, use of 
+recycling
+Reduced operating costs (e.g., through efficiency gains and cost 
+reductions). Reduced exposure to GHG emissions and therefore less 
+sensitivity to changes in cost of carbon. Signify has implemented more 
+than 200 energy efficiency initiatives in our facilities worldwide and 
+reduce 70% of carbon footprint in last decade.
+n n n
+Increased water pricing due to 
+scarcity
+Increased water pricing might drive up production cost in the medium and 
+long term. Using the Water Risk Monetizer tool by Ecolab, Trucost, and 
+Microsoft, we assessed our current portfolio of operating manufacturing 
+facilities, considering different scenarios of risk adjusted pricing for 
+water. Potential impact on business would be non-significant. Signify has 
+set a target to reduce 5% of water consumption every year.
+n n n
+Products and services Development and/or expansion 
+of low emission goods and 
+services
+Reputational benefits resulting in increased demand for goods/services. 
+Increased revenues resulting from increased demand for low-carbon 
+products and services. Signify has a strong portfolio and leading market 
+position of low-carbon and energy efficient products and services.
+n n n
+Development of new products 
+or services through R&D and 
+innovation
+Increased revenues resulting from increased demand for products and 
+services that are low-carbon and more energy efficient. Signify is strong 
+in sustainable design and innovation. n n n
+Shift in consumer preferences Increased revenues resulting from increased demand for products and 
+services that fulfill consumer’s low-carbon preferences. Signify has a 
+strong portfolio, offering a wide range of low-carbon and energy efficient 
+products, systems and services.
+n n n
+Markets Access to new markets As part our strategy, Signify is driving 5 new growth for sustainability 
+areas to help address the world’s greatest challenges: (1) climate action, 
+(2) circular economy, (3) food availability, (4) safety & security, and (5) 
+health & well-being. Sustainable design and innovation will gain us access 
+to these markets, resulting in increased revenue.
+n n n
+Use of public-sector incentives Increase revenues from products, systems and services that align with 
+policy schemes. Signify’s energy efficient and low-carbon offering fit right 
+into the European Green Deal and the American Jobs Plan. n n n
+
+Page 20:
+20 Signify Sustainability Supplements 2023 < ≡ >
+Transition risks and opportunities Potential Impact Short term 
+(2025)
+Medium term 
+(2030)
+Long term 
+(2050)
+Resilience Participation in renewable 
+energy programs and adoption 
+of energy efficiency measures.
+Reduced exposure to future fossil fuel price increases. Reduced 
+exposure to GHG emissions and therefore less sensitivity to changes in 
+cost of carbon. Signify has reduced 77% GHG emissions in its operations 
+in 2023 and used 100% renewable electricity since 2020.
+n n n
+Development of climate 
+adaptation and insurance risk 
+solutions
+Increased resilience and reduced exposure to climate risks due to the 
+establishment of Signify Climate Risk Assessment Taskforce team in 
+2020. This dedicated multi-discipline Taskforce team consists of 
+experts in Operations, Insurance, Risk Committee, Internal Audit, 
+Sustainability, and EHS. Climate adaptation and insurance risk solutions 
+are reviewed at least annually.
+n n n
+n	 High Risk                         n	 Medium Risk                                    n	 Low Risk
+n	 High Opportunity          n	 Medium Opportunity                     n	 Low Opportunity
+Figure A: Transition risks and opportunities at regional level
+
+Page 21:
+Physical risks
+The climate-related physical risks are 
+presented in the table to the right. We have 
+focused on assessing physical risks relevant 
+for Signify’s manufacturing sites and 
+warehouses/distribution centers, namely 
+riverine flooding, coastal flooding, drought, 
+tropical storm, and heatwave. We evaluated 
+one short-term (2025) and two long-term 
+(2100) scenarios: a below 2°C (SSP1-2.6 
+scenario – taking the sustainable road), and 
+an above 4°C (SSP5-8.5 scenario – fossil 
+fueled development path). It is worth noting 
+that the long-term impact of physical risks is 
+influenced by climate change and degree of 
+global warming. In particular, the long-term 
+risks of riverine flooding, droughts, and 
+tropical cyclones under the above 4°C 
+scenario are expected to be significantly 
+higher than the below 2°C scenarios. 
+As a result of the 2023 climate-related 
+physical risk assessment, no risks are 
+identified as material. The assessment of 
+physical risk is conducted on a yearly basis 
+due to the unpredictability of extreme 
+weather events, leading to an increased or 
+decreased level of risks due to climate 
+change. Nevertheless, Signify is well 
+prepared for climate-related physical risks 
+and have a resilient adaptation plan in the 
+form of a cross-functional business 
+continuity plan. This adaptation plan enables 
+flexibility in terms production locations, 
+employee working locations, sourcing 
+options, and transportation options, thereby 
+minimizing the overall impact of climate-
+related physical risks on Signify’s operations 
+as well as value chain. 
+Our business resilience
+Mitigating climate related risks at Signify
+Sustainability is at the core of our strategy 
+and purpose. Signify has a robust 
+sustainability program, Brighter Lives, Better 
+World, which sets ambitious target for 
+climate action. Signify is one of the first 
+companies committing to verified Science-
+Based Targets in line with the Paris 
+Agreement 1.5°C pathway to cut GHG 
+emissions in our operations as well as in our 
+value chain.
+Over the past decade, we implemented 
+hundreds of emission reductions initiatives in 
+our facilities worldwide, which enabled us to 
+reduce 70% of our gross operational 
+emissions. Since 2020, Signify uses 100% 
+renewable electricity and has invested in 
+three virtual Power Purchase Agreements 
+(PPAs) to, on one hand, ensure long-term 
+and high-quality renewable energy sourcing, 
+on the other hand, enable the green power 
+grid transition. Signify has a strong position in 
+sustainable innovation and design. Our 
+sustainable innovations continue to 
+revolutionize the lighting industry toward 
+low-carbon and energy efficiency. In 2023, 
+we invested EUR 271 million in sustainable 
+innovation which represents 88% of Signify 
+R&D expenses. These investments in emission 
+reduction and sustainable innovation have led 
+to further improvements in the areas of 
+energy efficiency and circular economy, 
+largely improving our resilience to the future 
+change of policy and regulations, the future 
+change of (low carbon) technology, the 
+future change of customer behavior and 
+consumer preference, the future resource 
+and energy scarcity; and in the meanwhile, 
+reduced our exposure to increase cost of 
+carbon and fossil energy.
+In terms of physical risks, the Climate Risk 
+Assessment Taskforce team, launched in 
+2020, has been screening and evaluating 
+relevant climate-related risks and their 
+impacts in details for our sites all over the 
+world. These risks are reviewed at least once 
+per year at individual plant, regional, business 
+group and function, or company level. We 
+continue evaluating those sites at higher risk 
+in the long term, discussing response 
+21 Signify Sustainability Supplements 2023 < ≡ >
+Physical risk Potential Impact
+Short term 
+(2025)
+Long term 
+(2050)<2°C
+Long term 
+(2050)>4°C
+Riverine flooding Riverine flooding might be relevant for 23% of our sites. Due to 
+high level of preparedness and high resilience at site level, risk 
+and exposure are expected to be low in the below 2°C 
+scenario.
+n n n
+Coastal flooding Coastal flooding might be relevant for 9% of our sites. Due to 
+high level of preparedness and high resilience at site level, risk 
+and exposure are expected to be low. n n n
+Droughts Droughts might be relevant for 21% of our sites. Due to high 
+level of preparedness and high resilience at site level, risk and 
+exposure are expected to the low in the below 2°C scenario. n n n
+Heatwaves Only 6% of our sites might be affected by heatwaves. Due to 
+high level of preparedness and high resilience at site level, risk 
+and exposure are expected to the low. n n n
+Tropical cyclones Tropical might be relevant for 26% of our sites. Overall, a 
+medium risk level is perceived even in the below 2°C scenario. 
+For sites that are at higher risk in the long term, we keep 
+reviewing the risk profile and response plan for mitigation and/
+or adaptation.
+n n n
+n	 High Risk                         n	 Medium Risk                                    n	 Low Risk
+
+Page 22:
+strategies accordingly, and incorporating 
+climate-related risks into company’s overall 
+risk review cycles. 
+Mitigating climate related risks in supply chain
+Climate change related physical risks in 
+different geographical locations could 
+potentially interrupt our supply chain and 
+business continuity. Nevertheless, due to our 
+wide-ranging supply network, these risks are 
+well monitored and not considered material 
+at present. 
+Regular surveys are conducted by Signify to 
+identify and rank the suppliers based on their 
+vulnerability to climate related physical and 
+transition risks. As a result, we developed a 
+robust adaptation strategy (including but not 
+limited to dual sourcing practices) for our 
+supply chain. This enables us to respond 
+appropriately and timely; and prevent 
+disruptions to our business operations. We 
+optimize our supply chains for their efficiency 
+and resilience to climate risk.
+We engage with suppliers on a variety of 
+activities and training sessions to enhance 
+their capability and resilience with regard to 
+climate change related risks.
+Climate change adaptation strategy
+Climate related risks and opportunities are 
+taken into consideration in our business 
+continuity strategies. In the long term, we 
+are committed to continue deepening our 
+understanding around climate-related risks 
+and opportunities. 
+We implement a proactive approach to 
+climate risk adaptation. The risk and 
+vulnerability assessments carried out by the 
+Climate Risk Assessment Taskforce team 
+enable us to understand our exposure to 
+climate risks, for the near term and the long 
+term. This allows us to develop appropriate 
+resilience framework for our own facilities as 
+well as our supply chains. For example, in 
+response to the energy crisis, which is a 
+climate-related transition risk, we are 
+exploring alternatives to source cleaner 
+energy to not only tackle the potential 
+energy shortage but also reduce emissions in 
+our operations. In addition, with strong and 
+differentiated portfolio of low-carbon and 
+energy-efficient products, we are adapting 
+to new market trends that emerged due to 
+climate change and energy crisis.
+Ultimately, our climate change adaptation 
+approach improves our resilience to climate-
+related risks as well as allows risks or 
+opportunities response plans and strategies 
+to be developed in a timely matter. 
+References:
+• Section 2 CEO Letter of the Annual Report 
+2023
+• Section 4.4 Better World of the Annual 
+Report 2023
+• Section 5.1 Financial performance of the 
+Annual Report 2023
+• Section 13.5 Climate change of the Annual 
+Report 2023
+Risk Management 
+Climate-related risks and opportunities 
+assessment process
+Since 2020, the dedicated multi-discipline 
+Climate Risk Assessment Taskforce team, 
+consisting of experts in Operations, 
+Insurance, Risk Committee, Internal Audit, 
+Sustainability, and EHS is responsible for the 
+continuous evaluation the company’s short-
+term and long-term climate-related physical 
+and transition risks and opportunities under 
+difference climate change scenarios, as 
+illustrated in Figure B. We are proactively 
+investigating how physical and transition risks 
+affect our global operations. In response to 
+these identified risks and opportunities, we 
+develop risk adaptation and mitigation 
+strategies that enhance our operational 
+resilience, risk management, and financial 
+planning.
+Physical risks
+Climate-related physical risks are assessed 
+under different climate change scenarios, 
+namely a short-term scenario, and two long-
+term scenarios in line with the Shared Socio-
+economic Pathways (SSP) described in the 
+IPCC AR6 report: a below 2°C or SSP1-2.6 
+scenario – taking the sustainable path, and 
+an above 4°C or SSP5-8.5 scenario – fossil 
+fueled development path. The SSPs are 
+narratives describing alternative socio-
+economic trends that shape future 
+22 Signify Sustainability Supplements 2023 < ≡ >
+Figure B: Signify's climate risk assessment approach
+
+Page 23:
+scenarios. In line with the latest climate 
+sciences, the SSPs explore the climate 
+responses of a range of possible future 
+atmosphere GHG concentrations and analyze 
+the resulting changes in future global 
+temperatures compared to pre-industrial 
+levels. 
+The physical risk assessment approach 
+consists of three steps: risk mapping, risk 
+assessment, and risk mitigation. Signify 
+continues to monitor its exposure to physical 
+risks related to climate change and is working 
+at individual plant level to reduce and 
+mitigate the impact of those risks. The first 
+step is risk mapping for all our manufacturing 
+facilities and warehouses/distribution 
+centers under different IPCC climate change 
+scenarios. Site risk mapping identifies, among 
+others, physical risks related to climate 
+hazards, such as flooding, heatwaves, 
+droughts, etc. Subsequently, a risk 
+assessment is performed depending on the 
+geographical location, the type of activity, 
+and financial exposure related to a specific 
+facility and/or operation. We evaluate the 
+environmental, social, and governance 
+aspects which have the greatest impact on 
+our business and the greatest level of 
+concern to stakeholders along our value 
+chain. These direct or indirect aspects may 
+represent opportunities and risks, and thus 
+influence our ability to create or preserve 
+economic, environmental, and social value for 
+our stakeholders and for Signify. Assessing 
+these aspects enables us to understand their 
+implications in financial and non-financial 
+terms, thereby prioritizing risk mitigation and 
+effectively addressing them in our policies 
+and programs.
+Transition risks
+The Climate Risk Assessment Taskforce team 
+continuously follows external trends of 
+market (energy crisis), policy, regulations, 
+(low carbon) technology, and customer 
+preference, in order to identify near-term, 
+medium-term, and long-term transition risks 
+in line with the IEA scenarios including the IEA 
+Below 2 Degrees scenario (IEA B2DS) and the 
+IEA 450 scenario. Signify's BoM is briefed 
+each quarter to review the transition risks 
+and opportunities, as well as the short, 
+medium, and long-term response strategies.
+References:
+• Chapter 13 of the Annual Report 2023
+Climate-related risks and opportunities 
+management process
+Climate-related risks and opportunities are 
+managed the same way as other risks. 
+Signify's risk management focuses on the 
+following risk categories: Strategic, 
+Operational, Compliance, and Financial risks. 
+As climate-related risks cuts across all these 
+four categories, climate-related risk 
+management is fully embedded in our risk 
+management process and recognized at the 
+management level.
+Signify’s Business Control Framework (BCF) 
+sets the standard for risk management and 
+business controls in the company. The 
+objectives of the BCF are to maintain 
+integrated management control of the 
+company’s operations, in order to ensure the 
+integrity of the financial reporting and 
+related disclosure including disclosure of 
+climate-related risks, as well as compliance 
+with applicable laws and regulations. We 
+regularly evaluate and improve our BCF to 
+align with business dynamics and good 
+practice. Our leadership team is responsible 
+for identifying the critical business risks and 
+for implementing appropriate risk responses. 
+We continuously follow external trends to 
+determine the issues most relevant for our 
+company and where we can have the 
+greatest positive impact. 
+For risk management, a comprehensive view 
+of the company’s business strategy and 
+activities is required. To do so, Signify’s risks 
+and opportunities are identified, assessed, 
+managed, and controlled in a structured way, 
+combining elements of top-down and 
+bottom-up approaches. 
+For climate-related strategic risks, the 
+company leadership team review the risks 
+and ranks them based on impact, likelihood, 
+risk criticality and control effectiveness, 
+during the annual risk workshop. Owners are 
+assigned and accountable for ensuring 
+adequate risk mitigation and monitoring 
+measures are implemented. The outcome of 
+the risk workshop is integrated in the 
+strategic planning cycle. Each quarter the 
+key risks are discussed during the audit and 
+risk committee meetings. Reported risks and 
+opportunities are analyzed for potential 
+cumulative effects and are aggregated at 
+Division, Market Group, and company level.
+For climate-related operational risks, risks 
+are reviewed on a regular basis as part of the 
+business performance reviews or, for 
+specific topics, through dedicated risk 
+committees. In addition, on an annual basis 
+the top risks are identified by the company’s 
+leadership team. Relevant risks including 
+those associated with business opportunities 
+are prioritized in terms of potential impact 
+and likelihood, considering quantitative and/
+or qualitative aspects and reviewed with the 
+board of management. On a quarterly basis, 
+risks and controls are reviewed in the audit 
+risk committees with the Divisions, Market 
+Groups and specific Functions. As part of the 
+Business Continuity plan, we continue 
+monitoring our exposure to climate-related 
+risks and are working at individual plant level 
+to mitigate and minimize the impact of those 
+risks.
+For climate-related compliance risks, we 
+continuously follow external trends, 
+especially the development of regulations 
+and policies focusing on the product 
+environmental impact and transition to a net-
+zero economy, and other emerging 
+discussion. Potential risks of non-compliance 
+are regularly reviewed within Signify at 
+regional, business group, or company level. 
+This ensures our preparedness against 
+emerging regulations and policies and ability 
+to adjust our portfolio. 
+For climate-related financial risks, since 
+2020, the Climate Risk Assessment Taskforce 
+team has been screening and evaluating 
+relevant climate-related risks and their 
+financial impacts in details for our sites all 
+over the world. These risks are reviewed at 
+least once per year at individual plant, 
+regional, business group and function, or 
+company level. This improves our resilience 
+to climate-related risks and allows risks 
+response plans/strategies to be developed in 
+a timely matter. 
+References:
+• Section 4.4 Better World of the Annual 
+Report 2023
+• Chapter 13 of the Annual Report 2023
+23 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 24:
+Metrics and targets
+Manage climate-related risks and 
+opportunities and performance against 
+targets.
+Sustainability is at the core of our company 
+strategy and purpose. Climate action is 
+perceived as the most material topic by our 
+internal and external stakeholders as the 
+result of our 2023 double materiality 
+assessment. Signify is committed to double 
+our positive impact on the environment and 
+society by the end of 2025. Our climate-
+related metrics and targets are provided in 
+the table.
+References:
+• Chapter 4.4 of the Annual Report 2023
+24 Signify Sustainability Supplements 2023 < ≡ >
+Targets Baseline year Target year Definition
+Brighter Lives, Better World 2025 program 
+D o u b l e  t h e  p a c e  w e  a c h i e v e  t h e  1 . 5 º  d e g r e e  s c e n a r i o  
+of the Paris Agreement (Full scope 1 + 2 +3)
+2019 (0) 2025 The cumulative yearly difference between the GHG 
+emissions of Paris Agreement 1.5°C pathway and the actual 
+value chain emissions of Signify.
+100% Renewable Electricity 2015 (58%) 2020 
+(100% Achieved)
+Percentage of electricity from renewable sources.
+A p p r o v e d  S c i e n c e - B a s e d  T a r g e t s ,  1 . 5 º  s c e n a r i o  
+Reduce by 70% carbon emissions from scope 1 and 2 2015 2030 Reduction of 70% of absolute scope 1 and 2 GHG emissions
+Reduce by 30% carbon emissions from scope 3 
+product use
+2015 2030 Reduction of 30% of absolute scope 3 GHG emissions from 
+use of sold products
+Metrics 2023 Unit
+Scope 1 148 kilotonnes CO2-equivalent
+Scope 2 (market based) 0 kilotonnes CO2-equivalent
+Scope 2 (location based) 129 kilotonnes CO2-equivalent
+Scope 3 (indirect emission categories): kilotonnes CO2-equivalent
+Category 1: Purchased good and services 683 kilotonnes CO2-equivalent
+Category 2: Capital goods 15 kilotonnes CO2-equivalent
+Category 3: Fuel-and Energy-related activities, Not included in 
+Scope 1 or Scope 2
+33 kilotonnes CO2-equivalent
+Category 4: Upstream transportation and distribution, of which: 87 kilotonnes CO2-equivalent
+• Air transport  20 kilotonnes CO2-equivalent
+• Road transport  27 kilotonnes CO2-equivalent
+• Ocean transport  40 kilotonnes CO2-equivalent
+Category 5: Waste generated in operations  9 kilotonnes CO2-equivalent
+Category 6: Business travel  13 kilotonnes CO2-equivalent
+Category 7: Employee commuting  35 kilotonnes CO2-equivalent
+Category 11: Use of sold products  191,779 kilotonnes CO2-equivalent
+Category 12: End of life treatment and sold products 18 kilotonnes CO2-equivalent
+Operational carbon footprint efficiency 0.37 kilotonnes CO2-equivalent per million-euro sales
+
+Page 25:
+For the world to achieve a sustainable future, 
+businesses need to address their 
+dependencies and impact on nature including 
+biodiversity, ecosystem services, water, and 
+climate. As well as this over-arching reason 
+for taking action on biodiversity, a range of 
+regulatory and policy drivers and market-led 
+initiatives are compelling companies to better 
+understand and address their interfaces with 
+nature. These include CSRD (Corporate 
+Sustainability Reporting Directive), ESRS 
+(European Sustainability Reporting 
+Standards), TNFD (Taskforce on Nature 
+related Financial Disclosures), along with 
+European regulation addressing 
+deforestation (European Deforestation 
+Regulation [EUDR]), supply chain 
+transparency (increasing TNFD and CSRD 
+focus on supply chains) and offshore 
+sourcing (Carbon Border Adjustment 
+Mechanism [CBAM]).
+In 2022, we assessed the biodiversity impacts 
+of our own operations. Using the Integrated 
+Biodiversity Assessment Tool (IBAT) we  
+assessed 175 hectares of land used for 
+manufacturing operations and found that no 
+manufacturing sites were operating within 
+Key Biodiversity Areas (KBAs), or protected 
+areas (areas of land, freshwater, or sea 
+legally protected and managed, as least in 
+part, for nature conservation). A deeper 
+assessment of 11 sites within two kilometers 
+of KBAs and protected areas examined 
+potential impacts on land, soil, water, and air, 
+and found no impacts that required mitigation 
+at that time.  
+In 2023, we engaged a specialized nature 
+sustainability consultancy to deliver a value 
+chain  assessment of our biodiversity impacts,
+dependencies, risks, and opportunities and to 
+support us in the development of a 
+biodiversity action plan. Following the TNFD 
+Locate-Evaluate-Assess-Prepare (LEAP) 
+framework, the consultancy conducted a 
+biodiversity assessment across our value 
+chain, including our direct operations 
+(manufacturing sites, offices, and legacy 
+sites), supply chain partners, commodities, 
+and production processes, and through the 
+use of our lighting products.  
+The following sets out the key findings on 
+biodiversity impacts and dependencies, 
+identifying priority areas for further 
+investigation, and the associated business 
+risks and opportunities.
+Own operations
+We conducted a desk-based screening of 
+352 Signify sites (including factories, 
+laboratories, offices, warehouses, shops, and 
+legacy sites) using the WWF Biodiversity and 
+Water Risk Filters which assess a broad range 
+of biodiversity indicators at each site to 
+determine potential site-specific impacts and 
+dependencies on nature.  From that 16 
+priority sites were shortlisted based on their 
+potential risk for biodiversity impacts, mainly 
+through pollution. 
+Eight sites are considered potential for high 
+risk given there was reasonable evidence of a 
+potential impact pathway between the site’s 
+operations and important biodiversity 
+features within the nearby landscape. The 
+impacts were potential water and soil 
+pollution, ground water abstraction, and 
+disturbances (disturbances can impact 
+nature through prolonged or excessive noise 
+or light from operating facilities). 
+25 Signify Sustainability Supplements 2023 < ≡ >
+5   Task Force on 
+Nature-related 
+financial 
+disclosures (TNFD)
+
+Page 26:
+While sites reported that they have sufficient 
+environmental impact management and 
+mitigation measures in place, it was 
+recommended that for these eight priority 
+sites a field-based assessment should be 
+performed to verify the possible impacts 
+identified through the desk research and 
+review the mitigations in place. Site-based 
+assessments will  provide useful information 
+on the potential need for further mitigations 
+to reduce or more effectively prevent 
+impacts but also the enhancements that 
+could be implemented and/or promote 
+biodiversity on and near the site.
+Supply chain
+Owing to the volume of input materials and 
+the scale of outsourced production, our 
+supply chain poses significant potential 
+material impacts and dependencies on 
+nature. Distribution of sourcing across a wide 
+range of direct (tier 1) suppliers, and limited 
+visibility of indirect (tier 2+) suppliers adds 
+further complexity and scale to potential 
+nature-related issues. Limited transparency 
+in long supply chains will also likely restrict 
+our scope of influence in certain areas, 
+requiring closer supplier engagement and 
+collaboration to identify and address nature-
+related risks and opportunities.
+In the production processes and supply of 
+three products (LED, fluorescent, and 
+incandescent lamps), seven priority 
+commodities were highlighted due to high 
+impacts and dependencies on nature: 
+outsourced LED’s, batteries, plastics, 
+aluminum, steel, cardboard, and 
+semiconductors. Material water related risks 
+are present in the upstream production of all 
+commodities. The upstream consumption of 
+and reliance on surface water and 
+groundwater in basic extractive and 
+processing industries pose physical supply 
+risks beyond our sphere of influence. 
+Opportunities exist to minimize impacts and 
+dependencies on nature, and mitigate risk, by 
+engaging with key supply chain partners to 
+scale up circular economy and recycling 
+opportunities, and to increase the use of 
+viable, sustainable, alternative materials.
+Fifteen of our largest suppliers for priority 
+commodities responded to our questionnaire 
+about sustainable material use, sourcing 
+practices and biodiversity targets and 
+metrics as part of this assessment. Increased 
+and ongoing supply chain engagement will be 
+necessary to fully evaluate how the identified 
+nature- related risks are being addressed by 
+individual suppliers. 47% of suppliers 
+surveyed in this assessment stated that they 
+knew nearly all (between 76-100%) of their 
+tier 2+ suppliers. Further engagement with 
+suppliers on improving supply chain visibility 
+(e.g., gathering geographic locations of 
+indirect upstream suppliers and sources of 
+origin) can allow us to better assess the 
+magnitude and likelihood of physical risks, 
+and the exposure to reputational and 
+transitional risks.
+There are also areas for optimization in 
+recycled materials use. At present, the actual 
+and potential use of recycled materials varies 
+across priority commodities. Recycling among 
+cardboard suppliers is already mature, and all 
+surveyed suppliers stated that they use 
+recycled materials in their supply to Signify. 
+Signify’s large plastic supply chain (240 
+suppliers) represents a source of transitional 
+risks given the growing momentum around 
+reducing plastic waste (e.g., the Global 
+Plastics Treaty, Global Biodiversity 
+Framework, product Environmental Product 
+Declarations [EPDs]). 33% of plastic suppliers 
+stated that they use recycled materials and 
+we have already actively reduced fossil-
+based plastic use in packaging and have 
+minimized landfill to below 1 percent. Another 
+area for significant plastic reduction was 
+identified in received plastic packaging from 
+suppliers.
+Recycled material use in the aluminum and 
+steel supply chain should also be reassessed 
+as the current volumes (10-15% recycled 
+aluminum and 27% steel scrap) present 
+opportunities for increased recycling 
+capacity. Alternative materials made from 
+sustainably sourced materials were also 
+identified for further investigation, 
+particularly where there are limits to 
+recycled content use (e.g., extruded 
+aluminum). Small markets already exist for 
+such products, but demand is currently 
+consumer driven, and the feasibility of 
+economic scaling is required.
+Complex goods such as semiconductors have 
+limited options for recycled inputs and 
+therefore have greater long-term reliance on 
+biodiversity and ecosystem services, in 
+particular rare earth minerals, silica sand and 
+quartz, of which there should be careful 
+consideration of long-term availability given 
+these are finite natural resources with 
+potentially significant negative impacts on 
+nature.
+Finally, outsourced LED lamp production 
+presents the largest set of physical and 
+transition risks. Supply chain transparency 
+and risk management with outsourced LED 
+lamp producers should be prioritized. The 
+number of direct suppliers for outsourced 
+LED’s is greater than any other priority 
+commodity, and the spend representing 26% 
+of total spend. In addition, outsourced LED 
+manufacturers are certainly exposed to all of 
+the impact and dependency-related risks 
+identified for other material inputs (batteries, 
+plastics, aluminum steel, cardboard, and 
+semiconductors). The extent to which these 
+upstream suppliers have identified and 
+mitigated nature-related risks is currently 
+unknown.
+Products
+The evidence base around the impacts of 
+artificial lighting on biodiversity is growing, 
+and the awareness of these issues is 
+increasing globally. Light pollution is already 
+identified within the Global Biodiversity 
+Framework (GBF) under Target 7 due to its 
+potential to disrupt the behavior of wildlife 
+species, with population-level effects. Such 
+impacts, along with increased public and 
+policy- maker awareness of the issue, poses 
+potential reputational risks. Further, there 
+may be future transitional risks if specific 
+light pollution targets are included in future 
+iterations of GBF Targets and the related 
+national-level policies and goals around light 
+pollution.
+In the assessment of product use impacts, 
+seven priority outdoor settings with the 
+greatest potential impact on biodiversity 
+were defined based on a comprehensive 
+review of artificial lighting and biodiversity 
+scientific literature, combined with an 
+assessment of the product portfolio. These 
+were: roads, streets & utility; parks; harbor, 
+ports & airports; food production; 
+residential; wildlife, turtle & observatory.
+26 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 27:
+It is important to recognize that while the 
+impact pathways between lighting products 
+and nature can be severe and large in scale, 
+our sphere of influence over the deployment 
+and use of products is typically limited. There 
+are also necessary trade-offs where human 
+health and safety requirements preclude the 
+use of biodiversity-friendly lighting 
+alternatives.
+Despite these barriers, there are 
+opportunities to leverage our position as a 
+leading lighting solutions provider, and as a 
+company which is active in the research, 
+development, and deployment of 
+biodiversity-friendly lighting products. 
+Commercial considerations around the 
+availability of low-impact products in high-
+impact settings (e.g., aquaculture and parks) 
+may allow us to influence the uptake of 
+biodiversity-friendly alternative lighting 
+across a range of use settings. By engaging 
+with and educating commercial and domestic 
+customers through consultations and 
+communication campaigns, Signify may be 
+able to change practices around light use to 
+avoid or minimize impact on biodiversity. 
+Additionally, by supporting research around 
+artificial light and the impacts on nature, we 
+can lead on innovative product development 
+and contribute to the evidence base to put 
+forward and support policy initiatives around 
+the use of biodiversity-friendly lighting 
+products globally.
+The outcome of this value chain assessment 
+has supported the development of our 
+biodiversity roadmap to 2025. 
+Biodiversity roadmap 
+The following details the concrete actions to 
+be taken until 2025 across the three focal 
+areas of our biodiversity assessment. 
+Own operations
+• Conduct field-based environmental  
+assessments for the eight priority sites 
+identified as potential high-risk due to 
+proximity to nature. 
+• Launch best practice guidance on 
+biodiversity for sites and educate our 
+employees.
+• Enhance biodiversity actions at our sites 
+through habitat creation and reduction of 
+light disturbance.
+Supply chain
+• Implement monitoring process and data 
+collection for the largest suppliers within 
+potential high-risk commodities.
+• Deliver trainings on biodiversity and engage 
+our Tier 1 suppliers in impact management.
+• Explore sustainable alternative materials to 
+reduce the demand of potential high-risk 
+commodities.
+• Further assess biodiversity and water 
+scarcity issues for potential high-risk 
+commodities. 
+Products
+• Explore partnerships to fund conservation 
+efforts with nature-friendly light products.
+• Embed biodiversity findings and 
+recommendations in our commercial  
+process to support customers in mitigating 
+impact.
+Our roadmap will support us to further 
+integrate biodiversity actions across all areas 
+of our business. While the outcome of our 
+2023 double materiality assessment did not 
+find biodiversity to be a material topic for 
+Signify, we acknowledge that it is our 
+responsibility to identify our negative and 
+positive impacts and to take action for 
+biodiversity conservation.
+To mitigate potential negative impact on 
+biodiversity, we already have processes and 
+activities in place, such as: 
+• Our sustainable supply chain program 
+which covers, besides other points, 
+environmental impact and management 
+systems in our supply base.
+• Our sustainable packaging requirements, 
+which stand against deforestation of 
+natural forests and habitats and promote 
+the use of sustainable materials. 
+• Our fossil-based plastic-free packaging 
+achievement in consumer related 
+products, which contributes to less plastic 
+pollution in nature and oceans.
+• Our horticulture lighting portfolio, which 
+contributes to vertical farming to increase 
+food production while decreasing land use 
+and the use of fertilizers and pesticides.
+• Our light spectrum, which helps maintaining 
+balanced ecosystem by displaying minimal 
+attraction for insects, enabling bats to 
+behave the same way as if it was full 
+darkness and preventing lit roads from 
+acting as borders or obstacles to be 
+crossed at night.
+In 2023, we launched our Biodiversity policy 
+and we continued to contribute to 
+biodiversity conservation through two 
+projects located in China. The Qianbei 
+Afforestation Project and the Liangdu 
+Afforestation Project. Through these 
+projects we contribute to ensuring that more 
+than 73,700 hectares of barren land is 
+reforested with native species. 
+Based on our methodology for calculating 
+societal impact, we created EUR 102 million 
+for society through these reforestation 
+projects.
+27 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 28:
+6 GRI content index
+Signify reports in accordance with GRI and sets the threshold for most material topics as defined by GRI in the top right part of the materiality matrix. The two most material topics above this 
+reporting threshold are Climate action and Circular Economy. We continue to report on Climate action and Human rights GRI topic specific standards disclosures in the index below and our working 
+to incorporate Circular economy related topical disclosures in the following year.
+GRI 2-1 
+Organizational details
+a. Report its legal name
+b. Report its nature of ownership and legal form
+c. Report the location of its headquarters
+d. Reports its countries of operations
+11 Corporate Governance (a, b) 
+3.1 Our strategy (c, d)
+GRI 2-2 
+Entities included in 
+the organization's 
+sustainability 
+reporting
+a. List all its entities included in its sustainability reporting 
+b. If the organization has audited consolidated financial statements or financial information files on public record, specify 
+the differences between the list of entities included in its financial reporting and the list included in its sustainability 
+reporting
+c. If the organization consists of multiple entities explain the approach used for consolidating the information including: i) 
+whether the approach involves adjustments to information for minority interests; ii) how the approach takes into account 
+mergers, acquisitions, and disposal of entities or parts of entities; iii) whether and how the approach differs across the 
+disclosures in this Standard and across material topics
+4.1 Approach to sustainability 
+reporting (a)
+15.6 Notes to the consolidated financial 
+statements: [3] Information by segment and main 
+country; [12] Interest in entities (b, c)
+GRI 2-3 
+Reporting period, 
+frequency and 
+contact point
+a. Specify the reporting period; 
+b. Specify the reporting period for its financial reporting and, if it does not align with the period for its sustainability 
+reporting, explain the reason for this;
+c. Report the publication date of the report or reported information;
+d. Specify the contact point for the questions about the report or reported information
+4.1 Approach to sustainability reporting (a, b, c)
+January 1 – December 31, 2023 (b) 
+February 27, 2024 (c)
+Back cover Annual Report 2023 (d)
+GRI 2-4 
+Restatements of 
+information
+a. Report restatements of information made from previous reporting periods and explain: i) the reasons for the 
+restatements; ii) the effect of the restatements
+Where relevant, restatements have been 
+disclosed and explained in the Annual Report 
+2023 
+Sustainability Supplements 2023 – Data 
+definitions, boundaries, and scope
+4.1 Approach to sustainability reporting
+GRI 2-5 
+External assurance
+a. Describe its policy and practice for seeking external assurance, including whether and how the highest governance 
+body and senior executive are involved
+b. If the organization’s sustainability reporting has been externally assured: i) provide a link or reference to the external 
+assurance report(s) or assurance statement(s): ii) describe what has been assured and on what basis including the 
+assurance standards used the level of assurance obtained, and any limitations of the assurance process; iii) describe the 
+relationship between the organization and the assurance provider
+18 Combined independent auditor’s report (a, b)
+GRI SRS Disclosure requirements Reference to the Annual Report 2023
+28 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 29:
+GRI 2-6 
+Activities, value chain 
+and other business 
+relationships
+a. Report the sector(s) in which it is active
+b. Describe its value chain, including: i) the organization’s activities, products, services, and markets served; ii) the 
+organization’s supply chain; the entities downstream from the organization and their activities 
+c. Report other relevant business relationships
+d. Describe significant changes in 2-6-a, 2-6-b, and 2-6-c compared to the previous reporting period
+3 Creating long-term value (a, b, c)
+5 Corporate performance (a, b, c)
+4.1 Approach to sustainability reporting (d)
+Sustainability Supplements 2023 - Data 
+definitions, boundaries, and scope (a, b, c, d)
+GRI 2-7 
+Employees
+a. Report the total number of employees, and a breakdown of this total by gender and by region;
+b. Report the total number of: i) permanent employees, and a breakdown by gender and by region; ii) temporary 
+employees, and a breakdown by gender and by region; iii) non-guaranteed hours employees, and a breakdown by gender 
+and by region; iv) full-time employees, and a breakdown by gender and by region; v) part-time employees, and a 
+breakdown by gender and by region;
+c. Describe the methodologies and assumptions used to compile the data, including whether the numbers are reported: i) 
+in head count, full-time equivalent (FTE), or using another methodology; ii) at the end of the reporting period, as an 
+average across the reporting period, or using another methodology;
+d. Report contextual information necessary to understand the data reported under 2-7-a and 2-7-b;
+e. Describe significant fluctuations in the number of employees during the reporting period and between reporting 
+periods.
+4.3.1 Talent & Development (a, b, d, e) 
+4.3.2 Diversity, equity & inclusion (b, d) 
+Sustainability Supplements 2023 – Data 
+definitions, boundaries, and scope (b, c, d)
+ Information not available. As described in the 
+"Sustainability Supplements 2023 – Data 
+definitions, boundaries, and scope, ” social data 
+covers all employees that have been fully 
+integrated in our systems and excludes 
+contingent workers. We do not have enough data 
+about contingent workers to currently report at 
+a global level. (b iii)
+GRI 2-8 
+Workers who are not 
+employees
+a. Report the total number of workers who are not employees and whose work is controlled by the organization and 
+describe:i)  the most common types of worker and their contractual relationship with the organization; ii). the type of 
+work they perform; 
+b. Describe the methodologies and assumptions used to compile the data, including whether the number of workers who 
+are not employees is reported: i) in head count, full-time equivalent (FTE), or using another methodology; ii) at the end of 
+the reporting period, as an average across the reporting period, or using another methodology. 
+c. Describe significant fluctuations in the number of workers who are not employees during the reporting period and 
+between reporting periods.
+Total number of contingent workers in 2023 is 
+included in our FTE final numbers (2023: 31,920) 
+and is 4,332 (a) 
+Sustainability Supplements 2023 – Data 
+definitions, boundaries, and scope (a, b, c) 
+4.3.1 Talent and Development (a, c)
+GRI 2-9 
+Governance 
+structure and 
+composition
+a. Describe its governance structure, including committees of the highest governance body; 
+b. list the committees of the highest governance body that are responsible for decision making on and overseeing the 
+management of the organization’s impacts on the economy, environment, and people; 
+c. Describe the composition of the highest governance body and its committees by: i) executive and non-executive 
+members; ii) independence; iii) tenure of members on the governance body; iv) number of other significant positions and 
+commitments held by each member, and the nature of the commitments; v) gender; vi) under-represented social groups; 
+vii) competencies relevant to the impacts of the organization; viii) stakeholder representation.
+7 Board of Management (a, b, c) 
+8 Supervisory board (a, b, c) 
+9 Supervisory board report (a, b, c) 
+11 Corporate governance (a, b, c) For more on 
+other positions and commitments (iv.): https://
+www.signify.com/global/ourcompany/investors/
+governance/supervisory-board 
+GRI 2-10
+Nomination and 
+selection of the 
+highest governance 
+body
+a. Describe the nomination and selection processes for the highest governance body and its committees; 
+b. Describe the criteria used for nominating and selecting highest governance body members, including whether and how 
+the following are taken into consideration: i) views of stakeholders (including shareholders); ii) diversity; iii) 
+independence; iv) competencies relevant to the impacts of the organization.
+9 Supervisory board report (a, b) 
+11 Corporate governance (a, b)
+GRI SRS Disclosure requirements Reference to the Annual Report 2023
+29 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 30:
+GRI 2-11 
+Chair of the highest 
+governance body
+a. Report whether the chair of the highest governance body is also a senior executive in the organization; 
+b. If the chair is also a senior executive, explain their function within the organization’s management, the reasons for this 
+arrangement, and how conflicts of interest are prevented and mitigated.
+11 Corporate Governance (a,b)
+GRI 2-12 
+Role of the highest 
+governance body in 
+overseeing the 
+management of 
+impacts
+a. Describe the role of the highest governance body and of senior executives in developing, approving, and updating the 
+organization’s purpose, value or mission statements, strategies, policies, and goals related to sustainable development;
+b. Describe the role of the highest governance body in overseeing the organization’s due diligence and other processes 
+to identify and manage the organization’s impacts on the economy, environment, and people, including: i) whether and 
+how the highest governance body engages with stakeholders to support these processes; ii) how the highest 
+governance body considers the outcomes of these processes; 
+c. Describe the role of the highest governance body in reviewing the effectiveness of the organization’s processes as 
+described in 2-12-b, and report the frequency of this review.
+9 Supervisory board report (a, b) 
+11 Corporate Governance (a,b)
+4.1.1 Sustainability governance (c)
+4.1.4 Materiality assessment (c)
+GRI 2-13 
+Delegation of 
+responsibility for 
+managing impacts
+a. Describe how the highest governance body delegates responsibility for managing the organization’s impacts on the 
+economy, environment, and people, including: i) whether it has appointed any senior executives with responsibility for the 
+management of impacts; ii) whether it has delegated responsibility for the management of impacts to other employees;
+b. Describe the process and frequency for senior executives or other employees to report back to the highest 
+governance body on the management of the organization’s impacts on the economy, environment, and people.
+4.1 Approach to sustainability reporting (a, b)
+9 Supervisory Board report (a, b) 
+GRI 2-14 
+Role of the highest 
+governance body in 
+sustainability 
+reporting
+a. Report whether the highest governance body is responsible for reviewing and approving the reported information, 
+including the organization’s material topics, and if so, describe the process for reviewing and approving the information; 
+b. If the highest governance body is not responsible for reviewing and approving the reported information, including the 
+organization’s material topics, explain the reason for this.
+4.1.1 Sustainability governance (a, b)
+4.1.4 Materiality assessment (a, b) 
+GRI 2-15 
+Conflicts of interest
+a. Describe the processes for the highest governance body to ensure that conflicts of interest are prevented and 
+mitigated; 
+b. Report whether conflicts of interest are disclosed to stakeholders, including, at a minimum, conflicts of interest 
+relating to: i) cross-board membership; ii) cross-shareholding with suppliers and other stakeholders; iii) existence of 
+controlling shareholders; iv) related parties, their relationships, transactions, and outstanding balances.
+11.5 Other governance matters - Conflict of 
+interests (a) 
+9 Supervisory Board report (b)
+GRI 2-16 
+Communication of 
+critical concerns
+a. Describe whether and how critical concerns are communicated to the highest governance body;
+b. Report total number and the nature of critical concerns that were communicated to the highest governance body 
+during the reporting period
+13.1 Establish strong risk management 
+environment (a, b) 
+4.3.5 Business ethics (b)
+GRI 2-17 
+Collective knowledge 
+of the highest 
+governance body
+a. Report measures taken to advance the collective knowledge, skills, and experience of the highest governance body on 
+sustainable development 
+9 Supervisory board report (a)
+GRI 2-18 
+Evaluation of the 
+performance of the 
+highest governance 
+body
+a. Describe the process for evaluating the performance of the highest governance body in overseeing the management 
+of the organization’s impacts on the economy, environment, and people;
+b. Report whether the evaluations are independent or not, and the frequency of the evaluations;
+a. Describe actions taken in response to the evaluations, including changes to the composition of the highest governance 
+body and organizational practices
+Evaluation of the performance of the highest 
+governance body in 2023 was independent.
+9 Supervisory Board report (a, b, c)
+GRI SRS Disclosure requirements Reference to the Annual Report 2023
+30 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 31:
+GRI 2-19 
+Remuneration 
+policies
+a. Describe the remuneration policies for members of the highest governance body and senior executives, including: i) 
+fixed pay and variable pay; ii) sign-on bonuses or recruitment incentive payments; iii) termination payments; iv) clawbacks; 
+v) retirement benefits; 
+b. Describe how the remuneration policies for members of the highest governance body and senior executives relate to 
+their objectives and performance in relation to the management of the organization’s impacts on the economy, 
+environment, and people.
+10 Remuneration report (a, b) 
+GRI 2-20 
+Process to determine 
+remuneration
+a. Describe the process for designing its remuneration policies and for determining remuneration, including: i) whether 
+independent highest governance body members or an independent remuneration committee oversees the process for 
+determining remuneration; ii) how the views of stakeholders (including shareholders) regarding remuneration are sought 
+and taken into consideration; iii) whether remuneration consultants are involved in determining remuneration and, if so, 
+whether they are independent of the organization, its highest governance body and senior executives; 
+b. Report the results of votes of stakeholders (including shareholders) on remuneration policies and proposals, if 
+applicable.
+No policy change in 2023. 
+10 Remuneration report (a, b) 
+GRI 2-21 
+Annual total 
+compensation ratio
+a. Report the ratio of the annual total compensation for the organization’s highest-paid individual to the median annual 
+total compensation for all employees(excluding the highest-paid individual);
+b. Report the ratio of the percentage increase in annual total compensation for the organization’s highest-paid individual 
+to the median percentage increase in annual total compensation for all employees (excluding the highest-paid individual);
+c. Report contextual information necessary to understand the data and how the data has been compiled.
+Signify uses a different methodology and 
+therefore will be considered “incomplete” 
+according to the GRI Standard. Signify applies a 
+methodology to calculate the internal pay ratio 
+that is IFRS-driven (i.e. linked to Signify’s notes to 
+the Consolidated financial statements). Signify’s 
+pay ratio reflects the average total compensation 
+of the total global employee workforce, relative 
+to the total remuneration package of the CEO, 
+the highest-paid individual. 
+10.2.10 Signify's internal pay ratio (a, b, c)
+GRI 2-22 
+Statement on 
+sustainable 
+development 
+strategy
+a.  Report a statement from the highest governance body or most senior executive of the organization about the 
+relevance of sustainable development to the organization and its strategy for contributing to sustainable development.
+2 CEO Message (a)
+GRI SRS Disclosure requirements Reference to the Annual Report 2023
+31 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 32:
+GRI 2-23 
+Policy commitments
+a. Describe its policy commitments for responsible business conduct, including: i) the authoritative intergovernmental 
+instruments that the commitments reference; ii) whether the commitments stipulate conducting due diligence; iii). 
+whether the commitments stipulate applying the precautionary principle; iv) whether the commitments stipulate 
+respecting human rights; 
+b. Describe its specific policy commitment to respect human rights, including: i) the internationally recognized human 
+rights that the commitment covers; ii) the categories of stakeholders, including at-risk or vulnerable groups, that the 
+organization gives particular attention to in the commitment; 
+c. provide links to the policy commitments if publicly available, or, if the policy commitments are not publicly available, 
+explain the reason for this; 
+d. Report the level at which each of the policy commitments was approved within the organization, including whether this 
+is the most senior level; 
+e. Report the extent to which the policy commitments apply to the organization’s activities and to its business 
+relationships; 
+f. Describe how the policy commitments are communicated to workers, business partners, and other relevant parties.
+13.1 Establish strong risk management 
+environment (a, c, d, e, f) 
+4.1 Approach to sustainability reporting (a, c, d, e, 
+f) 
+4.3.3 Human rights (b) 
+Sustainability Supplements 2023 (a, b, c, d, e, f) 
+All policies can be found on our website. 
+GRI 2-24 
+Embedding policy 
+commitments
+a. Describe how it embeds each of its policy commitments for responsible business conduct throughout its activities and 
+business relationships, including: i) how it allocates responsibility to implement the commitments across different levels 
+within the organization; ii) how it integrates the commitments into organizational strategies, operational policies, and 
+operational procedures; iii) how it implements its commitments with and through its business relationships; iv) training 
+that the organization provides on implementing the commitments.
+4.1.2 Sustainability governance (a) 
+13.1 Establish strong risk management 
+environment (a)
+Sustainability Supplements 2023 (a)
+GRI 2-25 
+Processes to 
+remediate negative 
+impacts
+a. Describe its commitments to provide for or cooperate in the remediation of negative impacts that the organization 
+identifies it has caused or contributed to; 
+b. Describe its approach to identify and address grievances, including the grievance mechanisms that the organization 
+has established or participates in; 
+c. Describe other processes by which the organization provides for or cooperates in the remediation of negative impacts 
+that it identifies it has caused or contributed to;
+d. Describe how the stakeholders who are the intended users of the grievance mechanisms are involved in the design, 
+review, operation, and improvement of these mechanisms;
+e. Describe how the organization tracks the effectiveness of the grievance mechanisms and other remediation 
+processes, and report examples of their effectiveness, including stakeholder feedback.
+4 Brighter Lives, Better World (a, b, c) 
+13 Risk factors and risk management (a, b, c) 
+4.1.4 Materiality assessment (d, e)
+4.3.5 Business ethics (b,c,e)
+GRI 2-26 
+Mechanisms for 
+seeking advice and 
+raising concerns
+a. Describe the mechanisms for individuals to: i) seek advice on implementing the organization’s policies and practices for 
+responsible business conduct; ii) raise concerns about the organization’s business conduct.
+13.1 Establish strong risk management 
+environment (a)
+4.3.5 Business ethics (a)
+GRI SRS Disclosure requirements Reference to the Annual Report 2023
+32 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 33:
+GRI 2-27 
+Compliance with laws 
+and regulations
+a. Report the total number of significant instances of non-compliance with laws and regulations during the reporting 
+period, and a breakdown of this total by: i) instances for which fines were incurred; ii) instances for which non-monetary 
+sanctions were incurred;
+b. report the total number and the monetary value of fines for instances of noncompliance with laws and regulations that 
+were paid during the reporting period, and a breakdown of this total by: i) fines for instances of non-compliance with laws 
+and regulations that occurred in the current reporting period; ii) fines for instances of non-compliance with laws and 
+regulations that occurred in previous reporting periods;
+c. describe the significant instances of non-compliance;
+d. describe how it has determined significant instances of non-compliance.
+Through our internal audit and compliance 
+processes, we have determined that Signify has 
+not had any significant instances of non-
+compliance with laws and regulations during the 
+reporting period. (a, b, c, d).
+GRI 2-28 
+Membership 
+associations
+a.  Report industry associations, other membership associations, and national or international advocacy organizations in 
+which it participates in a significant role.
+Sustainability Supplements 2023 - GRI content 
+index (a)
+GRI 2-29 
+Approach to 
+stakeholder 
+engagement
+a. Describe its approach to engaging with stakeholders, including: i) the categories of stakeholders it engages with, and 
+how they are identified; ii) the purpose of the stakeholder engagement; iii) how the organization seeks to ensure 
+meaningful engagement with stakeholders.
+4.1.4 Materiality assessment (a)
+GRI 2-30 
+Collective bargaining 
+agreements
+a. Report the percentage of total employees covered by collective bargaining agreements; 
+b. For employees not covered by collective bargaining agreements, report whether the organization determines their 
+working conditions and terms of employment based on collective bargaining agreements that cover its other employees 
+or based on collective bargaining agreements from other organizations.
+88.4% (a) Effective December 31, 2023. Excludes 
+interns and Signify Employment Scheme 
+employees. 
+The payment terms and conditions are 
+determined by Signify Rewards team which 
+reviews benchmarks to determine the salary 
+levels, and budgets for salary raises, Long Term 
+Incentive’s lease car conditions, holiday 
+entitlements and other benefits. Employees have 
+to follow guidelines, procedures which are 
+applicable to all employees and which are being 
+set and arranged based on legal requirements as 
+well as via specific agreements with works 
+councils (where applicable). (b)
+GRI 3-1 
+Process to determine 
+material topics
+a. Describe the process it has followed to determine its material topics, including: i) how it has identified actual and 
+potential, negative and positive impacts on the economy, environment, and people, including impacts on their human 
+rights, across its activities and business relationships; ii) how it has prioritized the impacts for reporting based on their 
+significance; 
+b. Specify the stakeholders and experts whose views have informed the process of determining its material topics.
+4.1.4 Materiality assessment (a, b) 
+GRI SRS Disclosure requirements Reference to the Annual Report 2023
+33 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 34:
+GRI 3-2 
+List of material topics
+a. List its material topics; 
+b. Report changes to the list of material topics compared to the previous reporting period.
+4.1.4 Materiality assessment (a, b)
+Signify reported its first double materiality 
+assessment, therefore the  methodology is not 
+comparative with that reported in 2022. The 
+following  are no longer material in 2023: Business 
+ethics, Social impact of light, Innovation, 
+Operational excellence, Geopolitical instability, 
+Responsible packaging, Hazardous substances, 
+Biodiversity and Water usage. (b)
+GRI 3-3 
+Management of 
+material topics
+a. Describe the actual and potential, negative and positive impacts on the economy, environment, and people, including 
+impacts on their human rights; 
+b. Report whether the organization is involved with the negative impacts through its activities or as a result of its 
+business relationships, and describe the activities or business relationships; 
+c. Describe its policies or commitments regarding the material topic
+d. Describe actions taken to manage the topic and related impacts, including: i) actions to prevent or mitigate potential 
+negative impacts; ii) actions to address actual negative impacts, including actions to provide for or cooperate in their 
+remediation; iii) actions to manage actual and potential positive impacts; 
+e. Report the following information about tracking the effectiveness of the actions taken: i) processes used to track the 
+effectiveness of the actions; ii) goals, targets, and indicators used to evaluate progress; iii) the effectiveness of the 
+actions, including progress toward the goals and targets; iv) lessons learned and how these have been incorporated into 
+the organization’s operational policies and procedures; 
+f. Describe how engagement with stakeholders has informed the actions taken (3-3-d) and how it has informed whether 
+the actions have been effective (3-3-f).
+3.2 Our impact (a, b, e) 
+10.2.5 Long-term equity-based incentive 
+13.5 Key risks (a, b, c, e) 
+4 Brighter Lives, Better World (d) 
+4.1.1 Materiality assessment (f) 
+Sustainability Supplements 2023 – Data 
+definitions, boundaries, and scope (f)
+GRI 302-1 
+Energy consumption 
+within the 
+organization
+a. Total fuel consumption within the organization from non-renewable sources, in joules or multiples, and including fuel 
+types used. 
+b. Total fuel consumption within the organization from renewable sources, in joules or multiples, and including fuel types 
+used. 
+c. In joules, watt-hours or multiples, the total: i) electricity consumption, ii) heating consumption, iii) cooling consumption, 
+iv) steam consumption 
+d. In joules, watt-hours or multiples, the total: i) electricity sold, ii) heating sold, iii) cooling sold, iv) steam sold 
+e. Total energy consumption within the organization, in joules or multiples. 
+f. Standards, methodologies, assumptions, and/or calculation tools used. 
+g. Source of the conversion factors used.
+4.4.1 Climate action (a, b)
+(c) i) 262,924 MWh; ii) 1,614 MWh iii) Not 
+applicable and iv) 0 MWh 
+(d) 0, Signify does not sell energy. 
+(f) Signify reports actual energy consumption 
+data based on invoices. 
+(g) None, Signify reports energy consumption 
+absolute values.
+Sustainability Supplements 2023 - Data 
+definitions, boundaries, and scope (f,g)
+GRI 302-2 
+Energy consumption 
+outside of the 
+organization
+a. Energy consumption outside of the organization, in joules or multiples. 
+b. Standards, methodologies, assumptions, and/or calculation tools used. 
+c. Source of the conversion factors used.
+Not applicable as Signify does not have energy 
+consumption outside of its organization.
+GRI SRS Disclosure requirements Reference to the Annual Report 2023
+34 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 35:
+GRI 302-3 
+Energy intensity
+a. Energy intensity ratio for the organization. 
+b. Organization-specific metric (the denominator) chosen to calculate the ratio. 
+c. Types of energy included in the intensity ratio; whether fuel, electricity, heating, cooling, steam, or all. d. Whether the 
+ratio uses energy consumption within the organization, outside of it, or both.
+4.4.1 Climate action. Signify reports operational 
+energy intensity which includes stationary fuels, 
+electricity, heating and steam. (a,b, c)
+Sustainability Supplements 2023 - Data 
+definitions, boundaries, and scope (a,b,c)
+GRI 302-4 
+Reduction of energy 
+consumption
+a. Amount of reductions in energy consumption achieved as a direct result of conservation and efficiency initiatives, in 
+joules or multiples.
+b. Types of energy included in the reductions; whether fuel, electricity, heating, cooling, steam, or all. 
+c. Basis for calculating reductions in energy consumption, such as base year or baseline, including the rationale for 
+choosing it. 
+d. Standards, methodologies, assumptions, and/or calculation tools used.
+4.4.1 Climate action (a)
+Sustainability Supplements 2023  - Data 
+definitions, boundaries, and scope (b, c, d)
+GRI 302-5 
+Reductions in energy 
+requirements of 
+products and 
+services
+a. Reductions in energy requirements of sold products and services achieved during the reporting period, in joules or 
+multiples. 
+b. Basis for calculating reductions in energy consumption, such as base year or baseline, including the rationale for 
+choosing it. 
+c. Standards, methodologies, assumptions, and/or calculation tools used
+435 million MWh (a) 
+Sustainability Supplements 2023 - Methodology 
+for calculating societal impact, based on Signify 
+scope 4 methodology, the reduction in energy 
+consumption of sold LED and connected LED 
+products in 2023 compared to conventional 
+lighting products. (b, c)
+GRI 305-1 
+Direct (Scope 1) GHG 
+emissions
+a. Gross direct (Scope 1) GHG emissions in metric tons of CO2 equivalent. 
+b. Gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all.
+c. Biogenic CO2emissions in metric tons of CO2- equivalent. 
+d. Base year for the calculation, if applicable, including: i) the rationale for choosing it; ii) emissions in the base year; iii) 
+the context for any significant changes in emissions that triggered recalculations of base year emissions. 
+e. Source of the emission factors and the global warming potential (GWP) rates used, or a reference to the GWP source. 
+f. Consolidation approach for emissions; whether equity share, financial control, or operational control.
+g. Standards, methodologies, assumptions, and/or calculation tools used.
+4.4.1 Climate action (a, b, d, e, f)
+Not applicable as this data is not material for 
+Signify (c) 
+GRI 305-2 
+Energy indirect 
+(Scope 2) GHG 
+emissions
+a. Gross location-based energy indirect (Scope 2) GHG emissions in metric tons of CO2equivalent.
+ b. If applicable, gross market-based energy indirect (Scope 2) GHG emissions in metric tons of CO2equivalent.
+c. If available, the gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all. 
+d. Base year for the calculation, if applicable, including: i) the rationale for choosing it; ii) emissions in the base year; iii) 
+the context for any significant changes in emissions that triggered recalculations of base year emissions. 
+e. Source of the emission factors and the global warming potential (GWP) rates used, or a reference to the GWP source. 
+f. Consolidation approach for emissions; whether equity share, financial control, or operational control. 
+g. Standards, methodologies, assumptions, and/or calculation tools used
+4.4.1 Climate action (a, b, d, e, f)
+Sustainability Supplements 2023 - Data 
+definitions, boundaries, and scope (g)
+GRI SRS Disclosure requirements Reference to the Annual Report 2023
+35 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 36:
+GRI 305-3 
+Other indirect (Scope 
+3) GHG emissions
+a. Gross other indirect (Scope 3) GHG emissions in metric tons of CO2 equivalent. 
+b. If available, the gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3, or all.
+c. Biogenic CO2emissions in metric tons of CO2equivalent. 
+d. Other indirect (Scope 3) GHG emissions categories and activities included in the calculation. 
+e. Base year for the calculation, if applicable, including i. the rationale for choosing it; ii. emissions in the base year; iii. the 
+context for any significant changes in emissions that triggered recalculations of base year emissions. 
+f. Source of the emission factors and the global warming potential (GWP) rates used, or a reference to the GWP source. 
+g. Standards, methodologies, assumptions, and/or calculation tools used.
+4.4.1 Climate action (a, b, d, e, f)
+Not applicable as this data is not material for 
+Signify (c)
+Sustainability Supplements 2023 - Data 
+definitions, boundaries, and scope (g)
+GRI 305-4 
+GHG emissions 
+intensity
+a. GHG emissions intensity ratio for the organization.
+b. Organization-specific metric (the denominator) chosen to calculate the ratio.
+c. Types of GHG emissions included in the intensity ratio; whether direct (Scope 1), energy indirect (Scope 2), and/or 
+other indirect (Scope 3). 
+d. Gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3 or all
+4.4.1 Climate action (a, b, d, e, f)
+Sustainability Supplements 2023 - Data 
+definitions, boundaries, and scope (g)
+GRI 305-5 
+Reduction of GHG 
+emissions
+a. GHG emissions reduced as a direct result of reduction initiatives, in metric tons of CO2 equivalent. 
+b. Gases included in the calculation; whether CO2, CH4, N2O, HFCs, PFCs, SF6, NF3 or all.
+c. Base year or baseline, including the rationale for choosing it. 
+d. Scopes in which reductions took place; whether direct (Scope 1), energy indirect (Scope 2), and/or other indirect 
+(Scope 3). 
+e. Standards, methodologies, assumptions, and/or calculation tools used
+4.4.1 Climate action (a, b, d, e, f)
+Sustainability Supplements 2023 - Data 
+definitions, boundaries, and scope (g)
+GRI 305-6 
+Emissions of ozone-
+depleting substances 
+(ODS)
+a. Production, imports, and exports of ODS in metric tons of CFC-11 (trichlorofluoromethane) equivalent. 
+b. Substances included in the calculation.
+c. Source of the emission factors used. d. Standards, methodologies, assumptions, and/or calculation tools used.
+Not applicable as emissions from ODS are not 
+material for Signify.
+GRI 306-7 
+Nitrogen oxides 
+(NOx), sulfur oxides 
+(SOx), and other 
+significant air 
+emissions
+a. Significant air emissions, in kilograms or multiples, for each of the following: i) NOX ii) SOX iii) Persistent organic 
+pollutants (POP) iv) Volatile organic compounds (VOC) Emissions from NOX and SOX are at nonmaterial levels for Signify. 
+24 v) Hazardous air pollutants (HAP) vi) Particulate matter (PM) vii) Other standard categories of air emissions identified in 
+relevant regulations 
+b. Source of the emission factors used. 
+c. Standards, methodologies, assumptions, and/or calculation tools used 
+42 tonnes CO2e for N2O, others are not material 
+for Signify (a)
+Sustainability Supplements 2023 - Data 
+definitions, boundaries, and scope (b, c)
+GRI 406-1 
+Incidents of 
+discrimination and 
+corrective actions 
+taken
+a. Total number of incidents of discrimination during the reporting period. 
+b. Status of the incidents and actions taken with reference to the following: i) Incident reviewed by the organization; ii) 
+Remediation plans being implemented; iii) Remediation plans that have been implemented, with results reviewed through 
+routine internal management review processes; iv) Incident no longer subject to action
+This topic is covered under the Signify Integrity 
+Code and Supplier Sustainability Declaration, our 
+code of conduct for suppliers. 
+13.1 Establish strong risk management 
+environment 
+Signify Integrity code 
+4.3.5 Business ethics, discrimination incidents are 
+included under human resources (a,b)
+GRI SRS Disclosure requirements Reference to the Annual Report 2023
+36 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 37:
+GRI 407-1 
+Operations and 
+suppliers in which the 
+right to freedom of 
+association and 
+collective bargaining 
+may be at risk
+a. Operations and suppliers in which workers’ rights to exercise freedom of association or collective bargaining may be 
+violated or at significant risk either in terms of: i) type of operation (such as manufacturing plant) and supplier; ii) 
+countries or geographic areas with operations and suppliers considered at risk. 
+b. Measures taken by the organization in the reporting period intended to support rights to exercise freedom of 
+association and collective bargaining.
+This topic is covered under the Signify Integrity 
+Code and Supplier Sustainability Declaration, our 
+code of conduct for suppliers. 
+13.1 Establish strong risk management 
+environment - Signify Integrity code
+4.3.3 Human rights, Supplier Sustainable 
+Performance (a, b)
+GRI 408-1 
+Operations and 
+suppliers at 
+significant risk for 
+incidents of child 
+labor
+a. Operations and suppliers considered to have significant risk for incidents of: i) child labor; ii) young workers exposed to 
+hazardous work. 
+b. Operations and suppliers considered to have significant risk for incidents of child labor either in terms of: i) type of 
+operation (such as manufacturing plant) and supplier; ii) countries or geographic areas with operations and suppliers 
+considered at risk. 
+c. Measures taken by the organization in the reporting period intended to contribute to the effective abolition of child 
+labor
+This topic is covered under the Signify Integrity 
+Code and the Supplier Sustainability Declaration, 
+our code of conduct for suppliers 
+4.3.3 Human rights, Supplier Sustainable 
+Performance (a,c)
+4.3.3 Human rights, Responsible Mineral Sourcing 
+(b)
+GRI SRS Disclosure requirements Reference to the Annual Report 2023
+Supplement to GRI Content Index 2023
+GRI Standard 102-8
+Contract type by gender in % in 2023
+Permanent Temporary
+Female 98% 2%
+Male 98% 2%
+Not disclosed 100% —%
+Contract type by geography in % in 2023
+Permanent Temporary
+Europe 96% 4%
+Americas 100% —%
+Rest of the 
+world 98% 2%
+Time schedules by gender in % for 2023
+Full-time Part-time
+Female 96% 4%
+Male 98% 2%
+Not disclosed 80% 20%
+GRI Standard 401-1
+Turnover rate by management level in % 
+of total employee base
+Percentage
+Staff 72%
+Professional 22.41%
+Mid-level professional 3.87%
+Senior-level professional 1.47%
+Leadership 0.23%
+Turnover rate by gender
+Female 47%
+Male 53%
+Not disclosed 0.01%
+Turnover rate by age group
+Under 30 41%
+30-50 46%
+Over 50 13%
+37 Signify Sustainability Supplements 2023 < ≡ >
+GRI Standard 405-1: Workforce gender breakdown 2023
+Share of women in total workforce (as % of total workforce) 40%
+Share of women in all management positions, including junior, middle and top 
+management (as % of total management positions) 27%
+Share of women in junior management positions, i.e. first level of 
+management (as % of total junior management positions) 29%
+Share of women in top management positions, i.e. maximum two levels away 
+from the CEO or comparable positions (as % of total top management 
+positions) 29%
+Share of women in management positions in revenue-generating functions 
+(e.g. sales) as % of all such managers (i.e. excluding support functions such 
+as HR, IT, Legal, etc.)
+20%
+Share of women in STEM-related positions (as % of total STEM positions) 41%
+
+Page 38:
+GRI Standard 415-1: Public policy
+Signify actively engages with governmental 
+organizations, emphasizing the environmental 
+and socioeconomic benefits of energy 
+efficiency, the potential of connected LED 
+lighting and joining public debates addressing 
+sustainability issues. We share updates on 
+initiatives and developments in this area on 
+our website and in our Press Releases. 
+As formalized in our Integrity Code, Signify 
+adopted a policy of prohibition of 
+contributions, in money or in kind, to political 
+parties, political organizations or individuals 
+engaged in politics. Signify takes part in 
+industry associations and coalitions for 
+sustainable growth and we share our 
+contributions. The total contributions and 
+expenditures amounted EUR 3.19 million in 
+2023.
+The largest contributions and expenditures 
+are made by Signify to: 
+• The National Electrical Manufacturers 
+Association ‘NEMA’ to develop 
+performance standards and promote 
+product interoperability to increase 
+market demand, while improving safety 
+to mitigate risks (EUR 0.48 million).
+• World Economic Forum which engages 
+the foremost political, business, cultural 
+and other leaders of society to shape 
+global, regional and industry agendas 
+(EUR 0.36 million).
+• Lighting Europe to engage on Lighting 
+Industry Standards (EUR 0.24 million). 
+At Signify we address the following main 
+issues with our contributions and 
+expenditures: 
+• Signify considers climate action a key focus 
+area. Moving towards renewable energy 
+and focusing on energy efficiency (total of 
+contributions and expenditures of EUR 0.41 
+million). 
+• Within our industry we engage with 
+associations to develop uniform standards 
+in lighting technology and connectivity 
+(total of contributions and expenditures of 
+EUR 2.75 million).
+38 Signify Sustainability Supplements 2023 < ≡ >
+Type of trade organization
+Geographic 
+scope
+Spend       
+( € millions) Focus of membership (non-exhaustive)
+Industry Associations Global 2.51
+Sustainable innovation in the industry, 
+climate action, scaling up action on the 
+UN SDGs, common standards.
+Coalitions for sustainable growth Global 0.68
+Carbon pricing, sustainable cities, 
+standards for impact measurement, UN 
+SDG contribution.
+Political contributions Global 0
+
+Page 39:
+7 EU Non-Financial Reporting Directive 
+(NFRD)
+Category Criterion Reference to the Annual Report 2023
+Company business model Description 3  
+5
+Creating sustainable long-term value
+Corporate performance
+Diversity
+Policy description 4.3.2
+7   
+8   
+Diversity, equity & inclusion
+Board of management
+Supervisory board KPI / result
+Social matters
+Policy description
+4.3 Brighter Lives
+KPI / result
+Risk 4.3
+13  
+Brighter Lives
+Operational risks
+Environmental matters
+Policy description
+4.4 Better World
+KPI / result
+Risk 4.4   
+13  
+Better World
+Climate risk
+Human Rights
+Policy description 4.3.3  Human rights
+KPI / result 4.3.3 
+4.3.5  
+Human rights
+Business ethics
+Risk 4.3.3 Human rights
+Bribery and corruption
+Policy description 13.1 Establish strong risk management environment
+KPI / result 4.3.5
+13.1 
+Business ethics 
+Establish strong risk management environment
+Risk 13.1 
+13.3
+Establish strong risk management environment
+Risk assessment and control
+39 Signify Sustainability Supplements 2023 < ≡ >
+
+Page 40:
+Signify N.V.
+High Tech Campus 48
+5656 AE Eindhoven
+The Netherlands 
+E-mail: sustainability@signify.com
+www.signify.com
+Dutch Chamber of Commerce
+registration no. 65220692
+VAT NL8560.25.823.B.01 
+

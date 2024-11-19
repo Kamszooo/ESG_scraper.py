@@ -1,0 +1,2674 @@
+Page 1:
+Sustainability Report 2023
+
+
+Page 2:
+About this Report
+This report marks our fourth consecutive annual Sustainability 
+Report and provides an overview of our Environmental, 
+Social, and Governance (ESG) strategies for managing risks, 
+opportunities, and our performance measured against stated 
+ESG goals and targets. 
+Our ESG targets are based on the United Nations Guiding 
+Principles, industry best practices, materiality, and our 
+business strategy. We continue to review our approach in 
+response to changing regulatory landscapes and evolving 
+demands to ensure we support a just transition and ensure 
+people have continuing access to energy resources.
+Reporting Period
+January 1, 2023 – December 31, 2023 (unless otherwise noted)
+Report Boundaries
+Our 2023 Sustainability Report covers activities under direct 
+operational control of McDermott International, Ltd., including 
+our headquarters in Houston, Texas, USA.
+All financial data is presented in U.S. dollars (unless otherwise 
+noted).
+Questions or Feedback
+We welcome your feedback and questions about our ESG strategy and 
+performance. Please direct them to: sustainability@mcdermott.com.
+Imagery
+Some of the images used in this report are artistic impressions.
+Reporting Methodologies and Frameworks
+McDermott referenced the following international and industry best 
+practices and ESG frameworks, as applicable, to develop this report:
+• Global Reporting Initiative (GRI) Standards
+• Task Force on Climate-Related Financial Disclosures (TCFD) 
+framework
+• Value Reporting Foundation’s Sustainability Accounting Standards 
+Board (SASB) Infrastructure – Engineering & Construction Services 
+(IF-EN) metrics
+• United Nations Sustainable Development Goals (UNSDGs)
+• International Petroleum Industry Environmental Conservation 
+Association (IPIECA)
+• International Association of Oil & Gas Producers (IOGP)
+• American Petroleum Institute (API) sustainability reporting guidance
+Assurance and Review
+We continue to trust our Internal Audit and Financial Reporting teams 
+for review of information and data contained in this report as we 
+explore third-party assurance options for our future reports.
+Additional Information
+McDermott cautions that statements in this communication which are 
+forward-looking, and provide other than historical information, involve 
+risks, contingencies, and uncertainties that may impact McDermott’s 
+actual results of operations. These forward-looking statements include, 
+among other things, statements about McDermott’s sustainability 
+plans and targets and the associated timing to achieve those targets. 
+Although we believe that the expectations reflected in those forward-
+looking statements are reasonable, we can give no assurance that 
+those expectations will prove to have been correct. Those statements 
+are made by using various underlying assumptions and are subject to 
+numerous risks, contingencies, and uncertainties, including, among 
+others: adverse changes in the markets in which we operate or credit 
+or capital markets; our inability to successfully execute on contracts 
+in backlog; changes in project design or schedules; the availability of 
+qualified personnel; changes in the terms, scope or timing of contracts, 
+contract cancellations, change orders, and other modifications and 
+actions by our customers and other business counterparties; changes 
+in industry norms; actions by lenders and other creditors of McDermott 
+and adverse outcomes in legal or other dispute resolution proceedings. 
+If one or more of these risks materialize, or if underlying assumptions 
+prove incorrect, actual results may vary materially from those expected. 
+This communication reflects management’s views as of the date 
+hereof. Except to the extent required by applicable law, McDermott 
+undertakes no obligation to update or revise any forward-looking 
+statement.
+2023 Sustainability Report 
+2
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 3:
+CONTENTS
+1. OUR PATH
+A Message to Our Stakeholders  
+2023 Sustainability Highlights 
+100 Years of McDermott History
+Our Vision for the Next Century
+4
+5
+6
+7
+8
+2. MATERIALITY AND STAKEHOLDER ENGAGEMENT
+Materiality
+Stakeholder Engagement
+9
+10
+11
+3. LEADING WITH SAFETY
+Our Safety Performance
+A Focus on Continuous Improvement
+12
+13
+14
+4. ENVIRONMENTAL STEWARDSHIP 
+What Sets McDermott Apart
+Decarbonizing our Operations
+Supporting Our Customers in the Energy Transition
+15
+16
+17
+22
+7.    FRAMEWORK ALIGNMENT
+Framework Mapping Index
+Sustainable Development Goals Index
+TCFD Index
+38
+39
+40
+41
+8.    DATA TABLES
+Safety
+Environment
+People
+Learning and Development
+Governance
+44
+45
+46
+49
+54
+56
+5.    PEOPLE
+Our  Workforce
+Our Communities
+Human Rights 
+28
+29
+31
+32
+6.    GOVERNANCE
+Sustainability Governance
+Risk Management
+Business Ethics
+Supplier ESG Screening
+Cyber Security and Data Privacy
+33
+34
+34
+35
+36
+37
+2023 Sustainability Report 
+3
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 4:
+OUR PATH
+2023 Sustainability Report 
+4
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 5:
+A Message to
+Our Stakeholders
+We are proud to present our 
+2023 report and what we have 
+accomplished and learned during 
+the past year. A century ago, 
+McDermott’s founders set out 
+to advance the energy industry 
+through delivery of innovative 
+solutions. Today, we continue to 
+design and deliver some of the 
+world’s most complex energy 
+projects. We are committed to 
+project excellence, responsible 
+business, and supporting energy 
+transition. 
+Our Approach to Sustainability 
+Our environmental, social, and governance 
+(ESG) activities include reducing the operational 
+emissions of our own facilities and of those 
+we design and build for customers. We also 
+contribute to social, economic, and institutional 
+development in host countries, creating local 
+opportunities through meaningful and impactful 
+social investment projects. We are committed to 
+continuous improvement, and regularly assess and 
+refine our strategic ESG goals and programs. 
+Our Progress
+In 2023, driven by our experienced and 
+resourceful workforce, we achieved 
+significant successes, including industry-
+leading safety performance, a 23% reduction 
+in greenhouse gas (GHG) emissions*, and 
+improved operational efficiencies with the 
+adoption of renewable energy, onsite solar 
+power generation, and digital technologies. 
+We introduced a climate risk management 
+framework to identify risks and guide 
+specific mitigations and year-on-year 
+improvements. And, as part of our 
+commitment to ESG reporting, we made our 
+second CDP submission. 
+We also advanced energy security through 
+our work in support of offshore wind 
+generation and liquefied natural gas 
+production. We collaborated with a range 
+of partners to assess low-carbon pathways 
+– including hydrogen and carbon capture 
+storage and utilization – addressing the 
+challenge of scaling up production while 
+minimizing environmental impact. 
+*Scope 1 and 2 GHG emissions, versus target 50% by 2030 and NetZero by 2050
+With 31,494 employees representing over 100 
+nationalities, we aim to be an employer of choice 
+with benefits, training programs, and career planning 
+opportunities that support our people’s diverse talents 
+and continue our strong corporate culture. In 2023, we 
+also continued well-being initiatives in our offices and 
+project sites to support both mental and physical health.
+Michael McKelvy,  
+President and Chief Executive Officer 
+Rachel Clingman,  
+Executive Vice President, 
+Sustainability and Governance
+Our Report 
+This report reflects our dedication to reporting 
+and our development of the organizational know-
+how, spirit, discipline, and skills needed to support 
+responsible business, operational excellence, and 
+the transition to a lower carbon future. 
+2023 Sustainability Report 
+5
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 6:
+2023 Sustainability Highlights
+*Significant sites are categorized as yards and sites executing $1 billion USD or more in project value and include Batam Fabrication Yard (Indonesia), Jebel Ali Fabrication Yard (United Arab Emirates), Altamira Fabrication Yard 
+(Mexico), Qatar Fabrication Yard (Qatar), Qingdao McDermott Wuchuan (QMW) Fabrication Yard (China), Tilenga project site (Uganda), Golden Pass LNG project site (Texas), and Mozambique LNG project site (Mozambique)
+AWARDED OUR LARGEST
+RENEWABLE ENERGY
+PROJECT WITH A TOTAL
+TRANSMISSION 
+CAPACITY
+4GW
+16,691 m3  
+WATER REUSED IN OUR OPERATIONS
+250,000 m3
+per year
+SUSTAINABLE AVIATION 
+FUEL AND RENEWABLE 
+GASOLINE
+ENGINEERING A NET 
+ZERO 1 FACILITY
+ESTABLISHED A  
+DIVERSITY 
+COUNCIL
+0.07
+TOTAL 
+RECORDABLE
+INCIDENT 
+RATE
+                        SOLID WASTE
+DIVERTED FROM LANDFILL
+vs target 50% by 203073% 
+77% 
+OF OUR GRID-SOURCED 
+ELECTRICITY CAME FROM
+RENEWABLE SOURCES 
+ACHIEVED
+OVERALL
+RATE OF  4 .34 /5
+IN OUR GLOBAL
+EMPLOYEE SURVEY
+RECEIVED NATIONAL
+RECOGNITION FOR OUR
+LOCAL CONTENT SKILLING
+EFFORTS IN UGANDA
+ESG SCREENING
+1,734
+SUPPLIERS
+PERFORMED
+100% 
+HUMAN 
+RIGHTS DUE 
+DILIGENCE
+OF SIGNIFICANT SITES*
+DESIGNED A 
+FLOATING 
+PRODUCTION UNIT 
+WITH BATTERY 
+ENERGY STORAGE 
+SYSTEM  TO REDUCE 
+EMISSIONS
+0.04 tCO2
+per t LNG
+BUILDING THE WORLD’S
+LOWEST CARBON 
+INTENSE LNG 
+FACILITY
+TRAINING ON THE 
+PREVENTION OF 
+FORCED LABOR
+COMPLETION RATE OF ASSIGNED
+100% 
+23%
+vs target 50% by 2030 and 
+NetZero by 2050
+REDUCTION IN
+SCOPE 1 AND SCOPE 2 
+GHG EMISSIONS
+2023 Sustainability Report 
+6
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 7:
+100 Years of McDermott History
+J. Ray McDermott 
+founded October 18, 
+1923, headquartered in
+Eastland, Texas
+Uses the world’s first 
+drilling equipment 
+in the low lying 
+marshlands of 
+Louisiana and Texas
+Installs the first
+all-concrete platform
+in the Gulf of Mexico
+Constructs and 
+installs the first subsea 
+system in the Gulf of
+Mexico
+Introduces a new 
+launch method for 
+offshore jacket
+installation
+19741967195019381923 20212014200419961987
+Loads a Waterflood-3 
+Jacket, a first for 
+Dubai Petroleum 
+Company
+Engineers,
+procures, constructs
+and installs topsides 
+for the world’s first
+production Spar
+platform
+Constructs structures
+for the world’s first
+liquefied petroleum
+gas floating 
+production, storage
+and offloading vessel
+First to install rigid 
+reel-lay pipe-in-pipe in 
+Asia-Pacific, offshore 
+Malaysia
+Awarded an 
+EPC contract for 
+Woodfibre LNG, the
+cleanest liquefied 
+natural gas export
+facility in the world
+2023 Sustainability Report 
+7
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 8:
+Q: What has McDermott learned over the past 100 years 
+that is especially relevant today? 
+A: Resilience and innovation. Collaborative resilience and 
+innovative spirit have driven McDermott’s success over the 
+past 100 years. We are so proud of our dedicated, creative, 
+and resourceful workforce that has adapted to change and 
+challenges and continued to devise better ways to operate 
+and perform.
+We have learned through adversity and continued to be 
+focused on successful project delivery, positioning ourselves 
+for a great future with a strong culture and ESG values.
+Our Vision for the Next Century
+A Conversation with Rachel Clingman, our Executive Vice President, Sustainability and Governance
+Q: How will McDermott prosper and adapt, embracing 
+sustainability and coping with change?
+A: I am confident we will remain very customer-focused and 
+competitive. We embrace our customer’s ESG goals and 
+have embedded professionals throughout our operations 
+to continue to guide customers to new technologies and 
+innovative solutions to safely and efficiently deliver the energy 
+the world needs. 
+Our design, front-end engineering design (FEED) and 
+engineering, procurement, construction, and installation (EPCI) 
+work in energy transition continues to grow, building on our 
+expertise in offshore construction, onshore fabrication, and 
+energy markets across the globe. From offshore wind to carbon 
+capture projects, we will play a significant role in achieving our 
+customer’s renewable energy commitments. 
+And we will preserve a high level of discipline, one of the 
+attributes that has helped us to excel over the past 100 years.
+Q: What differentiates McDermott?
+A: We have the advantage of being one of the few fully 
+integrated global EPCI contractors – from our fabrication yards 
+and our engineering capability to our advanced marine fleet. There are 
+very few EPCI companies in the world with this combination of assets and 
+experience. From a sustainability perspective, this enables us to influence 
+ESG factors, such as emissions, across the value chain.
+We also have strong social responsibility programs, which help improve the 
+quality of life in our local communities.
+Q: How is McDermott focusing on reducing its carbon footprint?
+A: One immediate focus is identifying opportunities to reduce the operating 
+carbon intensity of our assets. This includes implementing measures to 
+further reduce emissions through the use of renewable energy including 
+onsite solar generation at our fabrication sites, which remain at the heart of 
+EPCI project delivery and critical to supporting energy developments such 
+as offshore wind.
+Equally, we continue our focus on driving efficiencies in our operations 
+through the use of digital platforms to monitor asset utilization and fuel 
+consumption of our equipment, machinery and marine vessels.
+2023 Sustainability Report 
+8
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 9:
+MATERIALITY AND 
+STAKEHOLDER ENGAGEMENT
+2023 Sustainability Report 
+9
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 10:
+ ECO
+N
+O
+M
+Y                  W
+ELFARE                       GOVERNANCE                           & IN CLUSIO N                              BIO D IVERSITY                          ENGAGEMENT                 DATA PRIVACY    SUPPLY  CHAIN
+  & CIRCULAR                & W
+ORKER                      CORPORATE                      DIVERSITY, EQ U ITY                                                                       EMPLOYEE                  SECURITY &   SUSTAINABLE
+ RESO
+URCE USE        HUM
+AN RIGHTS                                                                                                                                                                                                                CYBER
+EM
+ISSION                   LOCAL                     CLIM ATE                    W ASTE                      ESG                   W ATER                    RISK               REGULATORY          HEALTH &         POLLUTION
+& EN
+ERGY                CONTENT                   CHANGE             M AN AG EM EN T        BUD G ETIN G    M ANAGEMENT   MANAGEMENT      CHANGES          & SAFETY         
+LOCAL          HUM
+AN RIGHTS      EMISSION &          ECONOM IC                               RISK                                   CLIM
+ATE                     H
+EALTH    CON
+TEN
+T    & W
+O
+RKER       ENERGY    PERFORM ANCE      M AN AGEM ENT        ACTION AND            & SAFETY
+W
+ELFARE                                                                                                         MITIGATIO
+N
+                             &  CYBER-SECURITY          IN C LU SIO N            CONDUCT             
+                    ANTI-CORRUPTIO N         EQ U ITY &           BUSINESS           
+ ETHICAL 
+MCDERMOTT
+CLIENTS
+STAKEHOLDERSCritical includes matters, issues, or 
+activities of utmost importance and 
+require immediate attention. These 
+are considered essential for the 
+company’s achievement of goals and 
+well-being. 
+Materiality
+Materiality is an essential component of our sustainability program, and guides 
+the transparency with which we report our ESG goals and expectations to our 
+customers and other stakeholders.  
+In 2023, we conducted a formal materiality assessment to identify current ESG priorities, risks, opportunities, and 
+emerging issues as a basis for reporting on material issues.
+Materiality Assessment Methodology
+We back our materiality assessment results with additional sources of information, such as customer priorities 
+and external rating platforms, to ensure their clarity and relevance. 
+McDermott’s ESG data is disclosed on various external platforms that score our performance, providing insights 
+into our strengths and weaknesses. We use these to identify areas for improvement. 
+All these sources of information guide our materiality issue prioritization as shown in the diagram here.
+Significant includes subject matters or issues 
+that hold importance and have a notable impact 
+on objectives or outcomes. These are substantial 
+and contribute significantly to the overall 
+success or failure of goals. They might not be 
+as urgent as critical tasks but are still crucial for 
+achieving long-term success.
+Emerging includes subjects, issues, trends, or 
+situations that are gaining importance and may 
+have a material impact in the future. Monitoring 
+and addressing emerging issues early can help 
+the company stay proactive and better prepare 
+for the future.
+2023 Sustainability Report 
+10
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 11:
+EMPLOYEES
+• Employee engagement surveys
+• Annual performance review and professional development plans
+• Employee Resource Groups (ERGs)
+• Training
+• Townhalls
+• inSITE (intranet)
+• Ethics and compliance hotline
+• Exit interviews
+GOVERNANCE AND REGULATORS
+• Communication on permitting applications and compliance
+• In-person and virtual meetings
+• Partnership on government workforce development initiatives
+SHAREHOLDERS/ INVESTORS
+• Quarterly earnings calls
+• ESG surveys
+BOARD OF DIRECTORS
+• Quarterly Board Meetings
+• Adhoc business updates as approriate
+CUSTOMERS
+• Regular meetings with Account Managers
+• Periodic meetings with project management/ leadership teams
+• Visits to fabrication yard or project sites
+• Invitation to tender/ request for proposals
+• ESG Questionnaire or surveys
+• Industry or professional association events
+• Standalone ESG engagements
+COMMUNITY MEMBERS
+• Regular community engagement for social risk mitigation
+• Effective grievance redressal mechanism
+• Local livelihood generation (Local Content)
+• Social investment through community partnerships
+SUPPLIERS
+• Selection and contracting process
+• In-person meetings and trainings
+• Regular engagement with supplier category managers
+• Annual Strategic Supplier Evaluations
+• Annual Strategic Supplier Sustainability Surveys and follow up engagement
+Stakeholder Engagement
+Respect for our many varied stakeholders – customers, 
+employees, Board members, shareholders, suppliers, 
+academic partners, regulators, and local communities 
+and workforces – is deeply embedded throughout our 
+organization.
+We regularly engage with these different groups 
+to learn and understand their expectations and 
+the value we bring them.
+2023 Sustainability Report 
+11
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 12:
+LEADING WITH SAFETY
+2023 Sustainability Report 
+12
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 13:
+Our Safety Performance
+At McDermott, we pride ourselves on being an industry leader 
+in safety performance. Our exemplary safety performance is 
+grounded in our leadership’s active focus on safe operations and 
+our employees’ continued diligence and accountability for their 
+own and each other’s safety.
+We finished with a Total Recordable Incident Rate (TRIR) of 0.07 and a Lost Time Incident 
+Rate (L TIR) of 0.01 across more than 117 million work hours, including the performance of 
+our subcontractors. Our TRIR and L TIR rates are industry leading – and demonstrate our 
+commitment to year-on-year improvement in safety. We met or exceeded our targets on 
+leading indicators, including training, near miss incident reviews, incident action close out, and 
+health and well-being programs.  
+Our strong safety performance was driven by effective processes, tools, and programs through 
+which our employees identify and mitigate unsafe acts and conditions before they lead to an 
+incident. One of our most important tools is our Stop Work Obligation (SWO) program, which 
+requires every team member to stop and reassess a task with perceived conditions and/or 
+behaviors that might pose a danger to people, environment, equipment, or reputation. During 
+2023, over 1,600 SWO interventions were reported globally and prevented potential undesirable 
+events from occurring.
+“  
+”
+Employees are required to stop work if 
+anything is seen as—or could potentially 
+be—unsafe. And they now have digital tools 
+that make it easier to provide feedback.
+Shirlie Macatangay
+Vice President, Quality, Health, Safety,
+Environment & Security (QHSES)
+Construction Industry Institute (CII)
+International Association of Oil and Gas Producers (IOGP)
+International Marine Contractors Association (IMCA)
+2023 Sustainability Report 
+13
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 14:
+A Focus on Continuous Improvement
+Reinforcing Positive Behaviors
+STRIVE reinforces our focus on leading indicators that serve as our 
+mechanism to make data-driven decisions to cultivate a proactive 
+culture of safety that prevents incidents while promoting continuous 
+improvement in all aspects of workplace health and well-being and 
+preventing potentially undesirable events from occurring.
+Health and Well-being
+In 2023, we reinforced our focus on supporting the health and well-being of our people. Guided by a newly formed Health 
+and Well-being Advocacy Council (HWAC), McDermott provided additional tailored health programs and resources for our 
+employees. These new initiatives will complement our robust benefits program and emphasize our commitment to a positive 
+health culture.   
+Our THRIVE initiative provides resources and support in five areas of well-being—mental, emotional, financial, social, and 
+physical. In 2023, the company strengthened a global campaign for mental health and placed a significant focus on suicide 
+prevention. The campaign featured an awareness initiative during Construction Safety Week, which included group activities, 
+toolbox talks, assessments, and employee recognition. We also developed global training for supervisors, managers, and entry-
+level employees on mental health, which we will begin to implement in 2024.
+We also have a strong focus on mental health awareness and effective programs. 
+THRIVE will continue to serve as the foundation for health and wellbeing with HWAC and related programs strengthening the 
+objectives of THRIVE.
+HEAL TH AND WELL-BEING ADVOCACY COUNCIL
+Our HWAC brings together global leaders from across the business, including QHSES, Human Resources, 
+Communications, Benefits, and Governance, with company physicians to design and provide health education and 
+resources for our employees. The Council works with our Benefits team to plan and deliver health factsheets and 
+resources throughout the year.
+A major goal of the Council is to provide the organization with a well-being strategy. The Council’s initial focus was on 
+cardiovascular disease, the leading cause of death globally. Our aim is to help prevent and reduce risk by educating 
+employees on the top five most interrelated cardiovascular risk conditions: obesity, hypertension, diabetes, inactivity, 
+and heart health.
+2023 Sustainability Report 
+14
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 15:
+ENVIRONMENTAL 
+STEWARDSHIP
+2023 Sustainability Report 
+15
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 16:
+source: GHG Protocol, the McDermott perspective
+CO/uni2082CH/uni2084N/uni2082OHFCs PFCs NF/uni2083CH/uni2084
+Upstream Activities Downstream ActivitiesMcDermott
+Scope 1
+DIRECT
+Scope 3
+INDIRECT
+Scope 3
+INDIRECT
+Scope 2
+INDIRECT
+Purchased goods 
+and services
+Steel / 
+raw materials 
+Purchased 
+electricity, 
+steam, heating 
+and cooling for 
+own use
+Operational and 
+Fabrication Yard 
+Activity, Generators
+Sub contractor 
+fuel/ energy use
+Waste generated 
+in operations
+Employee 
+commuting
+Business travel
+Welding 
+emissions
+Leased assets
+Logistics
+Buildings, office, 
+employee activity
+Vessels, vehicles
+and equipment 
+Customer operations of 
+engineered facilities
+End-of-life 
+treatment of facility 
+elements
+Transportation 
+of constructed 
+modules 
+What Sets 
+Us Apart
+As a fully integrated engineering, 
+procurement, construction, and 
+installation (EPCI) solutions provider, 
+we maintain operational control 
+and influence over our emissions, 
+energy, and fuel usage – a distinct 
+advantage that sets us apart. 
+This integrated approach enables 
+us to decarbonize projects across 
+the value chain, as we focus on 
+supporting our customers and 
+suppliers to deliver emission 
+reductions through their facilities.
+Examples of emission sources relevant to McDermott's operations;
+2023 Sustainability Report 
+16
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 17:
+Decarbonizing Our Operations
+Reducing emissions in our facilities enhances our ability to offer our customers low-carbon EPC project delivery.
+Energy Management
+In 2023, we increased global use of grid-sourced renewable energy to 77%, contributing to meaningful 
+reductions in our carbon emissions (up to 56,300 tonnes of carbon dioxide equivalents (tCO2e)).
+We also added to our onsite solar capability at our Batam Fabrication Yard (BFY), enabling us to adopt 
+lower carbon energy solutions for sustainable fabrication operations.
+Fuel Management
+Our operations require large quantities of fuel to power our construction vessels, run our heavy machinery and 
+other equipment. To further reduce our carbon footprint, we increasingly use digitalization in our operations.
+For example, we implemented asset utilization software at our Jebel Ali Fabrication Yard to generate data on 
+fuel efficiency of machinery and vehicles, which enabled an 8% reduction in fuel consumption. Building on this 
+success, we are leveraging software to evaluate the positive impacts of retrofitting equipment to increase fuel 
+savings.
+By embracing innovative technology solutions, we not only drove operational efficiencies and cost effectiveness 
+but also supported our sustainability aspirations, demonstrating McDermott’s commitment to mitigating 
+environmental impact and taking meaningful action toward our Net Zero goals.
+INVESTING IN RENEWABLE ENERGY SOURCES AT OUR FABRICATION YARDS
+In 2023, we initiated the largest on-grid solar panel system on Batam island, set to cover 
+24,000 square meters (m2) of our BFY facilities once complete. This project, part of a 6.2 
+megawatt peak (MWp) initiative with PLN, Indonesia's State Electricity Company, will supply 
+over 20% of the yard’s power usage. MONITORING AND MINIMIZING FUEL CONSUMPTION
+This progress, coupled with solar progress 
+in the Qingdao McDermott Wuchuan 
+(QMW) and Chonburi Thailand yards in 
+2022, achieved a total 6,669 megawatt-hour 
+(MWh) of solar installed capacity globally. 
+FUEL TRAX is a fuel monitoring system that provides real-time data on fuel consumption for vessels, 
+promoting transparency and enhancing operational efficiency.
+We equipped two of our marine vessels, the DB32 
+and the DB50. This system uses coriolis meters 
+installed on strategic points of the fuel lines to track 
+fuel consumption and engine performance. Utilizing 
+data from the system, we are creating a database 
+for benchmarking vessel performance, from which 
+we will be able to establish key performance 
+indicators (KPIs) for optimal performance.
+2023 Sustainability Report 
+17
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 18:
+REDUCING MARINE OPERATIONAL EMISSIONS
+We completed a study that compared the overall impact 
+on marine operations and embodied greenhouse gas (GHG) 
+emissions associated with the installation of rigid pipelines via 
+the J-Lay method to a vessel with reel-lay capability.
+The study revealed that using the J-Lay method can reduce 
+emissions by 3,165 tCO2e (16% less) compared to the reel-lay 
+method.
+Marine Operations
+We own and operate a diverse array of vessels, including derrick barges, construction and pipelay, and support 
+vessels capable of transporting and installing jackets, topsides, pipelines, and other complex subsea structures for 
+offshore projects globally. 
+This strategic advantage not only enhances operational efficiency but also affords us greater control over 
+scheduling and project timelines, ensuring streamlined project execution and asset management.
+We continue to evaluate various marine technologies to determine their suitability for our vessels, as avenues to 
+minimize our carbon footprint while maximizing operational efficiency. These include hybridization, retrofitting 
+vessels for shore power connectivity, and expanding our vessel fuel monitoring system.
+Using our carbon reporting software, we examine emissions associated with subsea project activities to which our 
+vessels are deployed. This data helps us determine different field development options or project scenarios, as 
+well as vessel allocation based on the predicted operational emissions. Water Management
+Our global operations work to reduce water consumption by optimizing the use, reuse, 
+and recycling of water consistent with our water management efficiency guidelines. 
+Examples of water reuse across our operations include:
+• Reusing stormwater for dust suppression and soil compaction at projects like 
+Tilenga and Borstar Bay 3.
+• Utilizing rainwater harvesting systems for dust suppression at BFY.
+• Achieving 50% water savings at the Refidomsa Project in the Dominican Republic by 
+transferring 10,033 cubic meters (m3) of water per sphere test.
+• Recycling kitchen water for irrigation at the George Wassef camp in Saudi Arabia.
+• Treating wastewater for reuse in dust suppression at the Golden Pass facility, which 
+reused 16,156 m3 of treated wastewater.
+• Installing a ballast water treatment facility on the DB50 vessel, exceeding global 
+standards and setting an example for other vessels like DB30 and DB32.
+2023 Sustainability Report 
+18
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 19:
+Circularity
+Circularity throughout a project’s lifecycle remains key to minimizing waste, promoting reuse, and 
+managing our environmental footprint. We seek to influence circularity throughout our value chain, 
+from engineering design to construction. 
+We are evaluating the use of reporting and measurement tools to assess the circularity of our 
+products and service offerings. Measurement and reporting of circular indicators are key steps 
+in understanding circularity across the value chain, as we continue to work with our clients and 
+suppliers to improve circularity at every project stage.
+We continue to research new materials and products with the goal of employing circular principles in 
+facilities we design and build.
+Our Circularity Initiatives
+Reduce
+Reuse
+Recycle
+ y Using digital technologies to reduce 
+use of energy
+ y Using  alternative, greener fuels 
+wherever possible  
+ y Designing out flaring and reducing 
+probability of leakages
+ y Providing design standardization 
+opportunities across facilities
+ y Prioritizing use of non-metallics
+ y Prioritizing use of renewable energy
+ y Promoting use of non-
+virgin material in steel 
+production
+ y Engaging with suppliers 
+to implement new 
+materials like green steel 
+and green concrete
+ y Divert waste from 
+landfill
+Waste
+In 2023, we achieved a 73% reduction in solid waste sent to landfill. Enhanced 
+waste segregation methods, employee awareness programs, and collaboration 
+with supply chain partners were instrumental in this success. 
+Company-wide efforts, including waste workshops, a ‘Vessel Green Challenge’, 
+employee-led initiatives such as beach clean-ups, helped increase awareness, 
+improve reporting, and strengthen our commitment to waste reduction and 
+environmental stewardship.
+In our fabrication yards, we seek to optimize our use of procured raw materials, 
+reducing waste and preventing scrap generation. Within the yards, surplus 
+material is managed through a centralized inventory, allowing allocation of the 
+surplus material for future projects or fabricated into installation aids.
+13 BEACH CLEAN-UPS 
+AND OVER 6.4 METRIC 
+TONS OF WASTE 
+COLLECTED 
+(From Brazil to Angola and Qatar to Malaysia) 
+5 OF OUR OFFICES 
+REPORTED ZERO 
+WASTE TO LANDFILL
+(Brno, Doha, Gurgaon, London , and The Hague)
+2023 Sustainability Report 
+19
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 20:
+Spill Prevention
+Our Spill Prevention and Control Measure Process is designed to protect 
+the air, soil, and water from unplanned releases. The process consists of six 
+components: Identify, Evaluate, Prepare, Train, Monitor, and Report.
+By rigorously following these steps, our employees and contractors seek to 
+identify areas of risk where potential spills or releases may occur and, when 
+necessary, implement control measures to prevent and minimize impacts.
+In 2023, three significant releases (to land) posed a moderate impact as the 
+spills were greater than 0.095 m3 for a total release of 0.795 cubic meters.
+2023 Top 3
+Loss Containment by Material:
+0.423 m3Hydraulic Oil
+0.207 m3Diesel
+0.71 m3Septic Effluent
+Emissions Sources
+• Blasting and painting activities
+Measures in place
+• Monitor air emissions in line with ALARP 
+(“as low as reasonably practicable”) 
+principles, Environmental Impact 
+Aspects (EIA) assessments and permit 
+obligations 
+• Installation of air filtration units
+• Regular equipment maintenance
+• Use approved blasting media and 
+paints
+• Ongoing monitoring and sampling of 
+pollutants and ambient are quality 
+Emissions Sources
+• Marine fleet
+Measures in place
+• Certified in International Air 
+Pollution Prevention 
+• Certified in Engine International 
+Air Pollution Prevention (EIAPP) 
+Emissions Sources
+• Construction site activities
+Measures in place
+• Equipment maintenance per 
+manufacturer specification 
+• Implement chemical 
+management best practices. 
+Fabrication Yards Vessels Construction Emissions
+Reducing Air Emissions
+Our commitment to reducing our air emissions is embedded in McDermott’s 
+Environmental Management System, which conforms to ISO 14001:2015.
+2023 Sustainability Report 
+20
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 21:
+We are guided by our regulatory, contractual, and established 
+environmental management processes. 
+Our EIA assessment process identifies the potential impacts, 
+mitigating controls, and applicable environmental compliance 
+requirements. 
+We work with customers, regulators, conservation groups, and 
+other stakeholders to reduce our potential impact and maintain 
+each area’s natural resources. 
+During 2023, we planted more than 720 mangrove trees, ranging 
+from Dubai to Kuala Lumpur.
+Protecting Biodiversity
+In developing and executing our projects, we 
+recognize the importance of preserving the 
+regions’ often pristine, ecologically sensitive 
+biodiversity.
+WOODFIBRE LNG PROJECT
+The site of our Woodfibre LNG project is identified as an environmentally 
+sensitive aquatic environment in Squamish, British Columbia, Canada. 
+Consultation with stakeholders, including the Squamish First Nation, is 
+ongoing. Initiatives underway to protect this pristine environment include:
+• Salvaging and relocating marine life, such as sea stars, dungeness crabs, 
+and green urchins, with 486 species already relocated.
+• Conducting Marine Mammal Monitoring and Acoustic Monitoring prior to 
+the start of marine construction activities.
+• Establishing exclusion zones for seals and aquatic mammals.
+• Conducting water quality monitoring during water construction activities.
+• Engaging in spill prevention.
+• Restricting in-water work to minimize impact to the marine habitat.
+• Completing fish sweeps prior to conducting in-water work.
+• Monitoring water quality.
+INTEGRATING DESIGN INTO BIODIVERSITY PROJECTS
+We are currently executing the engineering, procurement, 
+construction, and installation (EPCI) expansion of the North 
+Field, the world’s biggest single non-associated natural gas 
+field, offshore the north-east Qatar peninsula – covering an 
+area in which mangroves grow densely.
+Following an environmental impact assessment (EIA), we 
+developed a comprehensive plan to conserve and restore the 
+mangrove forests, which includes: 
+• Constructing an underground micro tunnel beneath the 
+mangroves to minimize habitat destruction.
+• Establishing a mangrove restoration program to replant 
+damaged or degraded areas.
+This project emphasizes the importance of proactive 
+biodiversity considerations in the engineering phase, especially 
+in projects that intersect with sensitive ecosystems.
+2023 Sustainability Report 
+21
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 22:
+Supporting Our Customers in the Energy Transition
+We work closely with our customers to deliver engineering and construction projects that enhance energy 
+security and support their sustainability targets.
+From Concept to Commissioning
+In conceiving and delivering these projects, our vertical integration is 
+one of our key differentiators – enabling us to take a project from early 
+feasibility and front-end design, through to a complete operating facility.
+We leverage our well-established onshore and offshore construction 
+experience, in-house fabrication capabilities, and modularization 
+expertise – from concept to commissioning – to develop innovative 
+pathways that support customers in the transition to low-carbon energy.
+In 2023, we continued supporting developments in:
+• Offshore wind electricity transmission
+• Blue and green hydrogen production
+• Hydrogen storage
+• Sustainable aviation fuels
+• Decarbonization through carbon capture utilization and storage (CCUS)
+• Low-carbon LNG
+LOW CARBON FUELS
+Advanced/ Chemical Recycling 
+Renewable Fuels
+• 100 years industry experience
+• Traditional and new licensors
+• Technology integration
+LOW CARBON PATHWAYS
+• Sector-specific decarbonization 
+programs to reduce emissions 
+during contruction and operation 
+of plant (>60%)
+OFFSHORE WIND
+HVDC, Large HVAC Substations
+• 100 years of offshore experience
+• 250k tons/year fabrication capacity
+• GW-scale EPFC
+Digital Carbon Management 
+Across Project Lifecycle
+HYDROGEN
+Green, Blue and Derivatives 
+Production, Liquefication, Storage
+• Concept-to EPC (20-1500 MW)
+• 50+ years of LH2 experience
+• Standard Reference Plants
+CCUS
+Point source, Direct Air Capture, 
+Transportation, Storage
+• 200+ CC, removal projects
+• Onshore, offshore, subsea
+• Modularized solutions
+LOW CARBON
+SUBSEA
+LOW CARBON
+OFFSHORE
+LOW CARBON, MODULE 
+FABRICATION & 
+CONSTRUCTION
+LOW CARBON LNG
+2023 Sustainability Report 
+22
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 23:
+We embarked on two major projects that support TenneT’s 
+ability to provide electricity to European markets from 
+windfarms in the German North Sea. In 2023, we initiated 
+fabrication, transportation, and installation support for the 
+topside module of TenneT’s BorWin6 980MW high-voltage, 
+direct current (HVDC) project. 
+We were also awarded a contract for the engineering, 
+procurement, construction, installation, and 
+commissioning (EPCIC) of TenneT’s BalWin4, LanWin1, 
+two offshore HVDC converter substation platforms. 
+These developments will enable TenneT to convert up to 2 
+gigawatts (GW) of offshore wind-generated electricity as 
+part of its goal to connect 40 GW of offshore wind farms to 
+the high-voltage grids of Northern Europe.
+Offshore Wind
+Leveraging off our experience in downstream processing facilities, in 2023 we provided 
+front-end engineering design (FEED) services for Gevo, Inc.’s Sustainable Aviation Fuels 
+(SAF) development in North America. 
+SAF remains critical to decarbonization of aviation, one of the most carbon intensive 
+industries. The circularity of SAF is heavily dependent on feedstock, process employed, and 
+technology. 
+Once operational, the first of these facilities is expected to produce more than 246,000 
+cubic meters of SAF, diesel, and renewable gasoline that, when consumed, is expected to 
+have a lifecycle net zero greenhouse gas footprint.
+Sustainable Aviation Fuels FEED
+2023 Sustainability Report 
+23
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 24:
+ADVANCES IN GREEN HYDROGEN
+We are exploring options for large-scale production of green hydrogen, and have combined our 
+offshore, HVDC, and electrolyzer experience in the design of such a facility. The result was a 500 MW 
+concept including a hydrogen processing platform, a power transformer, supporting services, and a 
+living quarters platform. The dual offshore platforms provide an optimized design for safe operation of 
+the facility.
+Offshore hydrogen production is a potential alternative to support decarbonization goals in areas with 
+constrained power grids, and where existing infrastructure can serve as a base to transport hydrogen 
+to a point of consumption. Our knowledge in low-carbon hydrogen, offshore and onshore legacy, 
+and direct deployment expertise provides us with an advantageous position to contribute to the 
+development of this new market and enable an additional avenue to decarbonization.
+HYDROGEN STORAGE SOLUTIONS
+Our CB&I storage business has received Approval in Principle (AiP) for its design of a liquid 
+hydrogen (LH2) cargo containment system from DNV.  The containment system design 
+leverages CB&I's proven vacuum-insulated spherical technology for onshore LH2 storage. 
+CB&I will also design and build two 500,000 gallons (more than 1,892 m3) double-wall liquid 
+hydrogen spheres for Plug Power Inc.'s new green hydrogen production facility in Genesee 
+County, New York. The production facility, leveraging Plug Power's proton exchange membrane 
+(PEM) electrolyzer technology, is expected to produce 45 metric tons of green liquid hydrogen 
+per day—making it the largest green hydrogen facility in North America.
+Progress continues on our demonstration project for the U.S. Department of Energy H2@Scale 
+program, which aims to pilot four renewable hydrogen generation options with vehicle re-
+fueling and fuel cells to enable cost-effective “full value chain” H2 energy solutions.
+2023 Sustainability Report 
+24
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 25:
+WOODFIBRE LNG
+In 2023, we commenced modular fabrication for the Woodfibre LNG project, involving 18 modules 
+totaling 34,359 metric tons (t). 
+Once operational, the project will produce 2.1 million t of LNG per annum at 86% lower carbon 
+intensity than the industry average, making it the lowest carbon intense LNG facility in the world. 
+By harnessing the low-carbon gas resources of British Columbia's Montney region to replace coal-
+fired energy sources in Asia, Woodfibre LNG will reduce global emissions by 3.5 million tonnes of 
+CO2 equivalents (tCO2e) per year.
+ENERGY EFFICIENCY THROUGH DESIGN TO REDUCE OPERATIONAL EMISSIONS
+Reducing the operating emissions of the facilities we design and build for our customers 
+remains embedded in our approach from concept through to commissioning.
+In designing the Scarborough floating production unit (FPU), we used a hybrid gas-turbine 
+plus battery energy storage power system for the FPU to enable reliable operation of the 
+turbines at higher efficiency, with flexibility to support power generation in case of an 
+emergency or unplanned shutdown.
+Combined with use of a waste heat recovery unit, which reduces emissions by reusing waste 
+heat as a main source of heating energy, we anticipate approximately a 15% reduction in 
+annual operating emissions for the FPU. 
+Advancing Lower Carbon LNG
+2023 Sustainability Report 
+25
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 26:
+Smart Modularization
+McDermott’s advanced knowledge of smart 
+modularization is critical to delivering highly complex, 
+large-scale projects. 
+Our modularization approach is grounded in having 
+the bulk of construction work done at our owned 
+and operated fabrication yards, in which operating 
+emissions are considerably lower than those at a typical 
+construction site. 
+By reducing the onsite construction activity, smart 
+modularization can provide a lower carbon EPCI 
+execution option – depending on project specifications, 
+up to 22% lower, based on results from our onshore LNG 
+plant case study.
+With our advanced capability in the techniques we 
+apply, we are able to design and build a module and 
+align the process smoothly across our organization 
+through to field erection.
+AMMONIA SYNTHESIS
+Kellogg, Brown and  Root (KBR) and McDermott entered into a Global Licensing 
+Agreement for KBR’s proprietary ammonia technologies in August 2022.  
+The agreement accommodates the pursuit of deployments that can take 
+advantage of both KBR technologies’ performance and track record as well as 
+McDermott’s fabrication capabilities and modularization expertise. 
+In 2023, together we developed a conceptual design package for a modular 
+execution approach for a clean ammonia plant (Synthesis Loop) based on KBR’s 
+technology. Key modularization criteria for the plant include:
+• Safe design in mechanical handling and operations and maintenance
+• Maximization of pre-commissioning activity at the fabrication yard
+• Allocation of equipment and other material to reduce shipping costs
+• Commercially available, proven equipment
+When compared to traditional execution on site, the modularized concept 
+enables multiple benefits, including a smaller plant footprint, increased 
+schedule certainty, and a lower execution risk profile, improving overall 
+economic viability of the project. Modular solutions are ideal for a phased 
+approach, can be integrated with other modular solutions, and when combined 
+with standardization can generate additional benefits in risk reduction, and 
+improved schedule and cost profiles.
+2023 Sustainability Report 
+26
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 27:
+Valuing Our Partnerships
+As we strive to develop innovative studies and 
+projects that support McDermott’s aspirations in the 
+energy transition, we also rely on our partnerships and 
+collaborations with over 20 organizations from within 
+the energy industry and academia. 
+For example, our insights into scalable hydrogen 
+projects are supported by our relationship with 
+organizations such as the Hydrogen Council, LONGi, 
+Johnson Matthey (JM) and BW Offshore.
+TECHNOLOGY PARTNERSHIPS
+SUPPORTING ADVANCES IN 
+ENERGY TRANSITION
+20+
+HYDROGEN MODULARIZATION CONCEPT STUDY
+We collaborated with JM to develop a modular deployment concept for a 710 MW Low Carbon 
+Hydrogen (LCH™) plant. The concept delivers a modular solution that mitigates risk and can be 
+repeated with minimal changes for multiple projects and locations, while taking into account 
+estimated emissions profiles, cost, and schedule priorities. The modular plant concept also includes a 
+carbon capture storage unit.
+Combined with an earlier concept 
+for a modular 355 MW plant, the 
+collaboration with JM provides a 
+flexible and adaptable potential 
+solution based on small (“truckable”) 
+and mid-size modules, providing 
+building blocks to deliver plants to 
+a variety of locations globally. The 
+concept modeled deployments for 
+plants in the U.S. Gulf Coast, UK, 
+and Australia, benefiting from our 
+global fabrication footprint in both 
+hemispheres to reduce transportation 
+times and logistical requirements.  
+2023 Sustainability Report 
+27
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 28:
+PEOPLE
+2023 Sustainability Report 
+28
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 29:
+In 2023, our global headcount surpassed 31,000 employees, up from 27,680 in the previous year. 
+Our workforce also continues to reflect a dynamic mix of age demographics and representation 
+from over 100 nationalities. 
+Recruitment and Onboarding
+In 2023, we bolstered recruitment efforts by refining job postings and simplifying the hiring 
+process. We also re-launched our global internship program, which has succeeded in attracting 
+talent to our company. Our onboarding process was streamlined for consistency across our office 
+locations and now includes a buddy program and 30/60/90-day engagement activities helping 
+new starters learn more about the business directly from their peers.
+Talent Retention
+To enhance talent retention, we focused on improving benefits and incentive plans, where needed, 
+and in support of employee well-being and career development. We also gathered employee 
+feedback through a global survey. Actions based on this feedback include maintaining our hybrid 
+work program, workplace well-being, career development opportunities, company culture, 
+expanding well-being initiatives, and promoting sustainability.
+Our Workforce 
+At McDermott, we recognize the pivotal role our diverse and 
+talented workforce plays in driving our business forward.
+54
+Countries
+31,494
+Employees
+112
+Nationalities
+2023 Sustainability Report 
+29
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 30:
+Diversity and Inclusion
+To enhance diversity and inclusion (D&I) at all levels of our organization, we established a 
+Diversity, Equity and Inclusion Executive Council. The Council serves as the organization’s 
+advisory board as we embed our D&I vision and strategy into our overall business strategy. 
+To support employee engagement, we hosted seven Diversity Weeks, which involved direct 
+engagement and D&I training on the ground in six countries. To create a foundational 
+understanding of D&I across the organization, we continued mandatory trainings.
+Employee Engagement
+Our Employee Resource Groups (ERGs) lead employee engagement activities across 
+our different offices. We currently have eight active global ERGs and the number of local 
+chapters grew from 10 to 31 over the course of the year.
+Learning and Development 
+We delivered over 450,000 training hours covering QHSES, Ethics, Compliance, 
+and other subjects. Our programs supported growth within different career paths. 
+Quarterly webinars on topics like Modularization, Power BI, and Influence and 
+Negotiation Skills were attended by more than 1,500 colleagues. 
+Mentoring continues to play an important role in career development, and in 2023, 
+the program involved 102 mentees and 38 mentors. 
+Structured people discussions involving 2,000 employees were also conducted 
+with leaders from across the business to consider career development needs, 
+potential next moves, and succession planning.
+ACROSS 
+MCDERMOTT 
+WE CELEBRATED  
+OUR 100-YEAR
+ANNIVERSARY
+2023 Sustainability Report 
+30
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 31:
+Our Communities
+We seek to do no harm and wherever possible provide 
+positive outcomes for the communities where we operate.
+One way we demonstrate this support is by creating training and economic opportunities 
+consistent with the communities’ aspirations and well-being. We also focus on fostering 
+open dialogue where we implement community grievance procedures that are client-
+defined and supported. 
+Brazil
+In 2023, we developed a program in Brazil’s Estacio 
+region for local women experiencing social exclusion. The 
+program uses arts and crafts to promote not only self-
+esteem and autonomy, but also to provide the women with 
+a source of income. During the year, 60 women benefited 
+from the program.
+Angola
+In Angola, we have created an international program for 
+recent graduates from the local community. The program 
+provides a group of 16 graduates with in-country training 
+at fabrication yards, project sites, and office locations at 
+McDermott facilities in other countries.
+Mozambique
+In Mozambique, McDermott, through our CCS JV initiative 
+with Saipem, has taken significant steps toward supporting 
+the community through programs that equip individuals 
+in remote villages with employable skills and opportunities 
+for long-term economic growth. These focus on local 
+procurement, contracting, small business development, 
+and micro-finance programs. 
+Uganda
+McDermott was awarded the first-ever Petroleum Authority Uganda 
+(PAU) National Content Skilling Award for our local content skilling 
+efforts in Uganda. 1500 small farmers are being trained to transition 
+from growing traditional subsistence food crops to producing high-
+value, market-driven goods. Meanwhile, 1,700 women and young 
+people are learning tailoring and business acumen skills to increase 
+their employability and earning potential.
+“  “  ””
+The national recognition we received for our local content skilling efforts 
+in Uganda demonstrates one of the ways in which we are initiating social 
+sustainability programs to help improve the quality of life in our local 
+communities.
+Barbra Karungi 
+Sustainability Manager, Uganda
+2023 Sustainability Report 
+31
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 32:
+Human Rights 
+McDermott is committed to respecting people, the environment, and communities in 
+our global operations.
+We conduct our activities in accordance with applicable laws and with respect for human rights, informed 
+by the United Nations Guiding Principles on Business and Human Rights and consistent with the Universal 
+Declaration on Human Rights.
+We expect our suppliers and subcontractors to perform their business while respecting individuals and their 
+human rights. McDermott’s Code of Business Conduct and UK Modern Slavery Statement provide further 
+guidance on our efforts to conduct business responsibly and respect human rights. Whenever possible, we 
+carry out site inspections, worker interviews, and audits to ensure  subcontractors along with ourselves are 
+compliant with both international and local regulations and prioritize the workers’ welfare. 
+In 2023, we conducted audits or self-assessments at five out of eight of our significant sites to ensure 
+compliance with both international and local regulations and prioritization of workers’ welfare across our sites, 
+including subcontractors.  We also established a corporate-wide human rights management system and plan 
+to continue enhancing it. 
+We are committed to performing due diligence in collaboration with our business partners and all employees. 
+We developed and deployed training for over 6,900 management employees on the prevention of forced labor. 
+Educating and increasing our employees’ awareness of human rights risks remains a key part of our strategy to 
+proactively manage human rights at our sites. 
+For 2024, we plan to focus on supplier human rights due diligence and have been running operational human 
+rights due diligence programs for suppliers and subcontractors.
+“  
+”
+Proactively identifying and managing human rights risks at our sites is a 
+fundamental aspect of our strategy. We are committed to providing safe 
+and equitable working conditions for all individuals involved in project 
+execution, including subcontractors and client-embedded teams.
+Anu Anmol
+Senior Sustainability Specialist
+Human rights
+commitment
+Human rights
+issues prevention
+Human rights issues 
+identification
+Human rights issues 
+management
+Track performance & 
+communication
+2023 Sustainability Report 
+32
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 33:
+GOVERNANCE
+2023 Sustainability Report 
+33
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 34:
+Risk Management
+McDermott’s Enterprise Risk Management (ERM) program is aligned with ISO  
+31000. Our program is designed to identify, assess, and manage enterprise-
+level risks and review the effectiveness of our risk mitigation strategies. 
+We maintain a dynamic ERM process to adjust to internal and external 
+developments, drawing upon input from multiple areas of the business and a 
+wide segment of internal subject matter experts.
+We work toward year-on-year improvement in aligning our approach with 
+TCFD recommendations. Please see pages 41 to 43 for our TCFD disclosure.
+Sustainability Governance
+Our dedicated team of Sustainability professionals, with a diverse background in skills and experience, is integrated into 
+our global operations teams, overseeing the management and execution of our sustainability strategy. We track and report 
+environmental, social, and governance (ESG) metrics across all our global sites, with project level quarterly reporting to our 
+Executive Committee to increase accountability for ESG factors such as emissions within project execution.
+BOARD OF DIRECTORS
+Guide and approve organization’s strategies, approaches 
+and financial planning for sustainability and climate change 
+EXECUTIVE COMMITTEE
+Setting overall ESG strategy and transition plans 
+including setting targets and monitoring progress
+SUSTAINABILITY GOVERNANCE FUNCTION
+Develop framework, methodologies and guidance for 
+integrating ESG strategy into business operations
+SUSTAINABILITY PROJECT LEADS 
+Support development and execution 
+of sustainability management plans at 
+project sites
+SUSTAINABILITY EMPLOYEE RESOURCE GROUPS
+Drive sustainability employee awareness 
+initiatives and participation in voluntary 
+sustainability drives supporting company 
+level strategies and values
+OPERATIONS SUSTAINABILITY LEADS
+Implementing management 
+processes to embed sustainability 
+in operations
+2023 Sustainability Report 
+34
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 35:
+Business Ethics
+At the core of our corporate culture sits our value of 
+Integrity, which we consciously and continuously work to 
+improve. 
+Since 2021, November has been established as our ‘One Team for Integrity’ month. During 
+the month, all McDermott employees are invited to participate in various activities that 
+enable in-depth conversations on integrity as a team effort, ethical behavior, and awareness 
+around McDermott’s Speak Up campaign. The main goal of the month-long program of 
+activities is to help further strengthen a culture where people feel that being part of a 
+company and a workplace that values integrity is a better place to be and work.
+A highlight of the One Team for Integrity month is the Annual McDermott Integrity Award, 
+which each year is awarded to three employees who consistently work and lead with 
+integrity. Any employee in the company can nominate a colleague who they believe is an 
+ethical role model, making the awards even more important because the awardees are in 
+fact being recognized by their co-workers rather than by the Compliance team.
+“  
+”
+Bringing together two of our core values, the One 
+Team for Integrity month is all about building 
+culture, and making our people feel that being in 
+compliance with policies, laws, and our McDermott 
+values is as important and natural as it is to always 
+follow our safety procedures to keep ourselves, our 
+colleagues, and our company out of harm’s way.
+Olof Arnman
+Vice President, Chief Ethics and Compliance Officer
+COMPLIANCE TRAINING
+Training is a key pillar of our global compliance 
+program. By proactively engaging with our 
+employees to raise awareness around our Integrity 
+value, our ethical standards, and the potential 
+consequences of non-compliance for the company 
+as well as individuals, we reduce the risk of both 
+conscious and inadvertent violations of our Code of 
+Business Conduct.
+We recently revamped our annual Ethics and 
+Compliance training program, making mandatory 
+training modules shorter and more engaging, while 
+preserving the key messages we want to convey to 
+employees. 
+ In 2024, we will continue to focus on making our 
+compliance program and processes more visible and 
+accessible to people through increased in-person 
+interaction with leaders and employees and by 
+introducing more efficient and user-friendly means 
+for people to find information about our policies and 
+to speak up about any ethical concerns.
+2023 Sustainability Report 
+35
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 36:
+Supplier ESG Screening
+The company requires that current and potential suppliers apply due diligence in 
+their own operations. Along with McDermott, suppliers must have zero tolerance for 
+slavery, forced labor, child labor, human trafficking, and other areas of unacceptable 
+conduct.
+In 2023, our Supply Chain teams screened eligible suppliers through an Ethics and Compliance pre-qualification process to identify ethical 
+concerns for increased diligence.  The pre-qualification process is designed to confirm that suppliers share McDermott’s values in their 
+code of conduct, anti-corruption policies, conflict of interest, and other ethical areas. During 2023, we screened more than 1,700 suppliers, 
+and we plan to increase supplier screenings in this coming year. 
+We also assess quality, health, and environmental practices of subcontractors to determine that they have the programs necessary to 
+protect their own employees and those of McDermott. The McDermott team also plans to assess our subcontractors on sustainability 
+and diversity.
+ Suppliers who are no longer active are required to undergo a compliance rescreening. In 2023, the rescreening involved 7,522 suppliers.  
+For any such supplier to be reactivated, they would need to undergo a compliance rescreening. This improves our overall diligence by 
+requiring suppliers that have not had recent business with McDermott to be screened in the same manner as a new supplier.
+“  
+”
+We introduced formal ESG screening of our suppliers in the fourth quarter of 2023. 
+If the ESG rating is below a certain threshold, we will advise the buyer that there is a 
+potential problem. So far, we have been pleased with the responsiveness, seeing a clear 
+opportunity to elevate performance
+Don Perez
+Director, Procurement
+SUPPLIERS' ETHICAL
+SCREENINGS CONDUCTED
+1,734 
+2023 Sustainability Report 
+36
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 37:
+Cybersecurity and Data Privacy
+McDermott is committed to securely protecting electronic 
+records of our customers, third parties, and employees that are 
+created, stored, or transmitted using Company systems.
+Data Privacy and Intellectual Property Protection
+Specific internal data privacy requirements guide the collection, use, transfer (including international 
+boundaries), release, disclosure, and security of such data. These requirements also describe our expectations 
+for third parties who process such data on our behalf.
+Additionally, there is continuous assessment and improvement involving the identification and protection of 
+sensitive information.  Intellectual property protection technology is deployed to monitor and prevent sensitive 
+data from being errantly disclosed or stolen from McDermott’s systems.
+Cybersecurity
+We maintain a cyber risk management program designed to identify, assess, manage, mitigate, and respond to 
+protect against cybersecurity threats. The program’s underlying controls are based on recognized best practices 
+and standards such as International Organization Standardization (ISO) 27001.  We are ISO 27001 certified and 
+have been since 2016. Penetration testing is regularly performed by independent, qualified third parties to 
+validate the implementation of security policies.
+We employ a comprehensive security strategy covering all digital assets in collaboration with cyber partners 
+to monitor and maintain the performance and effectiveness of products and services that are deployed within 
+McDermott’s environment.
+We have a Cybersecurity Operations Center that provides 24/7 monitoring of our global cybersecurity 
+environment and coordinates the investigation and remediation of alerts. We continue to consult with external 
+cyber vendors to monitor the threat landscape and invest in tools and technologies to protect McDermott.
+Cybersecurity Awareness and Training
+Our cyber awareness program educates all McDermott employees with access to our systems 
+on current cyber threats, equipping them with the skills and habits to protect McDermott’s 
+information assets.  We do this with blogs, breaking news, situational communications, targeted 
+training, monthly awareness presentations, and assessments.  McDermott personnel with high 
+exposure to cyber risk are offered additional security awareness training.  
+IT operations teams globally promote the Cybersecurity agenda, awareness, and compliance at 
+a local level.  This is supported by a central awareness team and program to deliver regular and 
+timely content through such media as email, internal corporate social media channels, and face-
+to-face sessions using McDermott TechHuts.
+2023 Sustainability Report 
+37
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 38:
+FRAMEWORK
+ALIGNMENT
+2023 Sustainability Report 
+38
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 39:
+FRAMEWORK MAPPING INDEX
+* McDermott used these international frameworks as a guide for the 2023 Sustainability Report. References indicate 
+full of partial alignment to the standard.
+McDermott does not claim compliance with these standards. This index is intended to help stakeholders navigate to 
+related topic areas.
+McDermott 2023 Sustainability Report Sections GRI Standards * SASB Disclosures 
+(IF-EN)
+ABOUT THIS REPORT 2-1-a, 2-1-b, 2-3-a, 2-3-c, 2-3-d
+OUR PATH
+A Message to Our Stakeholders 2-11-a
+2023 Sustainability Highlights 2-24-a-ii, 2-7, 403-2
+100 Years of McDermott History
+Our Vision for the Next Century
+MATERIALITY AND STAKEHOLDER ENGAGEMENT IF-EN-160a.2
+Materiality 3-1, 3-2-a
+Stakeholder Engagement 2-12-b-i, 2-23-b-ii, 2-25-d, 2-29-a-i, 2-29-a-ii, 2-29-
+aiii, 2-10-b-i, 308-2-a, 414-2-a, 413-1-a-viii
+LEADING WITH SAFETY IF-EN-320a.1
+Our Safety Performance 403-9-a-iii, 403-9-a-ii, 403-1-a-ii, 403-9-g
+A Focus on Continuous Improvement 403-6-b, 403-8
+ENVIRONMENTAL STEWARDSHIP IF-EN-160a.2
+What Sets McDermott Apart 305-1-f, 302-2
+Decarbonizing Our Operations:
+• Energy Management
+• Fuel Management
+• Marine Operations
+• Water Management
+• Waste
+• Circularity
+• Spill Prevention
+• Reducing Air Emissions
+• Protecting Biodiversity
+302-1-b
+302-1- 2.1.2,305-1-g,305-2-g
+302-4-d
+302-1-b,302-4-d,302-4-2.7.2
+3-3,303-2-a, 303-1-a,303-1-b, 306-2
+306-2
+303-2-a, 303-3
+303-2-a
+305-7-a,
+304, 101-2-a-i,101-2-a-iv,101-2-a-ii,101-2-a-iii
+IF-EN-160a.2
+Supporting Our Customers in the Energy Transition 305-5-e
+McDermott 2023 Sustainability Report Sections GRI Standards * SASB Disclosures 
+(IF-EN)
+PEOPLE
+Our Workforce:
+• Recruitment and Onboarding
+• Talent Retention
+• Diversity and Inclusion
+• Employee Engagement
+• Learning and Development
+401-1
+401-3
+405
+402-2-a, 402-2-b
+404-3
+Our Communities:
+• Local Content and Community Engagement 413-1-a-iv, 413-1a-viii, 204-1-a, 406-1-b
+Human Rights 2-23-a-ii, 2-23-a-iv, 2-24-iv, 413-1,103-2, 409-1-b
+GOVERNANCE IF-EN-510a.3
+Sustainability Governance 2-9-a, 2-9-b.2-12-a, 2-12-b, 2-13-a-ii, 2-13-a-ii,2-14-a, 
+2-16-a
+Risk Management 2-9-a, 2-9-b.2-12-a, 2-12-b, 2-13-a-ii, 2-13-a-ii,2-14-a, 
+2-16-a
+Business Ethics and Compliance 2-23-f, 2-27
+Supplier ESG Screening 308, 414
+Cybersecurity and Data Privacy 418
+PERFORMANCE DATA
+2-7,301-1, 302-1, 302-4, 303-1, 303-3-a-i,303-3-a-i, 
+303-5, 305-1, 305-2, 305-5, 306-3, 306-4, 306-5, 401-
+1, 403-9, 405-1, 403-10-a-ii, 402-2-a, 403-1, 401-a-ii, 
+402-2-a, 401-1, 404-3, 3-3-d-ii, 414-2,308-2, 305-4, 
+306-1, 303-4, 302-2, 2-4-a-i
+IF-EN-320a.1
+2023 Sustainability Report 
+39
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 40:
+No Poverty Zero Hunger Good health 
+and wellbeing
+Quality 
+Education
+Gender 
+Equality
+Clean water 
+and sanitation
+Affordable and 
+clean energy
+Decent work 
+and Economic 
+growth
+Industrial 
+innovation and 
+infrastructure
+Reduced 
+inequalities
+Sustainable 
+cities and 
+communities
+Responsible 
+consumption 
+and production
+Climate Action Life below 
+water
+Life on land Peace, Justice, 
+and strong 
+institutions.
+Partnerships
+for the Goals
+Waste management
+Climate Change
+Local Content
+Emission and energy
+Human Rights and Worker Welfare
+Cyber Security and data privacy
+Regulatory changes
+Health and Safety
+Employee Engagement
+Pollution
+Sustainable Supply Chain
+Risk Management
+Corporate Governance
+Economic Performance
+DE&I
+ESG Bugeting
+Water Management
+Biodiversity
+Resource Use and Circular economy
+Anti-Corruption and Cyber Security
+Ethical Business Conduct
+Climate Action and Mitigation
+ü ü
+ü
+ü
+ü
+ü
+ü
+ü ü
+ü
+ü
+ü ü
+ü
+ü
+üüüü
+ü
+ü
+ü
+ü
+ü
+ü
+ü ü ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü
+ü ü ü ü
+ü
+ü
+ü
+ü
+ü ü ü ü ü
+ü
+ü
+Sustainable Development Goals Index
+2023 Sustainability Report 
+40
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 41:
+TASK FORCE ON CLIMATE-RELATED FINANCIAL DISCLOSURES (TCFD) INDEX
+GOVERNANCE 
+TCFD Recommendation: Disclose the organization’s governance around climate-related issues and opportunities.
+The Governance Committee of McDermott’s Board of Directors oversees our identification, assessment, and management of climate-related risks. The Committee meets quarterly to review our sustainability 
+strategy and monitors progress through the year. 
+  
+Our Executive Vice President (EVP) of Sustainability and Governance and Executive Committee provide direction of our business strategy, including climate change. They periodically assess material climate risk and 
+appoint risk owners. Our EVP reports to the Board’s Governance Committee quarterly on material climate-related developments.  
+  
+McDermott's Sustainability Director and team are responsible for execution of our sustainability strategy, including assessment and management of climate-related risks. They interface with identified risk owners to 
+ensure appropriate and timely mitigation plans are in place and actioned.  
+STRATEGY 
+TCFD Recommendation: Disclose the actual and potential impacts of climate-related risks and opportunities on the organization’s businesses, strategy, and financial planning where such information is material.
+We have identified climate-related risks and opportunities under the headings of emerging regulation, technology, legal, market, reputational, acute physical, and chronic physical. These are applicable to our 
+operations across short, medium and long-time scales.  
+  
+Impacts of climate-related risks and opportunities on our business, strategy and financial planning are managed with a strong focus on health and safety, continuity of operations, and evolving global energy systems. 
+These encompass the wellbeing of our workforce and host communities, vessel, fabrication yard and construction site activities, and helping our customers responsibly develop, produce and deliver the energy 
+needed to meet growing demand. 
+  
+Our climate-related risk assessment carried out in 2023 used the following NGFS (Network for Greening the Financial System) scenarios to guide mitigations for a range of credible future outcomes: the Net Zero 
+2050 scenario to indicate early technology adoption, Divergent Net Zero and Delayed Transition scenarios to provide an extreme for transition risks, and the Current Policies scenario to provide an extreme for physical 
+climate-related risks. 
+McDermott’s climate reporting is guided by TCFD recommendations. We are candid and do not claim full TCFD compliance. This index is designed to help stakeholders 
+understand the extent of our alignment with the TCFD recommendations, which we are advancing year on year.
+2023 Sustainability Report 
+41
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 42:
+CLIMATE RELATED RISK AND OPPORTUNITIES IMPACT OUR BUSINESS
+CLIMATE RISK MANAGEMENT    
+TCFD Recommendation: Disclose how the organization identifies, assesses, and manages climate-related risks.
+We manage risks to McDermott's business and stakeholders, including physical and transitional climate-related risks as part of our Enterprise Risk Management (ERM), through the following activities on an annual cycle:   
+• Each identified risk is assigned a risk manager who develops mitigation plans and provides up-to-date information on the risk register,   
+• Quarterly review of risks by the Board of Directors Risk Committee.  
+• Audits of the implementation of mitigation plans by an internal audit team.  
+  
+We perform the following activities on an annual cycle for identification and assessment of enterprise risks, including climate-related risks: Survey of stakeholders and executive management to identify and score risks 
+based on potential impact and likelihood, interviews or scenario analysis as needed for new categories of risk, review of priority risks by executive management and the Board, and periodic reassessment of risk scores by 
+subject matter experts.  
+  
+The risk identification process and its results are reviewed by senior operations leadership and then by Executive Management and the Board and reflected in a heat map.  
+   
+We manage risks to McDermott's business and stakeholders, including climate-related risks, through some standard processes which include activities on an annual cycle:  
+Identified risks need to be addressed with action plans. Therefore subject matter experts/ managers develop mitigation plans and maintain track records of improvements on them. These updates are reviewed by the 
+Board of Directors' Risk committees quarterly with audit of these activities and implementation process for mitigation plans by internal audit teams to ensure accuracy of monitoring and verification.  
+  
+Identification, assessment, and management of climate-related risks are an integrated part of our enterprise risk management process. Due to the longer time scales and wider range of potential outcomes, qualitative 
+scenario analysis was used to guide the risk assessment stage. 
+We anticipate that energy transition projects will form an increasing share of our backlog. 
+Examples in our current portfolio include high-voltage direct current (HVDC) substations for 
+offshore wind farms in the German North Sea, hydrogen facilities, and carbon capture and 
+utilization (CCUS) plants.  
+  
+Both physical and transitional climate risks, as identified above, pose the potential to interrupt 
+our operations and supply chain. We are therefore being proactive in developing mitigation 
+plans for such events and applying the appropriate provisions within our project delivery plans. 
+ 
+At one of our facilities, the Batam Fabrication Yard, we conducted an assessment to understand 
+and mitigate potential climate-related impacts, with data inspection and workshops to analyze 
+climate scenarios and their potential impact on the yard. The process helped us identify key areas to focus efforts in 
+enhancing resilience:  
+ 
+1. Disruption of supply chain and logistics   
+2. Impact on critical infrastructure  
+3. Schedule delays  
+4. Labor productivity deterioration  
+5. Business interruption to customers  
+  
+Based on the study, we have developed short-term and long-term recommendations for mitigating risk at the 
+yard. Implementing these recommendations will play an important role in avoiding disruptions to business and 
+reducing potential operational impacts. The recommendations will be subject to ongoing monitoring to ensure their 
+implementation and continued effectiveness. 
+2023 Sustainability Report 
+42
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 43:
+METRICS AND TARGETS 
+TCFD Recommendation: Disclose the metrics and targets used to assess and manage relevant climate-related risks and opportunities where such information is material.
+To consistently score risks, our enterprise risk management process uses established scales for likelihoods, and for potential impacts under the following categories: financial, reputational, health, safety & security, 
+environmental and social. High scoring risks are subject to strengthened management and oversight measures. Climate-related risks are scored using the same scales as other enterprise risks. 
+  
+McDermott uses a marginal abatement cost curve (MACC) to identify opportunities to decarbonize our operations, with abatement benefits organized by their potential costs. We continue to evaluate sustainability 
+initiatives based on our values, the needs and targets of our customers, the interests of our employees and stakeholders, and cost-benefit analysis. Please refer to page 46 for disclosure of our 2023 greenhouse gas 
+emissions.  
+ 
+Our company has set climate related targets and tracks progress each year, that can be seen in this report.
+2023 Sustainability Report 
+43
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 44:
+DATA TABLES
+2023 Sustainability Report 
+44
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 45:
+Safety Performance
+[1] Direct workhours cover employees on McDermott payroll and non-McDermott employees under McDermott’s direct supervision. Combined workhours covers McDermott-hired subcontractors performing work scope under their supervision at McDermott-controlled site/facility in addition to direct workhours.
+[2] TRIR = Total Recordable Incident x 200,000/Workhours.
+[3] L TIR = Lost Time Incident x 200,000/Workhours.
+[4] Incidents with a Potential Risk Rating of ≥ 16 that caused or had the potential to cause harm to personnel.
+[5] Productive, meaningful interactions between leaders and employees increase employee engagement and strengthen commitment to the company’s QHSES policy. Leadership engagements are designed to increase understanding and control of workplace risks, help recognize and reinforce good practices, and become aware of, intervene in, and address unsafe 
+conditions and/or acts. Measurement is obtained by an average of % of Actual Engagement vs. Planned, % of Action Completed vs. Total Actions from Engagements, and % of Feedback Provided vs. Total Feedback Required. 
+[6] Environmental risks at McDermott sites are evaluated by identifying aspects and determining the potential impacts associated with McDermott’s activities, products, and services. This provides the process for identifying controls to manage the associated impacts. The effectiveness of these risk assessments is verified through regular review and monitoring. 
+Measurement is obtained by Total Environment Aspects and Impacts Assessment Completed vs. Total Environment Aspects and Impacts Assessment Required.
+[7] All employees shall be trained and competent to safely and efficiently carry out assigned tasks. Established training matrices define the minimum training requirements of every employee, dependent on their role. Measurement obtained by Completed Training vs. Mandatory Training.
+[8] A near miss is an undesired event that, under slightly different circumstances, could have harmed people, the environment, or property or resulted in loss of production. Near misses provide an opportunity to proactively address underlying issues, improve HSES processes, and prevent incidents. Regardless of its potential severity, every near-miss incident is 
+investigated and reviewed to identify root causes and implement actions to prevent undesired events from occurring. Measurement obtained by Completed Near Miss Reviews vs. Total Planned.
+[9] McDermott’s wellbeing strategy drives the annual health and wellbeing programs and activity plans. Successful implementation of these programs globally is tracked and reported. Measurement by Total Health and Wellbeing Programs Implemented vs. Planned.
+[10] Actions from continual improvement processes and tools such as incident investigations, management of change, audits and NCRs are monitored for effective and timely closeouts. Measurement obtained by Total Action Completed/Total Action Planned. 
+[11] The outcome of recordable and HIPO incident investigations and root cause analyses are reviewed with the executive leadership to ensure effective incident investigation, execution of corrective actions, and communication of learnings. Measurement obtained by Completed Recordable/HIPO Executive Reviews vs. Total Recordable/HIPO Incidents.
+[12] The QHSES Communication platform has been established so employees can effectively communicate QHSES-related issues / concerns and / or recognitions to management and the QHSES Group. Actions from these are monitored for effective and timely closeouts. Measurement obtained by Total Action completed vs. Total Action Raised.
+Safety Indicators [1] Unit 2020 2021 2022 2023
+Total Recordable Incidents (TRI)
+Direct Number 45 43 47 40
+Combined Number 58 57 59 43
+Total Recordable Incidents Rate 
+(TRIR) [2]
+Direct Rate 0.1 0.12 0.13 0.1
+Combined Rate 0.1 0.12 0.12 0.07
+Lost-time Incidents (L TI)
+Direct Number 3 2 6 5
+Combined Number 3 6 9 5
+Lost-time Incidents Rate (L TIR) [3]
+Direct Rate 0.01 0.01 0.02 0.01
+Combined Rate 0.01 0.01 0.02 0.01
+High Potential Incidents (HIPOs) [4]
+Direct Number 10 3 5 6
+Combined Number 10 3 5 6
+Fatalities as a result of work-related 
+injuries and ill health
+Direct Number 0 0 0 0
+Combined Number 0 0 0 0
+Hours worked
+Direct Number 91,188,950 69,757,637 73,891,545 77,290,075
+Combined Number 115,651,629 95,268,048 94,421,385 117,958,659
+Safety Indicators [1] Unit 2020 2021 2022 2023
+Total near-miss reports Number 763 514 590 423
+Workers covered by the undertaking’s health and safety 
+management system % 100 100 100 100
+Operational sites for which an employee health & safety risk 
+assessment has been conducted % 100 100 100 100
+Cases of recordable work-related ill health Number 0 0 0 0
+Days lost to work-related injuries, fatalities, and ill health Number 30 94 391 332
+QHSES Indicators Unit 2023
+Leadership Engagement [5] % Completed 82
+Environment Aspects & Impacts Compliance [6] % Completed 90
+Training Compliance (mandatory) [7] % Completed 93
+Near Miss Incident Reviews [8] % Completed 100
+Health and Wellbeing Programs [9] % Completed 98
+Continual Improvement Action Closeout [10] % Completed 87
+Recordable and HIPO Incident reviews [11] % Completed 100
+Communication Cards Action Closeout [12] % Completed 84
+2023 Sustainability Report 
+45
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 46:
+Environmental Performance
+[1] GHG emissions report follows an operational control approach and includes proportionate GHG emissions from McDermott joint ventures operations with equity share equal or above 15%.
+[2] GHG emissions reporting is based on carbon dioxide-equivalent (CO2e), a standard unit for measuring carbon footprints. The conversion factors to calculate CO2e are mainly based on EPA, IEA, and Defra. 
+[3] Scope 1 emissions are direct emissions from sources that are owned or controlled by McDermott. Scope 2 emissions are indirect emissions from consumption of electricity, heat, cooling and steam.
+[4] Scope 1&2 GHG emissions tCO2e/1,000 workhours.
+[5] Scope 1&2 GHG emissions/hours underway; hours underway is defined as hours spent in work and transit.
+[6] Includes contributions from own onsite solar panels, onsite-solar power purchased agreements, energy attribute certificates, and renewable electricity agreements with utility providers.
+[7] Renewable energy from blended fuels (deriving from both renewable and non-renewable sources) is calculated by proportion of renewable percentage contained in each source, calculation methodology as per Carbon Disclosure Project (CDP) recommendations.
+GHG Emissions Indicators – Operational Control [1] [2] [3] 
+Accounting scope 2 market-based unless otherwise stated Unit 2020 2021 2022 2023
+Scope 1 (direct) tCO2e 183,523 179,948 181,138 183,301
+Scope 2 (indirect) - market-based tCO2e 69,286 30,360 16,749 11,237
+Scope 2 (indirect) - location-based tCO2e 69,286 63,389 61,069 66,331
+Total Scope 1 and 2 tCO2e 252,809 210,308 197,887 194,538
+Scope 1 and 2 by site type
+Accommodations tCO2e 1,289 654 716 806
+Construction site tCO2e 29,024 14,466 16,123 15,291
+Fabrication tCO2e 85,076 49,102 41,673 43,430
+Logistic site tCO2e 2,244 3,642 1,467 1,124
+Office tCO2e 13,360 6,694 7,850 5,619
+Vessel tCO2e 121,816 135,751 130,058 128,268
+Absolute Scope 1 & 2 reduction versus 2020 base year % - 17 22 23
+Carbon Intensity Indicators
+Construction Carbon intensity [4] Rate 1.23 0.99 1.43 0.79
+Fabrication Carbon Intensity [4] Rate 1.89 1.24 1.06 0.91
+Construction and Fabrication Carbon Intensity [4] Rate 1.63 1.16 1.19 0.86
+Carbon Intensity of Vessels [5] Rate 5.76 4.14 3.86 3.16
+Energy Consumption Indicators Unit 2020 2021 2022 2023
+Electricity (Scope 2)
+Electricity from grid MWh 129,481 109,535 105,862 122,889
+Heat consumption from grid MWh 1,764 1,293 971 781
+Electricity from onsite solar 
+(own and PPA) MWh 0 0 18 4,209
+Total MWh 131,245 110,828 106,851 127,879
+Fuel (Scope 1)
+Diesel (direct) MWh 694,524 657,580 682,399 673,555
+Gasoline (direct) MWh 13,366 9,952 13,632 11,447
+Propane (direct) MWh 1,736 1,414 1,316 1,965
+Natural gas (direct) MWh 10,526 6,437 7,714 8,593
+Used oil (direct) MWh 42 33 0 53
+Biodiesel 20% (direct) MWh 0 284 357 0
+Biodiesel 30% (direct) MWh 0 26,300 32,235 4,287
+Biodiesel 35% (direct) MWh 0 0 0 27,970
+Total MWh 720,194 702,000 737,653 727,870
+Energy Consumption (Scope 1 and 2) MWh 851,439 812,828 844,504 855,749
+Renewable Energy (Scope 1 and 2)
+Renewable Electricity [6]
+MWh 0 42,641 66,796 98,244
+% 0 38 63 77
+Renewable Fuel [7]
+MWh 0 7,947 9,742 11,076
+% 0 1.1 1.3 1.5
+Renewable Energy (Electricity and Fuel)
+MWh 0 50,588 76,538 109,320
+% 0 6.2 9.1 12.8
+2023 Sustainability Report 
+46
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 47:
+[1] Potable water consumption refers to water obtained from municipal water suppliers and municipal water treatment plants, public or private utilities, and other organizations involved in the provision, transport, treatment, or use of water. Drinking water provided in single-use bottles or jars may not be included in this definition.
+[2] Water withdrawal considers water drawn from surface water or a third party considered as customer-supplied water, water trunks purchased, and external sources not considering municipal, local, or city water supplied directly to MDR sites.
+[3] Water reused includes the sum of all water reused or recycled for different purposes such as landscape irrigation, industrial process water, toilet flushing, dust control, etc. Water reuse accounts not only for total water consumption that has been reused but also for water captured from natural resources and stored for use at sites (e.g., rainwater captured on 
+artificial ponds). 
+[4] Waste is reported by waste type, stream, and disposal method associated considering local regulations definition at the point of generation, except for Hazardous waste which also includes all medical and electronic waste. The waste diversion ratio provides a measurable relation to compare the total waste disposed versus the waste that was diverted from going 
+to a landfill, incinerated, or other (hauled off-site, on-site discharge, open burning, permitted discharged, treatment).
+[5] Reuse waste data is a gap mitigated in 2022 and for the sake of consistency and transparency, McDermott continues reporting diversion rates and reduction vs 2020 baseline without accounting for reuse waste.
+Environmental Performance (continued)
+Water Indicators [1] [2] [3] Unit 2020 2021 2022 2023
+Water Consumption
+Potable water m3 784,233 701,265 783,193 842,583
+Water withdrawal m3 591,817 271,211 253,475 302,544
+Total  m3 1,376,050 972,476 1,036,668 1,145,127
+Water Consumption reduction vs 2020 baseline % - 29.3 24.7 16.8
+Water reused m3 13,479 22,887 21,863 16,691
+Water reuse ratio % 0.98 2.35 2.11 1.46
+Waste Indicators [4]
+Waste
+Solid metric ton 508,616 882,521 906,700 173,268
+Liquid m3 126,833 199,068 74,661 377,841
+Waste Diverted
+Solid metric ton 372,262 857,796 885,820 126,060
+Liquid m3 380 151 143 945
+Solid % 73.2 97.2 97.7 72.8
+Liquid % 0.3 0.1 0.2 0.3
+Waste [5]
+Solid metric ton 176,813 159,460 88,443 171,907
+Liquid m3 126,820 199,051 74,661 377,841
+Waste Diverted [5]
+Solid metric ton 40,459 134,736 67,563 124,698
+Liquid m3 366 134 143 945
+Solid % 22.9 84.5 76.4 72.5
+Liquid % 0.3 0.1 0.2 0.3
+Reduction vs 2020 baseline [5] Solid % - 9.8 50 2.8
+Waste by Type [4] Unit 2020 2021 2022 2023
+Non-Hazardous 
+Solid metric ton 110,537 37,712 42,780 91,615
+Liquid m3 9 16 26 4
+Hazardous
+Solid metric ton 10,428 7,628 7,382 17,311
+Liquid m3 407 118 117 941
+Construction and Demolition Solid metric ton 387,650 837,180 856,538 64,342
+Wastewater Liquid m3 126,417 198,934 74,518 376,896
+Waste by Disposal Method [4] 
+Landfill Solid metric ton 131,182 24,260 20,280 46,519
+Incinerated
+Solid metric ton 2,170 457 594 689
+Liquid m3 49 0 0 0
+Other non-diverted waste
+Solid metric ton 3,002 7 6 55
+Liquid m3 126,404 198,917 74,518 376,896
+Reuse
+Solid metric ton 331,802 723,061 818,257 1,362
+Liquid m3 13 17 0 0
+Recovery
+Solid metric ton 145 388 698 141
+Liquid m3 71 47 70 11
+Recycling
+Solid metric ton 38,162 132,723 56,717 94,438
+Liquid m3 213 87 72 81
+Composting Solid metric ton 521 243 123 201
+Resell Solid metric ton 551 1,199 9,952 29,785
+Waste to Energy
+Solid metric ton 1,081 183 73 79
+Liquid m3 82 0 0 852
+2023 Sustainability Report 
+47
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 48:
+Environmental Performance (continued)
+[1] Environmental Significance Incidents defined as moderated impact, level III or above: 2020-2021 definition includes spills reportable to regulatory agencies, any spill to water, quantities greater than or equal to 0.095 cubic meters (m3). From 2022 on, the definition includes releases to the environment reportable to regulatory agencies that trigger an agency 
+official notification of a violation, improvement plan, fine or visit, or spill quantities greater than or equal to 0.095 m3.
+[2] For each spill, report the total spill volume in liters and the type of material spilled, e.g., oil, concrete washout, fuels, etc. (QHSES-ENV-PR-00600.00 Environmental Performance Indicators (EPI) V. 3.0)
+Environmental Significant Incidents Indicators [1] Unit 2020 2021 2022 2023
+Air
+Event/s Number 1 0 0 0
+Release Type Description Natural Gas/ Liquid Vapor 0 0 NA
+Amount Pound 1,015 0 0 0
+Land
+Event/s Number 1 1 2 3
+Release Type Description Hydraulic Oil Hydraulic Oil 1.6 m3 Wastewater + 0.151 m3 Oil
+0.1 m3 Septic Effluent (#3423) + 0.095 
+m3 Hydraulic Oil (#4043) + 0.6m3 
+Septic Effluent (#4356)
+Amount m3 0.13 0.15 1.751 0.795
+Water
+Event/s Number 4 2 2 0
+Release Type Description Hydraulic Oil Hydraulic Oil 1.9 m3 Hydrostatic Test Water + 0.1 m3 
+Mono Ethylene Glycol NA
+Amount m3 0.006 0.0003 2.000 0
+Total L-3 Number 6 3 4 3
+Loss of Containment Indicators [2] Unit 2020 2021 2022 2023
+Top 3 materials Material Description 
+and m3
+Wastewater 5.005 Oil (Hydraulic, Motor, etc.) 0.764 Hydrostatic Test Water 1.911 Septic Effluent 0.710
+Sewage 1.578 Diesel 0.247 Oil (Hydraulic, Motor, etc.) 1.784 Hydraulic oil 0.423
+Oil (Hydraulic, Motor, etc.) 1.548 Antifreeze / Coolant 0.027 Wastewater 1.607 Diesel 0.207
+Total amount m3 29.091 1.177 6.191 1.682
+2023 Sustainability Report 
+48
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 49:
+[1] Employees with a direct McDermott contract during the reporting year, excluding contingent workers. Headcount parameters (Hires and Terminations) in the following year’s report may vary due to post-processing.
+[2] Headcount data is likely to have minor adjustments for previous years due to data rectification.
+People [1]
+Workforce Indicators Unit 2020 2021 2022 2023
+Total number of Employees [2] Number 28,103 25,624 27,680 31,494
+Full Time Employees
+Number 23,490 22,326 24,249 27,718
+% 83.60 87.10 87.60 88.00
+Part Time Employees
+Number 4,613 3,298 3,431 3,776
+% 16.40 12.90 12.40 12.00
+Professional Employees
+Number 12,136 11,635 12,465 12,809
+% 43.20 54.60 45.00 40.70
+Craft Employees
+Number 15,926 13,989 15,215 18,685
+% 56.70 45.40 55.00 59.32
+Uncategorized Employees Number 41 0 0 0
+Nationalities represented by Employees Number 108 106 109 112
+Number of Countries Workforce hosted Number 32 35 38 30
+Average Employee Age Number 41.03 41.81 41.57 41.4
+Average Tenure Number 6.64 7.36 6.45 6.12
+Employee Generation Indicators Unit 2020 2021 2022 2023
+Silent Generation (1928-1945)
+Number 9 7 5 3
+% 0.03 0.03 0.02 0.01
+Baby Boomers (1946-1964)
+Number 2,362 1,930 1,735 1,693
+% 8.40 7.53 6.27 5.38
+Gen X (1965-1980)
+Number 11,022 10,141 10,096 10,747
+% 39.22 39.58 36.47 34.12
+Millennials (1981-1996)
+Number 13,650 12,478 14,208 16,078
+% 48.57 48.69 51.33 51.05
+Gen Z (1997-2012)
+Number 1,040 1,053 1,636 2,971
+% 3.70 4.11 5.91 9.43
+Age Data Not Available
+Number 20 15 0 2
+% 0.07 0.05 0.00 0.01
+Total Workforce by Gender Indicators Unit 2020 2021 2022 2023
+Men
+<30 years Number 3,327 2,489 2,815 3,728
+between 30 and 50 years Number 17,161 15,975 17,239 19,135
+>50 years Number 4,956 4,810 5,145 5,872
+Age Data Not available Number 18 15 0 3
+Total % 90.6 90.9 91.0 91.2
+Women
+<30 years Number 478 403 491 642
+between 30 and 50 years Number 1,740 1,521 1,575 1,605
+>50 years Number 390 380 384 422
+Age Data Not available Number 2 2 0 0
+Total % 9.3 9.0 8.9 8.5
+Other/Not 
+Disclosed
+<30 years Number 9 7 9 21
+between 30 and 50 years Number 18 16 15 58
+>50 years Number 4 6 7 8
+Age Data Not available Number 0 0 0 0
+Total % 0.1 0.1 0.1 0.3
+2023 Sustainability Report 
+49
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 50:
+[1] Employees with a direct McDermott contract during the reporting year, excluding contingent workers. Headcount parameters (Hires and Terminations) in the following year’s report may vary due to post-processing.
+[2] Company Levels are reported according to internal procedure grade: Executive level accounts employees' grade 15; Sr management level accounts employees from grade 11 to 14; Management level is relative to grades 9 and 10; Professional level accounts grade 5 to 8; Entry level is relative to grade 1 to 4; 
+Unspecified level accounts employees where the grade is not determined in HR systems.
+People [1] (continued)
+Workforce Gender by Company Level Indicators [2] Unit 2020 2021 2022 2023
+Board Level
+Female
+ Number - 1 1 1
+% - 10 10 10
+Male
+ Number - 9 9 9
+% - 90 90 90
+Executive Level
+Female
+ Number 1 2 2 1
+% 11 29 22 13
+Male
+ Number 8 5 7 7
+% 89 71 78 88
+Not Specified
+ Number 0 0 0 0
+% 0 0 0 0
+Sr. Management Level
+Female
+Number 42 35 40 38
+% 11 10 12 11
+Male
+Number 326 311 302 309
+% 89 90 88 89
+Not Specified
+Number 0 1 0 0
+% 0 0 0 0
+Management Level
+Female
+Number 168 172 190 200
+% 11 12 13 13
+Male
+Number 1,333 1,225 1,281 1,334
+% 89 88 87 87
+Not Specified
+Number 0 0 0 1
+% 0 0 0 0
+Workforce Gender by Company Level Indicators [2] Unit 2020 2021 2022 2023
+Professional Level
+Female
+Number 1,380 1,249 1,331 1,428
+% 14 14 14 14
+Male
+Number 8,341 7,951 8,439 8,926
+% 86 86 86 86
+Not Specified
+Number 7 6 7 8
+% 0 0 0 0
+Entry Level
+Female
+Number 1,004 848 887 1,003
+% 6 6 6 5
+Male
+Number 15,428 13,796 15,169 18,162
+% 94 94 94 94
+Not Specified
+Number 24 22 24 77
+% 0 0 0 0
+Unspecified Level
+Female
+Number 15 0 0 0
+% 37 0 0 0
+Male
+Number 26 1 1 0
+% 63 100 100 0
+Not Specified
+Number 0 0 0 0
+% 0 0 0 0
+2023 Sustainability Report 
+50
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 51:
+[1] Employees with a direct McDermott contract during the reporting year, excluding contingent workers. Headcount parameters (Hires and Terminations) in the following year’s report may vary due to post-processing.
+People [1] (continued)
+Professional Workforce by Gender Indicators Unit 2020 2021 2022 2023
+Men
+<30 years Number 781 654 870 975
+between 30 and 50 years Number 6,782 6,678 7,019 6,994
+>50 years Number 2,217 2,179 2,327 2,447
+Age Data Not available Number 18 14 0 1
+Total % 80.7 81.9 82.0 81.3
+Women
+<30 years Number 414 367 438 544
+between 30 and 50 years Number 1,575 1,391 1,450 1,457
+>50 years Number 344 345 357 384
+Age Data Not available Number 2 2 0 0
+Total % 19.2 18.1 18.0 18.6
+Other/Not Disclosed
+<30 years Number 1 2 2 2
+between 30 and 50 years Number 2 1 0 2
+>50 years Number 0 2 2 3
+Age Data Not available Number 0 0 0 0
+Total % 0.0 0.0 0.0 0.1
+Craft Workforce by Gender Indicators Unit 2020 2021 2022 2023
+Men
+<30 years Number 2,544 1,835 1,945 2,753
+between 30 and 50 years Number 10,365 9,297 10,220 12,141
+>50 years Number 2,729 2,631 2,818 3,425
+Age Data Not available Number  1  2
+Total % 98.2 98.4 98.5 98.1
+Women
+<30 years Number 56 36 53 98
+between 30 and 50 years Number 158 130 125 148
+>50 years Number 46 35 27 38
+Age Data Not available Number     
+Total % 1.6 1.4 1.3 1.5
+Other/Not Disclosed
+<30 years Number 8 5 7 19
+between 30 and 50 years Number 16 15 15 56
+>50 years Number 4 4 5 5
+Age Data Not available Number     
+Total % 0.2 0.2 0.2 0.4
+2023 Sustainability Report 
+51
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 52:
+[1] Employees with a direct McDermott contract during the reporting year, excluding contingent workers. Headcount parameters (Hires and Terminations) in 
+the following year’s report may vary due to post-processing.
+[2] Average yearly Headcount is used to calculate Turnover rates (same methodology applied to distinct categories).
+[3] Voluntary Termination for All Employees. Voluntary Termination Included Retirements, and not including any Transfers or Country Reassignments.
+[4] Involuntary termination for all employees and not including transfers or country reassignments.
+People [1] (continued)
+Turnover Indicators [2] Unit 2020 2021 2022 2023
+Average Headcount Number 30,041 26,765 26,909 29,717
+Total Turnover (professional, craft, and uncategorized) 
+Number 19,828 11,898 8,872 6,305
+% 66.00 44.45 32.97 21.22
+Professional Turnover
+Number 6,892 2,750 2,870 2,371
+% 51.94 23.33 23.61 18.99
+Craft Turnover
+Number 12,339 9,146 6,002 3,934
+% 85.39 61.14 40.80 23.04
+Uncategorized Turnover
+Number 597 2 0 0
+% 25.73 10.00 0 0
+Voluntary Turnover [3]
+Number 3,893 3,002 3,622 3,568
+% 12.96 11.22 13.46 12.01
+Involuntary Turnover [4]
+Number 15,935 8,896 5,250 2,737
+% 53.04 33.24 19.51 9.21
+Turnover by Gender
+Men
+<30 years Number 3,054 2,127 1,271 933
+between 30 and 50 years Number 10,124 6,927 5,489 3,844
+>50 years Number 3,549 1,902 1,387 968
+Age Data Not available Number 1,042 12 9 1
+Women
+<30 years Number 334 200 163 122
+between 30 and 50 years Number 1,093 569 420 339
+>50 years Number 445 130 97 72
+Age Data Not available Number 94 1 2
+Other / Not Disclosed
+<30 years Number 24 12 7 7
+between 30 and 50 years Number 40 13 20 15
+>50 years Number 7 5 7 4
+Age Data Not available Number 22 0 0 0
+Recruitment Indicators Unit 2020 2021 2022 2023
+New Hires Number 6,952 9,735 11,376 10,222
+New Hires: Female Number 428 604 817 747
+Female Resigned Number 392 374 428 378
+Net Increase in Female Employees Number 36 230 389 373
+New Hires by Gender and Age Group Indicators
+Men
+<30 years Number 1,670 1,830 2,121 2,400
+between 30 and 50 years Number 3,869 5,954 7,145 5,834
+>50 years Number 924 1,285 1,232 1,121
+Women
+<30 years Number 164 188 302 339
+between 30 and 50 years Number 205 347 457 344
+>50 years Number 57 68 58 64
+Other/Not Disclosed
+<30 years Number 17 10 20 32
+between 30 and 50 years Number 21 28 31 76
+>50 years Number 3 14 8 9
+Age Data Not available Number 22 11 2 3
+2023 Sustainability Report 
+52
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 53:
+[1] External audits on Labor & Human rights is a new KPI that McDermott will start disclosing.
+People (continued)
+Social Responsibility Indicators Unit 2020 2021 2022 2023
+Community Grievance
+Sites with grievance Number 8 8 8 4
+Number received Number 25 8 26 24
+Number addressed Number 18 8 26 22
+Supplier Diversity Spend
+Diverse and small businesses USD 129M 95M 88M 88.3M 
+Minority USD 18.6M 8.5M 7.9M 11.2M 
+Women Owned USD 69.5M 14.7M 14M 15M 
+Veteran-owned businesses and disabled veteran-owned businesses USD 11M 6.5M 5M 7.8M 
+External audits
+Labor and human rights [1] Number - - - 5
+2023 Sustainability Report 
+53
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 54:
+[1] Training Indicators captured by Training and Organizational Development systems. 
+[2] Average hours of learning per employee is calculated based on total learning hours (facilitated and digital) and 
+taking into consideration the total number of employees disclosed in Workforce Indicators.
+[3] Training Indicators captured by Training and Organizational Development systems.
+[4] Nomination-based program for senior female leaders.
+[5] Nomination-based program for new and existing managers.
+[6] Nomination-based program for high-potential future leaders.
+Learning and Development
+Talent and Organizational Development Training Indicators [1] Unit 2023
+Average hours of learning per employee [2] Rate 3
+Learning Hours (facilitated) Hours 8,646
+Learning Hours (digital) Hours 85,975
+Facilitated Learning Indicators
+Business Acumen Series
+Attendees 696
+Hours 696
+Core Value Series
+Attendees 577
+Hours 577
+Diversity, Equity and Inclusion
+Attendees 47
+Hours 85
+Global Core Processes
+Attendees 1,333
+Hours 1,305
+Lean Six Sigma
+Attendees 521
+Hours 1,563
+Optimizing Performance Series
+Attendees 542
+Hours 542
+Partner Programs
+Attendees 1,188
+Hours 1,245
+Quality, Health and Safety
+Attendees 22
+Hours 11
+Talent and Organizational Development Training Indicators [1] Unit 2023
+Leadership Academy (facilitated training) Indicators [3]
+Advancing Women's Leadership [4]
+Assigned Employees 22
+Hours 550
+Core Management [5]
+Assigned Employees 131
+Hours 1,048
+IMPACTT 2023 [6]
+Assigned Employees 55
+Hours 776
+RISE 2023 [7]
+Assigned Employees 25
+Hours 248
+Digital Learning Indicators
+Culture Wizard [8]
+Users 1,081
+Hours 574
+LinkedIn Learning [9]
+Users 1,120
+Hours 19,402
+mentorcliQ [10]
+Users 352
+Hours 949
+Percipio [11]
+Users 12,084
+Hours 65,050
+Targeted Employees Indicators [12]
+High Potential
+Identified Employees 346
+Hours 6,619
+Top Talent
+Identified Employees 54
+Hours 1,314
+[7] 
+[8]  
+[9] 
+[10] 
+[1 1]
+[12]
+Nomination-based program for high-potential female future leaders.
+Third-party platform delivering culture awareness content.
+Third-party platform delivering digital content covering a broad range of topics. 
+Third-party platform managing mentoring relationships and interaction activities.
+Third-party platform delivering corporate, compliance and governance content.
+Identified through the Talent Review Process, these employees have demonstrated the ability and aspiration to be successful leaders in 
+McDermott and need to measure their engagement in development programs to support retention and succession planning objectives.
+2023 Sustainability Report 
+54
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 55:
+[1] Ethics and compliance e-learning trainings are assigned to eligible employees. Employee eligibility is determined by grade (grade 6 and above) and subject to CECO-approved inclusion, exclusion, or subsequent assignment waivers that are provided annual ethics and compliance training. 
+[2] QHSES training programs are assigned to specific employees and provide the knowledge and skills to recognize potential hazards and risks and to identify acceptable means and methods to mitigate these risks to prevent injury to personnel, environment, pollution, damage to property, security threat to personnel and company assets. QHSES trainings 
+account facilitated and digital training.
+[3] This course provides employees with knowledge and skills on McDermott’s QHSES systems, procedures, programs, and tools and how they should be applied at worksites.
+[4] This course is designed to provide a comprehensive overview of McDermott's environmental aspects and impact assessment process. This provides an in-depth understanding of the key concepts related to Environmental Aspects & Impacts, including the identification of the personnel responsible for identifying environmental aspects and impacts at the 
+sites, the process of assessing activities, products, and services, and the identification of controls to reduce or mitigate negative impacts to the environment.
+[5] This course introduces to McDermott Spill Prevention and Control process, covering topics such as recognizing the areas with potential spills,  identifying appropriate controls to prevent or reduce the impact of spills on the environment, using appropriate forms when conducting inspections, and understanding of elements of Spill Prevention and Control Plan.
+[6] This course explains McDermott’s minimum requirements for the waste management program. It also describes the company’s commitment to waste stewardship, waste reduction, reuse and recovery, and pollution prevention. 
+[7] This course explains the minimum measures to protect water resources at McDermott sites that have an activity, product, or service that uses water in a process or generates wastewater and locations that conduct activities or services or have materials or products exposed to stormwater or runoff.
+[8] Every year Performance management process criteria is revised, according to HR leadership. Eligibility criteria of professional employees is determined by user person type, job group, cost centers, and job title. 
+[9] Company internal mentorship program tracked on mentorcliQ (third-party platform managing mentoring relationships and interaction activities). McDermott also supports mentorship/sponsorship/development engagements between employees, usually performed at local level, which are not accounted in the global Mentoring Program.
+Learning and Development (continued)
+Ethics and Compliance Training Indicators [1] Unit 2023
+Facilitated training on Ethics & Compliance topics
+Attendees 743
+Hours 743
+Code of Business Conduct e-learning (Prevention of forced labor, conflict of interest, anti-
+corruption, and privacy and information security components included)
+Assigned employees 7,841
+% Completed 96
+QHSES Training Indicators [2] Unit 2020 2021 2022 2023
+QHSES training 
+Attendees 20,111 22,986 22,880 21,518
+Hours 470,368 446,962 520,166 562,871
+QHSES Induction [3] % Completed 97 96 96 94
+Environmental Aspects & Impact [4] % Completed 99 74 84 92
+Spill prevention and control [5] % Completed - 77 83 94
+Waste management [6] % Completed 95 77 82 90
+Water management [7] % Completed - 68 83 92
+Career Development Indicators Unit 2020 2021 2022 2023
+Performance Management
+Eligible employees who completed the annual performance review [8]
+Number - 6,082 8,856 9,994
+% Completed - 74 88 95
+Career Development
+Global Mentoring Program [9] 
+Number enrollments 661 136 248 140
+Number mentees 421 86 173 102
+Number mentors 240 50 75 38
+2023 Sustainability Report 
+55
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 56:
+[1] Change in numbers versus last year’s reports to mitigate reporting duplication of cases that arise from Inquiry/Requests. In prior years we reported Inquiry/Requests category which was later identified as double counting since Inquiry/Request cases are closed and a new case re-opened to obey the correct 
+classification and procedure (in accordance with Issue type).
+[2] Cases relative to Inappropriate Behavior, Gifts, Bribes and Kickbacks, Fraud or Embezzlement, Conflict of Interest, Misuse of Resources, Theft, Disclosure of confidential information, procurement activity concerns, conduct or policy violations, quality control, legal and regulatory violations, accounting/ auditing 
+practices, antitrust or fair trading, falsification or destruction of information.
+[3] Cases related to Unfair Employment Practices, Employment or Disciplinary Action.
+[4] Harassment, Discrimination, Threats or Physical violence, Retaliation or Retribution.
+[5] Environment, Health and Safety & Substance Abuse.
+[6] Cases relative to topics not captured by Governance, Labor, Human rights, Health, Safety and Environment categories.
+[7] Eligible suppliers are composed of all suppliers with which the company contracts for projects and business-related goods and services. This typically would exclude individuals and entities such as utilities, governmental agencies, credit card and other invoice-only payees, claimants, and court-ordered payees, etc.
+[8] Suppliers are screened for ESG using a 3rd party supplier risk management software. An attempt is made to screen all eligible suppliers. Not all suppliers are listed in the risk management software resulting in a delta between eligible suppliers screened and suppliers screened for ESG. ESG component of overall risk 
+profile was made available in 2023. Suppliers' screenings may be solicited outside of an eligibility request.
+[9] 2020 and 2021 percentages not disclosed due to uncertainty of the total number of suppliers of those years (denominator for accurate percentage calculation).
+Governance 
+Governance Indicators [1] Unit 2020 2021 2022 2023
+Speak Up! Cases (received and addressed via Ethics and Compliance) Number 201 152 134 142
+Cases by Issue Type
+Governance [2] Number 80 65 42 39
+Labor [3] Number 53 39 34 31
+Human Rights [4] Number 43 24 23 47
+Health, Safety and Environment [5] Number 22 5 10 8
+Other [6] Number 3 19 25 17
+Supply Chain Indicators Unit 2020 2021 2022 2023
+Number of suppliers screened 
+Number of eligible suppliers screened [7]
+Number 3,179 2,234 1,961 1,254
+% 100 100 100 100
+Number of suppliers screening for environment, social, & governance in Dun and Bradstreet supplier risk management [8]
+Number - - - 1,734
+% - - - 100
+Number of suppliers who have signed the McDermott Code of Business Conduct [9]
+Number 3,179 2,234 1,961 1,254
+% - - 76 72
+2023 Sustainability Report 
+56
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 57:
+Abbreviations
+AI Artificial Intelligence
+AIP Approval in Principle
+API American Petroleum Institute
+BFY Batam Fabrication Yard  
+CCUS Carbon Capture Utilization and Storage
+CII Construction Industry Initiative
+CO2 Carbon
+DB 50 Derrick Barge 50
+EIA Environmental Impacts Aspects
+EPC Engineering, Procurement and Construction
+EPCI Engineering, Procurement, Construction and Installation
+ERG Employee Resource Groups
+ERM Enterprise Risk Management
+ESG Environmental, Social and Governance
+FEED Front-end Engineering Design
+FPU Floating Production Unit
+FPSO Floating Production Offloading and Storage
+GHG Greenhouse Gas Emissions
+GRI Global Reporting Initiative
+H&S Health and Safety
+H2 Hydrogen
+HSE Health, Safety and Environment
+HVDC High Voltage Direct Current
+HWAC Health and Well-being Advisory Council
+IF-EN Infrastructure – Engineering & Construction Services metrics
+IMCA International Marine Contractors Association
+IOGP International Association of Oil and Gas Producers
+IPIECA International Petroleum Industry Environmental Conservation
+ISO International Organization for Standardization
+JM Johnson Matthey
+KBR Kellogg, Brown and Root
+KPIs Key Performance Indicators
+L Liters
+LCH Low Carbon Hydrogen
+LH2 Liquid Hydrogen
+LNG Liquefied Natural Gas
+L TIR Lost Time Incident Rate
+M3 Cubic meters
+MW Megawatts
+MWh Megawatt-hour
+PAU Petroleum Authority Uganda
+PEM Proton Exchange Membrane
+QHSES Quality, Health, Safety, Environment, & Security
+QMW Qingdao McDermott Wuchuan
+SAF Sustainable Aviation Fuels
+SASB Sustainability Accounting Standards Board
+SWO Stop Work Obligation
+TCFD Task Force on Climate Related Financial Disclosures
+tCO2e Tonnes of carbon equivalent
+TRIR Total Recordable Incident Rate
+UN SDGs United Nations Sustainable Development Goals
+2023 Sustainability Report 
+57
+Our Path Materiality and 
+Stakeholder Engagement Leading with Safety Environmental 
+Stewardship People Governance Framework
+Alignment Data Tables
+
+Page 58:
+mcdermott.com
+

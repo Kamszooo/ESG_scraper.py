@@ -1,0 +1,896 @@
+Page 2:
+Table of contents
+Supplementary information ESG reporting indicators 4
+Environmental KPIs 4
+Ethics KPIs 6
+Health & Safety KPIs 6
+People (HR) KPIs 7
+Supply chain KPIs 8
+Materiality assessment 2023 9
+Task force Climate related Financial Disclosures (TCFD) 15
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 2
+
+Page 3:
+This document presents the supplementary Environmental, Social, and Governance (ESG) information to the 
+ASM 2023 Annual Report. It is designed to augment and provide additional context to the content within the 
+main report. For a thorough understanding of ASM's ESG performance and strategies in 2023, this supplement 
+should be read in conjunction with the principal document.
+ESG data included in the Annual Report
+Details on data definitions, reporting boundaries, restatements of historic figures, and the 
+extent of coverage for the ESG indicators we have disclosed. This section aims to offer 
+clarity and context to our ESG reporting metrics, to allow for comparable performance 
+information.
+Materiality assessment of ASM in 2023
+As a crucial element of our annual reporting cycle, ASM engages in extensive input 
+gathering from important stakeholder groups. These activities are integral to refining our 
+materiality assessment, allowing us to pinpoint and prioritize the ESG topics of greatest 
+significance. This supplement elaborates on the methodology and findings of this vital 
+process.
+Task Force on Climate-related Financial Disclosures (TCFD) 
+Guidelines
+Our 2023 Annual Report aligns with the TCFD recommendations, reflecting our 
+commitment to transparent reporting on climate-related financial information. This 
+supplement of the Annual Report provides a more detailed account to the TCFD 
+guidelines, underscoring our dedication to high standards of environmental governance 
+and transparency.
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 3
+
+Page 4:
+Supplementary information ESG reporting indicators
+This section of the ESG supplement provides insight into the definitions of key performance indicators (KPIs), and the scope and boundaries of the 
+relevant ESG reporting indicators included in ASM's 2023 annual report. These KPIs are grouped into five different areas: Environment, Ethics, Health & 
+Safety, People, and Supply chain.
+Environmental KPIs
+The environmental KPI set consists of the listed KPIs below:
+Total electricity consumption
+Total electricity consumption expressed in megawatt hours (MWh);
+Renewable Energy Attribute Certificates (EACs) purchased; and
+MWh or units of renewable EACs purchased.
+Percentage renewable electricity
+Percentage of electricity consumed from renewable sources versus ASM’s total electricity 
+consumption.
+Scope 1 and 2 (market-based and location-based) greenhouse gas 
+(GHG) emission KPIs
+Scope 1 and 2 concern the absolute Scope 1 and 2 GHG emissions in tonnes CO2e. 
+Two calculation methods are applied: 
+• Market-based GHG Scope 1 and 2 emissions are calculated by accounting for the 
+global qualified EAC purchases against purchased electricity.
+• Location-based GHG Scope 1 and 2 emissions are calculated by converting the input 
+data (utility and consumption) to tonnes CO2e using local grid-emission factors.
+Scope 1 and 2 (market-based) GHG emissions per revenue 
+(emissions intensity)
+Scope 1 and 2 (market-based) GHG emissions in tonnes CO2e per million EUR revenue.
+Scope 1 and 2 (market-based) GHG emissions per R&D spend 
+(emissions intensity)
+Scope 1 and 2 (market-based) GHG emissions in tonnes CO2e per million € gross R&D spend.
+Scope 3 emissions
+Relevant GHG protocol Scope 3 categories that indicate indirect emissions from peripheral 
+activities. GHG Scope 3 emissions are calculated by converting the relevant activity data 
+(for example spend, distance) to tonnes CO2e using emission factors. For the calculation 
+methods used per category, please refer to the below table:
+# Scope 3 Category Calculation method
+1 Purchased goods and services Spend-based and Average methods
+2 Capital goods Spend-based
+3 Fuel & energy related Fuel-based
+4 Upstream Transportation & Distribution Fuel-based and Distance-based methods
+5 Waste Waste type specific method
+6 Business travel Fuel-based method and Distance-based method
+7 Commuting / WFH Distance-based method
+8 Leased facilities (upstream leased assets) N/A
+9 Downstream Transportation & Distribution Fuel-based and Distance-based methods
+10 Processing of sold products N/A
+11 Use of sold products Process-based method
+12 End-of-life treatment of sold products Waste type specific method
+13 Downstream leased assets N/A
+14 Franchises N/A
+15 Investments Investment-specific method
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 4
+
+Page 5:
+Scope 3.11 use of sold products emissions are determined through the process-based 
+method, which uses quantity-based data to evaluate the emissions associated with the 
+use of our machines, such as the MWh of energy use over the machine’s lifetime. The use 
+cases are determined through independent product tests and internal expert opinion. 
+All the parameters used in our Scope 3.11 calculations are re-validated annually, to reflect 
+the latest insights. The Scope 3 emissions data are always based on best currently 
+available. As we plan to strengthen our model further with additional independently 
+validated data, the figures presented in the Annual Report may be restated in the future.
+Water Withdrawn Absolute
+The total water acquired by ASM into our property boundaries in cubic meters (m3).
+Water withdrawn from water-stressed regions
+The percentage of water withdrawn from high or extremely high water-stressed regions as 
+per the most recent information from the World Resource Institute (WRI) Aqueduct 
+analysis. This metric is defined by WRI as the ratio of total water withdrawals to the 
+available renewable surface and groundwater supplies.
+Water intake per revenue (water intensity)
+Water withdrawal figure, which is the same as the water intake figure, divided by net 
+revenue to obtain a water intensity figure.
+Water intake per R&D spend (water intensity)
+Water withdrawal figure, which is the same as the water intake figure, divided by gross 
+R&D spend to obtain a water intensity figure.
+Significant chemical spills or releases to the environment
+Releases directly to the environment that are unanticipated and meeting a material 
+threshold for reporting per the jurisdiction of release. The reported figure is the number of 
+incidents.
+Non-Hazardous solid waste recycle
+Tonnes of non-hazardous solid waste produced in our R&D and manufacturing sites that 
+are recycled.
+Non-Hazardous solid waste landfill
+Tonnes of non-hazardous solid waste produced in our R&D and manufacturing sites that 
+are sent to landfill.
+Non-Hazardous reuse - ASM diversion
+Tonnes of waste to landfill avoided by ASM through using reusable crates.
+Landfill Diversion Rate (ASM Operations)
+Calculation by adding the total tonnes of non-hazardous solid waste recycled and the total 
+tonnes non-hazardous reuse from ASM diversion. This resulting figure is divided by total 
+non-hazardous solid waste. This KPI is presented as a percentage. 
+The total non-hazardous solid waste includes:
+• non-hazardous solid waste recycled;
+• total tonnes non-hazardous reuse - ASM diversion; and
+• total tonnes non-hazardous solid waste landfill.
+Landfill diversion (all product packaging reuse)
+The sum of the KPI 'Non-Hazardous reuse - ASM diversion' and the tonnes of reused 
+crates from customers. 
+Percentage packaging reuse to customers
+Percentage of packaging reuse that stems from customers. This metric is calculated by 
+obtaining the total reuse crating weights (in tonnes) utilized for ASM tools shipped to 
+customers for the reporting period. This figure is divided by the total crating weight (both 
+reused and single-use crates for all ASM tools shipped to customers for the reporting 
+period (tonnes)
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 5
+
+Page 6:
+For environmental KPIs, estimations are at times made for the last period of the reporting 
+year to accommodate timely reporting. This estimation is based on assumptions stemming 
+from historic results combined with known factors that could influence the usage. For 
+environmental data stemming from smaller locations, such as sales offices which are 
+shared, estimates are made if source data is not available. These represent a non-material 
+portion of our total global operations.
+Ethics KPIs
+The ethics KPI set exists of KPIs listed below:
+Ethics training
+Percentage of the total number of employees, as of the end of the reporting year, which 
+completed the required ethics trainings. The scope of this KPI concerns the internal active, 
+new college graduates, expat employees, and ASM's managed contractors worldwide. 
+Reported confidential concerns via SpeakUp!
+Count of events reported via SpeakUp!, the globally available anonymous reporting 
+channel to report ethical or whistleblower concerns. The scope of this KPI is ASM 
+worldwide, including other stakeholders with a valid business interest (for example, 
+suppliers, contractors, seconded personnel). 
+Reported concerns from other channels
+Count of all filed reports via channels other than SpeakUp!, which are registered as 
+'reported concerns from other channels'. The scope of this KPI is ASM worldwide, 
+including other stakeholders with a valid business interest (for example, suppliers, 
+contractors, seconded personnel). 
+Code of Business Conduct (COBC) confirmed cases of non-compliance
+Count of COBC confirmed cases of non-compliance. The scope of this KPI concerns 
+ASM worldwide, including other stakeholders with a valid business interest (for example, 
+suppliers, contractors, seconded personnel). 
+Health & Safety KPIs
+The scope of the Health & Safety KPIs comprises all ASM employees as well as contracted 
+workers who are under the direct supervision of ASM.
+The health and safety KPI set exists of the KPIs listed below:
+Number of recordable injuries
+Total number of recordable injuries and illnesses. ASM uses the US OSHA definition of a 
+recordable injury or illness:
+• Any work-related fatality;
+• Any work-related injury or illness that results in loss of consciousness, days away from 
+work, restricted work, or transfer to another job;
+• Any work-related injury or illness requiring medical treatment beyond first aid;
+• Any work-related diagnosed case of cancer, chronic irreversible diseases, fractured or 
+cracked bones or teeth, and punctured eardrums; and
+• There are also special recording criteria for work-related cases involving: needlesticks 
+and sharps injuries; medical removal; hearing loss; and tuberculosis. 
+Recordable injury rate
+Number of qualifying recordable injuries and illnesses as compared to the average number 
+of 100 FTE during the year. ASM uses the US OSHA definition of a recordable injury or 
+illness. Please refer to the number of recordable injuries KPI for more information on the 
+OSHA definition. 
+Total number of injuries and illnesses
+Sum of the total number of recordable injuries and illnesses and total number of first-aid 
+injuries and illnesses. ASM uses the US OSHA definition of a first-aid injury or illness, which 
+is usually administered immediately after the injury occurs, often consisting of one-time, 
+short-term treatment
+• Using a non-prescription medication at non-prescription strength (for medications 
+available in both prescription and non-prescription form, a recommendation by 
+a physician or other licensed health-care professional to use a non-prescription 
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 6
+
+Page 7:
+medication at prescription strength is considered medical treatment for record-
+keeping purposes);
+• Administering tetanus immunizations (other immunizations, for example Hepatitis B 
+vaccine or rabies vaccine, are considered medical treatment); cleaning, flushing or 
+soaking wounds on the surface of the skin
+• Using wound coverings, for example, bandages, Band-Aids™, gauze pads, or using 
+butterfly bandages (other wound-closing devices, for example, sutures, staples, are 
+considered medical treatment);
+• Using hot or cold therapy;
+• Using any non-rigid means of support, for example elastic bandages, wraps, non-rigid 
+back belts, (devices with rigid stays or other systems designed to immobilize parts of 
+the body are considered medical treatment for recordkeeping purposes);
+• Using temporary immobilization devices while transporting an accident victim (for 
+example, splints, slings, neck collars, or back boards). Drilling of a fingernail or toenail 
+to relieve pressure, or draining fluid from a blister;
+• Using eye patches;
+• Removing foreign bodies from the eye using only irrigation or a cotton swab;
+• Removing splinters or foreign material from areas other than the eye by irrigation, 
+tweezers, cotton swabs or other simple means;
+• Using finger guards;
+• Using massages (physical therapy or chiropractic treatment are considered medical 
+treatment for recordkeeping purposes); or
+• Drinking fluids for relief of heat stress.
+Injury rate
+The injury-rate KPI is calculated as the total number of injuries and illnesses as compared 
+to the average number of 100 FTE during the year. The total number of injuries is the sum 
+of those meeting the US OSHA definition of recordable injury and first-aid injuries. Please 
+refer to the number of injuries and illnesses KPI for more information on the US OSHA 
+definition of injuries.
+Lost-time injury rate (LTIR)
+The LTIR is calculated as the total number of lost time recordable-injury cases as 
+compared to the average number of 100 FTE. If an injury case has lost time, that 
+automatically makes it recordable. ASM uses the US OSHA definition of a recordable injury 
+or illness. Please refer to the number of recordable injuries KPI for more information on the 
+OSHA definition. An injury qualifies as a lost-time case if it resulted in time away from 
+work, excluding the day of the injury. 
+Fatality rate
+An employee death resulting from a work-related incident or exposure. The fatality rate 
+KPI refers to the total number of fatal work injuries as compared to the total number of 100 
+FTE, which is counted as the average across the year. 
+People (HR) KPIs
+The scope of the People KPIs concerns the internal active, new college graduates, and 
+expat employees of ASM worldwide. 
+The People (HR) KPIs are the following:
+CEO pay ratio
+CEO remuneration divided by the average remuneration of all employees, calculated by 
+dividing the total personnel costs (wages, short-term incentives, salaries, and share-based 
+payments) minus the CEO’s remuneration by the total number of employees (minus the CEO). 
+Gender pay ratio
+Pay ratio (average wages) of employees (in headcount) on the last day of the reporting 
+period by gender (in percentages).
+Gender diversity
+Total number of employees (in headcount) on the last day of the reporting period by 
+gender (in percentages).
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 7
+
+Page 8:
+Voluntary attrition rate
+Number of people who have left the company voluntarily in the reporting year divided by 
+the number of employees at the end of the reporting year (in percentages).
+Total attrition rate
+Number of employees who have left the company involuntarily and voluntarily in the 
+reporting year divided by the number of employees at the end of the reporting year (in 
+percentages).
+Employee age bracket statistics
+Percentage of employees by age group on the last day of the reporting period. 
+Percentages of headcount by age in the following groups:
+• Under 30 years old;
+• 30-50 years old; and
+• Over 50 years old
+Employee engagement scores
+Engagement scores from the ASM employee engagement global survey:
+• Survey participation 
+• Average scores of 12 standardized categories to determine engagement
+Supply chain KPIs
+The supply-chain KPI set covers the following:
+RBA Code of Conduct acknowledgement 
+Percentage of critical and/or strategic suppliers as determined by the ASM supply chain 
+organization for the reporting year, which have acknowledged their commitment to the 
+Responsible Business Alliance (RBA) Code of Conduct, or whose code of conduct is 
+assessed to be acceptable as it covers similar principles as the RBA Code of Conduct. For 
+the RBA Code of Conduct Acknowledgement KPI, the boundary concerns all critical and/or 
+strategic suppliers of ASM. 
+RBA Code of Conduct SAQ 
+Percentage of critical and/or strategic RBA scorecard suppliers who completed a required 
+supplier RBA self-assessment questionnaire (SAQ) and received a low- or medium-risk 
+assessment result. The boundary of RBA Code of Conduct SAQ covers all critical and/or 
+strategic suppliers of ASM that receive a performance scorecard.
+Conflict minerals CMRT (Conflict minerals reporting template) 
+Percentage of critical and/or strategic suppliers that have submitted compliant CMRT 
+responses to ASM each year. The CMRT survey cycle is a lagging reporting process and is 
+based on the prior year sourcing activities, due to the data only becoming available by 
+May each year. The boundary of the conflict minerals CMRT KPI consists of all critical and/
+or strategic suppliers from the prior calendar year.
+Restatements of historic figures
+The 2021 and 2022 figures of the following KPIs were restated: 1) Energy 2) Scope 1 + 2 
+GHG emissions 3) Water 4) Waste. The scope of these KPIs changed from previously five 
+manufacturing and R&D hubs to encompass all operations, including (sales) offices, as well 
+as acquisitions (including their historic data). No other KPIs were restated in 2023. 
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 8
+
+Page 9:
+Materiality assessment 2023
+In 2023, ASM performed the annual update of its materiality assessment to reevaluate its ESG priorities. This is described in chapter 6 
+of the Annual Report. This year, a two-dimensional lens was applied through which ESG matters are evaluated in terms of relevance to 
+the company and the company’s relevance to the world. Through 'Impact Materiality', ASM’s impact on people and the environment 
+was considered, while 'Financial Materiality' explored how ASM’s business is financially affected by ESG issues. 
+For our materiality assessment in 2023, we followed the steps below to come to our list of 
+material topics to disclose:
+• Analysis of the operating environment, value chain, and business context;
+• Identification of long-list topics;
+• Prioritization and validation of topics into a shortlist of topics; and
+• Verification with ASM’s board of directors
+Analysis of the operating environment and business context
+ASM’s materiality assessment began with the preparation of an analysis of ASM’s 
+operating environment and business context. An overview of ASM’s business, activities, 
+value chain and stakeholders was prepared as context for determining the material topics, 
+and the impacts, risks and opportunities. All of ASM’s operations were considered in this. 
+Also refer to ASM’s value-creation model for a visual overview of ASM’s operating 
+environment. ASM’s value chain consists of, among others, upstream suppliers, for 
+example, mining companies, smelters, component producers, contract manufacturers, 
+utilities providers, legal and consulting agencies, logistics companies, waste contractors 
+and downstream customers (semiconductor manufacturers). ASM’s stakeholders consist 
+of, among others, customers, employees, industry consortia, investor communities, 
+suppliers, communities, NGOs, nature and government and regulators. For more on our 
+interactions with these stakeholders, see chapter 19 of the Annual Report. 
+Identification of long-list topics
+ASM’s ESG priorities were defined and identified through stakeholder priorities and peer- 
+and industry research. An extensive list of ESG topics was drafted based on several 
+internal and external sources including the upcoming Corporate Sustainability Reporting 
+Directive, ESG benchmarks, peer and industry sources, as well as ASM’s enterprise-risk 
+management input.
+Prioritization and validation of topics (preparing short-list)
+The process of moving from an extensive list of topics to the short-list was informed by 
+external stakeholder priorities and engagement as well as internal expert validation. For 
+each stakeholder group, a specific engagement method (for example, desk research, 
+surveys, and interviews) was chosen to best capture the nature of the relationship and to 
+obtain the most relevant information. Impacts, risks, and opportunities were identified for 
+each topic, and validated and scored during workshops with internal experts as part of the 
+prioritization process. Both the impact materiality and financial materiality lens were 
+applied in this validation process, as well as an analysis of the related time-horizons. Under 
+impact materiality, the environmental and/or social effect of ASM’s contribution to the 
+topics was evaluated, considering the scale, scope, irremediability and likelihood of the 
+impacts. Under financial materiality, the financial effect of risks and opportunities related 
+to the topics was evaluated, considering magnitude and likelihood of the risks and 
+opportunities. The scales applied for financial materiality were in line with ASM’s Enterprise 
+Risk Management approach. ASM’s value chain was considered in the analysis of the 
+impacts, risks and opportunities. The combined input led to the final list short-list of 
+material topics, as shown in this section of the Annual Report.
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 9
+
+Page 10:
+Verification with board of directors
+Finally, the short-list of material topics has been approved by ASM’s Management Board 
+and Executive Committee and has been validated by ASM’s Sustainability Leadership 
+Council and the Supervisory Board consecutively. 
+Results 2023
+Following the process, the material topics are depicted in the table below. These topics 
+form the ESG priorities of ASM and are disclosed on in more detail in ASM’s annual report. 
+The definitions, impacts, risks, and opportunities for these topics are provided in the 
+overview below. 
+The description of the impacts, risks and opportunities are reflective of their effect on ASM 
+(on ASM’s operations and people, for example). The strategy, actions, initiatives, metrics, 
+and progress regarding each topic are described in the associated relevant sections of the 
+Annual Report 2023. Refer to the overview for the associated sections of the Annual 
+Report for each material topic. Where applicable, the extent to which policies, actions, 
+targets, and metrics are inclusive of the value chain, is described in the relevant sections 
+of the annual report. Also see the section 'Supplementary information ESG reporting 
+indicators' in this ESG supplement for the methodology and scope of relevant ESG KPIs, 
+that have been provided with limited assurance by KPMG. 
+To ensure alignment with the Enterprise Risk Management approach, ASM’s head of risk 
+management participated in the materiality assessment. Examples of this alignment are 
+the overlap between most material topics and the Top 20 risks, as well as the application 
+of the Enterprise Risk Management scales in determining financial materiality. For more 
+information, including a more detailed analysis of climate risk and our ability to attract 
+talent, see section '13.2 Risk management' in the main body of the Annual Report. 
+Note that as of Annual Report 2023, the focus of the disclosures is on the identified 
+material ESG priorities for ASM. Topics that were previously disclosed but not identified as 
+material through the materiality assessment in 2023, may have been disclosed to a lesser 
+extent in ASM’s Annual Report. In similar vein, other ESG topics could become more 
+important over time to report on in future disclosures. 
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 10
+
+Page 11:
+Climate change 
+adaptation 
+(disclosed in 
+section 11.1)
+The process of adjustment to actual and expected 
+climate change and its impacts.
+N/A Extreme weather events (for example floods, storms, heatwaves) 
+could impact ASM's operations through physical damage to utilities 
+and ASM's facilities.
+Climate change 
+(mitigation) 
+(disclosed in 
+section 11.1)
+Measures to reduce the contribution to climate change. 
+Climate change relates to changing weather patterns 
+that become more extreme or volatile, driven by 
+increased GHG emissions and rising global average 
+temperatures.
+ASM could contribute to climate change (resulting in 
+harm to the environment and the living environment of 
+people) by emitting greenhouse gas emissions 
+through its operations and its value chain.
+ASM could fail to meet its net zero targets in time if ASM continues 
+to use non-renewable energy. This in turn could potentially lead to  
+1) ASM becoming a lagger in the climate transition.
+2) ASM technology and IP becoming less preferred as alternatives 
+with lower impact become available.
+3) Noncompliance to future environmental laws and regulations that 
+mandate decarbonization
+Energy availability 
+(disclosed in 
+section 11.1)
+The availability of grid capacity and energy for 
+consumption (both from renewable and non-renewable 
+sources).
+Renewable energy availability by using the additional 
+renewable energy capacity itself.
+Access to energy for ASM's operations could become limited or 
+restricted due to energy scarcity.
+Equal pay at ASM 
+(disclosed in 
+section 10.1)
+Non-discriminatory wages for employees performing 
+work of equal value.
+If ASM facilitates equal pay, this could create a fair 
+and level playing field for individuals, thereby 
+positively influencing the prospects of gender groups 
+and general workers morale.
+ASM could fail to provide its employees with equal pay for equal 
+work (for example gender indifferent), thereby impacting workers’ 
+rights.
+Diversity & gender 
+equality at ASM 
+(disclosed in 
+section 10.1)
+Representation and equal treatment of underrepresented 
+groups in own workforce.
+If ASM promotes and supports a diverse workforce 
+(incl. gender equality), this could make ASM's working 
+environment and culture more open to people from 
+various backgrounds, thereby positively influencing 
+employee morale and sense of connectedness to 
+ASM.
+ASM could fail to promote and establish a diverse workforce (incl. 
+gender equality), thereby potentially missing out on opportunities to 
+attract top talent and improve customer orientation and decision 
+making.
+Health & safety 
+(disclosed in 
+section 10.3)
+The physical and mental well-being of employees as well 
+as their personal security at work.
+If ASM does not facilitate a healthy and safe work 
+environment for its workforce, accidents and harm to 
+personal health could occur, potentially leading to 
+long-term unemployability, low employee morale and 
+violation of workers’ rights.
+ASM could fail to provide its employees with a healthy and safe 
+working environment, thereby potentially impacting workers’ rights 
+and exposing employees to dangerous situations.
+Living wage at 
+ASM (disclosed in 
+section 21.1)
+A wage that provides for the satisfaction of the needs of 
+the worker and his / her family in light of national 
+economic and social conditions.
+If ASM provides employees with a living wage, this 
+enables employees to provide a decent living for 
+themselves and their families (living wage) and 
+increases the quality of life.
+ASM could fail to provide its employees with a living wage, 
+potentially leading to financially constrained employees, which in turn 
+could impact the company being the employer of choice for talent.
+Training and skills 
+development at 
+ASM (disclosed in 
+section 10.2)
+Initiatives aimed at the maintenance and/or improvement 
+of skills and knowledge of employees.
+If ASM invests in training and skills development of the 
+own workforce and fosters skilled and trained staff, 
+this positively impacts long-term employability and 
+employee morale.
+If ASM provides its employees with appropriate training and skills 
+development, this could lead to highly skilled, motivated, and 
+dedicated employees.
+Working hours at 
+ASM (disclosed in 
+section 21.1)
+The amount of time spent by employees performing 
+labor in service of its employer.
+If ASM exceeds working-time agreements, workers 
+could experience stress or burnout symptoms which 
+could potentially compromise the health and well-
+being of the own workforce.
+ASM could fail to establish and monitor acceptable working hours for 
+its employees, thereby potentially violating workers’ rights.
+Involuntary labor 
+at suppliers 
+(disclosed in 
+sections 12.4 and 
+21.2)
+All work or service at suppliers which is demanded from 
+any person under the threat of penalty and for which the 
+person has not offered himself or herself voluntarily.
+If ASM does not condemn involuntary labor in the 
+supply chain, supplier workers could be working 
+against their will, potentially causing an unsafe 
+working environment and the health, well-being, and 
+worker rights could be compromised.
+Involuntary labor (including child labor) could occur in ASM's supply 
+chain, potentially causing an unsafe working environment for workers 
+and leaving the well-being and rights of workers compromised.
+Topic Definition Impacts Risks and opportunities
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 11
+
+Page 12:
+Health & safety at 
+suppliers 
+(disclosed in 
+section 12.4)
+The physical and mental well-being of employees at 
+suppliers as well as their personal security at work.
+If ASM does not stimulate a healthy and safe work 
+environment for suppliers, accidents and harm to 
+personal health could occur, potentially leading to for 
+example long-term unemployability, low workers 
+morale and violation of workers’ rights.
+Workers within ASM's supply chain could be exposed to an unhealthy 
+and unsafe working environment, thereby potentially being violated 
+in their workers’ rights and exposed to dangerous situations, while 
+product quality can be affected.
+Working hours at 
+suppliers 
+(disclosed in 
+section 21.2)
+The amount of time spent by supplier employees 
+performing labor in service of their employer.
+The semiconductor industry deals with cyclicality. 
+These changes in supply and demand could cause 
+pressure on the working time of suppliers (incl. further 
+down the chain, for example, 3TG suppliers). Overtime 
+could result in workers experiencing stress or burnout 
+symptoms which could potentially compromise the 
+health and well-being.
+Workers within ASM's supply chain could be subject to having to 
+work unacceptable working hours, potentially causing a violation of 
+their workers’ rights and/or affecting product quality.
+(Anti-)bribery and 
+corruption 
+(disclosed in 
+section 13.5)
+Exposure to 1) dishonest persuasion of someone to act in 
+one’s favor by giving them a gift of money, and 2) abuse 
+of power for private gain, which can be initiated by 
+individuals or organizations (for example, fraud, 
+extortion, collusion, and money laundering).
+If ASM engages in bribery and corruption, ASM could 
+potentially discredit individuals or organizations (for 
+example, financially, legally, or socio-economically).
+If ASM engages in bribery and corruption, this could cause conflicts 
+of interests and non-compliance, impacting its license to operate.
+Corporate culture 
+(disclosed in 
+section 10.1)
+Corporate culture expresses goals through values and 
+beliefs. It guides organizational activities through shared 
+assumptions and group norms such as values or a code 
+of conduct.
+If ASM's corporate culture stimulates desired 
+corporate behavior, this could result in respectful and 
+diligent behavior to people and the environment 
+(thereby preventing for example unwanted financial, 
+legal, socio-economic or environmental consequences 
+for the involved parties).
+ASM's corporate culture could allow or sustain undesired corporate 
+behavior, resulting in unsatisfied and unmotivated personnel.
+Topic Definition Impacts Risks and opportunities
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 12
+
+Page 13:
+Additional information on several material topics
+Topic Definition Impact risks Financial risks Metrics and targets
+Climate change 
+mitigation (disclosed 
+in section 11.1)
+Measures to reduce the 
+contribution to climate change. 
+Climate change relates to 
+changing weather patterns which 
+become more extreme or volatile 
+through increased greenhouse 
+gas emissions and rising global 
+average temperatures.
+Negative: ASM could contribute to climate change (resulting 
+in harm to the environment itself and the living environment 
+of people) by emitting greenhouse gas emissions through 
+its operations and its value chain.
+1) Lower turnover due to reputational risk
+2) Stranded IP and assets
+3) Legal costs or fines
+4) Increased cost of capital
+Metric: Scope 1,2 and 3 GHG emissions.
+Targets: Net zero-emissions across all 
+scopes by 2035
+Scope 1 and 2 GHG emissions: -50.4% by 
+2032, and - 90% by 2035
+Scope 3 GHG emissions: -58.2% per EUR 
+of value added (gross profit) by 2032, 
+-97% by 2035**1
+Training and skills 
+development 
+(disclosed in section 
+10.2)
+Initiatives aimed at the 
+maintenance and/or improvement 
+of skills and knowledge of 
+employees.
+Positive: If ASM invests in training and skills development of 
+its own workforce, and fosters skilled and trained staff, this 
+positively impacts long-term employability and employee 
+morale.
+1) Lower employee costs 
+2) Top-line growth due to higher 
+efficiency and productivity of skilled and 
+motivated personnel
+Metrics: Technical training hours of ASM 
+employees
+Percentage of employees with 
+performance management completion
+Societal impacts
+In this paragraph, more information is provided on the societal impacts by monetizing 
+externalities on two material topics for ASM. A summary overview, including an elaboration 
+on the financial risks, is provided in the table above and additional information per topic is 
+provided below.
+Climate-change mitigation
+ASM could negatively contribute to climate change through GHG emissions in its own 
+operations, which is referred to as Scope 1 and 2 emissions. Emissions in its value chain 
+could also occur, which is referred to as Scope 3 emissions. The latter category occurs, for 
+example, at suppliers that provide inputs for ASM’s products as well as at customers, who 
+emit GHG emissions by using our products. 
+Climate change not only harms the environment itself but could also negatively impact the 
+living environment of individuals and society. The United States Environmental Protection 
+Agency (EPA) has developed a metric to calculate the societal cost of carbon (SC-CO2). 
+The SC-CO2 metric is the yearly monetary value of the net harm to society that occurs 
+through the emission of tonnes of CO2 emissions into the atmosphere. The SC-CO2 
+considers the value of both negative and positive future climate change impacts. This 
+comprises changes in net agricultural productivity, human health effects, property damage 
+from increased flood risk, changes in the frequency and severity of natural disasters, 
+disruption of energy systems, risk of conflict, environmental migration, and the value of 
+ecosystem services. For 2023, the SC-CO2 was set at $204 per tonne CO2 
+(EPA, November 2023).
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 13
+1  Allowing for emissions neutralization of remaining emissions above the long-term targets to achieve net zero through high-confidence carbon-removal mechanisms.
+
+Page 14:
+ASM emits CO2e emissions as part of its own operations. CO2e emissions refers to CO2 
+equivalent emissions which considers the global warming potential of other relevant 
+greenhouse gases as well. To calculate the externalities of these CO2e emissions, ASM 
+applied the SC-CO2 metric to its total scope 1 and 2 market based CO2e emissions, leading 
+to a societal cost of € 1,611,000 EUR2 in 2023.
+Training and skills development
+ASM can generate positive impact by providing training and investing in skills development 
+of its employees. While this could directly impact the quality and efficiency of ASM’s own 
+operations by the improved performance of the employee, it also has a potential ripple 
+effect into other areas. ASM colleagues, value-chain partners, and personal acquaintances 
+of the employee can benefit from a spill-over effect through the newly acquired skills and 
+knowledge. This can benefit both the individuals as well as the respective employers. 
+Additionally, for the employee in question, it could their enhance marketability and a future 
+wage, which in turn can create a better livelihood and more opportunities for the employee 
+and their family. This translates into the creation of societal value. The compounding 
+effects of investing in training and skills development can eventually impact broader 
+society, which is described by Venniker (2000) in the study on societal effects of 
+corporate training. Here, a multiplier is used to our investment in corporate training, 
+resulting in ASM’s societal value creation of € 1,806,000 EUR in 2023.
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 14
+2  A currency converter has been applied using the average exchange rate from Dollar to Euro of January 1st, 2023, and December 31st, 2023. US-Dollar to Euro Conversion | USD to EUR Exchange Rate 
+Calculator | Markets Insider (businessinsider.com)
+
+Page 15:
+Task force Climate related Financial Disclosures (TCFD)
+This is our third disclosure aligning with the Task Force on Climate-related Financial Disclosures (TCFD), reflecting progress made 
+across the company in 2023. This summary includes how ASM improved its risk and opportunity assessment related to climate change 
+in 2023. It is structured across the four TCFD recommendations: governance, strategy, risk management, metrics, and targets.
+Governance
+Board-level oversight
+The Management Board (MB) has final responsibility and approval of our sustainability/ 
+ESG and environmental strategy, including climate-related matters and disclosures. The 
+Chief Financial Officer (CFO) is the current Management Board (MB) member responsible 
+for climate-related issues.
+Board-level committees with climate-related responsibilities include the Audit Committee, 
+which is responsible for overseeing public sustainability disclosures. The Audit Committee 
+charter oversees the company's sustainability reporting and manages how ESG 
+commitments impact the company’s financial statements. 
+The company strategy is reviewed by the MB during regular business review meetings, at 
+which sustainability matters are regularly scheduled. The Vice President of Sustainability 
+chairs the Sustainability Leadership Council (SLC) and regularly updates the SLC’s 
+activities to the MB. In addition, the sustainability department prepares quarterly reports 
+on ESG-relevant KPIs and shares these with the MB. Subsequently, progress/updates on 
+the company’s strategic objective of ‘Accelerate Sustainability’ are brought up at least 
+twice per year in Supervisory Board meetings that the MB attends. 
+The MB and SB utilize governance mechanisms to consider climate-related issues within 
+strategic business decisions on an ongoing basis. This includes a review of the annual 
+financial budget and approval of spending aligned with our 2035 net-zero goal. They also 
+oversee the setting of corporate targets, as well as monitoring progress against goals 
+and targets.
+Management-level
+Key members of the Sustainability Leadership Council (SLC), which comprises senior 
+leaders within the organization, typically one or two levels below the MB, oversee climate-
+related issues. The SLC is tasked with collaboratively defining and aligning sustainability 
+strategies, coordinating implementation resourcing and efforts, and communicating 
+regularly to lead an efficient, cohesive effort. Individual members of the committee are 
+tasked with specific sustainability management. The SLC convenes at least once a month, 
+and the Vice President of Sustainability receives updates from Council members on their 
+management of assigned climate-related issues. The Directors of Sustainability ESG, Global 
+Environment & Climate, and Global EHS regularly report on progress in climate-related 
+issues to the Vice President of Sustainability, each with specific climate-related 
+responsibilities and objectives. The Vice President of Sustainability reports directly to 
+the CFO.
+Strategy 
+In 2023, ASM performed an update to its initial assessment of climate-related risks and 
+opportunities in alignment with TCFD recommendations from 2022. ASM worked with 
+a dedicated climate consultancy to update its extensive list of climate-related risks and 
+opportunities with additional topics that could impact our business, operations, and value 
+chain. This included a review of physical risks in new geographies that had not been previously 
+considered, including strategic operations and critical supplier locations, and a review of 
+existing physical risks due to the availability of new climate data. Furthermore, ASM reviewed 
+new transition risks and opportunities relating to ASM’s Net Zero by 2035 target. Among the list 
+of additional risks and opportunities reviewed, a shortlist was selected for qualitative climate 
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 15
+
+Page 16:
+scenario analysis based on their potential impact on the business and high-level expert review 
+of the potential change in climate indicators, as well as the availability of relevant climate data. 
+Climate-scenario analysis
+ASM used the following key concepts for the scenario analysis in alignment with the TCFD. 
+Physical risks are linked to the impact of acute risks (for example, the increased severity of 
+hurricanes/ droughts) and chronic risks (longer-term shifts in climate patterns, for example 
+a sustained increase in temperatures). Transition risks and opportunities linked to the 
+impact of a transition to a low-carbon economy (for example, carbon-pricing schemes and 
+future policy requirements on the energy efficiency of buildings). An analysis of transition 
+risks (policy and legal, technology, market, and reputation) and opportunities (resource 
+efficiency, energy source, products/services, and resilience) as defined by the TCFD was 
+performed for this report. 
+Two climate scenarios were considered in this analysis: one for physical risks aligned to 
+4°C or higher warming reflecting the ‘high-impact scenario’, and one for transition risks 
+and opportunities aligned to below 2°C warming, reflecting the 'rapid-transition' scenario. 
+Three different time-horizons were evaluated for climate-related risks and opportunities: 
+short-term (1-5 years up to 2025), medium-term (5-15 years up to 2030), and long-term 
+(15-30 years up to 2050).
+Physical risks 
+The first analysis in 2022 of physical risks considered ASM’s operations and value chain 
+focused on the following geographies, covering ASM’s largest operational sites: United 
+States (Phoenix, Arizona), the Netherlands, Belgium, Finland, Singapore, Korea, Japan, and 
+Taiwan. In 2023, the updated qualitative climate-scenario analysis of physical risks 
+assessed the following new geographies from ASM’s operations and value chain, including 
+major supplier locations for the following climate hazards:
+• Italy: Heat waves, extreme temperatures, heavy precipitation, flooding, and water 
+scarcity/drought;
+• Malaysia: Heat waves, extreme temperatures, heavy precipitation, and flooding;
+• United States (Central region): Water scarcity/drought;
+• United States (Great Lakes region): Water scarcity/drought; and
+• United States (Northeast region): Heat waves, extreme temperatures, water scarcity/
+drought, and windstorms/tropical cyclones.
+In addition, the following existing geographies were reassessed due to the availability of 
+updated climate hazard data for windstorms/tropical cyclones: Japan, Republic of Korea, 
+and Taiwan.
+Early planning and actions by ASM to mitigate the above climate risks include the following:
+• Heat waves/extreme temperatures: Focusing on building our green building program, 
+incorporating designs that minimize heat island effects, maximize shading, maximize 
+energy efficiency especially on high-performing HVAC equipment, and promote 
+electrical system resiliency.
+• Heavy precipitation/flooding: Sites planned with appropriate water-management 
+measures incorporated, for example, structures placement, water retention/detention, 
+rain gardens and bioswales, and hydrologic modeling to ensure management and 
+accommodation of higher-volume storm events
+• Water scarcity/drought: Site use of recycle/reclaim waters generated either onsite or 
+offsite, reducing the need for freshwater withdrawals. Building water efficiency into 
+site designs as part of green building program, facilities management,and energy 
+efficiency measures.
+• Windstorms/tropical cyclones: Robust site design for structures and equipment as part 
+of green buildings program. Business continuity/contingency planning in coordination 
+with local emergency planning groups and value chain partners.
+Transition risks and opportunities 
+The scenario analysis for transition risks assessed the potential impact of increased 
+stakeholder scrutiny of progress in meeting decarbonization goals. In addition to transition 
+opportunities related to the potential of renewable-energy sourcing and the potential for 
+increased revenue from low-carbon products and services. 
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 16
+
+Page 17:
+Business resilience
+The findings of the in-depth assessment in different scenarios, both for physical and 
+transition risks and opportunities, are being integrated into the business strategy via our 
+Climate Transition Plan, allowing for mitigation and/or adaptation actions that increase 
+business resilience.
+Risk management
+In 2022, ASM defined a formal annual process to identify, assess, prioritize, and integrate 
+climate-related risks and opportunities (R&Os) into ASM’s enterprise risk management 
+processes called the Climate Adaptation and Risk Opportunity Assessment (CAROA) 
+process. The CAROA process consists of four main steps:
+1. Identification and monitoring: The purpose is to review previously identified climate-
+related R&Os in the Climate Risk and Opportunity long list based on internal and 
+external triggers. This includes identifying whether new climate-related R&Os need to 
+be added to the long list and assessed further, and/ or determining whether existing 
+climate-related R&O topics need to be assessed further.
+2. Assessment: This step involves conducting climate scenario analyses to understand 
+which climate-related risks and opportunities could be material to the business; 
+prioritize climate-related risks and opportunities for further in-depth climate scenario 
+analysis and business-impact assessment to quantify their potential impact for ASM’s 
+business strategy and financial planning.
+3. Prioritization: Based on the previous step, the climate-related risks and opportunities 
+identified as having the highest potential impact – in terms of substantive financial or 
+strategic impact on ASM business based on materiality threshold – will be added to 
+ASM’s risk universe as part of the annual risk-management process led by the 
+corporate risk-management team.
+4. Action planning and execution: This step involves planning and taking appropriate 
+actions to mitigate/manage material risks and opportunities. In addition, to reviewing 
+business processes and controls to ensure that activities are performed and 
+acknowledged.
+The CAROA process uses the risk terminology introduced by the TCFD and presented in 
+the Strategy section to identify, assess, prioritize, and manage climate-related risks.
+Metrics and targets
+In 2023, ASM’s emissions-reduction targets were validated by the Science-Based Targets 
+Initiative (SBTi) in alignment with the Paris Agreement, which includes our near- and long-
+term net-zero science-based emissions reduction targets. These targets are outlined in 
+section 11.1 of the Annual Report.
+In addition, ASM developed its first climate-transition plan, which outlines its progress 
+against decarbonization targets to date, and its key strategies for transforming its 
+business to meet our Net Zero by 2035 target and build resilience to climate-related risks 
+and opportunities.
+Sustainability-related issues including climate change are integrated into our remuneration 
+targets through our Short-Term Incentive (STI) Plan. This STI program provides variable 
+target bonuses based on employee-grade level and level of responsibility. Annual KPIs are 
+set for our six corporate priorities, including ‘Accelerate sustainability'. As part of the STI 
+plan, the Management Board has sustainability related KPIs that are updated annually. 
+Notably, for 2023, we have specifically incorporated a science-based target pathway 
+(in line with our 2035 SBTi validated net-zero goal) as one of the performance targets 
+within the STI program.
+ASM’s progress toward our targets – calculated through annual GHG footprint, and 
+measures year-over-year emissions changes against our SBTi-approved emission-
+reduction pathways – is covered in section 11.1 of the Annual Report.
+Next steps
+We aim to continue to assess and identify any climate risks and opportunities in the future 
+and continuously update our climate-related disclosures in line with the evolution of both 
+our business and climate science. Our aim is to incorporate the findings from our scenario 
+analyses, if or as applicable, into our long-term strategy, enterprise risk-management 
+processes, and risk- mitigation planning. We strive to improve and refine our CAROA 
+process as we did in 2023, seeking to gain a complete picture of all climate-related risks in 
+our operations and value chain, and integrating those findings into our climate transition 
+plan and overall company risk management process and strategy.
+Introduction Supplementary information Materiality assessment TCFD
+≡ 
+2023 ESG supplement to the ASM Annual Report 17
+
+Page 18:
+2023 ESG supplement to the ASM Annual Report
+ASM International N.V.
+Versterkerstraat 8
+1322 AP Almere
+The Netherlands
+Published on March 1, 2024
+

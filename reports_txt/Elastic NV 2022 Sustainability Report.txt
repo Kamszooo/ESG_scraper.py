@@ -1,0 +1,2831 @@
+Page 1:
+Sustainability 
+Report 2022
+
+Page 2:
+2
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+T able of 
+contents
+A message from our CEO .................................................................................................. 3
+About this report  ............................................................................................................... 4
+W
+e’re Elastic  ............................................................................................................
+........5
+Our source code ........................................................................................................... 6
+A
+ctivity metrics  ............................................................................................................ 7
+En
+vironment  ............................................................................................................
+........9
+Environmental policy & management approach  ......................................................10
+Emissions metrics  .......................................................................................................12
+Understanding Elastic's carbon impact  ....................................................................17
+En
+vironmental efforts  .................................................................................................18
+Social  ............................................................................................................................. 24
+Human capital management  .................................................................................... 25
+Div
+ersity ,  equity & inclusion  ....................................................................................... 33
+W
+orkforce diversity metrics  ...................................................................................... 39
+Elastic Cares  .............................................................................................................. 43
+Go
+vernance  ............................................................................................................
+...... 47
+ESG oversight  ............................................................................................................ 48
+Business e
+thics  .......................................................................................................... 49
+D
+ata privacy & security  ..............................................................................................51
+Corpor
+ate governance ..............................................................................................  54
+P
+roduct societal impact  ............................................................................................... 55
+F
+ramework index  .......................................................................................................... 58
+F
+orward-looking statements  ..................................................................................... 70
+
+
+Page 3:
+A message from our CEO
+We are thrilled to present our 2022 Sustainability Report, 
+highlighting Elastic's ongoing commitment to environmental, social, 
+and governance (ESG) initiatives and our iterative approach to 
+addressing the most pressing challenges affecting our world today. 
+Elastic's core mission is to enable everyone to find the answers 
+that matter, from all data, in real-time, and at scale. This guiding 
+principle not only shapes our products and services but also 
+influences our sustainability efforts. We understand that harnessing 
+the power of data is essential for driving meaningful change and 
+making informed decisions.
+At Elastic, we are working to create a more just and sustainable 
+future for all, even though the journey is not linear, nor is the 
+destination static. We firmly believe in the power of our Source 
+Code to advocate for a more just society and low-carbon future.
+As a company, we recognize the interconnected nature of societal 
+challenges and embrace a humble yet ambitious mindset to tackle 
+them head-on. Our customer-centric approach ensures that we 
+understand and share our customers' aspirations for a sustainable 
+future, allowing us to be a partner that accelerates  
+their commitments.
+Being distributed by design is at the core of our operations, 
+enriching our company with diverse languages, perspectives, 
+and cultures. This not only enhances our functionality but also 
+empowers Elasticians to work flexibly, improving productivity 
+and overall well-being. We understand that the well-being of our 
+employees directly contributes to the sustainability of our business, 
+and we have nurtured this intentionally since our founding.
+2022 was a pivotal year for our business as we continued to 
+develop and iterate upon our sustainability strategy. We formalized 
+existing programs and invested in ESG initiatives — and new 
+roles — which have helped to bring together a team with unique 
+expertise, further developing our sustainability, DEI, and governance 
+strategies to amplify our positive impact. 
+Here’s a glimpse at the progress we made:  
+• Environmental: We took an important step on our ESG journey to 
+define what environmental sustainability means to our company. 
+We conducted a comprehensive inventory of our environmental 
+impacts, calculating our greenhouse gas emissions for the first 
+time and identifying areas for improvement. Our business model 
+inherently incorporates efficiencies that enable responsible 
+growth, decoupled from carbon, a trend we aim to maintain as  
+we scale.
+• Social: In 2022, the world faced the aftermath of the pandemic, a 
+war in Ukraine, and a global economic slowdown, amongst many 
+other social, political, and environmental challenges. Throughout 
+it all, I’m proud of the passion and determination of our team to 
+support marginalized communities. This ethos is part of Elastic’s 
+Source Code “Come as YOU are” and reflects how we encourage 
+and enable employees to be their true selves as we work 
+together to build and sell great products. We extend this part of 
+our Source Code to our customers and partners to contribute to a 
+stronger ecosystem.  
+ 
+This year, we established the 2% Workforce Diversity Goal to 
+increase gender and racial/ethnic diversity within our company. 
+Additionally, our commitment to giving back is exemplified 
+through initiatives such as our 2:1 Giving Tuesday donation 
+matching program that supports causes across the globe, as well 
+as our response to critical events like the Ukraine crisis, for which 
+we raised US$216,565.
+• Governance: We have made significant progress in formalizing 
+and expanding our ESG oversight structures and practices. Our 
+board of directors and management team actively oversee our 
+sustainability and ESG activities, ensuring accountability and 
+strategic direction.
+Looking ahead, we are energized by our discoveries and remain 
+committed to embedding a sustainability mindset into all aspects 
+of our business. We understand that this integration takes time and 
+thoughtful consideration, but we are proud of our achievements 
+in areas such as pay equity and responsible AI, and we eagerly 
+anticipate sharing more in our future ESG updates.
+As we move forward, we will continuously refine and revamp our 
+strategy as we learn what works. The values and goals outlined 
+in this report serve as our guiding principles, driving us to build a 
+better future for our people, customers, and communities.
+Thank you for your continued support as we work together to 
+create lasting positive change.
+Ash Kulkarni
+CEO
+
+
+Page 4:
+4
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+About this report 
+In this report, you’ll find an overview of environmental, social, and governance (ESG) 
+highlights at Elastic. We review our progress against the Sustainability Accounting 
+Standards Board (SASB) standards for the Software and IT Services industry. We also 
+align with select United Nations Sustainable Development Goals (UN SDGs) and the 
+Task Force on Climate-related Financial Disclosures (TCFD). This document provides 
+Elastic’s ESG data for the period January 1, 2022, through December 31, 2022, unless 
+otherwise noted. References to fiscal year (FY) indicate that associated data is for 
+the 12-month period ended April 30 of that year; for example, fiscal year 2022 (FY22) 
+refers to the period May 1, 2021, to April 30, 2022.
+
+Page 5:
+5
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+We're Elastic
+We're Elastic 
+Elastic is a data platform company built on the power of search. We help organizations 
+improve operational resilience, mitigate security risk, and enhance user experiences by 
+putting data to work in real time. We help you find what you need faster — whether it’s a 
+document or an indicator of compromise. We keep mission-critical applications running 
+smoothly while protecting against cyber threats and improving user experiences. 
+Customers can easily deploy Elastic wherever data lives, in their favorite public cloud, or 
+across multiple clouds, and extend the value of Elastic to achieve new levels of success 
+at scale and on a single platform. 
+Companies like Uber, Slack, Microsoft, and thousands of others rely on Elastic 
+Enterprise Search, Observability, and Security solutions to advance their business  
+and accelerate results that matter.
+5
+
+Page 6:
+6
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+We're Elastic
+6
+Our  
+Source Code
+We’re a distributed company built 
+on a heritage of open source.  
+We value our employees for the 
+whole humans they are and honor 
+their contributions by following  
+our Source Code:
+Customer,  1st
+Our customers and our community 
+are at the heart of everything we do. 
+In our actions. In our products.  
+And in the experiences that we 
+create for them.
+Our passion for our users translates 
+into their passion for Elastic.
+  
+Home,  Dinner 
+There is no such thing as work-life 
+balance. We are successful if we 
+find balance in life. Elastic empowers 
+you with the flexibility to do so. Be 
+home for dinner, go for a run midday, 
+care for a sick child, or visit a parent. 
+Finding balance means being more 
+innovative and efficient at work. 
+Which makes for a better Elastic. 
+Space,  Time
+It’s easy to get stuck in a day-to-day 
+work pattern. Allowing for the space 
+and time to dream requires conscious 
+effort. Embracing a high failure rate 
+does, too. Fulfillment comes from 
+doing the obvious and dreaming up 
+the un-obvious. Both are foundations 
+of Elastic.
+IT ,  Depends
+It’s pretty complicated to make 
+some things simple, and even more 
+complicated to make other things 
+possible. We embrace and value 
+the knowledge required to do both. 
+When a question is asked, buckle up. 
+Sh*t is about to get real. Your journey 
+will likely start with “it depends.”
+Progress,  SIMPLE 
+Perfection
+Perfection is not a destination. Color 
+inside the lines or color outside the 
+lines. Just pick a color. It’s as simple 
+as 2048. An Elastic that moves is 
+an Elastic that survives, thrives, and 
+stands the test of time.
+01.02, /FORMAT
+Our products are distributed 
+by design, and our company is 
+distributed by intention. With many 
+languages, perspectives, and 
+cultures, it’s easy to lose something 
+in translation. Over email and chat, 
+doubly so. Until we get a perpetual 
+empathy machine, don’t assume 
+malice. A distributed Elastic makes 
+for a diverse Elastic, which makes for 
+a better Elastic.
+As YOU,  Are
+We all come in different shapes with 
+different interests and skills. We all 
+have an accent. Celebrate it. Just 
+come as you are. No need to invest 
+neurons trying to fit an arbitrary 
+mold. We’d rather you put them to 
+work shaping Elastic.
+HUMBLE,  Ambitious
+Ambition drives us to challenge 
+ourselves and the people around us 
+to do better. It is not an excuse to be 
+an asshole. Be humble. Be ambitious. 
+At Elastic, we are both.
+Speed,  Scale,  
+Relevance
+Elastic is a search company. We 
+focus on value to users by producing 
+fast results that operate at scale and 
+are relevant. This is our DNA. We 
+believe search is an experience. It is 
+what defines us, binds us, and makes 
+us unique.
+
+Page 7:
+7
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+We're Elastic
+7
+Metric FY21 FY22 FY23
+Revenue ($MM) 608.5 862.4 1,069
+Full-time employees 2,179 2,978 2,886
+Customers 15,000+ 18,600+ ~20,200
+Revenue ($MM) Full-time employees Customers
+Activity metrics
+These metrics quantify our size, scope, and key business activities.
+200
+FY21 FY22 FY23 FY21 FY22 FY23 FY21 FY22 FY23
+400
+600
+800
+1000
+1200
+500
+1000
+1500
+2000
+2500
+3000
+4000
+8000
+12000
+16000
+20000
+
+Page 8:
+8
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+We're Elastic
+8
+Sustainability at Elastic
+Sustainability at Elastic goes beyond ESG disclosures. It reflects 
+the essence of our Source Code and helps drive us forward. 
+It unlocks our ambition and pinpoints opportunities that drive 
+operational efficiency, innovation, long-term resilience, and 
+employee engagement. These initiatives work to empower us, 
+and we believe they help empower our customers. As part of 
+being a responsible, forward-thinking member of the global 
+community, our sustainability strategy guides our commitment 
+to operating ethically, minimizing our environmental impact, and 
+helping to address societal challenges. 
+We are focused on purposeful iteration of our sustainability 
+strategy and the opportunities presented at every growth 
+phase, product release, and company initiative in the face of 
+societal, environmental, and macroeconomic challenges. In 
+this Sustainability Report, we also highlight how we can help 
+our customers increase their own efficiency and contribute to 
+a low-carbon future by providing a unified data platform that 
+helps organizations improve operational resilience, mitigate 
+security risk, and enhance user experiences by putting their 
+data to work in real time  —  while minimizing resource usage.
+Our strategy & ambition
+2022 was a pivotal year for Elastic on our journey to define 
+sustainability at the company. We formalized existing programs 
+and values that were already deeply connected to our Source 
+Code and conducted a thorough inventory of our company’s 
+environmental and societal impacts. We understand that 
+embedding a sustainability mindset into core areas of the 
+business requires time and thorough planning, so we are 
+ensuring no corners are being cut as we continuously refine  
+our strategy. 
+Our first attempt at calculating our greenhouse gas (GHG) 
+emissions was enlightening and ambitious. It included several 
+indirect ‘Scope 3’ categories that help shine a light on where 
+our biggest reduction opportunities are. These insights are 
+invaluable to gaining a deeper understanding of the climate-
+related risks and opportunities associated with our business.
+We are excited by what we’ve discovered and where we’re 
+headed. As we look ahead, we are committed to deepening 
+the integration of sustainability into our corporate strategy, as 
+the values and goals outlined here guide us in building a better 
+future for our people, customers, and company.
+2022 was a pivotal year 
+for Elastic on our journey 
+to define sustainability  
+at the company.
+
+Page 9:
+9
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+9
+Environment
+2022 continued the planet’s long-term warming trend, resulting in an array of predicted climate consequences. 
+From stronger hurricanes and intensifying forest fires, to droughts and rising sea levels, people across the globe 
+are living with the effects of a rapidly changing climate. Failure to limit a rise in global temperatures to 1.5 degrees 
+Celsius, in line with the Paris Agreement, will result in risks to human health and security and enormous costs.  
+At Elastic, we recognize the urgent need to decrease carbon emissions. We believe that innovation in software  
+has the power to transition parts of the physical economy into the virtual, reducing natural resource usage.  
+We must strive to do more with less. 
+We believe that our products can help enable this transition. Customers can use our 
+technology in efficient cloud environments, while our business can deliver services at scale, 
+leveraging additional carbon efficiencies from our distributed-by-nature workplace design.
+While our direct environmental impacts are relatively low, we are focused on minimizing 
+greenhouse gas emissions in order to do our part to help ensure a more stable and secure 
+future. We’re thinking beyond our own "four walls" and addressing the largest sources 
+of impact within our supply chain. We have the opportunity to partner with like-minded 
+companies to help deliver low-carbon product solutions. We’ll utilize our data expertise  
+to help measure and manage this endeavor.
+
+Page 10:
+10
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+10
+Environmental policy & 
+management approach
+We are guided by our commitment to sustainable practices, 
+which continue to evolve. Elastic’s sustainable operations 
+include an open reporting culture and an agile response to 
+environmental impacts. We collaborate with specialists in 
+the field to provide gap analyses on where we stand among 
+international environmental sustainability standards and to help 
+us outline and implement our strategy. Our Environmental Policy 
+enshrines this commitment into the way we operate and covers 
+roles and governance of environmental matters at Elastic, like 
+energy, travel, supply chain sustainability, and more. We will 
+also be disclosing climate data and strategy information for the 
+2022 reporting cycle to CDP, a not-for-profit charity that runs 
+the global disclosure system for organizations to manage their 
+environmental impacts.
+Leading the implementation of environmental policies and 
+practices at Elastic is our Environmental Vertical Team, a 
+subcommittee within our larger ESG Working Group. This 
+team spans several key business areas, including sourcing 
+and procurement, employee engagement and development, 
+data analytics, engineering, and workplaces. The team meets 
+every two weeks and collaborates to advance environmental 
+sustainability initiatives across the organization. 
+Since the founding of our company, we have been dedicated 
+to flexible working, with a high percentage of distributed 
+employees. New construction and leases are developed in 
+line with our minimum standard of design and construction 
+sustainability. We are working to lessen our environmental 
+impact through initiatives that include minimizing unnecessary 
+space, using recycled consumables, eliminating plastic bottles, 
+and implementing recycling and composting programs.
+We are striving for WELL building accreditation for our future 
+offices, which requires that we use products that meet health 
+and sustainability criteria. We also analyze our procurement 
+engagements to ensure that we are partnering with like-minded 
+companies who prioritize these important aspects. With the 
+right approach to environmental management, we know we can 
+have a tangible impact on our people, our company, and  
+our planet.
+
+
+Page 11:
+11
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+11
+Climate change
+In 2022, Elastic formally measured its greenhouse gas 
+(GHG) emissions, including Scope 1, Scope 2, and significant 
+categories of Scope 3 emissions. We are proud to have 
+undertaken this exercise to begin disclosing this data annually 
+and establish baselines to drive our decarbonization strategy. 
+In line with this, we recently formalized our commitment to 
+establish GHG reduction targets in line with climate science with 
+the Science Based Targets initiative (SBTi), the leading authority 
+on rigorous and meaningful climate targets.
+
+
+Page 12:
+12
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+12
+FY2020 FY2021 FY2022
+Scope 1 89 110 122
+Scope 2 
+(Location-based) 320 237 258
+Scope 2 
+(Market-based) 323 248 298
+Scope 3 18,919 21,148 28,210
+Total emissions  
+(Location-based) 19,328 21,495 28,590
+Absolute greenhouse 
+gas emissions  
+by scope (tCO2e)
+
+Page 13:
+13
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+13
+Scope 3 categories FY2020 FY2021 FY2022
+Category 1 
+(Purchased goods and services) 13,300 18,100 23,800
+Category 2 
+(Capital goods) 994 1,210 1,360
+Category 3 
+(Fuel- and energy-related emissions)37 34 43
+Category 4 
+(Upstream transportation & distribution)0 0 0
+Category 5 
+(Waste generated in operations) 2 2 2
+Category 6 
+(Business travel) 3,054 35 615
+Category 7 
+(Home working & commuting) 1,490 1,720 2,150
+Category 8 
+(Upstream leased assets) 42 47 144
+Category 13 
+(Downstream leased assets) 0 0 96
+Scope 3 total 18,919 21,148 28,210
+Greenhouse gas 
+emissions scope 3  
+breakdown (tCO2e)
+Scope 3 category 4 (upstream transportation and distribution) 
+emissions are currently calculated as part of Category 1  
+(purchased goods and services).
+See Appendix for more detail on our greenhouse gas  
+emissions inventory.
+
+Page 14:
+14
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+14
+Greenhouse gas  
+emissions intensity
+FY2020 FY2021 FY2022 FY2022  vs.   FY2020 (%)
+GHG intensity (revenue) 
+Total Scope 1 & Scope 2 location-based metric tons CO2e per $MM revenue 0.96 0.57 0.44 -54%
+GHG intensity (full-time employees) 
+Total Scope 1 & Scope 2 location-based metric tons CO2e per full-time employee 0.21 0.16 0.13 -40%
+Intensity denominators FY2020 FY2021 FY2022
+Revenue ($MM) 427.6 608.5 862.4
+Full-time employees 1,936 2,179 2,978
+
+Page 15:
+15
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+15
+0.57
+0.44
+0.96
+FY 21 FY 22FY 20
+YoY emissions intensity  Total Scope 1 & Scope 2 location-based metric tons CO2e per $MM revenue
+Greenhouse gas emissions intensity (revenue)
+Intensity denominator FY2020 FY2021 FY2022
+Revenue ($MM) 427.6 608.5 862.4
+54%
+reduction from   FY2020–2022
+
+Page 16:
+16
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+16
+Greenhouse gas emissions intensity (employees)
+YoY emissions intensity  Total Scope 1 & Scope 2 location-based metric tons CO2e per full-time employee
+Intensity denominator FY2020 FY2021 FY2022
+Full-time employees 1,936 2,179 2,978
+40%
+reduction from   FY2020–2022
+FY 21 FY 22FY 20
+0.21
+0.16
+0.13
+
+Page 17:
+17
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+17
+Understanding Elastic's 
+carbon impact
+Elastic’s GHG emissions have increased during the past three 
+years, and indirect Scope 3 emissions account for over 95% 
+of our total impact. This change is largely due to significant 
+increases in supplier spend that is accounted for within  
+Scope 3, Category 1: Purchased Goods and Services. 
+Even with increases in both headcount and revenue, Elastic 
+has decoupled its emissions from company growth, signaling a 
+positive trend in carbon efficiency. Elastic’s business strategy 
+provides relatively low-carbon advantages when compared to 
+industry peers. For example:
+• Our distributed-b
+y-design workforce can have significantly 
+lower carbon impacts when compared against emissions from 
+commuting and large office footprints. 
+• Our cloud-first approach le
+verages some of the most efficient 
+data hosting available, from the leading hyperscalers.
+Despite Elastic’s relative operational efficiency, calculating our 
+carbon footprint has been invaluable and has informed our 
+climate strategy by highlighting opportunities for improvements 
+and where we need to direct our focus. Crucially, this baselining 
+work provides the insight needed to formulate a GHG reduction 
+goal that meets the standards of the SBTi criteria and aligns 
+with our climate ambitions.
+
+
+Page 18:
+18
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+18
+Engaging on 
+environment
+At Elastic, we remain committed to reducing our operational 
+environmental impacts — informed by the measurement of our 
+GHG emissions — and we understand that our ability to do so 
+meaningfully relies on engaging key stakeholders including our 
+office locations and landlords, employees, and supply chain 
+partners. By remaining steadfast in our pursuit of operational 
+efficiency, we can encourage the transition to a low-carbon 
+business model, value chain, and economy. Here’s how we 
+approached these efforts in 2022.
+Sustainable workplaces
+As a company that’s distributed by design, Elastic yields a 
+relatively low office energy use footprint compared to other 
+companies. Our in-office people-to-desk ratio is 3:1, which 
+results in a reduction in employee commuting and a minimization 
+of office complex energy usage, water consumption,  
+and waste generation. 
+
+Page 19:
+19
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+19
+FY2020 FY2021 FY2022
+Total Scope 2 electricity use (kWh) 1,123,768 884,428 1,011,602
+Energy intensity 
+Total electricity use per $MM revenue 2,628 1,453 1,173
+Energy intensity 
+Total electricity use per full-time employee 580 406 340
+T otal electricity useEnergy management in offices
+Our workplace team runs several initiatives 
+to positively impact our environmental 
+efforts on a daily basis including:
+Efficient lighting
+Where possible, we specify the use of 
+passive infrared sensors to automatically 
+turn lights off when office spaces are not in 
+use. These specifications are documented in 
+our design guidelines, which also cover the 
+use of LED lights and energy-efficient audio 
+visual and video conference hardware.
+Preferring environmental accreditations
+Our search and selection process for finding 
+new office space now includes an environment 
+and sustainability element. We prioritize 
+buildings with a relevant local accreditation 
+like BREEAM, LEED, WELL, and others.
+Measuring and monitoring
+In 2022, we measured our global workplaces 
+energy consumption as a component of 
+developing our GHG emissions inventory.
+
+Page 20:
+20
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+20
+FY2020 FY2021 FY2022
+Denmark 3,368 2,815 3,921
+Netherlands 80,213 80,124 83,129
+UK 68,946 49,213 74,173
+USA 971,241 752,276 850,379
+Total electricity (kWh) 1,123,768 884,428 1,011,602
+Electricity use  
+by location (kWh)
+Excludes Australia due to unavailability of historical data.
+
+Page 21:
+21
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+21
+FY22 energy use  
+by location (kWh)
+850.4K
+74K
+83K
+23.8K
+8.38%
+reduction in total electricity  
+from 2020–2022
+Excludes Australia due to unavailability of historical data.
+
+Page 22:
+22
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+22
+Waste management 
+in offices Removal of single-use plastic water bottles and utensils
+We provide staff and visitors with glasses, reusable bottles, or 
+recycled/biodegradable cups and offer filtered tap water.  
+We do not allow plastic utensils but use reusable products  
+or non-plastic disposables. 
+Packaging reduction 
+We request that all vendors reduce packaging used and  
+collect and return packaging that can’t be recycled. 
+In-office recycling 
+We provide split recycling or recycling through waste  
+handling services at the majority of our offices. 
+Bio-waste reduction 
+Our free lunch services are based on individual orders  
+placed no more than 24 hours in advance, ensuring that  
+food waste is kept to a minimum.
+Water management in offices
+Most restroom facilities are equipped with dual-volume  
+flush systems to reduce wastewater generation. 
+The majority of our restrooms are equipped with  
+sensor-activated fixtures, minimizing the total  
+amount of water consumed.
+
+
+Page 23:
+23
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Environment
+23
+Sustainable  
+employee behaviors
+While our distributed-by-design strategy enables us to operate 
+with relative carbon efficiency, we recognize that there will 
+always be improvements that can be made. GHG emissions from 
+work-from-home (WFH) activities, employee commuting, and 
+business travel are important streams of our Scope 3 emissions 
+for us to manage. We want to support our employees to be more 
+carbon-efficient in the work they do for Elastic.
+We have embarked on an employee engagement campaign, 
+specifically to address the carbon impacts from home working. 
+Partnering with our Learning & Organizational Development 
+team, we will provide employees with the tools they need to 
+address major impact areas, such as energy efficiency and 
+options for renewable utility tariffs, as well as transportation, 
+technology, and waste reduction. We know that measuring 
+progress will be a challenge, but one that Elasticians can meet 
+and that we are committed to supporting.
+Sustainable  
+supplier engagement
+For companies in our industry, the greatest environmental 
+impact occurs within the supply chain. For us, as identified in 
+our Scope 3 emissions inventory, the bulk of our emissions is 
+derived from our spend for purchased goods and services. As 
+a cloud-based company, this includes our compute and data 
+hosting activities with our cloud service providers. A large 
+portion of our total vendor spend is with three large cloud 
+service providers: AWS, Google Cloud, and Microsoft Azure. As 
+Elastic scales, we will continue to consolidate our total vendor 
+spend with these partners. 
+We believe, and many studies confirm, that cloud-based 
+computing is the most carbon-efficient operating model. Each 
+of these three providers has sustainability-related commitments 
+for each of their platforms, which enable users like us to 
+operate with increased carbon efficiency. For example, AWS’s 
+public statements disclose that it has a target to power its 
+data centers using 100% renewable energy by 2025, which, in 
+turn, will reduce AWS's carbon footprint by 88% compared to 
+using consumed electricity. Microsoft Azure and Google Cloud 
+have very similar initiatives in place, which not only incorporate 
+renewable energy and greenhouse gas emissions reduction 
+targets but also include objectives related to water, waste, and 
+preventing deforestation.
+A cornerstone of our carbon reduction strategy will be around 
+supplier engagement and ensuring that our major partners 
+share in our aspirations for a low-carbon future. We have begun 
+analyzing our procurement impact, leveraging spend data and 
+public commitments that align with our supply chain strategy. 
+See the Supply Chain Responsibility section of this report for 
+more information.
+
+Page 24:
+24
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Social
+24
+Social 
+At Elastic, the power of infinite possibility is found in the talent and diversity 
+of our people. As a distributed company, Elastic employs people around 
+the globe. We focus on recruiting top, diverse talent and then engaging, 
+supporting, developing, and retaining them with a flexible, supportive, and 
+inclusive workplace that offers fair and consistent pay practices. We also 
+prioritize community engagement, primarily through our Elastic Cares program.
+
+Page 25:
+25
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+25
+T alent
+At Elastic, we are continually evolving and growing our  
+end-to-end talent processes, working toward a holistic 
+approach across the business. This work spans many teams 
+who work together to achieve a high-caliber globally distributed 
+workforce. We celebrate diversity, foster inclusion, allow every 
+Elastician to perform their very best, and secure our talent 
+pipeline for the future. 
+Our latest development in this space, due to launch in early 
+FY24, is the introduction of an Elastician Success Model that 
+will underpin our talent programs and processes. Known as The 
+Beehive, it is a memorable, comprehensive description of the 
+behaviors that will lead to success at Elastic, no matter your 
+role or level. The Flipped Beehive describes the behaviors that 
+all people leaders need to demonstrate to enable their team 
+members to be successful. Taken together, the overall Beehive 
+framework provides a consistent language and reference point 
+for all talent activity, gives Elasticians clear expectations for 
+behavior and performance, and allows a fair approach to  
+talent management.
+Elastic is known for ingesting and making sense  
+of huge amounts of data. Successful Elasticians do 
+this too: using data and expertise to spot patterns, 
+solve problems, and anticipate setbacks.
+Thriving Elasticians have 
+two things in common: 
+continuously learning with 
+purpose, and practicing 
+healthy habits for wellbeing.
+If being smart is about thinking, being bold 
+is about doing. Elastic will achieve success 
+if we are decisive and fearless, and we 
+pursue our goals with determination.
+As a distributed company, great communication is vital 
+to allow us to align and collaborate. This means we each 
+flex our approaches to meet others where they’re at.
+Being kind is not a  
+nice-to-have. When we 
+each feel accepted, even 
+celebrated, for who we are, 
+and we have diverse voices in 
+our teams, we do better work.
+Beehive
+Elastician Success Model
+
+Page 26:
+26
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+26
+Recruitment 
+We have recruiting team members in every region to reflect 
+the global nature of our business. We continue to focus on 
+expanding our reach into underrepresented talent pools through: 
+• Our active par
+tnership with CIRCA, the USA’s largest 
+network of community-based organizations. This 
+ensures our job postings reach underrepresented 
+candidate groups and enables us to proactively 
+search for talent via the CIRCA database.
+• Our active par
+tnerships with PowerToFly and 
+Fairygodboss who help us reach female candidates for 
+open technical and sales roles across the globe.
+• Our partnership w
+ith the US Department of Defense 
+Skilbridge Program, which provides transitioning 
+service members with internship opportunities.
+• Our ElastiGrad program, w
+hich gives us a fresh 
+source of new ideas, perspectives, and creative ways 
+of solving problems from early career talent. While 
+still in its infancy, 70% of our FY23 Graduates self-
+identified as women and >60% identified as URM.1
+• Our internal sourcers' and recruiters' focused outreach 
+and sour
+cing efforts on finding diverse talent.
+1 A US citizen who identifies as Black/ African American,  Hispanic/Latino,  American Indian,  or Southeast Asian & first generation college students
+
+
+Page 27:
+27
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+27
+Onboarding
+Our onboarding period at Elastic starts from the moment a 
+new hire says “yes” to their role, and aims to build new hires’ 
+confidence, foster a sense of belonging, and increase speed  
+to value by:
+• Establishing a shared sense o
+f purpose and goals through 
+connecting to company history and future plans.
+• Demy
+stifying the Elastic culture by uncovering habits, norms, 
+and processes so new hires can easily navigate daily life  
+at Elastic.
+• Ensuring clarity about ho
+w their line of business contributes 
+to Elastic’s success and collaboration with teammates, internal 
+partners, and customers.
+The onboarding experience consists of a global X-School 
+program for all new hires, as well as role-specific training. 
+Teams across Elastic work in alignment to ensure a seamless 
+onboarding journey. 
+X-School is a mix of live and asynchronous experiences, 
+including virtual instructor-led events, online learning paths, 
+guidance for new hires’ managers, and a live forum specifically 
+for new managers. 
+During the X-School journey, new hires explore Elastic’s history, 
+strategy, products, and customers and hear from senior leaders 
+in each part of the business. Both the CEO and CTO and  
+co-founder give live keynotes and participate in Ask Me 
+Anything sessions, and access to senior leadership is regularly 
+cited as a huge benefit to the onboarding experience. Attention 
+is paid in the program to ensuring new hires are given the 
+opportunity to understand Elastic’s social commitments, 
+with keynotes from our Diversity, Equity, and Inclusion team 
+(including introducing our Elastician Resource Groups (ERGs) 
+and other DEI initiatives such as cultural activations), and Elastic 
+Cares programs (donation matching, volunteer opportunities 
+and rewards, and nonprofit organization grants). A deep dive 
+into the context, history, and intention behind Elastic’s Source 
+Code, delivered by Shay Banon, company co-founder and CTO 
+is an integral element of the program, as the Source Code is 
+woven into every element of Elastic life. Additionally, new hires 
+connect with each other and build meaningful relationships 
+through regular small  
+breakout sessions. 
+Since 2020, nearly 3,000 Elasticians have been through virtual 
+X-School (~70% of whom are still Elasticians today), and 
+participant feedback is consistently overwhelmingly positive, 
+with on average 92% attendees reporting positive scores for 
+impact, experience, and learning.
+In FY24, X-School will undergo a major redesign to allow us to 
+scale the program as Elastic grows, incorporate The Beehive 
+behaviors, and ensure all geographies can have an  
+excellent experience.
+
+
+Page 28:
+28
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+28
+I’ve never been in a company before  
+that dedicates that amount of time to its  
+culture and I just simply think it's amazing.
+It was truly a one-of-a-kind  
+immersive experience.
+As a distributed first company, Elastic  
+has nailed the virtual induction process!
+A selection of comments from new hires taken from publicly shared LinkedIn posts:
+
+Page 29:
+29
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+29
+T alent development
+Elastic’s Learning & Organizational Development team’s vision 
+is to enable purposeful growth for all Elasticians by providing 
+meaningful learning that can be applied in work and life.
+The team’s programs will be aligned to the Elastician Success 
+Model: The Beehive. In developing The Beehive, the team 
+created a robust and evidence-based framework that captures 
+both the unique characteristics of Elastic’s people and culture 
+while representing external best practices for employee and 
+leadership success.
+In delivering critical leadership development programs, the 
+following is available to leaders at Elastic:
+• In "Leadership F
+oundations," new or less-experienced 
+managers explore the psychological transition from individual 
+contributor to leader and how to prioritize strategic activity. 
+• In "Ke
+y Leadership Concepts," leaders at any level are given 
+tools and practice opportunities to grow skills needed to help 
+develop their team members, deliver meaningful feedback, 
+and lead through change. 
+• In "Leading Strat
+egically," through a nomination program, 
+senior leaders and top talent work together in an immersive 
+simulation experience to develop skills needed to lead  
+the enterprise. 
+• In our one-t
+o-one coaching program, through a nomination 
+process, selected leaders are offered a program of in-depth 
+personal development with a fully accredited external coach. 
+• In "High Per forming Teams," managers are given a toolkit of 
+resources to help them establish team purpose and goals and 
+work effectively together to achieve them. 
+• In "Learning labs,
+" all leaders have the opportunity to join 
+regular facilitated discussion forums with peers around topics 
+such as psychological safety, change, and inclusion. 
+A selection of recent participant feedback from two  
+key programs: 
+• Ke
+y Leadership Concepts: “The content seemed spot on for 
+the time frame and I am really glad I attended.”; “Provided 
+a lot of great tools and different ways to think through 
+problems.”; “I put the training into practice immediately, which 
+makes it 'stick' so much better.” 
+• Leading Strat
+egically: “It was a home run — I left feeling like 
+I was a better leader.”; “One of the best programs I have been 
+on.”; “Usually not over-optimistic about these programs but 
+this was awesome, it exceeded my expectations.”
+All Elasticians have full access to LinkedIn Learning, an  
+always-on platform that provides a range of courses on every 
+topic imaginable. Everyone is given training on how to get the 
+most value from the platform by selecting their interest areas to 
+allow for curated personal learning journeys.
+Alongside this, all Elasticians have the opportunity to attend  
+live classes: 
+• "Connecting Thr
+ough Conversations" teaches the key skills of 
+coaching-style conversations. "Learning labs" gives a forum 
+for peer discussion and learning on critical topics.
+• "Discov
+ering DiSC" incorporates a personality assessment 
+with a facilitated debrief on how you can use this insight to 
+work more effectively with others.
+In 2022, the team delivered nearly 200 hours of instructor-led 
+training, and 2,068 Elasticians logged in to LinkedIn Learning to 
+complete a total of 49,795 videos over 2,851 hours. 
+In FY24, the team’s focus is on launching The Beehive Elastician 
+Success Model. All Elasticians will have access to a suite of 
+learning tools to help them improve their skills across each 
+area of The Beehive, which outlines behavioral and leadership 
+expectations at Elastic. Within each cell, we’ll offer learning in a 
+range of formats and durations to allow each individual to pick a 
+style and depth that works for them. All learning will be hosted 
+and tracked on a learning portal. Individuals will receive credits 
+for completion and will achieve badges once a cell of The 
+Beehive is completed. 
+
+Page 30:
+30
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+30
+Employee engagement
+We’ve been running a semiannual global engagement 
+survey for five years. We typically see high engagement 
+and participation across the organization and benchmark 
+well against our peers. We use our engagement survey to 
+drive programmatic action at the company level and team 
+actions down to the manager level. We look at the data 
+across demographics from gender and geography to tenure 
+and team. The participation rate for the February 2023 Pulse 
+Survey was 87%, while the engagement score was 72%. Most 
+recently, we have seen high scores on questions related 
+to management, understanding how work contributes to 
+the goals of Elastic, and being proud to work at Elastic.
+
+
+Page 31:
+31
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+31
+Benefits
+By embodying our Source Code value for Elasticians to show 
+up "As YOU, are" we continue to build our plans with inclusivity, 
+relevance, flexibility, and choice at the heart of the Elastic 
+experience. Key focus areas in 2023 include:
+Expanding the core Elastician experience by:
+• Continuing to roll out our core plans (healthcare, paid time 
+off
+, financial protection), mental health services, and family 
+formation benefits across five additional locations (Belgium, 
+Hungary, Ireland, Italy, New Zealand).
+• Pro
+viding access to several mental well-being resources, 
+including digital counseling services, weekly guided 
+meditation, and our global employee assistance program 
+(EAP) in more locations. We’ve also expanded the inclusivity of 
+our health plans to include additional mental health services 
+for children and teens. 
+• Extending f
+amily formation benefits to support Elasticians 
+globally on their fertility, surrogacy, or adoption journeys. 
+We also provide low testosterone support and menopause 
+support. Every benefit is available to Elasticians regardless of 
+marital status, sexual orientation, or gender.
+• Recognizing financial w
+ellness as an important component 
+of well-being for all Elasticians. We have also committed to 
+additional retirement and savings plans to support Elasticians 
+in Ireland, Italy, and New Zealand, with plans to invest in 
+additional countries over the coming year.
+• Pro
+viding all Elasticians with the opportunity to build an 
+equity ownership stake through Restricted Stock Unit (RSU) 
+grants and/or Employee Stock Purchase Program (ESPP) 
+participation. RSU ranges — established by geographic zone, 
+salary band, and job level — are reviewed annually, with the 
+equity framework approved by the compensation committee 
+of the board of directors. 
+Creating space for what matters by:
+• Launching a global caregivers benefit to Elasticians, making it 
+easier t
+o get access to care planning for cases such as aging 
+parents, a loved one with a critical diagnosis, or a child with 
+special needs. Additionally, the service provides 1:1 expert 
+support and community resources.
+• Offering a gender
+-neutral and flexible parental leave policy 
+that meets a global minimum standard of 16 weeks of paid 
+time off.
+• Pro
+viding up to one month paid compassionate leave to 
+help Elasticians manage and recover from situations in their 
+personal lives.
+Amplifying Elasticians' impact by:
+• Offering five days of paid volunteer time off to engage in 
+helping ot
+hers.
+• Gifting up t
+o $1,500 per fiscal year in charitable donation 
+matching to support the generosity of Elasticians through our 
+Elastic Cares program.
+• Honoring our ser
+ving military by offering a salary differential 
+to total 100% of a service member’s Elastic salary for the first 
+six months of active duty.
+Providing holistic well-being engagement by:
+• Encouraging Elasticians to tak e care of their health with fun 
+and engaging campaigns like our fruit and veggie or sleep 
+challenges resulting in a steady uptick in well-being  
+initiatives participation.
+• Ensuring remot
+e Elasticians have ergonomic home 
+workspaces with online and one-to-one assessments and 
+accommodation support.
+ 
+ 
+ 
+ 
+
+Page 32:
+32
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+32
+Elastic recognized with 
+6 Comparably awards
+A supportive and flexible company culture is a core part of 
+our Source Code. We believe in empowering our employees 
+to be their whole, creative selves and are proud to see this 
+work recognized by Comparably in six major categories of its 
+Best Place to Work series, including: Best Company Culture, 
+Best CEO, and Best Company for Diversity.  
+We also received an A+ culture score.
+
+Page 33:
+33
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+33
+Diversity
+At Elastic, we are strengthened by the differences that define 
+us. We celebrate the limitless dimensions inherent to our 
+Elasticians and aspire to build a team with a wide breadth and 
+depth of diversity, including representation, that reflects our 
+customers and communities around the globe.
+Equity
+Often used interchangeably with equality, equity is critically 
+different. Equality is the state of being equal — treating 
+everyone the same. Equity involves impartiality and fairness 
+— treating everyone fairly. Equity recognizes that the same 
+thing for everyone (equality) doesn’t truly address needs, and 
+therefore, specific solutions and remedies — which may be 
+different for different people — are necessary. Equity is the lens 
+through which we approach our policies and practices to ensure 
+we create the best environment and results for everyone.
+Inclusion
+We want to cultivate an environment at Elastic where every 
+Elastician feels included. By treating all Elasticians fairly and 
+respectfully, and providing equitable access to opportunities 
+and resources, we hope to empower our team so that they can 
+contribute fully to our collective success.
+Diversity ,  equity & inclusion
+We’re working to give more structure and context to how we talk about diversity. We continue to learn and iterate as we evolve from diversity, 
+inclusion, and belonging (DIB) to diversity, equity, and inclusion (DEI), with an articulated mission philosophy and foundational tenets.
+Elastic's DEI philosophy
+
+
+Page 34:
+34
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+34
+DEI tenets
+The following tenets guide our approach to diversity, 
+equity, and inclusion and help us flourish as we grow: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source Code
+The foundation for DEI is our Source Code. It’s what makes 
+Elastic, Elastic. Some ideas resonate more strongly with others, 
+and that’s OK. The ideas in our Source Code are reminders that 
+keep us steadfast because we’re not perfect. We’re human.
+Pause and explain
+When a situation occurs that creates discomfort or unease, we 
+encourage Elasticians to remember the Source Code. Pause 
+and remember that we wear different lenses, have different 
+backgrounds and experiences, live in different parts of the 
+world, and speak different languages. After the pause,  
+explain — without judgment, condemnation, or assuming  
+bad intent — why the situation created discomfort or unease.
+Respect the pause
+Respecting pauses someone may take during a meeting or 
+conversation is respectful and inclusive of non-native language 
+speakers, cognitive differences, and the countless dimensions 
+of diversity across the globe. Respect the pause rather than 
+moving to the next discussion point or a new topic.
+DEI is a journey, not a destination
+The road to achieving diversity, equity, and inclusion is ongoing. 
+In 2022, we evolved the structure of our DEI strategy. First, we 
+established a vision and framework for how Elastic approaches 
+DEI. Second, we expanded systems and processes — formalizing 
+ERG Policy to include compensating ERG leads. These structural 
+examples are best-in-class and demonstrate how Elastic is 
+embedding DEI into the very fabric of the corporation. And 
+continuously iterating and learning from our initiatives to ensure 
+we’re always progressing along our DEI journey.
+The road to achieving 
+diversity, equity, and 
+inclusion is ongoing.
+
+Page 35:
+35
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+35
+This work resulted in the following vision and current three 
+pillars of our DEI strategy, which guide our approach:
+People:
+Focusing on representation and inclusion at our company
+Product:
+Innovating our products to enable equitable outcomes
+Plus:
+As we succeed as a business, encouraging supplier 
+responsibility and direct societal investment for impact
+DEI at Elastic is supported at the top. Our senior director of DEI, 
+who is responsible for the integration of DEI in the company, 
+reports to the chief human resources officer (CHRO). The 
+CHRO reports to the compensation committee of the board of 
+directors on matters including DEI topics.
+Elastic's DEI vision:
+Creating value and equity through 
+transformational change, enabling 
+connections, and leading with data.
+
+Page 36:
+36
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+36
+Elastician Resource Groups (ERGs)
+We currently have seven ERGs around shared identity, interest, and allyship:
+25% of Elasticians are involved in one 
+or more ERGs with more than 200 
+people involved in two or more ERGs, 
+demonstrating intersectional support.
+The Accessibles  
+(Accessibility)
+Blasticians  
+(Black and African 
+American)
+ElastAsians  
+(Asian and Pacific 
+Islander+)
+Elasticians Unidos  
+(Hispanic/Latinx)
+Rainbow Stack  
+(LGBTQIA+)
+Mil-Asticians  
+(Military/Veteran)
+Women of Elastic  
+(Women)
+During 2022, each ERG led the curation of content, activities, and events 
+specific to each group, engaging hundreds of Elasticians worldwide by 
+living our Source Code: come As YOU, Are. From ElastAsians joining close to 
+150 Elasticians in celebrating Fall Festival with Mooncakes and Diwali with 
+traditional Mithai sweets, to month-long celebrations hosted by Elasticians 
+Unidos recognizing contributions of Hispanics/Latinx throughout the world! 
+In addition to cultural and relevant ERG-focused programing, we partnered 
+with our ERG leads to provide action items to our Learning & Organizational 
+Development (L&OD) organization to optimize inclusivity across the company 
+and give their input and feedback to DEI efforts and initiatives across Elastic 
+(such as our first-ever Lived Experience Survey). Senior leadership serves 
+as executive sponsors to ERGs, providing guidance and support, as well as 
+informal mentoring to our ERG Leads, thus fostering a culture of giving back 
+and developing our internal talent.
+
+Page 37:
+37
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+37
+DEI learning
+Rather than mandating DEI training (akin to a compliance 
+requirement), our preferred approach is to monitor and measure 
+qualitative metrics, which we continue to develop. In 2022, 
+we enhanced our ability to track participation in DEI learning 
+courses pursuant to Elastic’s DEI Tenets and Philosophy. We 
+are committed to evolving the offering and monitoring of DEI 
+learning opportunities at Elastic.
+In partnership with Learning & Organizational Development 
+(L&OD), we have created a learning path available to all 
+Elasticians encompassing unconscious bias training for 
+interviewers, DEI segments in our employee onboarding 
+program, and walk-through demonstrations on inclusivity.  
+This learning path is a mix of self-produced Elastic-specific 
+content and curated external resources.
+Additionally, we provide our ERG Leads with unique 
+development and training opportunities. From monthly ERG 
+Leads meetings with visits from senior leadership discussing 
+relevant topics, to outside consultants focusing on providing  
+the necessary tools for their success.
+DEI communications
+In 2022, we made an intentional effort to integrate DEI into all 
+corporate communications, internal and external. This increased 
+the number of touchpoints with the Elastic community and 
+DEI topics and supports our effort to weave DEI into the daily 
+operations and experiences of our stakeholders.
+Internally, DEI conversations are interwoven into the operational 
+fabric of the organization. We often discuss DEI outcomes 
+during Company All Hands. DEI behaviors are part of leadership 
+expectations in team meetings, for example. More than half of 
+the company is involved in DEI or Elastic Cares Slack channels. 
+We also publish content in a twice-a-month company-wide 
+newsletter; our Employee Resource Groups (ERG) participate in 
+content curation, highlighting observances like Black History Month.
+Externally, we facilitate collaboration between ERGs, Employer 
+Brand, Communications, and Elastic Cares to tell the stories 
+of Elasticians on our website and on social media. We produce 
+blogs in recognition of celebrations like Hispanic Heritage 
+Month, Black History Month, Asian Pacific Heritage Month, and 
+Veterans Day. A unique offering, the Someone Like Me program, 
+offers the opportunity for candidates to connect with Elasticians 
+of similar backgrounds during the interview process, providing a 
+viewpoint into the company with someone who is not part of the 
+interview process.
+In addition, our Elastic Cares program supports an evergreen 
+giving opportunity for anti-racism and social justice causes 
+and hosts regular sessions to highlight a diverse slate of 
+global nonprofits.
+
+
+Page 38:
+38
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+38
+Functional Affirmative  
+Action Program (FAAP)
+We maintain a functional affirmative action program. As part 
+of this effort, we conduct an analysis of hiring and promotion 
+by Equal Employment Opportunity (EEO-1) categories by 
+race, ethnicity, and gender within each EEO job code, which 
+serves to signal any opportunities that may exist and outline 
+any resulting hiring goals requiring good-faith efforts needed 
+to make the most of that opportunity. The DEI team briefs our 
+executive leaders on the FAAP to ensure they are aware of 
+and understand the expectations for good-faith efforts. We 
+believe the functional element of this program better promotes 
+ownership and accountability to each business function for the 
+outcomes of the program. The analysis and reporting are tied 
+to five key functions: Field, Engineering, Marketing, HR, and 
+Corporate (Finance, IT and Ops, and Legal).
+Gender pay equity
+Our commitment to fair pay is the foundation of our 
+compensation philosophy and informs our pay decisions 
+around the globe. This means paying people fairly for the job 
+they perform without regard to gender or race/ethnicity. We 
+believe in this so strongly that we partner with an external 
+consultant to conduct fair pay analysis on a regular basis 
+using established job groupings and control factors to ensure 
+appropriate comparisons. We look at gender globally and race 
+and ethnicity for employees in the U.S., and we account for 
+factors to ensure appropriate comparisons. We are pleased to 
+report that women globally earn $0.99 for every $1.00 earned 
+by men for similar work. We are also happy to report the same 
+is true for underrepresented groups (URG) in the U.S., where  
+underrepresented group employees earned $0.98 for every 
+$1.00 earned by non-underrepresented group (non-URG) 
+employees for similar work.
+As further demonstration of our commitment to fair pay, in the 
+United States we include salary ranges in all job postings across 
+all states and Washington DC to ensure a level playing field 
+for every applicant. Outside of the United States, we conduct 
+country-specific analysis in accordance with local practice.  
+We have published our French Gender Pay Gap Index for the 
+past four years with a strong score of 93 out of 100 in our  
+most recent analysis.
+Across Elastic, we take pride in our compensation practices.  
+We are steadfast in our commitment to providing fair pay  
+for all Elasticians.
+
+Page 39:
+39
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+39
+2022 global gender diversity
+Diversity is about the differences between 
+people. At Elastic, we aspire to have employee 
+representation that reflects the diversity of our 
+customers and communities around the globe. 
+In 2022, we created the 2% Workforce Diversity 
+Goal, which establishes an aspirational goal to 
+increase company representation on the basis 
+of gender and racial/ethnic diversity by two 
+percentage points. We do this to hold ourselves 
+accountable for building diverse candidate 
+and leadership pipelines as we strive to build a 
+representative workforce.
+The following information reflects Elastic’s 
+workforce representation as of December 31, 
+2022. It also aids us in identifying opportunities 
+for improvement in FY24 and beyond.
+C-suite
+22.2%  Female
+77.8%  Male
+Senior management
+27.5%  Female
+72.5%  Male
+T echnical
+19.8%  Female
+79.3%  Male
+ 0.5%  Non-binary
+ 0.4%  Decline to state
+Overall
+31.8%  Female
+67.7%  Male
+ 0.3%  Non-binary
+ 0.2%  Decline to state
+Workforce diversity metrics
+
+Page 40:
+40
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+40
+2022 US racial/ethnic diversity
+C-suite
+37.5%  Underrepr esented group (URG)*
+62.5%  Non-URG
+32.8%  Underrepr esented group (URG)*
+67.2%  Non-URG
+T echnical
+27.0%  Underrepr esented group (URG)*
+73.0%  Non-URG
+Senior management
+31.5%  Underrepr esented group (URG)*
+68.5%  Non-URG
+Overall
+*Underrepresented Group (URG) refers to the cumulative group of non-white EEO-1 race/ethnicity categories as defined by the US Equal Employment Opportunity Commission (EEOC).   
+URGs include: American Indian or Native Alaskan (not Hispanic or Latino),  Asian (not Hispanic or Latino),  Black or African American (not Hispanic or Latino),  Hispanic or Latino,  Native Hawaiian or Other Pacific Islander (not Hispanic or Latino),  and two or more races (not Hispanic or Latino).
+
+Page 41:
+41
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+41
+2022 US racial/ethnic diversity (continued)
+C-suite
+77.8%  White
+22.2%
+  Asian
+00.0%  Hispanic or Latino
+00.0%
+  Black or African American
+00.0%  American Indian or Alaska Native
+00.0%
+  Native Haw
+aiian or Pacific Islander
+00.0%  Tw
+o or more races
+73.0%  White
+15.9%
+  Asian
+06.2%  Hispanic or Latino
+02.3%
+  Black or African American
+00.6%  American Indian or Alaska Native
+00.0%
+  Native Haw
+aiian or Pacific Islander
+02.0%  Tw
+o or more races
+68.4%  White
+14.1%
+  Asian
+08.3%  Hispanic or Latino
+04.4%
+  Black or African American
+00.5%  American Indian or Alaska Native
+00.4%
+  Native Haw
+aiian or Pacific Islander
+03.9%  Tw
+o or more races
+67.2%  White
+16.4%
+  Asian
+07.0%  Hispanic or Latino
+04.3%
+  Black or African American
+00.3%  American Indian or Alaska Native
+00.5%
+  Native Haw
+aiian or Pacific Islander
+04.3%  Tw
+o or more races
+Senior management
+T echnical Overall
+
+Page 42:
+42
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+42
+What's next for DEI?
+Looking ahead to FY24 (and the rest of 2023), we are focused 
+on the People Pillar of our framework. This means continuing to 
+build diverse candidate and leadership pipelines, strengthening 
+our Employee Resource Group (ERG) program, and equipping 
+all Elasticians with Common Language to help them 
+articulate diversity, equity, and inclusion and have meaningful 
+conversations. We’ve also launched an Expanded Self-ID 
+initiative to give Elasticians the option to “come As YOU, Are” 
+through voluntary self-identification in modern demographic 
+dimensions (such as LGBTQ+ status). 
+Elastic Cares
+Elastic Cares is Elastic’s philanthropic goodness program. 
+This program is available to all permanent employees and 
+consultants. The goal of Elastic Cares is to ensure that Elastic 
+teams and individuals can donate, volunteer, and give products 
+on a global and local level to charitable organizations that 
+matter the most to them. In doing so, Elastic leaves the freedom 
+of choice on where to volunteer, donate, and give products in 
+the hands of Elasticians. 
+The foundational activities of the Elastic Cares program are our 
+donation matching, volunteer incentive programs, and non-profit 
+organization (NPO) grants.
+In 2022, the Elastic Cares program worked with teams across 
+Elastic to support philanthropic causes, including:
+• Elastic India made a donation to t
+he Isha Foundation, 
+the funds were allocated to a project that 
+promotes sustainable crematoriums in India.
+• Employ
+ee engagement campaigns for Black 
+History Month, Asian Heritage Month/AAPI Month, 
+Pride Month, and other recognition days to raise 
+awareness around important societal issues.
+• Global goodness ev
+ents to drive impact and increase 
+community engagement in growing regions.
+
+
+Page 43:
+43
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+43
+Elastic Cares
+Elastic Cares is Elastic’s philanthropic goodness program. 
+This program is available to all permanent employees and 
+consultants. The goal of Elastic Cares is to ensure that Elastic 
+teams and individuals can donate, volunteer, and give products 
+on a global and local level to charitable organizations that 
+matter the most to them. In doing so, Elastic leaves the freedom 
+of choice on where to volunteer, donate, and give products in 
+the hands of Elasticians.
+The foundational activities of the Elastic Cares program are our 
+donation matching, volunteer incentive programs, and nonprofit 
+organization (NPO) grants.
+In 2022, the Elastic Cares program worked with teams across 
+Elastic to support philanthropic causes, including:
+• Elastic India made a donation to t
+he Isha Foundation 
+and the funds were allocated to a project that 
+promotes sustainable crematoriums in India.
+• Employ
+ee engagement campaigns for Black History 
+Month, Asian Heritage Month/AAPI Month,  
+Pride Month, and other recognition days to raise 
+awareness around important societal issues.
+• Global goodness ev
+ents to drive impact and increase 
+community engagement in growing regions.
+
+
+Page 44:
+44
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+44
+Donation matching
+We match Elasticians’ donations to organizations of their choice 
+up to a maximum of $1,500 per fiscal year. Every annual Giving 
+Tuesday, we match donations 2:1 to all available charities and 
+causes on an inclusive global time-zone basis. 
+Periodically, Elastic responds to acute humanitarian crises, 
+social justice movements, or disaster recovery events with 
+special 2:1 matching campaigns. In 2022, in response to the 
+events occurring in Ukraine, Elastic launched a 2:1 special match 
+campaign to support the region and humanitarian causes. As 
+a result, 290 donors supported our Aid for Ukraine campaign, 
+raising a total of US$216,565. 
+Giving Tuesday is an annual 2:1 campaign where all eligible 
+causes can be matched at 200% for the day of Giving Tuesday. 
+In 2022 this campaign raised $330,849.98, which was donated 
+to 523 causes. Over all 285 Elasticians donated 680 times.
+All contractors, part-time, and full-time Elasticians can donate 
+and use full Elastic Cares benefits. Elasticians can nominate 
+a cause of their choice to be registered with Benevity, our 
+company-wide giving platform. All approved causes are eligible 
+for the corporate match, provided they meet our Source Code 
+and basic non-discrimination and equalities commitments. 
+ 
+ 
+Volunteering
+We provide five days (40 hours) of volunteer time off (VTO)  
+per year to Elasticians to help charitable organizations  
+and/or causes of their choice. The Elastic Cares team  
+and other employee groups offer team VTO activities to 
+volunteer together. 
+Some highlights for group regional volunteer activities were: 
+Willing Hearts (Singapore), New York Edge (NYC, USA), SF 
+Marin Food Bank (San Francisco, USA), Out Youth (Austin TX, 
+USA), and London Friend (London, UK). 
+Global VTO campaign highlights: Earth Day VTO Challenge 
+(during the month of April). 
+Dollars for Doers is a new program introduced in 2022 that 
+recognizes Elastician volunteer efforts outside of standard 
+working hours (e.g., nights and weekends) by rewarding them 
+with a donation credit equivalent to $20 per hour volunteered 
+(up to 16 hours) that can be gifted to a charitable cause through 
+Elastic's giving platform. 
+ 
+ 
+ 
+ 
+ 
+ 
+Nonprofit organization grant (NPO)
+In 2022, we continued our nonprofit organization (NPO) grant 
+program. Our initiative is designed to empower the positive 
+impact created by our nonprofit partners. We provide up to 
+16GB standard Elastic Cloud clusters for free to nonprofit 
+organizations on a yearly basis. Charities can renew every year.
+
+
+Page 45:
+45
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+45
+NPO case studies 
+Isha Foundation 
+APJ region
+Isha Foundation is is a volunteer-based, nonprofit organization 
+that focuses on creating an inclusive culture toward global 
+harmony and progress. The foundation is dedicated to human 
+well-being by delivering online yoga, plus societal- and 
+environmental-related programs. Over the last three decades, 
+Isha Foundation's activities have touched the lives of over 
+200 million people, reaching individuals irrespective of their 
+economic, cultural, or religious background. Isha Foundation has 
+been a NPO grantee customer for two years. 
+Use case: 
+Isha employs Elastic Stack for yoga and educational programs. 
+They also use Elastic Cloud for building a centralized 
+observability platform through Elasticsearch, APM monitoring, 
+and security.
+Charity Navigator 
+AMER region
+Charity Navigator evaluates nonprofit organizations to help 
+them improve. This helps donors feel confident in how they 
+operate and disperse funds. Charity Navigator has been an NPO 
+grantee customer since 2019. 
+Use case: 
+Charity Navigator uses Elastic Cloud to power its site search 
+and API search. Site search accounts for 40% of the traffic on 
+the website, and with roughly 1.8M charity records released by 
+the IRS in the US, Elastic helps connect users with the charities 
+they're interested in. 
+Miricyl 
+EMEA region
+Based in the UK, Miricyl provides digital tools to help young 
+people and their families that are affected by mental illnesses. 
+They raise money for research that aims to tackle the root 
+causes of mental health and save lives. 
+Use case: 
+Miricyl offers a unique aggregator/directory website that allows 
+people to search for vetted resources to help with mental 
+illness, such as self-help information and online support. Miricyl 
+uses Elastic to deliver a resource directory and superior  
+search experience.
+Kiva Microfunds 
+AMER region
+Kiva was founded in San Francisco in 2005 to provide 
+crowdfunded microloans to underserved communities globally, 
+expanding financial access and promoting financial inclusion.
+In partnership with a global network of local lending institutions, 
+Kiva.org provides loans for more than 3.5 million entrepreneurs 
+and others in need around the world. 
+Use case: 
+Kiva uses Elasticsearch to power search and filtering on  
+Kiva.org, helping connect lenders to borrowers. Elastic Cloud 
+will be used to support the expansion of its loan index library, 
+search and service, as well as enhancing complex search 
+queries and document storing capabilities. Kiva also uses 
+Kibana to monitor indices and provide visibility to the team.
+
+Page 46:
+46
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework indexWe’re Elastic
+ Social
+46
+Elastic Cares 
+A
+ssistance Fund
+Elastic Cares Assistance Fund is a new charitable 
+resource for Elasticians who are facing financial hardship 
+immediately after a natural disaster or unforeseen 
+personal hardship caused by events such as violence, 
+serious illness or injury, and more. Through the fund 
+eligible employees can apply for a charitable grant  
+(up to $1,500).
+2022 impact by the numbers
+5,730
+1.45M
+1,432
+29 279K
+480K 632K
+Total volunteer hours logged
+USD total charitable 
+donations
+Number of causes supported
+NPO customers onboarded USD value of NPO grants awarded
+USD Elastician 
+donations
+USD Elastician 
+corporate match$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Page 47:
+47
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Governance
+Governance 
+We are committed to the highest ethical standards and dedicated to 
+complying with all applicable laws while safeguarding all data entrusted to us. 
+In the pursuit of good governance and ethical business conduct, our efforts 
+support the objectives of UN SDG 16, which promotes anti-corruption  
+and transparent institutions.
+47
+
+Page 48:
+48
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Governance
+48
+ESG oversight
+In 2022, we made significant strides in formalizing and 
+expanding our ESG oversight structures and practices.
+At the board of directors level, our Nominating and Corporate 
+Governance Committee is tasked with oversight for our 
+sustainability and ESG activities, programs, and disclosures. 
+This responsibility is enshrined in the Nominating and Corporate 
+Governance Committee’s charter. A sustainability and  
+ESG-related update is provided or discussed at every meeting 
+of the Nominating and Corporate Governance Committee.
+At the management level, the responsibility of oversight is 
+conducted at various levels. We established an ESG Steering 
+Committee consisting of our chief financial officer and chief 
+operating officer, chief legal officer, chief marketing officer, 
+and chief human resources officer. Their responsibility is to 
+provide applicable approvals and strategic direction to our 
+cross-functional ESG Working Group, which implements ESG 
+initiatives throughout Elastic and contributes to developing ESG 
+disclosures while providing updates to the Board.
+Elastic has established the foundational elements required to 
+execute on our corporate-wide sustainability strategy. In 2022, 
+we hired a director of sustainability and ESG, our first dedicated, 
+internal functional leader for our sustainability efforts. With 
+this role we have established a centralized function to oversee 
+company-wide sustainability initiatives including climate 
+change strategy and alignment with regulatory bodies, such 
+as the EU Corporate Sustainability Reporting Directive (CSRD) 
+and U.S. Securities and Exchange Commission. The director 
+of sustainability and ESG reports to the group vice president, 
+Total Rewards, HR Operations, Systems, Analytics, Workforce 
+Expansion & ESG/Sustainability.
+
+Page 49:
+49
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Governance
+49
+Business ethics
+Every Elastician shares a commitment to integrity. Winning and 
+maintaining the trust of our global user community, customers, 
+partners, and shareholders is important to us  —  and we 
+achieve that by demonstrating honesty, professionalism, 
+and empathy every day. Regardless of position, tenure, or 
+geographic location, all Elasticians embrace a culture that 
+operates in accordance with the highest ethical standards and 
+complies with all applicable laws and regulations.
+The Corporate Legal Team conducts an annual review of our 
+business ethics policies and programs, among other corporate 
+governance policies, and provides recommendations to the full 
+board of directors.
+All of our employees must adhere to our Code of Business 
+Conduct and Ethics (Code of Conduct) that sets standards 
+for appropriate behavior. To continuously promote better 
+governance and a higher standard of ethical and professional 
+conduct across the entire company, employees are required 
+to complete annual training on the Code of Conduct, as well 
+as additional training to help prevent, identify, and report any 
+type of discrimination and harassment. All of our significant 
+compliance policies are publicly available on our Ethics, 
+compliance, and data security page.
+In accordance with our Whistleblowing Policy, we maintain 
+an ethics hotline where employees and third parties can 
+confidentially and anonymously report any concerns about 
+possible violations of our Code of Conduct and company 
+policies without fear of reprisal or retaliation. We thoroughly look 
+into reports we receive through the hotline, or other reporting 
+channels, and take appropriate remedial action when warranted. 
+Please see our policies and other documents on our Ethics, 
+compliance, and data security page for a more detailed picture 
+of our approach to ethics and compliance.
+Political involvement
+Our Code of Conduct prohibits use of Elastic’s assets for any 
+political activities and political involvement by our employees 
+on behalf of Elastic. All Elasticians are required to complete our 
+annual Code of Conduct e-learning course, which includes an 
+interactive segment on political activities that makes it very 
+clear that personal political activities must be kept personal, 
+and that no company assets can be used to support political 
+activities of an employee.
+Human rights
+We will treat all of our workers in a manner that is consistent 
+with the United Nations Universal Declaration of Human Rights. 
+We will support and respect the protection of internationally 
+proclaimed human rights and will not tolerate any human rights 
+abuses within our organization or our supply chain.
+
+Page 50:
+50
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Governance
+50
+Supply chain 
+responsibility
+Our commitment to responsibly managing and partnering 
+with our suppliers is enshrined in our Global Vendor Code of 
+Conduct (GVCC), which applies to all suppliers of products or 
+services to Elastic. It requires our suppliers to operate with 
+honesty and integrity and comply with all applicable laws and 
+regulations. In particular, they must comply with labor, wage, 
+benefits, and health and safety laws and regulations. They are 
+also expected to protect their workers’ human rights, honor 
+their freedom of association, not discriminate in hiring and 
+employment practices, and treat their employees with respect 
+and dignity. Finally, we also expect our vendors to comply with 
+environmental laws and operate in a way that protects the 
+environment. Since we believe that these business conduct 
+principles are truly universal, we expect our vendors to require 
+all third-party suppliers that provide products and services to 
+them to also comply with the standards in our GVCC. We also 
+work to ensure all suppliers conform to our GVCC in our  
+supplier contracts.
+To support our commitment to sustainability and understand the 
+impact of our supply chain, we added a subset of  
+ESG-related questions within our request for proposal (RFP) 
+template documents in 2021. We recently broadened these 
+questions as part of our aim to understand our suppliers’ level 
+of maturity regarding environmental sustainability and diversity, 
+equity, and inclusion practices. In 2022, engagement on these 
+topics became a standard component of our vendor onboarding 
+framework, ensuring that we have a clear view into the ESG 
+practices of our supply chain.
+To support the development of our supply chain responsibility 
+program and capacity, we took the following actions in 2022:
+• Participation in multi-stak
+eholder dialogue and  
+knowledge-sharing forums on best practices for supply chain 
+sustainability and diversity in our sector and third-party 
+counsel on best practices in these areas.
+• Engaged a thir
+d-party to identify percentage of diverse 
+spend across our US-based supply base, back three years to 
+evaluate trends and establish baselines.
+As we advance, we are working toward a centralized vendor 
+onboarding process that would enable harmonization of our 
+approach to evaluating additional factors such as  
+human rights risk.
+
+
+Page 51:
+51
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Governance
+51
+Data privacy & security
+We are committed to protecting the personal data of our users 
+and supporting compliance with global data protection laws and 
+regulations, such as the EU General Data Protection Regulation 
+(GDPR). Elastic Cloud includes contractual commitments to 
+protect data security, confidentiality, and integrity. In addition 
+to protecting their data, we aim to facilitate our customers' 
+compliance with data protection laws and regulations, which is 
+why we designed the Elastic Stack to help customers achieve 
+their privacy compliance goals.
+Data privacy
+We are committed to protecting our users’ personal data. We 
+have several privacy policies, including our Global Privacy 
+Statement. In this policy, we detail our practices regarding the 
+collection, use, sharing, and retention of the personal data 
+of our users, in addition to the privacy rights our users have 
+regarding the way we process that information.
+Elastic maintains data classification and data retention 
+standards to promote healthy data governance practices. We 
+protect company and customer data in accordance with its 
+sensitivity. All customer information is classified as restricted 
+data and protected at the highest level. We retain customer 
+information only as long as legally, contractually,  
+or operationally necessary.
+Elastic tracks the use of open source and third-party software 
+libraries in our own products and services. Automated 
+dependency and vulnerability detection tools are in place. 
+Identified vulnerabilities are classified and remediated according 
+to severity. Under the principles of Coordinated Vulnerability 
+Disclosure, Elastic analyzes potential security vulnerabilities to 
+identify any recommended mitigations or product updates and 
+coordinates disclosures via Elastic Security Advisories (ESA) 
+and the CVE program.
+Elastic’s Cookie Policy addresses our practices and data 
+subject rights relating to behavioral advertising. Our behavioral 
+advertising practices include the use of cookies, web beacons, 
+and other similar technologies when you visit, interact 
+with, or use our websites, social media pages, marketing 
+communications, and online advertisements. The policy 
+describes the types of cookies and automation technologies we 
+use and the options for users to control Elastic’s use of cookies 
+and tools. We carefully manage data protection compliance 
+throughout all of our behavioral advertising practices, including 
+using third-party compliance tools and maintaining cookie 
+banners where required.
+
+Page 52:
+52
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Governance
+52
+Data security
+We have an experienced team of security practitioners who 
+work across multiple disciplines, including security engineering, 
+security assurance, risk, and compliance. The Elastic 
+Information Security team works with our entire organization 
+to evaluate emerging security trends and to help ensure robust 
+security controls protect our company, products, and services. 
+Our risk management standard defines the process to identify 
+and manage risk associated with information security and data 
+governance. Risk assessments are performed at least annually. 
+As part of this process, threats and changes (environmental, 
+regulatory, and technological) to service commitments are 
+identified and the risks are formally assessed.
+The Audit Committee provides oversight to ensure the 
+Information Security program is operating in alignment 
+with Elastic’s business goals and objectives, including our 
+commitment for responsible data stewardship. 
+The Information Security program is guided by a risk-based 
+approach to protect our customers’ data. The board of directors 
+receives regular updates on the performance of the Information 
+Security program across all domains, such as risk management, 
+threat intelligence, incident response, internal control operation, 
+and corporate security culture. 
+Elastic operates in compliance with key information security 
+standards and regulations relevant to our customers and 
+operating environment. Our services are independently audited 
+and confirmed to meet privacy and compliance standards 
+for data security and privacy through our certifications and 
+attestations, including: 
+• SOC 2 Type 2 and SOC 3 
+• ISO/
+IEC 27001, 27017, and 27018 
+• CSA CCM
+• FedRAMP Moderat
+e
+• ISAE 3000 
+• PCI-DSS
+• HIPAA
+• TISAX
+• TruSight
+Audit
+s for our services pursuant to these standards are 
+performed annually. For the most up-to-date listing of our 
+compliance portfolio, please visit Elastic.co.
+Elastic contracts with independent third parties to conduct 
+security assessments against our code on a routine basis as well 
+as prior to major software releases which include penetration 
+testing, secure code review, and vulnerability scanning. Elastic 
+source code is also available publicly on GitHub. Elastic 
+maintains a public Bug Bounty program and publishes processes 
+for submitting vulnerabilities or security-related issues. We 
+follow a documented process for investigating identified 
+vulnerabilities and other security-related reports. Internal and 
+external vulnerability scan and penetration testing activities 
+are further reviewed at least annually as part of our compliance 
+audits for Elastic Cloud.
+
+Page 53:
+53
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Governance
+53
+We’re committed to rapidly addressing security vulnerabilities 
+affecting our customers and providing clear guidance on 
+impact, severity, and mitigation. Elastic has a dedicated Threat 
+Detection and Response team trained in incident handling 
+and response. The Elastic Information Security team also 
+maintains an incident response policy and incident response 
+plan, which covers all phases of an incident from preparation, 
+detection and analysis to containment, eradication, recovery, 
+and post-incident activity. We also test our Incident Response 
+plan and Business Continuity plans at least annually. Areas for 
+improvements and identified deficiencies are documented and 
+incorporated into our policies and procedures. 
+Elastic tracks the use of open source and third-party software 
+libraries in our own products and services. Automated 
+dependency and vulnerability detection tools are in place and 
+identified vulnerabilities are classified and remediated according 
+to severity. Under the principles of Coordinated Vulnerability 
+Disclosure, Elastic analyzes potential security vulnerabilities to 
+identify any recommended mitigations or product updates and 
+coordinates disclosures via Elastic Security Advisories (ESA) 
+and the CVE program.
+In the event of an incident, the Incident Response team will 
+coordinate with information security, legal, and senior leadership 
+to provide notification to required stakeholders (i.e., customers, 
+partners, external legal counsel, US-CERT) without undue delay 
+and in accordance with our legal and contractual obligations.
+Security awareness and  
+privacy training
+All Elastic employees (full-time and part-time) and contractors 
+are required to complete security awareness and privacy 
+training upon hire and annually thereafter. Additional training, 
+like secure code development, is assigned to specified users 
+based on their role. The training is delivered through an 
+electronic learning management system (LMS) and compliance 
+is monitored.
+Employees are routinely trained on our security culture. 
+Fundamentally, everyone is responsible for keeping Elastic 
+secure. All Elasticians are educated on how to recognize and to 
+report suspicious activity or security incidents. 
+• Security awar
+eness training topics include anti-phishing, 
+anti-malware, and security hygiene best practices, including 
+but not limited to, using strong passwords/passphrases and 
+multifactor authentication. The training content is updated as 
+real-world attack vectors change to ensure our employees  
+are well-informed. 
+• Privacy
+ training topics include educating employees on 
+identifying personally identifiable information (PII) or other 
+sensitive data, obligations under the GDPR and other data 
+privacy laws and regulations, data subject rights, and secure 
+handling of sensitive data.
+
+
+Page 54:
+54
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Governance
+54
+Corporate governance
+The following information describes Board composition and corporate governance practices as of December 31, 2022:
+Board composition Board independence
+Corporate governance best practices
+• Onboar
+ding/induction program for new 
+directors
+• Ongo
+ing education for directors 
+• Bo
+ard oversight of ESG by Nominating and 
+Corporate Governance Committee 
+• F
+ormal shareholder engagement program 
+Board accountability and shareholder rights 
+• Annual bo
+ard and committee self-evaluation 
+• Annual e
+valuation of the executive directors by 
+independent directors 
+• Cash and equity claw
+back policy, pursuant 
+to our remuneration policy for the board of 
+directors and Dutch corporate law
+• No po
+ison pill
+• Shar
+eholder right to call special meetings and 
+to submit proposals for consideration at the 
+Annual General Meeting 
+• One-shar
+e, one-vote
+52.2 YEARS
+Average age
+33.3%
+Women
+44%
+Racial/ethnic/national diversity
+4.4 YEARS
+Average tenure
+7/9 (78%)
+Independent
+100%
+Standing board committee 
+independence
+Independent
+Lead director
+Separate
+CEO & board chair roles
+
+Page 55:
+55
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Product societal impact
+Product  
+societal impact 
+Elastic is committed to building products that create a positive societal impact. 
+The Elastic Search Platform is built on the Elastic Stack, a powerful set of 
+software products that ingest data from any source, in any format,  
+and perform search, analysis, and visualization of that data. 
+The company’s open source roots allow Elastic to provide its solutions to a 
+large community of users for free. This encourages innovation and efficiency 
+to operate at scale for both nonprofit organizations and for-profit customers.
+55
+
+Page 56:
+56
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Product societal impact
+56
+Zuellig Pharma  
+Holdings
+Healthcare services
+Zuellig Pharma, one of Asia's largest healthcare services groups, 
+needed to deliver medical products like vaccines and PPE 
+quickly during the COVID-19 pandemic. It used Elasticsearch, 
+Logstash, and Kibana to power its ecommerce platform, making 
+it easier for customers and sales reps to search, browse, and 
+place orders quickly. This digitized order-to-cash process for 
+the pharma industry allowed call centers and customer service 
+hotlines to focus on urgent deliveries, while reducing search 
+time for various data with the help of Elasticsearch's distributed 
+search and analytics engine.
+German Development 
+Cooperation (GIZ)
+Sustainable development
+The Government of Rwanda aims to develop the economy 
+and its education and healthcare systems while implementing 
+measures to protect citizens from natural disasters. Elastic 
+Consulting, along with the German Development Cooperation 
+and the Rwanda Information Society Authority, developed a 
+monitoring and evaluation solution to provide real-time data 
+analysis. The solution has improved data aggregation and 
+analytics, enabling the government to make better-informed 
+decisions regarding public health and social protection projects. 
+The Elastic solution also offers future use case opportunities 
+like tracking population growth and building schools in line with 
+demographic trends.
+Learn More
+Learn More
+
+Page 57:
+57
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Product societal impact
+57
+Renewi
+Waste management
+Renewi, a leading European waste management company, 
+partnered with Elastic to build a scalable, secure, and flexible 
+platform to handle its data needs. With an industry-leading 
+recycling rate of 65% and a goal to reach 75% by 2025, Renewi 
+aspires to become the top waste-to-product company in a 
+highly advanced circular economic region. 
+The Elastic Cloud deployment hosted on Microsoft Azure 
+aligned with Renewi’s IT strategy and sustainability mission. 
+The platform has improved data security, enabled Renewi to 
+comply with data protection regulations, and reduced energy 
+consumption and the company's overall carbon footprint. The 
+Elastic Stack enables Renewi to integrate and analyze data in 
+real-time, helping the company to make more informed business 
+decisions, optimize its operations, and reduce costs.
+SCiO and CGIAR
+Food security
+CGIAR, a global initiative focused on food security research, and 
+SCiO, a data science platform that allows scientists to securely 
+work together, came together to help address the United 
+Nations Sustainable Development Goals (SDGs) of reducing 
+poverty, improving food and nutritional security, and enhancing 
+natural resources management and ecosystem services. Built on 
+Elasticsearch, CGIAR and SCiO created GARDIAN, the  
+one-stop hub for agri-food data and publications discovery that 
+makes data and research on food security, nutrition, and natural 
+resources more accessible to scientists all over the world.
+Learn More
+Learn More
+
+Page 58:
+58
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Framework index
+Framework index
+
+Page 59:
+59
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Framework index
+59
+Sustainability 
+Accounting Standards 
+Board (SASB) Index
+We continue to review our progress against 
+the Sustainability Accounting Standards Board 
+(SASB) standards for the Software and  
+IT Services industry.
+SASB Code Accounting metric Location or description
+TC-SI-1
+30a.1
+(1) Total energy consumed
+(2) Percentage grid electricity
+(3) Percentage renewable
+As a company that’s distributed by design, Elastic yields a relatively low office energy use footprint 
+compared to other companies. Our in-office people-to-desk ratio is 3:1, reducing employee commuting 
+and minimizing office complex energy usage. 
+Total energy consumed: 1,011,602 kWh
+Percentage grid electricity: 100%
+Percentage renewable: 0%
+Here are the current actions we are taking to reduce the impact of energy consumption: 
+• Where possible, w
+e specify the use of passive infrared sensors for the activation and automatic 
+extinction of lights when office spaces are not in use. These specifications are documented in 
+guidelines, which also cover the use of LED lights and energy-efficient audio visual and video 
+conference hardware. 
+• Our search and selection pr
+ocess for finding new office space now includes an environment and 
+sustainability element, and we prioritize buildings with a relevant local accreditation like BREEAM, 
+LEED, WELL, and others.
+Elastic has a limited view on water usage due to lease arrangements with our building operators and 
+landlords. We are working to identify solutions that will give us an active monitoring capacity on our 
+enterprise-wide environmental impact and enable us to disclose progress year-over-year.
+TC-SI-1
+30a.2
+(1) Total water withdrawn
+(2) Total water consumed
+(3) Percentage of each 
+in regions with high or 
+extremely high baseline 
+water stress
+TC-SI-1
+30a.3
+Discussion of the 
+integration of environmental 
+considerations into strategic 
+planning for data center 
+needs
+Elastic does not have its own data centers. A large portion of our total vendor spend is with three large 
+cloud service providers: AWS, Google Cloud, and Microsoft Azure. As Elastic scales, we will continue to 
+consolidate our total vendor spend with these cloud service providers. 
+These three providers have sustainability-related commitments for each of their platforms, which 
+enable users like us to operate with increased carbon efficiency. For example, AWS’s public statements 
+disclose that it has a target to power its data centers using 100% renewable energy by 2025, which, 
+in turn, will reduce AWS's carbon footprint by 88% compared to using consumed electricity. Azure and 
+Google Cloud have very similar initiatives in place, which not only incorporate renewable energy and 
+greenhouse gas emissions reduction targets but also include objectives related to water, waste, and 
+preventing deforestation.
+
+Page 60:
+60
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Framework index
+60
+SASB Code Accounting metric Location or description
+TC-SI-3
+30a.1
+Percentage of employees 
+who are:
+(1) foreign nationals
+(2) located offshore
+We have 220 foreign national employees on different types of visas and work authorizations 
+representing 15 countries where Elastic acts as their sponsor. This is 7.6% of the total number of Elastic 
+employees (or 220 of 2,886 full-time employees) as of April 30, 2023.
+Of all work permit holders (foreign nationals), 22% were hired in country “A” (originally) and transferred 
+to country “B” either upon initial hire or at a later stage, as required by the business. 78% of all foreign 
+workers were in-country hires, meaning they already had a valid work visa through another employer, 
+but it was not transferable and a work visa sponsorship was needed by our local entity licensed in the 
+country of hire for immigration purposes.
+TC-SI-3
+30a.2
+Employee engagement 
+expressed as a percentage
+The participation rate for the February 2023 Pulse Survey was 87%, while the engagement score was 
+72%. Most recently, the highest factor scores are consistently for management at 83%. We also see high 
+scores on questions related to understanding how work contributes to the goals of Elastic and being 
+proud to work at Elastic.
+TC-SI-3
+30a.3
+Percentage of gender 
+and racial/ethnic group 
+representation for:
+(1) Management
+(2) Technical staff
+(3) All other employees
+Please refer to pg. 39 within the Diversity, Equity, and Inclusion section of this report for our  
+workforce diversity metrics.
+SASB Index 
+(continued)
+
+Page 61:
+61
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Framework index
+61
+SASB Code Accounting metric Location or eescription
+TC-SI-2
+20a.1
+Description of policies 
+and practices relating to 
+behavioral advertising and 
+user privacy
+We have several privacy policies, including our Global Privacy Statement. In this policy, we detail our 
+practices regarding the collection, use, sharing, and retention of the personal data of our users, in 
+addition to the privacy rights our users have regarding the way we process that information. 
+Elastic’s Cookie Policy addresses our practices and data subject rights relating to behavioral 
+advertising. Our behavioral advertising practices include the use of cookies, web beacons, and other 
+similar technologies when you visit, interact with, or use our websites, social media pages, marketing 
+communications, and online advertisements. The policy describes the types of cookies and automation 
+technologies we use and the options for users to control Elastic’s use of cookies and tools. We carefully 
+manage data protection compliance throughout all of our behavioral advertising practices, including 
+using third-party compliance tools and maintaining cookie banners where required.
+TC-SI-2
+20a.2
+Number of users whose 
+information is used for 
+secondary purposes
+Our policy is that personal data cannot be used for anything other than lawful purposes.
+TC-SI-2
+20a.3
+Total amount of monetary 
+losses as a result of legal 
+proceedings associated with 
+user privacy
+Elastic discloses all material legal proceedings in our SEC reports.
+TC-SI-2
+20a.4
+(1) Number of law enforcement 
+requests for user information
+(2) number of users whose 
+information was requested
+(3) number resulting in 
+disclosure
+Please see Elastic’s 10-K and 10-Q filings with the SEC for a description of any materials, if any, 
+requested from law enforcement.
+TC-SI-2
+20a.5
+List of countries where core 
+products and services are 
+subject to government-
+required monitoring, blocking, 
+content filtering, or censoring
+Our products and services are subject to applicable export controls and trade sanctions, including those 
+of the United States. Beyond these export controls and trade sanctions, we are not aware of any countries 
+that require monitoring, blocking, content filtering, or censoring of our core products or services.
+SASB Index 
+(continued)
+
+Page 62:
+62
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Framework index
+62
+SASB Code Accounting metric Location or description
+TC-SI-2
+30a.1
+(1) Number of data breaches
+(2) percentage involving 
+personally identifiable 
+information (PII)
+(3) number of users affected
+Elastic discloses all material information on data breaches in our SEC reports.
+TC-SI-2
+30a.2
+Description of approach to 
+identifying and addressing 
+data security risks, 
+including use of third-party 
+cybersecurity standards
+Please refer to the Data security section of the report.
+TC-SI-5
+20a.1
+Total amount of monetary 
+losses as a result of legal 
+proceedings associated with 
+anti-competitive behavior 
+regulations
+Elastic only needs to disclose material legal proceedings in our Security Exchange Commission (SEC) 
+reports. None of the litigation rises to the level of “material” for disclosure purposes, and there are no 
+such monetary losses.
+TC-SI-5
+50a.1
+Number of 
+(1) performance issues and 
+(2) service disruptions 
+(3) total customer downtime
+Elastic Cloud clusters are globally available across major cloud service providers to meet our customers’ 
+hosting and data sovereignty needs. Customers can enable high availability for their clusters through 
+availability zone or region failover. Elastic has a status page and Twitter account for communicating 
+service issues. Availability is heavily dependent on how a customer configures their environment, which 
+is discussed in our Docs.
+TC-SI-5
+50a.2
+Description of business 
+continuity risks related to 
+disruptions of operations
+See our program overview and more specifics for Elastic Cloud.
+SASB Index 
+(continued)
+
+Page 63:
+63
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Framework index
+63
+Governance
+T ask Force on Climate-Related 
+Financial Disclosure (TCFD) Index
+This is Elastic’s inaugural disclosure aligned with the recommendations of the Task Force on 
+Climate-Related Financial Disclosures, which evidences our commitment to integrate climate 
+considerations into our corporate strategy, risk management processes, and ways we measure 
+the success of our business.
+TCFD recommendation Elastic disclosure
+Describe the board’s oversight of climate-related 
+risks and opportunities
+Our management, via the ESG and Sustainability Steering Committee, updates our board of 
+directors and its committees on climate risks and opportunities, as well as on related trends 
+and initiatives.
+Describe management’s role in assessing and 
+managing climate-related risks and opportunities
+Elastic has an ESG and Sustainability Steering Committee, comprising six management-level 
+positions, including the CFO and COO, CHRO, and CLO, which meets every three weeks to 
+review progress and provide feedback and guidance on Elastic’s sustainability efforts. The 
+Steering Committee has climate-related responsibilities, including the development and 
+execution of Elastic’s GHG reduction programs and efforts, and reports such matters to 
+the Board. The Steering Committee is regularly kept apprised of climate-related risks and 
+opportunities by the director of sustainability and ESG. Management monitors identified risks 
+and opportunities, and related strategic initiatives are enhanced and updated accordingly.
+
+Page 64:
+64
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Framework index
+64
+TCFD recommendation Elastic disclosure
+Describe the climate-related risks and opportunities 
+the organization has identified over the short, 
+medium, and long term
+Elastic defines short-, medium-, and long-term time horizons as follows:
+• Short: up t
+o 2030
+• Medium: up to 2040
+• Long:
+ up to 2050
+A significant natural disaster, such as an earthquake, fire, flood, or significant power outage could 
+have an adverse impact on our business, results of operations, and financial condition. The impact 
+of climate change may increase these risks due to changes in weather patterns, such as increases 
+in storm intensity, sea-level rise, melting of permafrost and temperature extremes in areas where 
+we or our suppliers and customers conduct business. We have a number of our employees and 
+executive officers located in the San Francisco Bay Area, a region known for seismic activity and 
+wildfires. In the event our or our partners’ abilities are hindered by any of the events discussed 
+above, sales could be delayed, resulting in missed financial targets for a particular quarter.
+As companies implement commitments to dramatically reduce supply chain GHG emissions, 
+including IT-related practices, we may see an increase in revenues from our relatively  
+carbon-efficient cloud products.
+Describe the impact of climate-related risks and 
+opportunities on the organization’s businesses, 
+strategy, and financial planning
+An example of a quantifiable indicator for substantive financial risk is disaster recovery costs to 
+restore Elastic to normal operations. An example of a quantifiable indicator for strategic impact is 
+downtime percentages of our cloud products, which refers to time that Elastic cloud products and 
+services are unavailable to customers due to a server outage. We prepare to mitigate these risks 
+by ensuring our workforce has the ability to work remotely, which enables us to continue critical 
+business operations and serve our customers and vendor partners.
+Describe the resilience of the organization’s strategy, 
+taking into consideration different climate-related 
+scenarios, including a 2°C or lower scenario
+Leveraging our recent greenhouse gas (GHG) emissions baselining exercise, and aligned with our 
+commitment to set science-based GHG emissions reduction targets in line with climate science with 
+the Science Based Targets initiative (SBTi), Elastic is currently conducting a scenario analysis to 
+understand the resiliency of our corporate strategy and emissions reduction efforts pursuant to the 
+demands of a 1.5℃ future.
+Strategy
+
+Page 65:
+65
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Framework index
+65
+TCFD recommendation Elastic disclosure
+Describe the organization’s processes for identifying 
+and assessing climate-related risks
+Elastic considers the impact of current climate-related regulations such as the UK’s Climate 
+Change Levy (CCl) and EU Emissions Trading System (EU ETS). Our assessments consider how 
+these regulations affect our operations in each affected market. We look at the geographical 
+footprint of each location(s) to ensure we are addressing our exposures based on today’s 
+environment and future developments. When analyses indicate potential significant financial 
+impact, this information is considered in enterprise-level risk processes.
+Describe the organization’s process for managing 
+climate-related risks
+Our Environmental Policy enshrines this commitment into the way we operate and covers 
+roles and governance of climate and environmental matters at Elastic, such as energy, travel, 
+and supply chain-related greenhouse gas emissions, among other topics. Please refer to the 
+Environment section of this report for further information on our management approach.
+Describe how processes for identifying, assessing, 
+and managing climate-related risks are integrated 
+into the organization’s overall risk management
+As described within Item 1a. Risk Factors section of our FY23 10-K filing, climate-related risks 
+are assessed and integrated within our overall risk management.
+Risk management
+
+Page 66:
+66
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Framework index
+66
+TCFD recommendation Elastic disclosure
+Disclose the metrics used by the organization to 
+assess climate-related risks and opportunities in line 
+with its strategy and risk management process
+According to the Science Based Targets initiative (SBTi), 13 of Elastic’s top 20 suppliers, 
+represented by FY22 spend, have committed to science-based GHG targets. This represents 
+approximately 46% of our total FY22 spend.
+Disclose Scope 1, Scope 2, and if appropriate,  
+Scope 3 greenhouse gas (GHG) emissions,  
+and the related risks
+See the Climate Change section of our Sustainability Report, where we have disclosed our 
+inventory of Scope 1, Scope 2, and material categories of Scope 3 greenhouse gas (GHG) 
+emissions for the three most recent reporting periods.
+Describe the targets used by the organization to 
+manage climate-related risks and opportunities and 
+performance against targets
+In order to support the urgent, global transition to a low-carbon economy, Elastic has signed the 
+Science Based Targets initiative (SBTi) Commitment Letter, and over the next 6-12 months will 
+formulate ambitious carbon reduction targets, aligned with the SBTi criteria.
+Metrics & targets
+
+Page 67:
+67
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Framework index
+67
+Elastic and the  
+UN Sustainable 
+Development Goals
+In 2015, the United Nations established the 
+Sustainable Development Goals as a call to end 
+poverty, protect the planet, and achieve peace 
+and prosperity by 2030. At Elastic, we believe 
+that we have the power and a role to play in the 
+achievement of these goals. While every UN 
+SDG plays a critical role in bettering our world, 
+there are a handful that we can most genuinely 
+impact through our business at Elastic.
+UN SDG Justification Disclosure
+05 
+Gender Equality
+• Gender pay
+ equity 
+initiatives
+• ERGs
+Gender equality is a priority at Elastic. W
+e are committed to providing equal pay and opportunity to all of 
+our employees, regardless of their gender. At Elastic, we are devoted to supporting women on our team 
+through equal opportunity programs, flexible and equitable benefits, and initiatives to support a diverse, 
+vibrant, and empowered workforce.
+08  
+Decent Work 
+and Economic 
+Growth
+• Employ
+ee benefits
+• Employ
+ee recruitment
+• Talent de
+velopment
+We are committed to retaining and recruiting employees that align with our mission, our values, and 
+who we are. Because we understand the value of our employees, we offer an array of benefits, talent 
+development opportunities, and a recruitment process that works for all our employees, regardless of 
+their situations.
+10 
+Reduced 
+Inequalities
+• ERGs
+• DEI learning
+• Functional Affirmativ
+e 
+Action Program (AAP) 
+• Gender pay
+ equity
+At Elastic, we are taking strides to combat inequality and increase representation that reflects our 
+customers and communities around the world. In 2022, we added structure to our DEI strategy and 
+vision to guide our approach, and we continued initiatives that support and encourage an inclusive 
+company culture.
+12
+Responsible 
+Consumption 
+and Production
+• Energy
+ management in  
+the office
+• Wast e management
+• Sustainable supplier 
+engagement
+With t
+he right approach to environmental management, we know we can have a tangible impact on 
+our people, our company, and our planet. We are committed to implementing thoughtful sustainability 
+practices and engagement with our stakeholders to mitigate our environmental impacts.
+
+
+Page 68:
+68
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Framework index
+68
+Elastic and the  
+UN Sustainable 
+Development Goals
+(continued)
+UN SDG Justification Disclosure
+13 
+Climate Action
+• GHG emissions
+• Understanding the  
+carbon impact
+• Energy
+ management
+• Wast
+e management
+We are committed to mitigating climate-related risks and understanding our climate impact. In 2022, we 
+established baselines for our greenhouse gas (GHG) emissions inventory and committed to setting a 
+target aligned to the Science Based Targets initiative (SBTi).
+16  
+Peace, Justice, 
+and Strong 
+Institutions
+• Data privacy
+ & security 
+initiatives, education,  
+and programming
+• Business ethics
+A
+t Elastic, ethics, compliance, and security are of the utmost importance to us. We operate and govern 
+our company responsibly and strive to be transparent and accountable in our actions.
+17 
+Partnership for 
+the Goals
+• Nonprofit or
+ganization 
+(NPO) grant program
+• Product societal impact
+Pr
+ogress is not possible without partnership. At Elastic, we recognize that we have a role to play in 
+managing our direct impacts, and to support the sustainability ambitions of our customers and partners 
+through innovation and access to our technologies.
+
+
+Page 69:
+69
+Sustainability Report 2022
+We’re Elastic Social GovernanceEnvironment Product societal impact Framework index
+Framework index
+69
+Appendix
+Greenhouse Gas (GHG) Emissions Methodology
+Elastic calculates its greenhouse gas emissions in accordance with the GHG Protocol 
+accounting standards, which includes the following emissions scope definitions: 
+Scope 1
+Scope 1 GHG Protocol definition: 
+Direct GHG emissions occur from sources that are owned or controlled by Elastic, 
+for example, emissions from combustion in owned or controlled boilers, furnaces, 
+vehicles, etc.
+Scope 1 emissions are the direct GHG emissions that originate from assets where 
+Elastic has financial control including:
+• Emissions from gas and ot
+her fuel consumption used to generate heat in  
+Elastic properties.
+• Emissions from r
+efrigerant gas leakages from office HVAC equipment where 
+Elastic has financial control within its properties.
+Scope 2
+Scope 2 GHG Protocol definition: 
+Scope 2 is an indirect emission category that includes GHG emissions from the 
+generation of purchased or acquired electricity, steam, heat, or cooling consumed 
+by Elastic.
+Scope 2 emissions are the indirect GHG emissions that originate from assets where 
+Elastic has Financial Control, including the use of electricity and district heating 
+within Elastic’s properties. Elastic has calculated both location-based and market-
+based emissions in line with Scope 2 reporting best practice in the GHG Protocol.
+Scope 3
+Scope 3 GHG Protocol definitions: 
+Scope 3 is an optional reporting category that allows for the treatment of all other 
+indirect emissions. Scope 3 emissions are a consequence of the activities of 
+Elastic, but occur from sources not owned or controlled by Elastic.
+The reported emissions for Categories 1, 2, and 4 represent an estimate based on 
+spend based calculations and have therefore been rounded.
+The reported emissions for Category 7 represent an estimate based on an open 
+source homeworking carbon calculation methodology from EcoAct, and have 
+therefore been rounded. The following Scope 3 categories are relevant to  
+Elastic’s business:
+Category 1 Purchased goods and services: Includes all upstream (i.e.,  
+cradle-to-gate) emissions from the production of products purchased or acquired 
+by Elastic in the reporting year. Products include both goods (tangible products) 
+and services (intangible products).
+Category 2 Capital goods: Includes all upstream (i.e., cradle-to-gate) emissions 
+from the production of capital goods purchased or acquired by Elastic in the 
+reporting year.
+Category 3 Fuel and Energy related activities: Extraction, production, and 
+transportation of fuels and energy purchased or acquired by Elastic in the 
+reporting year, not already accounted for in scope 1 or scope 2.
+Category 4 Upstream transportation and distribution: Transportation and 
+distribution of products purchased in the reporting year, between Elastic’s tier 1 
+suppliers and operations in vehicles not owned or operated by Elastic. Third-party 
+transportation and distribution services purchased by Elastic in the reporting year 
+(either directly or through an intermediary), including inbound logistics, outbound 
+logistics (e.g. of sold products), and third-party transportation and distribution 
+between Elastic’s own facilities.
+Category 5 Emissions from waste generated in operations: Disposal and 
+treatment of waste generated in Elastic’s operations in the reporting year (in 
+facilities not owned or controlled by Elastic). It is optional to include emissions 
+occurring from the transportation of waste.
+Category 6 Business travel: Includes emissions from the transportation of 
+employees for business related activities in vehicles owned or operated by third 
+parties, such as aircraft, trains, buses, and passenger cars.
+• Emissions from fuel consumptio
+n used for business travel
+• Fuel consumption fr
+om rail, air, water, and land travel and hotels
+Category 7 Employee commuting: This category includes emissions from the 
+transportation of employees between their homes and their worksites. Companies 
+may include emissions from teleworking (employees working remotely) in this 
+category. Elastic’s scope 3 emissions from employee commuting include the scope 
+1 and scope 2 emissions of employees and third-party transportation providers.
+Category 8 Emissions from upstream leased assets: Operation of assets leased 
+by Elastic (lessee) in the reporting year and not included in scope 1 and scope 2 
+— reported by lessee. The scope 1 and scope 2 emissions of lessors that occur 
+during Elastic’s operation of leased assets (e.g., from energy use).
+Category 13 Emissions from downstream leased assets: Operation of assets 
+owned by Elastic (lessor) and leased to other entities in the reporting year, not 
+included in scope 1 and scope 2 — reported by lessor. The scope 1 and scope 2 
+emissions of lessees that occur during the operation of leased assets (e.g., from 
+energy use) should be included, while the life cycle emissions associated with 
+manufacturing or constructing leased assets are optional.
+Workforce Data
+Workforce data was exported from our human capital management software 
+vendor, Workday, based on demographic data and defined categories (some  
+self-reported). The data was reviewed by Elastic’s Data Analytics team.
+Note: Scope 3 Category 11 is relevant to Elastic’s operations but not included in emissions baseline due to a lack of data.
+
+Page 70:
+Forward-looking statements
+This document may include predictions, estimates, or other information that might be considered forward-looking 
+statements within the safe harbor provisions of the U.S. federal securities laws. While these forward-looking statements 
+represent our current judgment on what the future holds, they are subject to risks and uncertainties that could cause 
+actual results to differ materially. These risks and uncertainties include those described in our filings with the SEC, 
+including our Forms 10-K, 10-Q, and 8-K, and other filings we make with the SEC from time to time. You are cautioned not 
+to place undue reliance on these forward-looking statements, which reflect our opinions only as of the date of publication 
+of this document. Please keep in mind that we are not obligating ourselves to revise or publicly release the results of any 
+revision to these forward-looking statements in light of new information or future events, unless required by law.
+info@elastic.co
+

@@ -1,0 +1,2703 @@
+Page 1:
+Environmental,  
+Social and  
+Governance Report
+2023
+
+
+Page 2:
+Table of Contents
+About this Report
+Message from our CEO 4
+About argenx 6
+ESG Strategy 9
+Patients
+Innovation 11
+Improving Patients’ Lives:  
+Inspired by Those We Serve 14
+Clinical Trials 17
+Patient Engagement  
+& Advocacy 19
+Access to Medicines 21
+Quality & Safety 23
+People
+People and  
+Leadership Development 27
+Diversity, Equity & Inclusion 30
+Wellbeing and Benefits 33
+Health and Safety 35
+Community 36
+Governance
+ESG Governance  
+and Oversight 39
+Ethical Business Conduct 42
+Taxation and  
+Tax Transparency 44
+Animal Welfare 45
+Supply Chain Management 46
+Data Security and Privacy 48
+Planet
+Environmental Impact 51
+Greenhouse Gas Emissions 
+(Scope 1, 2, and 3) 52
+Appendix
+Performance Data 56
+SASB Table 60
+Reporting Practices 64
+
+Page 3:
+Contents
+About this 
+Report Patients People Governance Planet Appendix
+About this Report
+This report has been prepared in alignment with the  
+Sustainability Accounting Standards Board (SASB) standards for 
+Biotechnical and Pharmaceuticals and, unless otherwise indicated, 
+data published in this 2023 ESG report are for the period January 
+1, 2023 – December 31, 2023.
+This report is intended to serve as a complement to our 
+2023 annual report 
+ , in which we make all disclosures required 
+for our compliance with the Non-Financial Reporting Directive 
+(NFRD) and the EU Taxonomy Regulation, and ancillary legislation 
+and guidelines applicable to us. 
+Message from our CEO 4
+About argenx 6
+ESG Strategy 9
+ 
+argenx ESG Report 20233
+
+Page 4:
+About this 
+Report Patients People Governance Planet Appendix
+Message from our CEO
+Dear Shareholder, 
+argenx is changing the landscape of how we treat people who are living with autoimmune 
+diseases, starting with generalized myasthenia gravis (gMG). We want to set a new 
+standard for what an innovative treatment can provide to patients and we are proud  
+to say it is working. In 2023, we doubled the number of gMG patients who are benefiting 
+from our first-in-class treatment, VYVGART.
+“We know that continued growth and breakthrough 
+discoveries require us to embed truly sustainable 
+business practices in every aspect of our organization. 
+By tirelessly focusing on the wellbeing of patients, 
+our people, and our shared planet, we will continue 
+to transform lives together. ”
+Living Up to our Promise to Patients
+We have reached more than 6,000 patients globally since the launch of VYVGART 
+and this success reflects our dedication to reshaping the understanding of 
+autoimmunity worldwide. Looking ahead, we eagerly anticipate the potential approval 
+and U.S. launch of VYVGART HYTRULO in chronic inflammatory demyelinating 
+polyneuropathy (CIDP) and the potential approval and launch in Japan of VYVGART in 
+primary immune thrombocytopenia (ITP), marking another step forward in our mission to 
+make innovative medicines accessible to the many autoimmune patients that are waiting.
+For our second asset, empasiprubart, we have demonstrated proof-of-concept in multifocal 
+motor neuropathy (MMN) — a disease with a challenging, complex and often distressing 
+diagnosis for which few effective treatments exist. Many patients with MMN are waiting  
+for a targeted, effective treatment option, and we share their sense of urgency as we work 
+to advance this program. 
+I know my fellow argonauts are as inspired as I am by the optimism and resilience of our 
+patients as we look ahead to our goal of helping as many patients worldwide as possible. 
+A Sustainable Approach to Groundbreaking Innovation 
+We cannot achieve our ambitious mission without continuous innovation and 
+collaboration. Our commitment to developing groundbreaking therapies perfectly  
+aligns with our ESG strategy, ensuring the sustained ability to pioneer in immunology. 
+I have always believed that our people — argonauts — are our greatest asset, and  
+that collective commitment is the only way to achieve our mission. Advancing scientific 
+breakthroughs requires a culture that will attract the brightest minds, and keep them 
+engaged and inspired to realize their full potential in service of patients. Guided by our 
+cultural pillars, we seek to bring out the best in ourselves and in each other to maximize 
+our collective impact. Together, we can make meaningful breakthroughs that change lives.
+Tim Van 
+Hauwermeiren
+Message from our CEO | 
+argenx ESG Report 20234
+
+Page 5:
+About this 
+Report Patients People Governance Planet Appendix
+“Sustainability reaches far beyond environmental 
+stewardship: our ESG practices must help us to 
+sustain a culture of innovation that is as strong  
+as the patients we serve. 
+This philosophy extends beyond medications  
+and therapies; it's about fostering a dynamic work 
+environment that attracts and retains top talent, 
+creating a culture where people flourish and grow  
+in alignment with our broader communities. ” 
+Our dedication to innovation is also evident in our ongoing collaborations with leading 
+experts in disease biology research, driving advancements in understanding the science  
+of autoimmune diseases. Just as no argonaut can achieve our mission alone, we operate 
+beyond the four walls of argenx: our Immunology Innovation Program (IIP) enables a 
+unique approach to co-creation that combines our world-leading antibody engineering 
+capabilities with external collaborators’ deeply specialized understanding of disease and 
+target biology. This program helps us to continuously develop our pipeline and supports 
+our sustainable approach to innovation. 
+Creating Value for Stakeholders  
+Through ESG Excellence 
+Just as our mission of innovation extends far beyond the lab, ESG at argenx goes beyond 
+plans on paper: it is a pathway to creating stakeholder value with thoughtful choices that  
+fit into our mission and business. Revenue is one measure, but we measure success in other 
+ways as well. Our ability to reach patients with our innovative medicines also reinforces our 
+employees’ shared sense of purpose, and underpins our productive and meaningful work 
+environment. Our growth means that we can re-invest across our business in our discovery 
+engine, clinical pipeline and commercial infrastructure to drive towards sustainability.  
+It permeates beyond the four walls of argenx, creating a vibrant ecosystem of innovation. 
+And this is just the beginning, as we anticipate continued global expansion in the year ahead. 
+Anticipating an Expansive Future 
+Reflecting on our achievements and the integral role of ESG in our journey, we are confident 
+in our ability to sustain growth. We have plans to report data from six Phase 2 studies 
+and initiate multiple Phase 3 studies in 2024, as well as to file four new IND candidates by 
+the end of 2025. This demonstrates our continuous commitment to groundbreaking 
+therapies. 
+Through responsible business practices, we can ensure sustained innovation centered  
+on patients. On this journey, we are not just meeting expectations; we aim to exceed  
+them. Collectively, I know we will continue transforming lives and shaping a future  
+where everyone can thrive.
+Sincerely 
+Tim Van Hauwermeiren
+Message from our CEO | 
+argenx ESG Report 20235
+
+Page 6:
+About this 
+Report Patients People Governance Planet Appendix
+About argenx
+We are on a mission to transform the treatment of autoimmune diseases by translating 
+immunology breakthroughs into a pipeline of novel antibody-based medicines. 
+Autoimmune diseases manifest when the body mistakenly turns its own defenses against 
+itself, triggering the immune system to produce antibodies that attack its own tissues  
+and cells. The causes are not always well understood. We know that symptoms and effects 
+are highly individualized, necessitating an equally individualized approach to treatment.
+This work demands our relentless commitment, dedication and curiosity. Most of all, it 
+demands that we put patients at the center of every step of our innovation journey. As part 
+of our work, we listen to patients and their supporters and we integrate their stories and 
+aspirations into all that we do on our mission to transform autoimmunity.
+2023 Progress
+VYVGART is a first-in-class antibody fragment targeting the neonatal Fc receptor (FcRn)  
+and is now approved for generalized myasthenia gravis (gMG) in more than 30 countries 
+globally. VYVGART SC is approved in the U.S. (as VYVGART HYTRULO), the EU, the UK, and  
+in Japan (as VYVDURA). This makes VYVGART the only gMG treatment available as both an 
+intravenous (IV) and a simple subcutaneous (SC) injection. Looking ahead, we are focused 
+on reaching more patients globally who are living with gMG and other autoimmune diseases. 
+As part of this goal, we are working towards reaching patients earlier in the gMG treatment 
+paradigm and expanding to new patient populations through additional global regulatory 
+approvals in gMG, as well as the expansion of uses to treat a broad range of autoimmune 
+indications with efgartigimod.
+Our Roadmap to Growth
+ y In 2024, our goal is to reach more patients globally with VYVGART through  
+the below milestones:
+ ◦ Decision on approval of VYVGART for ITP in Japan expected in first quarter of 2024
+ ◦ A supplemental Biologics License Application (sBLA) for SC efgartigimod for CIDP  
+has been accepted for priority review by the U.S. Food and Drug Administration (FDA), 
+with a Prescription Drug Used Fee Act (PDUFA) target date of June 21, 2024
+ ◦ Decisions on approval of VYVGART for gMG expected in multiple jurisdictions by the 
+end of 2024
+ ◦ Decision on approval of VYVGART SC for gMG expected in mainland China (Mainland  
+China) by the end of 2024 (through Zai Lab)
+About argenx | 
+argenx ESG Report 20236
+
+Page 7:
+About this 
+Report Patients People Governance Planet Appendix
+ y Advance current pipeline through upcoming data readouts:
+ ◦ On track to be approved or in development in 15 autoimmune indications for 
+efgartigimod by 2025
+ ◦ Advancing earlier stage pipeline programs, including empasiprubart (C2 inhibitor) 
+with Phase 2 studies ongoing in multifocal motor neuropathy (MMN), delayed graft 
+function (DGF) and dermatomyositis (DM), and ARGX-119 (MuSK agonist) currently  
+in Phase 1 with Phase 1b/2a in CMS and ALS, respectively, planned to start in 2024 
+ y Leverage repeatable innovation playbook to drive long-term pipeline growth:
+ ◦ Continued investment in our discovery engine; the IIP
+ ◦ Nominated four new pipeline candidates, in which preclinical work is ongoing and  
+on track for an investigational new drug (IND) application filing by the end of 2025:
+ – ARGX-213 targeting FcRn and further solidifying our leadership in this new class  
+of medicine
+ – ARGX-121 and ARGX-220, which are first-in-class targets broadening our focus 
+across the immune system
+ – ARGX-109, targeting IL-6, which plays an important role in inflammation
+Innovation is at the core of everything we do — and we recognize that success is not  
+only defined by what we do, but also how we do it. The argenx approach is grounded  
+in co-creation and empowerment, aiming to lift each other to achieve the unthinkable  
+by building on each other’s strengths. Our dedicated argonauts know that we can only 
+achieve excellence when we follow the data in our decision-making. We do so while 
+maintaining our humility — never taking success for granted because we have as much  
+to learn from our challenges as from our achievements. 
+Journey to Transform Autoimmunity
+C D 7 0  +  I L 2 2 R  +  G A R P  +  F c R n  +  C 2  +  M u S K …
+Leading 
+antibody 
+engineering 
+capabilities
+Pipeline-in-
+a-product
+opportunities
+Pioneering
+novel target
+biology
+Creating Optionality Across and Within Molecules
+About argenx | 
+argenx ESG Report 20237
+
+Page 8:
+About this 
+Report Patients People Governance Planet Appendix
+1,148
+full-time  
+employees globally
+2,900+
+clinical trial patients 
+treated with candidates  
+from our pipeline
+$859M
+invested in R&D in 2023
+Numerous 
+programs
+at all times in our  
+broad IIP portfolio
+4
+pipeline candidates  
+out-licensed  
+to our partners
+24
+active clinical trials
+9
+programs have been  
+tested in humans  
+since our inception
+VYVGART is setting new 
+expectations in gMG treatment, 
+supported by a consistent and 
+repeatable efficacy and safety 
+profile from clinical trials and 
+real-world experience
+ y 45% of treated patients in ADAPT achieved minimal symptom 
+expression (MSE), which is defined as myasthenia gravis activities 
+of daily living score of 0 or 1. MSE achievement results in quality-
+of-life measures that are comparable to healthy populations
+ y Real-world VYVGART usage demonstrates meaningful  
+steroid tapering by at least 5mg/day within first 6 months  
+of treatment initiation
+ y Leading Health Technology Assessment agency assessed 
+VYVGART to demonstrate superior cost/benefit over intravenous 
+immunoglobin (IVIg)
+ y The VYVGART safety database now includes an estimated  
+4,000 patient years of safety follow-up
+About argenx | 
+argenx ESG Report 20238
+
+Page 9:
+About this 
+Report Patients People Governance Planet Appendix
+ESG Strategy
+Our Strategy
+We are dedicated to enhancing patient lives by pioneering groundbreaking medicines. 
+Innovation is at the heart of our mission to bring life-changing medicines to patients, 
+underscoring the profound link between our purpose and the opportunity to create lasting 
+value for all stakeholders. In order to succeed, we must create an internal environment that 
+can attract the best talent, enable people to perform at their best and retain them over the 
+long-term. We must also work to maintain the trust we have established with stakeholder 
+communities so far, which we do by going the extra mile. We know that if we do the right 
+thing for our patients and our communities, we are doing the right thing for the business. 
+Our primary objectives in setting our ESG strategy are to highlight non-financial performance 
+data and to disclose metrics that provide insight into our long-term sustainability and role 
+in our global community. We believe that sustainability is not only a moral imperative but  
+a strategic enabler, driving innovation, resilience and long-term societal impact. 
+Since 2022, when we began to disclose non-financial performance data, we have continued 
+to evolve our reporting to address feedback from key stakeholders, as well as address 
+regulatory developments and industry best practices. As we navigate the evolving landscape, 
+we acknowledge the importance of adapting to our changing environment and aligning 
+with the evolving mindset of our stakeholders. Innovation isn't just about groundbreaking 
+science; it's about embracing our role and responsibilities in ESG, and aiming to improve year 
+over year in providing even greater insight into our sustainability initiatives and practices.
+As of January 1, 2024, we are required under the Corporate Sustainability Reporting Directive 
+(CSRD) to disclose sustainability-related information in accordance with the European 
+Sustainability Reporting Standards (ESRS). The scope of these disclosures is determined by 
+the outcome of the double materiality assessment we have conducted. For fiscal year 2024, 
+we will align our disclosure practices with the CSRD and ESRS requirements, and we will 
+complement them, where possible, with additional voluntary standards and metrics to 
+enhance transparency and accountability. We are implementing procedures and policies  
+to enable our auditor to perform a limited assurance engagement on the disclosures  
+in our 2024 annual report.
+In developing this and other reports, we try to strike the right balance between sharing data 
+points and providing appropriate context about why they are important to us. We remain 
+committed to deepening ESG integration into our core strategy, fostering a sustainable 
+business that not only delivers value today but shapes a better tomorrow for patients, 
+employees, collaborators and the global community.
+ESG Strategy | 
+argenx ESG Report 20239
+
+Page 10:
+Contents
+PatientsAbout this 
+Report People Governance Planet Appendix
+Patients
+We exist to innovate on behalf of people living with severe 
+autoimmune disease. We are motivated by the resolve of 
+patients and share in their determination to overcome the 
+many challenges they experience living with a chronic disease. 
+We know that much of the suffering they face is unseen, and 
+we hope that by pioneering immunology innovations we can 
+advance the understanding of autoimmune disease and deliver 
+transformational treatments to patients worldwide. 
+When we start with a deep understanding of patients’ needs,  
+we accelerate scientific breakthroughs and deliver differentiated 
+medicines that change lives.
+Innovation 11
+Improving Patients’ Lives:  
+Inspired by Those We Serve 14
+Clinical Trials 17
+Patient Engagement  
+& Advocacy 19
+Access to Medicines 21
+Quality & Safety 23
+ESG Strategy | 
+argenx ESG Report 2023 10
+
+Page 11:
+About this 
+Report Patients People Governance Planet Appendix
+Innovation
+“Scientific breakthroughs might be possible  
+by working alone, but they become even  
+more meaningful when we work together.  
+Our shared purpose at argenx is to translate 
+our immunology breakthroughs into innovative 
+medicines to transform autoimmunity.  
+By cultivating a strong ecosystem of experts 
+invested in this cause, including the greatest 
+experts — patients themselves — we unlock 
+the true power of co-creation. ”
+Peter Ulrichts
+Chief Scientific Officer
+ 
+Our Pipeline and Medicine: Delivering 
+Breakthroughs for Underserved Patients
+Healthcare providers and their patients deserve options to treat rare autoimmune diseases, 
+but historically those options have been sorely lacking. We are working to change that with 
+our pipeline of first-in-class therapies.
+We balance depth and breadth in our development portfolio, creating opportunities to 
+pursue potential breakthroughs within our own walls and in collaboration with our partners. 
+By prioritizing patient needs, clinical rigor and bringing a sense of humility to the innovation 
+ecosystem, we believe we can make the fastest progress. We have demonstrated this 
+approach with our first-in-class FcRn blocker, VYVGART and VYVGART SC for the treatment 
+of gMG, and hope to bring the same transformational approach to the treatment of CIDP. 
+Innovation | 
+argenx ESG Report 202311
+
+Page 12:
+About this 
+Report Patients People Governance Planet Appendix
+Breadth and Depth within Autoimmune Pipeline
+NEUROLOGY HEMATOLOGY AND RHEUMATOLOGY DERMATOLOGY NEPHROLOGY INDICATION NOT DISCLOSED
+1) AAV program under review; phase 2 study paused at the time of publication of this ESG report
+Program Indication Preclinical Phase 1 Proof of Concept Registrational Commercial
+VYVGART
+ARGX-109 NOT DISCLOSED
+ARGX-121 NOT DISCLOSED
+ARGX-213 NOT DISCLOSED
+ARGX-220 NOT DISCLOSED
+ARGX-119
+Congenital Myasthenic Syndrome
+Amyotrophic Lateral Sclerosis
+Empasiprubart
+Multifocal Motor Neuropathy
+Delayed Graft Function
+Dermatomyositis
+gMG
+ITP
+VYVGART
+Hytrulo
+gMG
+CIDP
+Efgartigimod
+Thyroid Eye Disease
+Bullous Pemphigoid
+Myositis (IMNM, ASyS, DM)
+Sjögren’s disease
+POTS post-COVID-19
+Membranous Nephropathy
+ANCA-associated vasculitis 1)
+Antibody Mediated Rejection
+Lupus Nephropathy
+Innovation | 
+argenx ESG Report 202312
+
+Page 13:
+ARGX-109
+(Anti-IL-6)
+ARGX-213
+(Anti-FcRn)
+ARGX-121
+ARGX-220
+Empasiprubart
+POC established in MMN 
+Trials in DGF and DM
+(efgartigimod alfa-fcab)
+Intravenous injection 400 mg/20 mL vial
+®
+(efgartigimod alfa & hyaluronidase-qvfc)
+Subcutaneous injection 180 mg/2000 U/mL vial
+® Hytrulo
+$1.2B in gMG revenue in 2023
+CIDP sBLA submitted
+PDUFA date June 21, 2024
+ITP MAA filed
+15 indications in 
+development by 2025
+PFS in development
+ARGX-119
+Phase 1b/2a trials 
+in CMS and ALS
+I m m u n o l o g y  I n n o v a t io n  Program
+P i p e l in e
+V Y V G A R T  O p p o r t u n ity
+About this 
+Report Patients People Governance Planet Appendix
+Autoimmune Diseases
+IIP: Co-Creating Differentiated Therapies
+The name argenx was inspired by the tale of the argonauts, one of the first 
+stories on record recognizing the power of the team rather than one hero.
+The IIP unites our antibody engineering expertise with the brightest minds in disease 
+biology, as a means of propelling the discovery of novel targets, disease pathways and 
+differentiated therapeutic antibodies. In other words, it is our discovery engine. 
+Pipeline diversification is a crucial aspect of the argenx strategy to ultimately offer patients 
+as many options as possible. 
+We have optimized a pipeline expansion model to create a fully functioning innovation 
+ecosystem. Within the IIP, “collaboration” is not a buzzword; it’s our way of operating to 
+unleash our shared potential on every level. Our IIP collaborators serve as ongoing program 
+advisors from the earliest concept discussions through commercialization conversations, 
+building a culture of mutual accountability and shared success.
+Our deep pipeline of highly differentiated product candidates all emerged from this 
+elevated co-creation model. This includes wholly-owned programs like efgartigimod, 
+empasiprubart and ARGX-119 and our preclinical candidates ARGX-220, ARGX-120 and 
+ARGX-109. It also includes pipeline programs that we have out-licensed, including ARGX-112  
+(anti-IL-22R antibody) to LEO Pharma and ARGX-115 (anti-GARP antibody) (ABBV-151) to 
+AbbVie, as well as efforts within our spin-off companies, like OncoVerity, Inc. through our 
+collaboration with the University of Colorado to develop cusatuzumab (anti-CD70 antibody) 
+in acute myeloid leukemia.
+Immunology Innovation Horizons 
+Innovation | 
+argenx ESG Report 202313
+
+Page 14:
+About this 
+Report Patients People Governance Planet Appendix
+Ryohei Japan  
+embraces the unseen gifts of MG
+“I personally think of this illness as 
+a gift. Thanks to this illness, I have 
+been able to meet friends and various 
+people from around the world.  
+I can still move my body. I can still play 
+the piano. I am grateful for the help  
+I receive from those around me, and  
+for what I can do now. I want to continue 
+living positively and cheerfully. ”
+Improving Patients’ Lives:  
+Inspired by Those We Serve
+Our argonauts know that the patients who need our therapies are tireless. We see their 
+resolve, and we commit to being equally tireless in pursuit of transformative therapies. 
+Our work has the potential to change countless lives in the future. We are grateful to,  
+and inspired by, each patient who trusts us with their stories today.
+Diplopia and sensory symptoms affected piano playing, which gives  
+meaning to his life. 
+Today, he continues to play the piano every day as he explores ways  
+to express himself.
+Ryohei (58 years old) began having subjective symptoms of MG in his twenties.
+His symptoms began with extreme fatigue and feeling heavy, but multiple hospital visits 
+could not identify the cause. One day, he began to experience diplopia (double vision).  
+An ophthalmologist was unable to find any abnormalities, but prolonged symptoms led 
+Ryohei to a university hospital for further testing.
+Patient 
+Stories
+Improving Patients’ Lives: Inspired by Those We Serve | 
+argenx ESG Report 202314
+
+Page 15:
+About this 
+Report Patients People Governance Planet Appendix
+The result was unexpected: myasthenia gravis, a disease with which he was unfamiliar — 
+and which he expected to be curable. 
+Ryohei's online research after the hospital visit led to a second shock, when he realized it 
+was an incurable condition with few treatments available. Still, having a diagnosis provided 
+its own small sense of relief. After decades of symptoms that friends, family and colleagues 
+typically dismissed as mere exhaustion, any answer gave him hope for improvement. 
+Ryohei’s progressing MG symptoms meant that he was no longer able to drive, or easily 
+take a walk. He had to give up everyday activities he had previously taken for granted,  
+like a quick trip to the convenience store or even stepping outside for a breath of fresh air. 
+Some changes were difficult in other ways. Playing piano had always infused his life with 
+meaning, but now the diplopia made it difficult to read music, and sensory symptoms made 
+it challenging to hit the keys. In the face of these challenges, Ryohei has persevered, and 
+continues to find new ways to express himself — including as a pianist — even if it feels 
+different than it used to. 
+As with many patients, Ryohei went through a process of trial and error in order to reduce 
+his reliance on medication as much as possible. Through this process he met his current 
+physician, a “wonderful doctor” who helps him find new ways to live fully with MG. Ryohei 
+also understands the importance of his role in these conversations: “To ensure that  
+the doctor knows my symptoms, it is vital for me to put in the effort myself,” said Ryohei.  
+In addition to tracking symptoms, he makes sure to clearly communicate his goals  
+and hopes for the type of treatment plan and condition he ultimately hopes to achieve.
+Ryohei’s MG journey has shifted his thinking about other relationships, too.  
+“When you are really having a hard time, it is fine to depend on those around you,” he said. 
+“I, too, tried to do everything by myself at first,  
+even when I could not open the lid of a PET bottle  
+on my own. When that happened, the nurse told  
+me it is fine to ask for help. Being told to ask for  
+help made me realize that there are also times  
+when we should rely on others. ” 
+One way he has learned to signal his needs is by using a cane in crowded or congested 
+areas, and to wear a “help mark” to make sure that others are aware of his disease.
+Today, Ryohei thinks of his illness as a gift. Through this illness, he has met many people 
+and discovered new perspectives on everyday life, such as gratitude for being able to  
+move his body, desire to continue playing the piano, and the possibility of coming up with 
+creative ways to get around problems. Going forward, he says that he wants to continue  
+to live a positive and enjoyable life – complete with myasthenia gravis.
+Patient 
+Stories
+Improving Patients’ Lives: Inspired by Those We Serve | 
+argenx ESG Report 202315
+
+Page 16:
+About this 
+Report Patients People Governance Planet Appendix
+Patient 
+Stories
+Brenda U.S.  
+MMN 
+“Sometimes you can’t always  
+see what’s going on with people – 
+autoimmune issues are not always 
+visible to the naked eye. With MMN, 
+fatigue is a huge problem, your body  
+is working harder to do everything. ”
+Marguerite France  
+MG
+Marguerite urges people to resist 
+snap judgments and to seek a deeper 
+understanding of conditions such  
+as MG. She emphasizes the need for 
+awareness and encourages people 
+to educate themselves about these 
+unassuming diseases.
+Improving Patients’ Lives: Inspired by Those We Serve | 
+argenx ESG Report 202316
+
+Page 17:
+About this 
+Report Patients People Governance Planet Appendix
+Clinical Trials
+Safety, efficiency and ethics govern the argenx approach to clinical trials. Within the 
+sometimes-limited patient populations that suffer from severe autoimmune diseases,  
+we prioritize diverse trial enrollment that mirrors the patient population and global  
+regions where we operate.
+At argenx, we believe in patient-led research and prioritize patient involvement in the 
+clinical research process. In 2023, every protocol was vetted by patients through diverse 
+patient panels and listening sessions. We conducted more than 25 panels in 10 countries. 
+Across our 24 active clinical trials in 2023, we ensured the continuous monitoring of the 
+safety profile of our investigational products and ensured compliance with adverse event 
+reporting to health authorities worldwide. We also ensured supply to patients on clinical 
+trials and have had no supply disruption. 
+Clinical Trial Quality and Safety at argenx
+ y Training and oversight focused 
+ on real-time engagement 
+ and what is critical to quality 
+ y Holistic oversight of all  
+trials through our Clinical 
+Operations Excellence leads
+ y Designated Good Clinical 
+Practice Quality Lead  for 
+each study, to assure quality 
+from the start
+ y Risk-based clinical trial related 
+audit programs focused  
+on critical aspects of the 
+clinical trials
+ y Accessible, user-friendly 
+standard operating 
+procedures
+ y Stringent vendor assessments 
+and oversight to help ensure 
+high quality
+Clinical Trial Transparency
+Clinical trial transparency is an important topic for us. Transparency enhances 
+trust among all those involved in clinical research: trial participants, healthcare 
+professionals and biopharmaceutical companies. It is also essential to measure 
+the progress made to address unmet therapeutic needs for patients. As outlined 
+in our standard operating procedure, we must adhere to all mandatory clinical 
+trial and results posting and associated requirements and timelines per regional 
+and national directives, guidelines and/or laws. To support (public) transparency 
+of information involving argenx clinical trials and to allow usability of the 
+gathered clinical data, argenx ensures that every clinical trial involving patients 
+(Ph1b to Ph4) is registered in a publicly accessible database per required 
+timelines. A dedicated transparency team is responsible for registering  
+and maintaining accurate information in publicly accessible databases1). 
+1) These include (but are not limited to) ClinicalTrials.gov (U.S.) and Clinical Trials Information System  
+(CTIS, EEA), clinicaltrialsregister.eu (EEA), and jrct.niph.go.jp (Japan).
+Clinical Trials | 
+argenx ESG Report 202317
+
+Page 18:
+About this 
+Report Patients People Governance Planet Appendix
+Clinical Trial Diversity
+Improving clinical trial diversity is a scientific necessity and a moral imperative. Ensuring 
+diverse enrolment can be especially challenging in the case of many orphan indications, 
+which can be rare diseases with comparatively limited patient populations — while at  
+the same time, our belief in the importance of highly individualized therapies necessitates 
+that we mirror those patient populations in our research.
+As with other aspects of our operations, we aim to embed a focus on diversity from  
+the earliest phases of trial development. Analyses of the population impacted by a given 
+disease are conducted as early as possible in the development phase of work, as are 
+conversations engaging patient association group representatives, so that this insight  
+may be carried into the clinical trial process.
+Cross-functional experts from pharmacokinetic and pharmacodynamic, all clinical functions, 
+patient advocacy, medical affairs and legal and compliance work together to ensure that 
+we prioritize diversity across our value chain. 
+To reduce barriers to access and build trust with historically underserved communities,  
+our efforts involve proactive outreach, patient education and accessibility considerations  
+in each community where we aim to conduct trials. 
+We reduce barriers for prospective trial enrollees in the following ways:
+ y Broadened patient eligibility
+ y Epidemiological data to inform gender and racial diversity in participant composition
+ y Transparent materials focused on creating clear, easy-to-read resources in  
+local language
+Making Progress with 
+Underrepresented Populations
+Our first 2023 study on diversity in clinical trials validated our approach and 
+methodology to increasing representation. We believe we have made progress 
+in increasing diverse patients by race and ethnicity, both in patient screenings 
+and in actual trial participants.
+Clinical Trials | 
+argenx ESG Report 202318
+
+Page 19:
+About this 
+Report Patients People Governance Planet Appendix
+Patient Engagement & Advocacy
+Patient Engagement
+At argenx, patients with severe autoimmune disease are at the heart of our purpose. 
+Inspired by these individuals’ resilience in the face of extraordinary challenges, our own 
+commitment goes beyond conventional care. We offer a comprehensive approach to care, 
+offering a wide range of tools to support patients, their caregivers and families — from resources, 
+studies and a documentary to online communities that foster interaction and sharing. 
+In 2023, we were able to hold more than 25 patient panels and listening sessions in  
+10 countries. As a result, we not only increase disease awareness and strengthen these patient 
+communities, but we deepen our own ability to identify and address unmet clinical needs.
+Reaching Diverse Patients with Untold Stories
+In collaboration with iHeartRadio, we executed a data-driven initiative to enhance patient 
+engagement and raise awareness for MG. The outcome was the creation of the podcast 
+“Untold Stories: Life with Myasthenia Gravis,” a targeted effort merging innovation with 
+grassroots strategies. This initiative was created to tell the stories of patients from diverse 
+backgrounds and life experiences dealing with rare autoimmune conditions.
+Hosted by Martine Hackett, the podcast strategically addressed the diverse experiences  
+of individuals living with Myasthenia Gravis and CIDP by highlighting stories of patients 
+from a range of backgrounds and life experiences, all telling their stories of living with  
+rare autoimmune conditions. “Untold Stories” illuminated the challenges of diagnosis and 
+individuals’ unique journeys toward improved wellbeing. In addition to positive anecdotal 
+feedback, the robust metrics available through podcast platforms documented a significant 
+impact within target audiences.
+Untold Stories Resonates  
+with MG Community
+“So important for the MG community.  
+This is the first time there has been an entire 
+show dedicated to those living with MG.  
+Thank you for making this!!!!!”
+Rusty 
+listener living with MG
+Untold Stories reached
+97,000
+downloads with
+83,000
+individual listeners globally
+Patient Engagement & Advocacy | 
+argenx ESG Report 202319
+
+Page 20:
+About this 
+Report Patients People Governance Planet Appendix
+Patient Advocacy
+Caring for severe autoimmune disease means more than treating symptoms and 
+connecting with patients; it means carrying the lessons from this dynamic community  
+into our work every day.
+At argenx, we envision patients as active participants in our meetings, influencing  
+our strategies and infusing our discussions with urgency and a sense of possibility. 
+We know that a patient-centric mindset is not enough: we aim to operationalize patient-
+centricity through our Global Patient Advocacy Team, with dedicated country-level staff  
+in Canada, Mainland China, the EU, Israel, the UK, the U.S., and Japan serving as daily 
+ambassadors for the patient voice.
+At the core of these roles is a focus on real patient engagement, facilitating conversations 
+that go beyond the superficial to uncover the foundational unmet needs. From patient 
+panels to our online communities, we seek to gain deeper insight into all aspects of the 
+patient journey. 
+This is exemplified through the “All United for MG” Patient Coalition in EMEA and the  
+Global argenx MG Advocacy Leadership Council (ALC), a diverse group of dedicated leaders 
+in the MG Patient Community. The ALC has been active for four years and during this time, 
+it has released data on the economic burden of MG. In 2023, the organization facilitated 
+collaboration between leaders of Patient Advocacy Organizations (PAOs) and innovators 
+working on MG. This collaboration led to critical insights that shaped our strategy for 2024.
+These included:
+ y Knowledge gaps: addressing gaps between patients and healthcare providers for 
+improved collaboration and standardized care
+ y Data emphasis: leveraging data and research for education within the MG community
+ y Collaborative spirit: PAO leaders' eagerness to collaborate for the betterment of the 
+MG community
+ y Positive patient feedback: validation from patients on the impact of meeting sessions 
+and content
+This collaborative, data-driven approach reflects our dedication to patient-centricity and 
+aligns with our ESG commitments, actively contributing to a stronger global MG community.
+Patient Engagement & Advocacy | 
+argenx ESG Report 202320
+
+Page 21:
+About this 
+Report Patients People Governance Planet Appendix
+Access to Medicines
+argenx exists to improve the lives of individuals with severe autoimmune diseases through 
+breakthrough therapies — but even the most effective novel therapies are meaningless  
+if patients lack access to them.
+VYVGART for gMG is now approved in the U.S., Japan, the EU, UK, Israel, Mainland China  
+and Canada, and VYVGART SC for gMG is now approved in the U.S., Europe, UK and Japan. 
+Our 2024 efforts to improve patient access to VYVGART through the below milestones  
+on geographic expansion, patient engagement and financial initiatives are included below.
+ y Geographic expansion:
+ ◦ Expecting a decision on approval of VYVGART for ITP in Japan in the first quarter 
+of 2024
+ ◦ sBLA for SC efgartigimod for CIDP accepted for priority review by the FDA with  
+a PDUFA target action date of June 21, 2024
+ ◦ Expecting a decisions on approval of VYVGART for gMG  
+in multiple jurisdictions by the end of 2024
+ ◦ Expecting a decision on approval of VYVGART SC  
+for gMG in Mainland China by the end 
+of 2024 (through Zai Lab)
+ y Patient engagement:
+ ◦ Expanding our U.S. field force to engage 
+more health systems and help more 
+patients with gMG access VYVGART 
+ ◦ Continue growing My VYVGART Path,  
+our patient support program offering 
+personalized assistance from nurse case 
+managers, including benefits verification, 
+reimbursement, disease education,  
+and resources for co-pays and other costs; 
+the program also connects healthcare 
+providers with dedicated case 
+coordinators for assistance with 
+insurance needs
+ ◦ Maintaining or exceeding strong 
+satisfaction ratings for My VYVGART Path, 
+including these 2023 results from  
+surveyed patients
+ – 90% satisfaction with Nurse Case Managers
+ – Over 85% satisfaction with the program overall
+ – Nearly 80% willingness to recommend the program
+Access to Medicines | 
+argenx ESG Report 202321
+
+Page 22:
+About this 
+Report Patients People Governance Planet Appendix
+ y Financial support (in compliance with relevant laws and prevailing industry 
+standards):
+ ◦ Continuing with the support program for eligible patients with commercial health 
+insurance in the U.S., which in 2023 has a 94% patient satisfaction rate
+ ◦ Our internal patient assistance program provides support for uninsured patients  
+in the U.S. who meet certain criteria. More than half of applications were granted,  
+with over 45 patients currently enrolled 
+ ◦ Contributing funding to independent 501(c)(3) charitable organizations for copay  
+and premium assistance, consistent with industry best practices
+Pre-Approval 
+Access
+Pre-approval access (PAA) is a term we use to describe access  
+to investigational therapies that have not yet been approved  
+by regulatory bodies. In certain cases, we may provide an 
+investigational product outside of a clinical trial to a patient  
+or group of patients through their treating physicians. Our PAA 
+program governs patient access to our investigational medicines 
+outside of clinical trial settings, for certain patients who are 
+ineligible for trials and have exhausted other available treatment 
+options. Our PAA program remains open in countries where 
+VYVGART is not yet launched or reimbursed.
+In 2023, we approved access to the PAA for over 330 gMG patients 
+in 14 countries. Additional information on our PAA program 
+ .
+Access to Medicines | 
+argenx ESG Report 202322
+
+Page 23:
+About this 
+Report Patients People Governance Planet Appendix
+Quality & Safety
+Quality
+We focus on quality at every stage, from preclinical to commercial, to provide effective, 
+innovative therapies to patients who need them. The argonauts on our quality teams  
+are dedicated to embedding best practices across all functions and facets of our business. 
+Members of the quality team are embedded in cross-functional teams, ensuring 
+accountability to best-in-class standards in line with our value of excellence.
+Our 2025 Quality Vision guides our forward looking approach to quality, pursuing  
+a strong culture of quality: 
+ y Robust, sustainable global quality management system bringing about high quality 
+standards and consistency across all argenx sites, processes and operations 
+ y enabling innovation at every corner of the business with quality part of its core 
+ y dedication to bringing high quality, efficacious and safe products, fast to patients 
+wherever they are in the world and 
+ y continuing to foster and support the growth and learning mindset of the organization, 
+through enhancements in our approach to learning at argenx
+Quality 
+Innovation
+Quality 
+Products
+Fast
+Learning
+Organization
+Quality
+Culture
+argenx 
+Brand
+Sustainable
+Quality 
+Management System
+2025
+Quality
+VisionVision
+Vision
+Quality & Safety | 
+argenx ESG Report 202323
+
+Page 24:
+About this 
+Report Patients People Governance Planet Appendix
+Following our Quality Policy and Management Commitment, 
+our senior management is deeply involved and accountable  
+for the implementation and continual improvement  
+of the quality management system. 
+We demonstrate our commitment through:
+ y Ensuring that the quality culture of the organization is 
+clearly lived through the cultural pillars and that it is an 
+integral part of the way we do business
+ y Taking accountability for the effectiveness of the quality 
+management system
+ y Ensuring that the quality policy and quality objectives, 
+established for the quality management system, are aligned 
+with the strategic direction of the organization
+ y Engaging, directing and supporting persons to contribute  
+to the effectiveness of the quality management system
+ y Ensuring that adequate qualified resources are available  
+to support quality of our deliverables and activities
+ y Ensuring the integration of the quality management system 
+requirements into the organization’s business processes
+81%
+of CAPAs considered 
+preventative
+0
+FDA safety notices
+0
+recalls
+Building  
+a Quality 
+Culture
+Our annual Quality in Action Day helps argonauts celebrate  
+and share ways to embed quality into activities across functions 
+and around the world. Through a combination of live and virtual 
+programs throughout the day, our 2023 day included more 
+than 350 argonauts sharing insights and examples of innovation 
+with quality at its core. In addition to facilitating deeper 
+connection with colleagues, these events foster learning and 
+awareness of quality activities across the business, as well  
+as celebrate and recognize the individuals and teams whose 
+commitment to quality is exemplary.
+Quality & Safety | 
+argenx ESG Report 202324
+
+Page 25:
+About this 
+Report Patients People Governance Planet Appendix
+Patient Safety
+Nothing is more important than patient safety: our mission to transform the lives of 
+patients with autoimmune disease means that we must move beyond harm prevention 
+into pre-emptive measures to protect patient and public health. We strive to be proactive, 
+risk-based and continuously adaptive to provide transparent communication and 
+cooperation between all stakeholders. Ensuring quality by design regarding our global 
+patient safety efforts is a scientific and strategic driver for the company and allows us to 
+comply with legal requirements, prevent harm, promote safe and effective use, and most 
+importantly, protect patient and public health.
+Prioritizing patient safety extends to our broader network as well. For vendors, this begins 
+during the earliest stages of the selection process and is codified in partnership agreements 
+that dictate specific quality and technical processes.
+Our internal standards as well as our adherence to Good Manufacturing and Good 
+Pharmacovigilance practices bring clarity and structure to this philosophy. 
+Our quality management system outlines clear risk management and thorough investigation 
+practices, including corrective and preventative action (CAPA) procedures for any 
+incidents within argenx or at any of our vendors.
+Our internal programs emphasize the importance of co-creation:
+ y Product Quality Councils that meet regularly to review metrics and objectives/safety 
+processes and procedures
+ y Ongoing collaboration between Chemistry, Manufacturing and Controls (CMC)/Technical 
+Operations team and a team of Product Quality professionals
+ y Continuous improvement initiatives have commenced to optimize process performance, 
+product quality monitoring and regulatory compliance. Examples include an initiative  
+to introduce automation for our batch release process and an organizational learning 
+transformation project with the introduction of a new learning management experience 
+platform, set to roll out in late 2024
+We use a risk-based approach to audit our vendors globally. In 2023, 100% of planned 
+audits of our vendors involved in manufacturing, testing and distribution of all argenx 
+products and product candidates were conducted.
+Quality & Safety | 
+argenx ESG Report 202325
+
+Page 26:
+Contents
+PeopleAbout this 
+Report Patients Governance Planet Appendix
+People
+argonauts are argenx.
+United in our purpose and inspired by the patients we serve, 
+we share a commitment to work collaboratively to deliver 
+breakthrough therapies.
+Together, we can achieve the impossible. But it takes more  
+than the right people; it takes the right ways of working to push 
+the boundaries of antibody research and ultimately change lives.
+People and  
+Leadership Development 27
+Diversity, Equity & Inclusion 30
+Wellbeing and Benefits 33
+Health and Safety 35
+Community 36
+Quality & Safety | 
+argenx ESG Report 2023 26
+
+Page 27:
+About this 
+Report Patients People Governance Planet Appendix
+People and Leadership 
+Development
+Thanks to the dedication of our argonauts, what began as a research and development 
+organization has grown into a fully integrated immunology company with a deep, broad 
+portfolio of differentiated therapies and drug candidates. 
+We know that continuing to fulfil our commitment to patients requires us to first fulfil our 
+commitment to our teams, ensuring that we remain a best-in-class place for the brightest 
+talent to work and grow their careers. Our future growth as a company depends  
+on our ability to attract talent and provide opportunities for their growth as individuals.
+How do we know it’s working? 
+Our voluntary turnover rate of 5% and involuntary turnover rate of 2%, well below 
+industry standards. Perhaps most importantly, we see the proof of talented innovators in 
+our pipeline.
+309
+consultants
+1,148
+full-time employees
+10
+geographic regions
+410
+research &  
+development employees 
+Talent Attraction 
+argenx takes a value- and team-based approach to talent acquisition. This means we not 
+only prioritize the requisite knowledge and skills when hiring, but also seek alignment with 
+our cultural pillars to strengthen the organization. In other words, we hire for attitude and 
+train for skill. This commitment to building cohesive and values-driven teams is essential 
+for fostering innovation and sustainability.
+Recognizing the importance of diversity in our global teams, we actively seek the greatest 
+talent from around the world. Our leaders’ continuous commitment helps us to attract  
+the brightest minds with equally collaborative spirits, in every function from R&D to legal. 
+All argonauts serve as ambassadors of our culture, which the best recruiting tool to rely on 
+the broad network of our veteran teams. This approach helps to ensure that our workforce 
+reflects the global nature of the biotech industry and brings diverse perspectives to drive 
+our innovation forward.
+People and Leadership Development | 
+argenx ESG Report 202327
+
+Page 28:
+About this 
+Report Patients People Governance Planet Appendix
+Employee Development & Retention
+We know our mission is a large part why people choose to work at argenx; we also know that 
+our mission alone will not keep top talent satisfied forever. We draw on our cultural pillars  
+of innovation, co-creation, empowerment, excellence and humility to create an environment 
+in which argonauts not only do their best — their best can become even better.
+The scientific breakthroughs we pursue on behalf of patients do not happen quickly — it can 
+take years of research to bring an effective therapy to market. As a result, we need argenx 
+to be a place where people want to work for the long-term, and where they can continue  
+to grow their skills and impact over time.
+Throughout 2023, we deepened several initiatives to cultivate our team’s leadership  
+skills while living up to our values. 
+ y Essentials Leadership Development Program: We aim to help all rising leaders 
+appreciate the full complexities of the biotech business and how we can continue  
+to improve decision-making across the company. In 2023, eight cohorts of argonauts 
+(four in the EU and four in the U.S.) participated in this program. Feedback from the 
+approximately 70 participants was extremely positive, with several noting the practicality 
+of the skills developed and that the program helped them feel secure in newly expanded 
+roles. In 2024, we plan to continue refining the program and add two new additional 
+cohorts in the EU and the U.S., as well as launch our first two cohorts in Japan.
+ y Personal Development Plans (PDP): One of our core operating principles is that  
+we develop our business by developing our people. It’s critical that argonauts share  
+a continuous growth mindset in pursuit of innovation, which means we must attract 
+people who want to take on new challenges. We take a strengths-based approach to 
+PDPs that allows argonauts to flex and grow within their current roles, while opening 
+doors to new roles with new experiences on their argenx journey.
+Recruiting Early-Career Talent  
+in Belgium
+To attract early-career scientists to our discovery teams based in Belgium,  
+we engage in several targeted initiatives. These include participation in the 
+Interuniversity Job Market for Young Researchers, site visits and job shadowing 
+projects with Belgian universities. Our R&D teams also actively contribute to  
+the academic community by delivering lectures, presentations and workshops 
+at Science Faculties across the country. 
+Our involvement in the Workgroup for potential representation at the  
+Nerdland-Festival 2024, Belgium's largest science festival, also emphasizes our 
+commitment to nurturing the next generation of scientific talent. By embracing 
+these strategies, we are building a sustainable and impactful future for argenx.
+People and Leadership Development | 
+argenx ESG Report 202328
+
+Page 29:
+About this 
+Report Patients People Governance Planet Appendix
+ y Communications Council: To live up to our promise of “one company, one purpose,” 
+we bring together argonauts spanning teams, management levels and geographies  
+on our Communications Council. This group embodies our spirit of co-creation and 
+collaboration by reviewing company-wide internal communication as well as social 
+media programs and provides a channel for candid feedback and conversation. 
+ y Culture Labs: We also bring argonauts together for in-person and virtual Culture Lab 
+sessions. In 2023, 295 argonauts took part in at least one of these sessions to deepen 
+our collective understanding of our cultural pillars. In a testament to their value,  
+88 of our colleagues participated in multiple sessions. Our goal is to continue scaling  
+this program so that all new argonauts participate within their first 90 days with argenx, 
+and to participate at least once annually thereafter.
+Unify all colleagues around 
+a consistent understanding 
+and illustration of our 
+Cultural Pillars 
+Gather insights and data 
+to better understand and 
+continuously improve 
+our experience
+Provide argonauts an 
+opportunity to connect in 
+a new way and gain new, 
+global perspectives and a 
+better understanding of who 
+we are as an organization
+Activate all argonauts 
+to live the pillars
+arg-culture-lab-program
+Leaders Emerging and Developing 
+(LEAD) Program
+LEAD is designed to help U.S. Commercial and Medical Affairs argonauts  
+deepen their understanding and practice of successful leadership skills.  
+Our inaugural 2023 cohort included 15 U.S. colleagues who attended three 
+summits focused on leading self, leading others and leading the business.
+People and Leadership Development | 
+argenx ESG Report 202329
+
+Page 30:
+About this 
+Report Patients People Governance Planet Appendix
+Diversity, Equity & Inclusion
+Scientific advancements happen faster when diverse teams bring their perspectives  
+to problem-solving together. Diversity can mean different things based on function and 
+region; our core values of empowerment and co-creation elevate diversity in every aspect  
+of our work. Innovation and excellence also require that we recruit and retain the brightest 
+minds in our business. 
+Our Diversity, Equity and Inclusion (DE&I) Policy  , as approved by our Board of Directors, 
+articulates our commitment to fostering a culture where all argonauts feel able and 
+encouraged to apply their skills to our shared mission. This includes our pursuit of gender 
+balance in all regions and at all levels, including our leadership team and Board of Directors. 
+Our DE&I policy does not stand alone; the approach is integrated into our recruitment  
+and retention strategies, ensuring that we attract the most talented candidates for openings 
+and that we provide appropriate career development initiatives to leverage that talent  
+and promote balanced representation.
+Taking Action T oward Workplace Inclusion 
+Building a culture of inclusion starts in our first interactions with prospective argonauts. 
+Our recruitment process is standardized across the business, focused on “What Counts 
+Factors” that describe key attributes we seek in all candidates.
+Co-creation Humility
+We create through 
+collaboration
+We listen to patients 
+and their communities
+Excellence
+We live by our reputation for 
+data-driven decision-making
+InnovationEmpowerment
+We build our people based on strengths 
+to benefit the broader team
+We live to innovate and 
+do so at every step
+Core Values
+Diversity, Equity & Inclusion | 
+argenx ESG Report 202330
+
+Page 31:
+About this 
+Report Patients People Governance Planet Appendix
+We offer bias-recognition training to all argonauts, and mandate participation for anyone 
+participating in interview processes. We also embed group decision-making into our 
+recruitment processes to help reduce individual bias and capture diverse perspectives.
+Because onboarding sets the tone for our argonauts’ long-term 
+success, our HR and respective people leader provides and 
+implements a robust onboarding plan for each new argonaut. 
+This program covers all regions and includes a core training 
+program and a personal welcome session with our CEO shortly 
+after joining. As from 2024, all new employees will also be 
+invited to participate in a culture lab session within three 
+months of joining.
+Opportunities for promotion, training and career development 
+are available to all argonauts and tailored based on clearly 
+defined job-related criteria, considering each individual’s 
+capabilities and goals. 
+486
+male employees
+662
+female employees
+Potential
+Result- 
+Oriented
+Coaching T echnical  
+Mastery
+Working Effectively  
+T ogether
+Planning & Priority 
+Setting
+Flexibility
+Problem Analysis  
+& Assessment
+Leadership
+Communication
+Initiative  
+& Creativity
+What Counts Factors 
+The What Counts Factors are key attributes sought in a candidate
+Diversity, Equity & Inclusion | 
+argenx ESG Report 202331
+
+Page 32:
+About this 
+Report Patients People Governance Planet Appendix
+We also recognize that employee resource groups play an important role in our  
+inclusive culture and provide leadership and development opportunities in parallel to the 
+opportunities in argonauts’ daily work. Atalanta, our women’s employee resource group, 
+welcomes all colleagues regardless of gender identity to join in dialogue on advancing 
+women’s representation in leadership. 
+For example, Atalanta members hosted a panel discussion and Q&A with Camilla Sylvest, 
+Pam Klein and Ana Cespedes as members of our Board of Directors who discussed active 
+mentoring and coaching in support of each individual’s professional development. 
+Regional chapters in the EU, Japan and the U.S. each hosted events and interviews  
+to address local members’ interests and needs.
+Compensation and Pay Equity
+At argenx, we believe in fair pay for all. Our base pay principles focus on being fair, inclusive 
+and aligned globally. We assess our compensation against industry peers at least once 
+each year and adjust to ensure it is competitive and fair in keeping with our commitment 
+to attract and retain top talent of all backgrounds. In 2023, we disclosed a total average  
+2.1% pay gap by gender, and we continue our efforts to decrease that gap to 0. 
+Global alignment means that our compensation philosophy is consistent around the world, 
+while also allowing flexibility to adapt to local practices that fit the markets where our 
+employees live and work. Our base pay is part of our broader reward philosophy, including 
+variable compensation, equity incentives, bonuses, benefits and recognition rewards.  
+This all adds up to more than compensation: it’s about equality, diversity and recognizing 
+each argonaut’s contributions to our shared mission. 
+67% 
+aged 30–50
+7% 
+under age 30
+26% 
+over age 50
+Employee Age
+Diversity, Equity & Inclusion | 
+argenx ESG Report 202332
+
+Page 33:
+About this 
+Report Patients People Governance Planet Appendix
+Wellbeing and Benefits
+We cannot solve challenges for patients without prioritizing the health and wellness of our 
+team. Physical, mental and financial wellbeing are all integral to our organizational mindset 
+at all levels and across all regions. 
+In order to transform autoimmune therapy, argonauts must be able to focus completely 
+while at work. We know this is made possible when we can support them in meeting  
+their needs at home. This starts with competitive compensation to attract the best talent 
+and includes a wide range of benefits and support to create a well-rounded environment  
+in which argonauts can thrive.
+A Broader Approach to Wellness
+ y Virtual wellness support: Since 2022, argonauts have had access to Wellable, 
+addressing physical, mental, and environmental wellbeing. It includes team challenges, 
+activity tracking, nutrition, on-demand fitness classes, health coaching, and webinars
+ y Caregiver support: Family benefits are tailored to local markets. For example, U.S. 
+employees receive including access to tutor.com, which provides academic support  
+for students of all ages (including in higher education)
+ y Self-paced cognitive behavioral therapy (CBT): argonauts also have access to  
+Mindlab, a digital self-service tool offering CBT techniques in Dutch, French and English 
+to strengthen mental health
+ y Employee Assistance Program (EAP): Our EAP is a free, confidential program 
+available 24/7 to offer argonauts and their family members specialized support for  
+a wide range of life’s demands, from nutrition and mental health to parenting and 
+eldercare, as well as access to legal and financial advice
+ y Localized approach: Additional benefits, like medical, pension, mobile phones and 
+company cars, are made available at a regional level in line with local market practices. 
+At our site in Belgium, employees can participate to an electric bike access program
+Wellbeing and Benefits | 
+argenx ESG Report 202333
+
+Page 34:
+About this 
+Report Patients People Governance Planet Appendix
+Compensation and Financial Responsibility
+ y Corporate bonuses: Bonuses tied to company-wide goals are fixed and equal for  
+all employees, deepening our sense of co-creation and commitment to excellence. 
+For 2023, these goals focused on: 
+ ◦ Simplifying 10 high-impact cross-functional processes 
+ ◦ Saving more than $100 million in negotiated spend to advance financial responsibility
+ ◦ Increasing cybersecurity awareness and reducing the number of argonauts sharing 
+login credentials 
+ y Annual variable pay: All employees have an important component of their compensation 
+directly tied to annual variable pay targets. These targets are linked to individual 
+business and organizational goals specifically aligned to our corporate objectives. 
+Variable pay targets are earned by achieving specific strategic goals (what) in a manner 
+that supports and embeds our cultural values (how)
+ y Equity grants: All employees and directors have the opportunity to participate in our 
+company equity incentive plan, creating a shareholder mindset in which all argonauts 
+are invested in the company’s future success
+Wellbeing and Benefits | 
+argenx ESG Report 202334
+
+Page 35:
+About this 
+Report Patients People Governance Planet Appendix
+Health and Safety
+A safe working environment enables innovation. At argenx, we reduce risk and keep 
+employees safe through a combination of clear protocols and standards, rigorous training 
+and measurable workplace safety goals.
+ y 0 incidents goal: In 2023, for the fifth year in a row, we achieved our goal of 0 workplace 
+accidents or injuries (Total Recordable Incident Rate)
+ y Site-specific training: All employees undergo health and safety training as part of  
+their onboarding process, regardless of region or function, including receipt of our argenx 
+biosafety manual for lab scientists in Zwijnaarde
+Within their first week and first month, lab-based staff receive mandated trainings on argenx 
+standards for biosafety including working with chemicals and waste management. Training 
+for office-based staff includes hazards, site access, fire safety and evacuation procedures.
+Metric 2023 2022 2021
+Total Recordable Incident Rate (TRIR) 0 – –
+Days Aways, Restricted, or Transferred Rate (DART) 0 – –
+Incidents causing permanent injury 0 0 0
+Days lost to incidents causing permanent injury 0 0 0
+Incidents causing temporary injury 0 0 0
+Days lost to incidents causing temporary injury 0 0 0
+Total days lost due to injury (LTIR) 0 0 0
+Health and Safety | 
+argenx ESG Report 202335
+
+Page 36:
+About this 
+Report Patients People Governance Planet Appendix
+Community
+Our focus on co-creation means that we bring a community mindset 
+to everything we do and celebrate the power of cumulative impact. 
+Throughout 2023 we continued to build on programs to support 
+the communities where we live and work, by providing time, 
+expertise and financial assistance to causes that matter most  
+to our patients, neighbors and the next generation of Science, 
+Technology, Engineering and Mathematics (STEM) innovators.
+Just as we seek to provide tailored therapeutic options  
+to meet patient needs, we aim to engage and support  
+our local communities in ways that are most meaningful  
+to those neighbors.
+Making a Difference 
+for Neighbors in Need
+In Ghent, Belgium, local argonauts collected donations for  
+VZW De Zonnebloem, a local charity that helps people fighting 
+poverty, social exclusion and discrimination. 
+Our Boston, Massachusetts team in the U.S. 
+continues to support a number of local nonprofits, 
+including the Boys and Girls Clubs of Boston 
+Holiday Gift Program. The program reaches 
+more than 1,000 local families with gifts 
+during the holiday season, extending joy 
+and cheer to neighbors who need it most. 
+Our local team sponsored 15+ children, 
+granting their wishes for holiday gifts.
+We also kicked off our first Food Drive 
+through Feeding America, the largest 
+hunger relief organization in the U.S. with  
+a nationwide network of food banks, food 
+pantries and community-based organizations. 
+By collecting canned food donations during  
+the holiday season, our team supported several 
+organizations in the greater Boston area where 
+hunger is greatest.
+Community | 
+argenx ESG Report 202336
+
+Page 37:
+About this 
+Report Patients People Governance Planet Appendix
+Supporting Community Health 
+and Wellness
+We made an initial EUR 50,000 donation to the Institute  
+for Indian Mother and Child (IIMC) in West Bengal,  
+India, to support its health program. IIMC trains local 
+community health workers to conduct outreach 
+and education in their villages, with a special 
+emphasis on prenatal health and care for 
+pregnant women. argenx is committed  
+to supporting IIMC and their vital work. 
+Our Boston-based argonauts also 
+supported the Dana-Farber Cancer 
+Institute’s Jimmy Fund by participating  
+in the Jimmy Fund Scooper Bowl® for the 
+third year in a row, helping to raise funds 
+for cancer care and research. Over the 
+years, at the U.S.'s largest all-you-can-eat 
+ice cream festival has raised more than 
+$7.3 million for the cause. 
+We also support mission-driven organizations 
+like the Foyer Handicap Foundation in Geneva, 
+Switzerland, which supports, employs and houses 
+individuals with physical disabilities. One of the 
+Foundation’s initiatives is producing custom clothing.  
+We contracted with them to produce branded items for  
+our internal annual meeting and for a new hire welcome gift, 
+knowing that their mission is to “make possible the complete 
+integration within society of people with physical disabilities 
+as a priority.”
+Community | 
+argenx ESG Report 202337
+
+Page 38:
+Contents
+GovernanceAbout this 
+Report Patients People Planet Appendix
+Governance
+In the rapidly evolving landscape of corporate responsibility, 
+good intentions are not enough — they must be reinforced by 
+thoughtful governance structures and mechanisms to ensure 
+accountability, adaptability and alignment with our values  
+and with the highest ESG standards.
+ESG Governance  
+and Oversight 39
+Ethical Business Conduct 42
+Taxation and  
+Tax Transparency 44
+Animal Welfare 45
+Supply Chain Management 46
+Data Security and Privacy 48
+Community | 
+argenx ESG Report 2023 38
+
+Page 39:
+About this 
+Report Patients People Governance Planet Appendix
+ESG Governance and Oversight
+Our Board of Directors, our highest governance body, is a one-tier board under Dutch  
+law. Our general counsel has primary responsibility for management oversight and helps  
+to guide our ESG strategy and disclosure, in addition to coordinating with the Board  
+of Directors on ESG workstreams.
+Audit & 
+Compliance Committee 
+Remuneration & 
+Nomination Committee 
+Research & 
+Development Committee
+Commercialization 
+Committee 
+ESG Aspects of Audit 
+and Compliance
+ESG Aspects 
+of Responsible 
+Marketing, 
+Patient Access and 
+Incorporating ESG 
+into the Supply Chain
+Chief Operating Officer
+General Operations 
+Chief Scientific Officer/
+Chief Medical Officer
+Research and Development
+Chief Financial Officer
+Finance
+Global Head Quality
+Quality
+Head of HR
+Employees
+General Counsel
+Compliance
+Global Head 
+Technical Operations
+Supply Chain Management 
+and Chemistry, 
+Manufacturing and Controls
+Corporate Communications 
+and IR
+Investor Relations
+Vice President 
+Corporate Development
+Business Development
+ESG Aspects of 
+Product Research 
+and Development
+ESG Aspects for 
+HR and People 
+Development
+reports to
+Board of Directors
+Executive Management Team 
+Committees
+ESG Governance and Oversight | 
+argenx ESG Report 202339
+
+Page 40:
+About this 
+Report Patients People Governance Planet Appendix
+The Board has primary responsibility for setting our ESG strategy. Within the Board of  
+Directors, the Audit and Compliance Committee is charged with overseeing argenx's ESG 
+disclosures, in coordination with other board committees as appropriate, taking into 
+account their specific respective responsibilities. This process is formalized in the Board 
+Rules and the respective committee’s Terms of Reference  . In this way, we engage  
+the entire Board of Directors in ESG oversight with clear accountability instead of creating  
+a standalone ESG committee in isolation.
+The Board of Directors and its committees meet at least five times per year, including 
+discussion of all major ESG initiatives. Executive management is responsible for day-to-day 
+aspects of ESG, including dedicated ESG employees in quality, legal, compliance, HR, supply 
+chain and investor relations who meet regularly in cross-functional core working groups. 
+These dedicated ESG employees regularly interact with the Board of Directors and report 
+on ESG efforts for review of the Board of Directors.
+The Board committees are engaged deeply in their respective following areas  
+of our ESG strategy: 
+ y Remuneration and Nomination Committee
+ ◦ talent and culture
+ ◦ employee diversity, equity and inclusion
+ ◦ employee engagement
+ ◦ board composition
+ y Audit and Compliance Committee
+ ◦ integrity of non-financial reporting and ESG disclosures
+ ◦ non-financial information processes and controls 
+ ◦ code of business conduct and ethics compliance
+ y Commercialization Committee
+ ◦ access to medicine
+ ◦ patient engagement
+ ◦ supply chain
+ ◦ product quality
+ y Research and Development Committee 
+ ◦ ethical research and patient safety
+ ◦ clinical trial diversity
+ ◦ animal welfare
+ESG Governance and Oversight | 
+argenx ESG Report 202340
+
+Page 41:
+About this 
+Report Patients People Governance Planet Appendix
+Board Structure and Dutch Corporate 
+Governance Code
+We are subject to the Dutch Corporate Governance Code and, to the extent we deviate from 
+the best practice principles set out therein, we must explain the reasons for such deviations 
+in our make public disclosures. For the year ended December 31, 2023, we complied with the 
+best practice principles set out in the Dutch governance code, except for certain principles 
+relating to our remuneration policy and practices. The reasons for these deviations are 
+explained in detail in the Dutch Corporate Governance Code section of our 2023 annual  
+report, and primarily relate to the fact that although we are a Dutch company, we are 
+competing in the global talent market and consequently we must ensure our remuneration 
+practices are globally competitive, including against U.S. based talent competitors.
+Additional information on Board structure, committees, members and their backgrounds 
+(including expertise, tenure, independence, nationality and cross-board memberships)  
+is available in the Governance section   of our website.
+Risk Management 
+Our risk and control systems — as well as the risks we have identified as material to  
+our business — are reported in detail in the Risk Appetite & Control   section of our  
+2023 annual report.
+6
+nationalities represented
+Separate
+chair and CEO roles
+89%
+independence
+61
+average age
+33  %
+women
+5
+years average tenure
+ESG Governance and Oversight | 
+argenx ESG Report 202341
+
+Page 42:
+About this 
+Report Patients People Governance Planet Appendix
+Ethical Business Conduct
+The argenx way means that our commitment to ethical business goes beyond regulatory 
+requirements; it’s a fundamental aspect of building and preserving stakeholder trust in 
+service of meaningful innovation. Accordingly, the objective of the Ethics & Compliance 
+program at argenx is to guide, promote and embed a strong ethics and compliance culture 
+to ensure that the right patient receives the right medicine at the right time in the right way. 
+Systematizing our ethical business guidelines creates clarity for all argonauts and the 
+partners, collaborators, and vendors across our network, as we work toward our shared 
+goal of improving patient care.
+Code of Business Conduct and Ethics 
+Our Code of Business Conduct and Ethics   translates our core values of Innovation, 
+Co-creation, Excellence, Humility and Empowerment into specific expectations for all 
+argonauts to live by as co-owners of the company. The Code is a business enabler, guiding 
+our ongoing work and behavior in the increasingly complex, competitive and highly regulated 
+global marketplace as we continue to grow as an integrated global immunology company.
+Senior leaders are expected and required to set visible examples of compliance with the 
+Code, including prioritizing integrity in hiring and promotion, setting variable pay and guiding 
+employee development. All argonauts receive annual training on Code expectations and 
+are required to accept and commit to its contents as a condition of employment. 
+The Audit and Compliance Committee of our Board of Directors supervises Code compliance, 
+informed by quarterly reports from our Global Head of Ethics and Compliance including 
+ethical risks, violations and corrective actions.
+Interactions with Healthcare Professionals
+The spirit of co-creation is one of our core values, and we regularly engage healthcare 
+providers in our mission to provide better, more effective therapies for patients.  
+As with many pharmaceutical companies, the services for which we contract with 
+healthcare professionals include clinical investigations, advisory services and speaking 
+engagements at argenx events. 
+We recognize the potential for perceived or real conflicts of interest when we engage these 
+healthcare professionals, who are also our customers. To avoid even the suggestion of a 
+conflict, we conduct all such interactions with the utmost integrity, scrupulously adhering 
+to government and industry body regulations and enforcing our own strict internal 
+guidelines. We prohibit the exchange of gifts of other items of value to ensure that  
+we avoid even the perception of improper influence.
+Ethical Business Conduct | 
+argenx ESG Report 202342
+
+Page 43:
+About this 
+Report Patients People Governance Planet Appendix
+There is a growing expectation from the public that interactions between pharmaceutical 
+companies and healthcare professionals or organizations should also be transparent.  
+We comply with all laws, regulations and industry codes requiring the disclosure  
+of payments or other transfers of value to healthcare professionals or organizations.  
+We also develop and maintain adequate systems and processes to ensure timely,  
+accurate and complete disclosures. 
+Our Global Anti-Bribery 
+and Corruption Policy
+We do not tolerate bribery or corrupt conduct, either in our direct business dealings  
+or by a third party acting on our behalf. We do not offer, promise, or provide anything  
+of value to improperly influence a business decision or for the purpose of obtaining  
+or retaining business. 
+We are aware that many bribery cases involve payments through third parties.  
+Therefore, we will not permit a third party acting on our behalf to offer improper gifts, 
+payments, or other rewards. 
+Most countries have their own anti-bribery and anti-corruption legislation, and in many 
+countries these laws, such as the UK Bribery Act and the U.S. Foreign Corrupt Practices Act, 
+extend and apply beyond the country’s borders. Corrupt conduct committed in one country 
+may therefore result in civil and criminal actions not only in that country, but also in 
+another country. We are committed to ensuring all our business dealings, wherever they 
+take place, remain free of corrupt practices.
+99.4% of employees completed our Code of  
+Business Conduct training and 99.4% completed 
+our Anti-Bribery Policy training in 2023
+Ethical Marketing and Promotions
+Patients with severe autoimmune disease, as with any condition, deserve to make well-
+informed individual treatment choices in consultation with their healthcare providers.  
+This is only possible when information on treatment and therapies is clear and truthful.  
+At argenx, we only promote our therapies for approved uses, and have strong internal 
+procedures to ensure regulatory compliance and consistency with approved product 
+labelling in each region where we operate.
+In any promotional context, we require all argonauts and those in our wider argenx 
+network to share balanced, honest information about our products in line with approved 
+uses, including all relevant safety information. 
+Ethical Business Conduct | 
+argenx ESG Report 202343
+
+Page 44:
+About this 
+Report Patients People Governance Planet Appendix
+Speak Up and COMPASS Helpline
+We are committed to an environment where open and honest communication is the 
+expectation. We want argonauts to feel comfortable in approaching their manager, Human 
+Resources, Legal and/or Compliance or using the argenx COMPASS Helpline (hosted by a 
+third-party hotline provider) in instances where they have questions, concerns, or believe 
+violations of policies or standards have occurred. We encourage argonauts to always  
+ask questions when they are unsure of the right course of action. In case argonauts prefer 
+to raise their concerns anonymously, they can do so through the COMPASS Helpline.
+Human Rights
+We comply with international labor standards and applicable labor and employment  
+laws in every region where we operate. 
+This includes, but is not limited to:
+ y prohibiting child exploitation and child labor
+ y prohibiting forced, bonded or indentured labor and involuntary prison labor
+ y prohibiting harsh or inhumane treatment, the threat thereof, or any form of modern 
+slavery or human trafficking
+ y upholding the right to freedom of association 
+ y zero tolerance for workplace discrimination
+We also choose to work with third parties who align with our values throughout our 
+network and supply chain. We do not conduct business with any individual or organization 
+that participates in activities we prohibit.
+Taxation and Tax Transparency
+At argenx, our Global Tax Policy   is part of our sustainable business strategy. 
+Transparency, reliability and trust are fundamental to our success in the communities 
+where we work and serve patients; this includes paying our fair share of taxes.  
+These taxes include, but are not limited to, corporate income taxes, employment taxes, 
+and other indirect and local taxes.
+At the core of this strategy is the idea that tax follows business: from innovation to delivery 
+to the patient, our legal entity structure is based on our business needs. As a result, 
+transactions have business purpose and economic rationale in alignment with our values.
+Taxation and Tax Transparency | 
+argenx ESG Report 202344
+
+Page 45:
+About this 
+Report Patients People Governance Planet Appendix
+Animal Welfare
+Until new developments are available, the discovery, development and production of new 
+medicines still requires some use of living animals to ensure quality, efficacy and safety. 
+Our Animal Welfare Policy   provides guidance and key principles to safeguard the 
+welfare of animals used in research conducted by argenx or used on our behalf. 
+Central to our policy is a commitment to the 3R principles of animal welfare: replace  
+(use alternative experiments in place of live animals whenever reasonably possible); reduce 
+(use the minimum number of animals possible to obtain valid results and achieve research 
+objectives); and refine (modify procedures to limit any discomfort and distress to animals).
+Our commitment to the 3R principles includes:
+ y Reduce: we have a strategy to minimize animal surplus, designing studies in a cross-
+functional way that allows sharing of study goals or tissue where possible and involving 
+biostatisticians to help us design studies that limit the number of animals used
+ y Replace: where possible, we use in vitro or ex-vivo experiments to reduce the number 
+of animal experiments needed
+ y Refine: we keep abreast of innovation and development in animal welfare science and 
+use our Animal Welfare Committee to ensure we apply learnings in the R&D community
+Animal Welfare | 
+argenx ESG Report 202345
+
+Page 46:
+About this 
+Report Patients People Governance Planet Appendix
+Supply Chain Management
+Our comprehensive approach to supply chain management underscores our commitment 
+to a secure and reliable supply chain, aligning with industry standards and keeping patient 
+safety at the center.
+Collaborating with reputable third-party contract manufacturers ensures strict adherence 
+to the FDA's current good manufacturing practices. Lonza, with facilities in Slough, UK, 
+Portsmouth, the U.S., Singapore and Visp, Switzerland, plays a pivotal role in our supply 
+chain. We engage Lonza in activities ranging from the development of cell banks to the 
+manufacturing of drug substances, employing validated and scalable systems widely 
+accepted in the industry. Additionally, in 2022, we extended our collaboration to Fujifilm  
+in Hillerød, Denmark, specifically for the large-scale manufacturing of efgartigimod.
+These strategic partnerships enable us to build a robust global network to support  
+the development and commercialization of our products.
+Our commitment to supply chain excellence extends beyond drug substance manufacturing. 
+We collaborate with experienced commercial partners, incorporating redundancy and 
+deploying differentiated technologies to enhance resilience. Every facet of our supply 
+chain, from filling and labelling to packaging, storage, and distribution of investigational 
+and commercial drug products, is meticulously designed to preserve 
+product integrity.
+Temperature control is a critical aspect of our logistics.  
+All shipping solutions undergo rigorous qualification processes, 
+considering seasonal variations. Thermal qualification, 
+transport simulation and shipping route verification studies 
+ensure products remain uncompromised during worldwide 
+transit. We carefully select premium couriers to transport  
+our products, providing an additional layer of assurance,  
+and employ reusable shipping solutions wherever possible 
+to reduce waste.
+Participating in the Rx-360 International Pharmaceutical 
+Supply Chain Consortium audit program further solidifies 
+our commitment to industry standards. While we don't own 
+production facilities, our manufacturing partners actively 
+engage in this program. This dedication extends to our other 
+top-tier suppliers across various outsourced operations. 
+Our approach to product lifecycle management strikes a careful 
+balance between sustainability and responsibility. We accept products for 
+takeback, reuse, or disposal based on stringent criteria, with a focus on full traceability  
+of temperature conditions and the absence of visual damage. This holistic strategy 
+underscores our commitment to a secure and reliable supply chain, ensuring that  
+patient safety remains paramount in every step of our operations.
+Supply Chain Management | 
+argenx ESG Report 202346
+
+Page 47:
+About this 
+Report Patients People Governance Planet Appendix
+Product Traceability and  
+Counterfeit Prevention
+Product traceability is essential for patient safety, and as global supply chain  
+management gets more complicated, we have robust processes to prevent counterfeiting.
+In compliance with national legislation like the United States Drug Supply Chain Security 
+Act and the European Union Falsified Medicines Directive, all commercial argenx products 
+are coded with serial numbers at unit, case and pallet levels. Each sellable unit has its own 
+unique random serial number product code along with its lot number and expiration date. 
+These are printed in a readable format for human eyes, as well as encoded in a 2D data 
+matrix barcode. Dedicated software generates and tracks these numbers. To prevent 
+physical product tampering, tamper-evident seals are added during manufacturing,  
+and transport vehicles are tagged with numbered seals as well. 
+We require our contract manufacturing organizations (CMOs), 
+which perform batch manufacturing, to maintain rigorous 
+quality systems of their own. This includes compiling a  
+full processing history and lot genealogy of consumed raw 
+materials, along with documentation of all processing steps. 
+An enterprise resource planning (ERP) system allows us to 
+trace argenx drug substances, semi-finished drug products  
+and finished products, whether they are at CMOs, third-party 
+warehouses and logistics distributors, or in transit. We require 
+our distributors and wholesalers to trace downstream product 
+distribution to our end customers.
+0 incidents of confirmed or suspected counterfeit activity were reported in 2023.  
+Our Management of Suspected Falsified Medicines process outlines specific action steps  
+to take in the event of any suspicious activity regarding falsified or counterfeit medicine.  
+If a case is reported, the batch of medicine in question is immediately separated and 
+quarantined pending an investigation. A clear process outlines how we will promptly notify 
+impacted stakeholders throughout the supply chain, along with any relevant authorities  
+or regulatory bodies if any incidents of counterfeit products were to be confirmed. 
+0
+incidents of confirmed 
+or suspected counterfeit 
+activity
+Supply Chain Management | 
+argenx ESG Report 202347
+
+Page 48:
+About this 
+Report Patients People Governance Planet Appendix
+Data Security and Privacy
+At argenx, we prioritize information and privacy protection for our patients, employees  
+and stakeholders — from intellectual property to personal health information. Our robust 
+information security program employs technical tools, well-defined processes and highly 
+trained staff to prevent data breaches and safeguard company assets.
+We adhere to the European General Data Protection Regulation (EU GDPR), as well as 
+other federal, regional, state or national data protection, privacy and security laws and 
+regulations applicable in the countries in which we conduct our business. We follow 
+relevant privacy, cookie and retention policies and procedures.
+Our Information Security Management System (ISMS) aligns with 
+ISO 27001, incorporating GDPR and HIPAA standards. We conduct 
+regular self-assessments to review the effectiveness of our privacy 
+and security controls.
+We conduct security and data protection impact assessments 
+(CSIAs and DPIAs), to appropriately evaluate security and privacy 
+risks and for the confidentiality, integrity and resilience of our 
+information assets and our adherence to generally recognized 
+data protection principles and security standards. When exchanging 
+personal data or personally identifiable information with third parties, 
+we include data protection and privacy-compliant language in  
+our contracts, including executing data processing and data transfer 
+agreements, and data transfer impact assessments, where relevant. 
+Many of our partners and vendors are certified to ISO 27001 and all 
+partners and vendors undergo security reviews and audits, including 
+mandatory security questionnaires, privacy impact assessments,  
+GDPR compliance checks and appointments of responsible individuals/
+process owners. 
+Our incident response and data breach procedures are designed for the timely detection, 
+reporting, investigation of all security incidents, as well as the timely notification of any 
+reportable breaches (including any material cybersecurity incidents and personal data 
+breaches) to the competent authorities and the timely communication to the affected 
+individuals, where relevant. We maintain records of breaches on our Quarterly Corporate 
+Risk Dashboard and our Personal Data Breach Register. We also monitor and regularly 
+report our security and data breach metrics to senior management, including the Audit  
+and Compliance Committee of our Board, the Global Corporate Compliance Committee, 
+and the Global Risk Management Committee.
+Routine training on data security, privacy and phishing awareness is provided to all 
+employees and contractors annually. Data security and privacy oversight is managed  
+by our Data Protection Officer, who provides quarterly updates to senior management, 
+including the Audit and Compliance Committee, the Global Corporate Compliance 
+Committee, and the Global Risk Management Committee.
+Data Security and Privacy | 
+argenx ESG Report 202348
+
+Page 49:
+About this 
+Report Patients People Governance Planet Appendix
+Our robust framework includes a comprehensive Incident Response Plan so that  
+any employee who suspects a potential security breach may report and escalate their 
+concerns efficiently. This plan guides employees through a step-by-step procedure  
+in case of a security incident, with escalation based on severity.
+In 2023, we identified and addressed only low-risk external personal data breaches,  
+none of which involved argenx employees or information assets. Notably, in line with  
+our internal procedures and applicable breach reporting requirements, none of the security 
+incidents reported to us, internally and externally, required disclosure to the local competent 
+data protection authorities or other competent authorities. Our commitment to privacy 
+and security is underscored by continuous internal compliance reviews and regular 
+self-assessments, identifying potential gaps and monitoring our privacy and reporting  
+on program's performance. 
+98.83% of argonauts globally and 100% of 
+argonauts in Japan as well as 100% of our 
+consultants completed the GDPR interactive 
+training in 2023
+Data Security and Privacy | 
+argenx ESG Report 202349
+
+Page 50:
+Contents
+PlanetAbout this 
+Report Patients People Governance Appendix
+Planet
+As we center patient needs in everything we do, we recognize our 
+responsibility to act as good stewards of the planet we all share. 
+We are committed to measure and manage our impact on the 
+environment, from improving energy efficiency and minimizing 
+waste within our sites to reducing the use of hazardous materials 
+in our operations. 
+Environmental Impact 51
+Greenhouse Gas Emissions  
+(Scope 1, 2, and 3) 52
+Data Security and Privacy | 
+argenx ESG Report 2023 50
+
+Page 51:
+About this 
+Report Patients People Governance Planet Appendix
+Environmental Impact
+We're dedicated to sustainable practices within argenx and throughout our value chain.  
+We start by examining our own sites as well as working closely with our main suppliers, 
+making sure they follow environmental, health and safety guidelines that match  
+our commitment to environmental stewardship.
+Operations Efficiency in Office
+ y Our Tokyo, Japan offices are LEED 
+certified and received the Minato 
+Model Carbon Dioxide Fixation 
+Certification, and received the 
+highest rating (S/excellent) from 
+CASBEE, the Comprehensive 
+Assessment System for Built 
+Environment Efficiency in Japan
+ y Our Boston, United States  
+office has received the BOMA 360  
+Performance Program designation. 
+BOMA 360 is a globally recognized 
+standard for operational best 
+practices and is validated by GRESB 
+Energy Consumption
+Gas Consumption
+Waste Waste
+Type of Waste Volume
+Hard plastic 530 kg
+Glass 490 kg
+Paper and 
+cardboard 3,600 kg
+PMD 580 kg
+Residual waste 6,660 kg
+Medical waste 3,420 kg
+Waste water 630 kg
+EPS waste 5 m3
+Non 
+halogenated 
+solvents
+2,480 kg
+Type of Waste Volume
+General waste 1,750 kg
+Waste plastic 395 kg
+Magazine/ 
+leaflet 40 kg
+Cardboard scrap 65 kg
+Paper 150 kg
+Waste total 2,400 kg
+Zwijnaarde 814,362 kWh
+Tokyo 39,177 kWh
+Boston 87,108 kWh
+Zwijnaarde 52,427 m3
+Tokyo, JapanZwijnaarde, BelgiumLocation
+Location
+Progress Around the World
+Environmental Impact | 
+argenx ESG Report 202351
+
+Page 52:
+About this 
+Report Patients People Governance Planet Appendix
+Greenhouse Gas Emissions 
+(Scope 1, 2, and 3)
+We calculated our greenhouse gas (GHG) emissions for the first time in its entirety for 2023. 
+We completed these calculations as a first iteration and on a voluntary basis for the general 
+requirements of a GHG emissions calculation. Reporting on our GHG emissions will  
+be mandatory as of January 1, 2024 under the CSRD for fiscal year 2024. 
+The GHG footprint was calculated using the GHG Protocol as guidance for the 
+methodological approach followed. Emission factors were sourced from publicly available 
+databases including the French database: ADEME (Base Empreinte  ) and, where needed, 
+the UK database: DEFRA 2023 emission factors  .
+When necessary, reference was made to the IPCC Sixth Assessment report for the Global 
+Warming Potential factors.
+This GHG footprint covers the emissions of argenx SE and all of its subsidiaries for the 
+timeframe 1 January 2023 to 31 December 2023.
+argenx Spain S.L. was incorporated in October 2023. Emissions generated from this entity 
+have therefore been accounted for where appropriate.
+Since this is the first GHG footprint calculation for us, this calculation was completed  
+using readily available actual data alongside industry-specific averages and assumptions, 
+which is likely to be adapted in the future reporting years.
+Explicit reference is made to the notes included in the below tables.
+Greenhouse Gas Emissions (Scope 1, 2, and 3) | 
+argenx ESG Report 202352
+
+Page 53:
+About this 
+Report Patients People Governance Planet Appendix
+Consolidated Emissions in tCO2e at argenx SE Level
+Emissions in tCO2e Notes
+Total GHG emissions (location based) 433,347
+Total GHG emissions (market based) 433,353
+Scope 1 378 • Fuel-related emissions based on HR insights and  
+proxy calculations done using the employee number, 
+where no data was available
+• Assumed petrol use for company cars
+• Gas-related emissions based on actual data and  
+proxy calculations done using the number of desks, 
+where no data was available
+• Assumed negligible refrigerant use
+Scope 2 (location based) 183 • Based on actual electricity consumption and  
+proxy calculations done using the number of desks, 
+where no data was available
+• Location factors = generation/most recent 
+• Market factors = residual/default to location
+Scope 2 (market based) 189
+Scope 3 Total1 432,786
+Scope 3 Category 1:  
+Purchased Goods and Services
+378,956 • Detailed until €1 million (and others where possible) 
+and thereafter split emissions factor (50:50) between 
+Pharmaceutical products and Research and development
+Scope 3 Category 2:  
+Capital goods
+28,054 • Based on actual fixed asset spend data for applicable 
+entities, using the most appropriate emission factors 
+available according to the item purchased
+Scope 3 Category 3:  
+Fuel related
+97 • Based on data used for scope 1&2 calculations
+Scope 3 Category 4&9:  
+Upstream and Downstream Transportation 
+and Distribution2
+18,563 • Based on spend-related data only
+• Breakdown per transport mode based on argenx’s insights
+Scope 3 Category 5:  
+Waste
+90 • Based on EU waste trends assumptions and the number  
+of employees
+• It is noted that the estimate for Zwijnaarde might be 
+inaccurate considering it has a laboratory and it is not 
+differentiated from the office uses. This will be refined  
+in future reporting years
+Scope 3 Category 6:  
+Business Travels
+5,328 • Based on travel agent spend-related data and using the 
+most conservative emission factor (associating all spend 
+with air travel)
+Scope 3 Category 7:  
+Employee Commuting
+538 • Based on HR insights and SDWorx research assumptions 
+and using the most appropriate and conservative emissions 
+factors to account for car, public transport or other travel 
+mediums
+Scope 3 Category 12:  
+End of life treatment of sold product
+29 • Based on revenue generated and cost of product
+• Based on disposal methods per product sold  
+(as calculated)
+Scope 3 Category 15:  
+Investments
+1,130.98 • Based on % ownership and employee ratio
+• Based on own emissions calculations (peer)
+1) The scope 3 categories left off from this disclosure have been identified as immaterial or not significant to the overall  
+GHG emissions associated with argenx SE. 
+2) The GHG emissions associated with Transportation and Distribution could not be distinguished between upstream  
+and downstream in this reporting year.
+Greenhouse Gas Emissions (Scope 1, 2, and 3) | 
+argenx ESG Report 202353
+
+Page 54:
+About this 
+Report Patients People Governance Planet Appendix
+The overall GHG emissions intensity (total GHG emissions per $ net revenue, which covers 
+net product sales and collaboration revenue) of the Group is noted as 0.0004 tCO2e/$, using 
+the location-based total GHG emissions and 0.0004 tCO 2e/$, using the market-based total 
+GHG emissions. We refer to footnote 15, Net Product Sales and footnote 16, Collaboration 
+Revenue in the consolidated financial statements included in the 2023 annual report   
+for details on the net product sales and collaboration revenue.
+Detailed Breakdown of GHG Emissions per Legal Entity
+in tCO2e
+Total 
+Emissions 
+(location 
+based)
+Total 
+Emissions 
+(market 
+based) Scope 1
+Scope 2 
+(location 
+based)
+Scope 2 
+(market 
+based)
+Total group 433,347 433,353 378 183 189
+argenx Benelux BV 5,290.65 5,290.65 1.60 0.30 0.30
+argenx BV 303,953.24 303,952.64 310.39 118.82 118.22
+argenx Canada Inc. 5,453.58 5,453.58 0.42 0.06 0.06
+argenx Germany GmbH 7,283.73 7,286.34 15.22 4.54 7.15
+argenx Italy S.r.l. 5,310.77 5,310.95 14.59 0.78 0.96
+argenx Japan K.K. 8,667.61 8,667.61 0.00 21.70 21.70
+argenx Netherlands Services B.V. 5,291.54 5,291.58 5.67 0.88 0.92
+argenx France SAS 5,330.60 5,331.21 20.05 0.44 1.05
+argenx SE 7,214.83 7,214.83 0.00 0.00 0.00
+argenx Switzerland SA 5,831.74 5,831.74 6.33 0.25 0.25
+argenx UK Ltd. 5,363.17 5,366.14 3.80 3.90 6.87
+argenx US Inc. 68,355.30 68,355.30 0.00 30.90 30.90
+argenx Spain S.L. 0.74 0.61 0.42 0.32 0.19
+Greenhouse Gas Emissions (Scope 1, 2, and 3) | 
+argenx ESG Report 202354
+
+Page 55:
+Contents
+AppendixAbout this 
+Report Patients People Governance Planet
+Appendix
+Performance Data 56
+SASB Table 60
+Reporting Practices 64
+Greenhouse Gas Emissions (Scope 1, 2, and 3) | 
+argenx ESG Report 2023 55
+
+Page 56:
+About this 
+Report Patients People Governance Planet Appendix
+Performance Data
+Introduction
+Patients
+Topic Accounting Metric Unit of 
+Measure argenx Disclosure
+Employees Number of employees globally Number 1,148
+Innovation Amount globally invested in R&D  
+in 2023
+USD $859 million
+Clinical Trials Active clinical trials Number 24
+Clinical trial patients treated  
+with our own pipeline candidates
+Number 2900+
+Innovation Pipeline candidates out-licensed  
+to our partners
+Number 4
+Number of programs that have been 
+tested in humans since our inception
+Number 9
+Topic Accounting Metric Unit of 
+Measure argenx Disclosure
+Access to Medicines Number of patients approved for PAA 
+for their gMG patients
+Number 330+ 
+Percentage change in:  
+(1) weighted average list price and 
+(2) weighted average net price across 
+product portfolio compared to 
+previous reporting period
+Percentage 
+(%) 
+(1) 2  
+(2) 2
+Percentage change in:  
+(1) list price and  
+(2) net price of product with largest 
+increase compared to previous 
+reporting period
+Percentage 
+(%) 
+(1) 2 
+(2) 2
+Clinical Trials Active clinical trials Number 24
+Number of inspections related 
+to clinical trial management and 
+pharmacovigilance that resulted in:  
+(1) entity voluntary remediation or  
+(2) regulatory or administrative actions 
+taken against the entity
+Number 0
+Total amount of monetary losses  
+as a result of legal proceedings 
+associated with clinical trials  
+in developing countries
+Presentation 
+currency
+0
+Innovation Amount globally invested in R&D  
+in 2023
+USD $859 million
+Patient Engagement  
+and Advocacy
+Number of patient advocacy  
+projects undertaken or organizations 
+engaged with
+Number More than 25 patient panels and 
+listening sessions in 10 countries
+Quality Number of recalls issued Number 0
+Total units recalled Number 0
+Performance Data | 
+argenx ESG Report 202356
+
+Page 57:
+About this 
+Report Patients People Governance Planet Appendix
+Patients – Continuation 
+People
+Topic Accounting Metric Unit of 
+Measure argenx Disclosure
+Quality Number of fatalities associated  
+with products
+Number 0
+Total Amount of products accepted  
+for take-back, reuse or disposal
+Metric tonnes (t) 0.03122
+Percentage of CAPAs considered 
+preventative
+Percentage (%) 81
+Number of enforcement actions  
+taken in response to violations of  
+good manufacturing practices (GMP) 
+or equivalent standards, by type
+Number 0
+Number of FDA safety notices Number 0
+Percentage of audits completed on 
+vendors involved in manufacturing, 
+testing and distribution of argenx 
+products and product candidates. 
+Percentage (%) 100
+Number of falsified or counterfit 
+medicine incidents reported 
+Number 0
+Number of actions that led to  
+raids, seizure, arrests, or filing  
+of criminal charges related  
+to counterfeit products
+Number 0
+Topic Accounting Metric Unit of 
+Measure argenx Disclosure
+Employees Number of full-time employees Number 1,148
+Number of consultants Number 309
+Number of Research and  
+Development employees
+Number 410
+Number of geographic regions Number 10
+Talent Attraction, 
+Development  
+& Retention
+(1) Voluntary and  
+(2) involuntary turnover rate for:  
+(a) executives/senior managers,  
+(b) mid-level managers,  
+(c) professionals, and (d) all others
+Percentage 
+(%)
+(1) Voluntary turnover rate: 5 
+(2) Involuntary turnover rate: 2
+Diversity, Equity, 
+Inclusion
+Number of male employees Number 486
+Number of female employees Number 662
+Percentage of employees more than 
+50 years-old
+Percentage 
+(%)
+26
+Percentage of employees less than  
+30 years-old
+Percentage 
+(%)
+7
+Percentage of employees between  
+the ages of 30-50 years-old
+Percentage 
+(%)
+67
+Occupational Health  
+& Safety
+Total Recordable Incident Rate (TRIR) Injuries per 
+100 employees
+0
+Days Away, Restrictred,  
+or Transferred Rate (DART)
+per 200,000 
+employee hours 
+worked
+0
+Performance Data | 
+argenx ESG Report 202357
+
+Page 58:
+About this 
+Report Patients People Governance Planet Appendix
+People – Continuation 
+Governance and Ethics
+Topic Accounting Metric Unit of 
+Measure argenx Disclosure
+Occupational Health  
+& Safety
+Number of incidents causing 
+permanent injury
+Number 0
+Number of days lost to incidents 
+causing permanent injury
+Number 0
+Number of incidents causing 
+temporary injury
+Number 0
+Number of days lost to incidents 
+causing temporary injury
+Number 0
+Number of days losts due  
+to injury (LTIR)
+Number 0
+Topic Accounting Metric Unit of 
+Measure argenx Disclosure
+Ethical Marketing Total amount of monetary losses as a 
+result of legal proceedings associated 
+with false marketing claims
+USD 0
+Business Ethics Total amount of monetary losses as a 
+result of legal proceedings associated 
+with corruption and bribery
+USD 0
+Supply Chain 
+Management
+Percentage of  
+(1) entity’s facilities and participating 
+in the Rx-360 International 
+Pharmaceutical Supply Chain 
+Consortium audit programme 
+or equivalent third-party audit 
+programmes for integrity of supply 
+chain and ingredients  
+(2) Percentage of Tier I suppliers’ 
+facilities participating in the Rx-360 
+International Pharmaceutical Supply 
+Chain Consortium audit programme 
+or equivalent third-party audit 
+programmes for integrity of supply 
+chain and ingredients
+Percentage (%) argenx does not own production 
+facilities. argenx partners with 
+Lonza for its global manufacturing 
+capabilities. Lonza participates in 
+Rx-360. argenx has selected other 
+top-tier suppliers across many of its 
+outsourced operations, whether in 
+preclinical, clinical or manufacturing 
+and distribution operations, of which 
+some are participating in Rx-360
+Governance Average age of argenx board members Number 60
+Governance Number 5
+Percentage of women board members Percentage (%) 33
+Number of nationalities represented Number 6
+Percentage of independence Percentage (%) 89
+Chair and CEO roles Separate
+Business Ethics Percentage of employees that 
+completed the Code of Business 
+conduct and ethics training
+Percentage (%) 99.4
+Business Ethics Percentage of employees  
+that completed the Anti-Bribery  
+Policy training
+Percentage (%) 99.4
+Performance Data | 
+argenx ESG Report 202358
+
+Page 59:
+About this 
+Report Patients People Governance Planet Appendix
+Planet  
+Topic Accounting Metric Unit of 
+Measure argenx Disclosure
+Environmental Impact Total GHG emissions (location based tCO2e 433,347
+Environmental Impact Total GHG emissions (market based) tCO2e 433,353
+Environmental Impact Scope 1 tCO2e 378
+Environmental impact Scope 2 (Location based) tCO2e 183
+Environmental Impact Scope 2 (Market based) tCO2e 189
+Environmental Impact Scope 3 Total tCO2e 432,7861)
+Environmental Impact Location based GHG  
+emissions intensity
+tCO2e/$ 0.0004
+Environmental Impact Market based GHG emissions intensity tCO2e/$ 0.0004
+Environmental Impact Tokyo office waste total kg 2,400
+Environmental Impact Tokyo office general waste kg 1,750
+Environmental Impact Tokyo office waste plastic kg 395
+Environmental Impact Tokyo office magazine/leaflet kg 40
+Environmental Impact Tokyo office cardboard scrap kg 65
+Environmental Impact Tokyo office paper kg 150
+Environmental Impact Zwijnaarde office hard plastic kg 530
+Environmental Impact Zwijnaarde office glass kg 490
+Environmental Impact Zwijnaarde office paper and cardboard kg 3,600
+Environmental Impact Zwijnaarde office PMD kg 580
+Environmental Impact Zwijnaarde office residual waste kg 6,660
+Environmental Impact Zwijnaarde office medical waste kg 3,420
+Environmental Impact Zwijnaarde office waste water kg 630
+Environmental Impact Zwijnaarde office EPS waste m3 5
+Environmental Impact Zwijnaarde office  
+nonhalogenated solvents 
+kg 2,480
+Environmental Impact Zwijnaarde office energy consumption kWh 814,362
+Environmental Impact Tokyo office energy consumption kWh 39,177
+Environmental Impact Boston office energy consumption kWh 87,108
+Environmental Impact Zwijnaarde office gas consumption m3 52,427
+1) The scope 3 categories left off from this disclosure have been identified as immaterial or not significant to the overall  
+GHG emissions associated with argenx SE.
+All data measured regularly and YOY throughout the pillars will be captured here  
+(data will be collected in excel worksheets).
+Performance Data | 
+argenx ESG Report 202359
+
+Page 60:
+About this 
+Report Patients People Governance Planet Appendix
+SASB Table
+Topic Accounting Metric SASB Code argenx Disclosure
+Number of Patients 
+Treated
+Number of patients treated. HC-BP-000.A 2900+ clinical trial patients treated 
+with candidates from our pipeline 
+Number of Drugs Number of drugs  
+(1) in portfolio and  
+(2) in research and development 
+(Phases 1-3). 
+HC-BP-000.B As of December 31, 2023:  
+Number of drugs (1) in portfolio: 2 
+Number of drugs (2) in research  
+and development: 
+Phase 1: 1 
+Phase 2: 3 
+Phase 3: 1 
+IV efgartigimod and SC efgartigimod 
+are considered as two separate drugs 
+for the purpose of this SASB metric. 
+For more information on each  
+of the indications and the status  
+of clinical trials, we refer to our  
+2023 annual report
+Safety of Clinical Trial 
+Patients
+Discussion, by region, of management 
+process for ensuring quality and 
+patientsafety during clinical trials.
+HC-BP-210a.1 We ensured the continuous 
+monitoring of the safety profile  
+of our investigational products and 
+ensured compliance with adverse 
+event reporting to health authorities 
+worldwide. We also ensured supply  
+to patients on clinical trials and have 
+had no supply disruption. In 2023, 
+there were 24 active clinical trials
+Number of inspections related 
+to clinicaltrial management and 
+pharmacovigilancethat resulted in:  
+(1) entity voluntaryremediation or  
+(2) regulatory oradministrative actions 
+taken against theentity.
+HC-BP-210a.2 0
+Total amount of monetary losses as a 
+result of legal proceedings associated 
+with clinical trials in developing 
+countries 1.
+HC-BP-210a.3 0
+Access to Medicine Description of actions and initiatives 
+to promote access to health care 
+products for priority diseases and  
+in priority countries as defined  
+by the Access to Medicine Index.
+HC-BP-240a.1 argenx did not sustain any monetary 
+losses in the reporting period as a 
+result of legal proceedings associated 
+with the conduct described. argenx 
+discloses all material legal and 
+regulatory proceedings in its 2023 
+annual report
+List of products on the WHO List  
+of Prequalified Medicinal Products  
+as part of its Prequalification  
+of Medicines Programme (PQP).
+HC-BP-240a.2 0
+SASB Table | 
+argenx ESG Report 202360
+
+Page 61:
+About this 
+Report Patients People Governance Planet Appendix
+SASB Table  
+Continuation
+Topic Accounting Metric SASB Code argenx Disclosure
+Affordability and Pricing Percentage change in:  
+(1) weighted average list price and  
+(2) weighted average net price across 
+product portfolio compared to previous 
+reporting period.
+HC-BP-240b.2 (1) 2 
+(2) 2
+Percentage change in:  
+(1) list price and  
+(2) net price of product with largest 
+increase compared to previous 
+reporting period.
+HC-BP-240b.3 (1) 2 
+(2) 2
+Drug Safety Products listed in public medical 
+product safety or adverse event  
+alert databases.
+HC-BP-250a.1 argenx maintains high ethical 
+standards with regards to patient 
+safety. To guide us through this  
+there are processes in place on how  
+to manage safety or adverse events
+Utilizing these processes, argenx 
+collects, assesses and reports  
+adverse events and other safety 
+information in compliance with all 
+pharmacovigilance standards and 
+regulatory requirements applicable  
+to argenx. argenx regularly reviews the 
+accumulated safety data from various 
+sources according to established safety 
+surveillance schedule to detect signals
+Identified signals are further  
+evaluated and recommended  
+actions are taken based on the  
+results of the signal evaluation
+Number of fatalities associated  
+with products.
+HC-BP-250a.2 0
+(1) Number of recalls issued,  
+(2) total units recalled.
+HC-BP-250a.3 0
+Total amount of product accepted  
+for takeback, reuse, or disposal. 
+HC-BP-250a.4 0.03122 t 
+Number of enforcement actions  
+taken in response to violations of  
+good manufacturing practices (GMP)  
+or equivalent standards, by type 2.
+HC-BP-250a.5 0
+SASB Table | 
+argenx ESG Report 202361
+
+Page 62:
+About this 
+Report Patients People Governance Planet Appendix
+SASB Table  
+Continuation
+Topic Accounting Metric SASB Code argenx Disclosure
+Counterfeit Drugs Description of methods  
+and technologies used to  
+maintain traceability of products 
+throughout the supply chain  
+and prevent counterfeiting.
+HC-BP-260a.1 To the extent this is required by 
+national legislation (e.g. DSCSA in U.S. 
+and FMD in EU), all commercial argenx 
+products are serialized at unit, case 
+and pallet (aggregated level). On each 
+sellable unit a unique random serial 
+number is printed as well as a product 
+code, lot number and expiration date, 
+both in human readable format and 
+encoded in a 2D data matrix barcode. 
+All products are tamper-evident sealed 
+and shipping systems and trucks are 
+sealed with numbered seals during 
+transit to prevent product tampering. 
+During batch manufacturing 
+(outsourced to CMOs), all processing 
+steps are documented to have a full 
+processing history and lot genealogy 
+of consumed raw materials, which 
+is also maintained in the CMO’s 
+quality system. An ERP system is 
+used to provide full lot genealogy 
+and traceability of intermediates and 
+finished products owned by argenx, 
+located at its CMOs, third party 
+warehouses and 3PL. For downstream 
+distribution, the entity can rely on the 
+distributors and wholesaler’s systems 
+to trace product to the end customer
+Discussion of process for alerting 
+customers and business partners to 
+potential or known risks associated 
+with counterfeit products.
+HC-BP-260a.2 argenx has a procedure in place to 
+ensure that all suspicions of falsified 
+or counterfeit medicine are reported 
+in a consistent manner. When a case 
+is reported, the impacted batches 
+will be separated and quarantined, 
+an investigation will be performed 
+and the impacted stakeholders in the 
+supply chain will be informed, as well 
+as the relevant competent authorities 
+in case of confirmed counterfeit 
+product. Market actions will be  
+taken in consultation with the 
+competent authority
+Number of actions that led  
+to raids, seizure, arrests, or  
+filing of criminal charges related  
+to counterfeit products.
+HC-BP-260a.3 0
+Ethical Marketing Total amount of monetary losses as a 
+result of legal proceedings associated 
+with false marketing claims.
+HC-BP-270a.1 0
+Description of code of ethics governing 
+promotion of off-label use of products.
+HC-BP-270a.2 Please refer to page 43  
+of this report.
+SASB Table | 
+argenx ESG Report 202362
+
+Page 63:
+About this 
+Report Patients People Governance Planet Appendix
+SASB Table  
+Continuation
+Topic Accounting Metric SASB Code argenx Disclosure
+Employee Recruitment, 
+Development & 
+Retention
+Discussion of talent recruitment and 
+retention efforts for scientists and 
+research and development staff.
+HC-BP-330a.1 Please refer to  
+page 28 of this report.
+(1) Voluntary and  
+(2) involuntary turnover rate for:  
+(a) executives/senior managers,  
+(b) mid-level managers,  
+(c) professionals, and (d) all others.
+HC-BP-330a.2 (1) Voluntary turnover rate: 5 
+(2) Involuntary turnover rate: 2
+Supply Chain 
+Management
+Percentage of  
+(1) entity’s facilities and  
+(2) Tier I suppliers’ facilities 
+participating in the Rx-360 
+International Pharmaceutical Supply 
+Chain Consortium audit programme 
+or equivalent third-party audit 
+programmes for integrity of supply 
+chain and ingredients.
+HC-BP-430a.1 argenx does not own production 
+facilities. argenx partners with 
+Lonza for its global manufacturing 
+capabilities. Lonza participates in 
+Rx-360. argenx has selected other 
+top-tier suppliers across many of its 
+outsourced operations, whether in 
+preclinical, clinical or manufacturing 
+and distribution operations, of which 
+some are participating in Rx-360.
+Business Ethics Total amount of monetary losses as a 
+result of legal proceedings associated 
+with corruption and bribery.
+HC-BP-510a.1 0
+Description of code of ethics  
+governing interactions with health  
+care professionals.
+HC-BP-510a.2 We conduct all interactions with 
+healthcare professionals with the 
+utmost integrity, scrupulously 
+adhering to government and industry 
+body regulations, as well as enforcing 
+our own strict internal guidelines.  
+For more information, see pages 31-32 
+of our Code of Business Conduct  
+and Ethics   available on our website.
+SASB Table | 
+argenx ESG Report 202363
+
+Page 64:
+About this 
+Report Patients People Governance Planet Appendix
+Reporting Practices
+About this Report 
+Our Board of Directors reviewed and approved the ESG report, after discussing it with our 
+senior executives. This report is up to date as of December 31, 2023, unless another date  
+is specified for certain information, which may be the case if we have access to more recent 
+information which we deem relevant to include. 
+This is the third year that we have published an ESG report. The report uses the Sustainability 
+Accounting Standards Board (SASB) standards for the Biotechnology & Pharmaceuticals 
+industry as a framework of reference to report our metrics and initiatives. 
+In case of any questions regarding the contents of this report, please contact our  
+team via the contact information specified on our website. This report is compliant with 
+existing regulations in the EU, aligning with the Non-Financial Reporting Directive (NFRD).  
+A statement pertaining to disclosures according to NFRD is also included in our 2023  
+annual report. We have calculated our European taxonomy eligibility, which we have 
+concluded to be 0%. We refer to our annual report for additional information on the NFRD 
+and European taxonomy eligibility. We are required to disclose according to CSRD in fiscal 
+year 2024, reported in calendar year 2025.
+Legal Information 
+This ESG report is published by argenx SE, a company incorporated under the laws of  
+the Netherlands, with its registered statutory seat in Breda, the Netherlands, and its office 
+address at Laarderhoogtweg 25, 1101 EB Amsterdam, the Netherlands. argenx SE  
+has its ordinary shares listed on the Euronext Brussels exchange and American Depository 
+Receipts of ordinary shares in its capital are listed on the NASDAQ exchange. argenx SE 
+holds 100% of the shares in argenx Benelux BV and argenx BV, both limited liability 
+companies incorporated under the laws of Belgium with their office address at Industriepark 
+Zwijnaarde 7, 9052 Zwijnaarde (Ghent), Belgium. argenx BV holds 100% of the shares  
+in argenx US Inc., argenx Japan K.K., argenx Switzerland SA, argenx France SAS, argenx 
+Germany GmbH, argenx Canada Inc., argenx UK Ltd., argenx Italy S.a.r.l., argenx 
+Netherlands Services B.V., argenx Spain S.L. and argenx Australia Pty Ltd.
+The activities of each of the aforementioned entities of the argenx group are consolidated 
+in this ESG report, and references to “we,” “our,” “the company” or “argenx” should be read 
+as references to the argenx group, unless otherwise indicated. 
+We own various trademark registrations and applications, and unregistered trademarks, 
+including VYVGART®, VYVGART HYTRULO™, VYVDURA®, ARGENX™, ABDEG™, NHANCE™,  
+SIMPLE ANTIBODY™, ARGENXMEDHUB™ and our corporate logo. Solely for convenience,  
+the trademarks and trade names in this ESG report may be referred to without the  
+® and ™ symbols, but such references should not be construed as any indicator that their 
+respective owners will not assert, to the fullest extent under applicable law, their rights 
+thereto. We do not intend to use or display other companies’ trademarks and trade names 
+to imply a relationship with, or endorsement or sponsorship of us, any other companies.
+Reporting Practices | 
+argenx ESG Report 202364
+
+Page 65:
+About this 
+Report Patients People Governance Planet Appendix
+VYVGART (efgartigimod alfa) (VYVGART) has been approved in the U.S., Japan, the EU, the UK, 
+Israel, Mainland China and Canada for the intravenous treatment of gMG. We have now 
+commercialized VYVGART in the U.S., several countries in the EU, Japan, Mainland China 
+(through our partner Zai Lab), Israel (through our partner Medison) and Canada. 
+VYVGART SC (efgartigimod alfa + hyaluronidase qvfc) (VYVGART SC) has been approved in 
+the U.S. as VYVGART HYTRULO™ (VYVGART HYTRULO) and in Japan as VYVDURA® 
+(VYVDURA) for the treatment of gMG. VYVGART SC has also been approved in Europe and 
+the UK for the treatment of gMG. We have now commercialized VYVGART SC in the U.S. (as 
+VYVGART HYTRULO) and in Germany. Pricing and reimbursement discussions for VYVGART 
+SC remain ongoing in multiple other countries, including in Europe and Japan (as 
+VYVDURA). 
+For both VYVGART and VYVGART SC, we are aiming for further approvals and we  
+are working to expand commercialization in other jurisdictions.
+Where not specified, references in this ESG report to VYVGART should be read as 
+references to VYVGART and/or VYVGART SC (including VYVGART HYTRULO in relation  
+to the U.S. and VYVDURA in relation to Japan) depending on the context.
+No Assurance on the Contents of This Report 
+Information made available in this report is reviewed carefully by us, including by our 
+Board of Directors and our senior management team, to limit inaccuracies, misstatements 
+or errors. Notwithstanding, in the event of any discrepancy between this ESG report and our 
+consolidated financial statements for the period ending December 31, 2023, the information 
+in our consolidated financial statements shall prevail. This ESG report has not been 
+externally assured, nor has it been subject to any audit to ensure compliance with 
+generally accepted accounting principles.
+Forward-Looking Statements 
+The contents of this ESG report may include statements that are, or may be deemed to be, 
+“forward-looking statements.” These forward-looking statements can be identified by the  
+use of forward-looking terminology, including the terms “believes,” “hopes,” “estimates,” 
+“anticipates,” “expects,” “intends,” “may,” “will” or “should” and include statements we make 
+concerning its global launch strategy; its expectation concerning treatment options, scale 
+of potential patients and impact and effect on patients; estimates concerning the 
+commercialization potential of VYVGART; expected approvals of VYVGART by regulatory 
+authorities in new regions, in new formulations and/or for new indications; evaluation  
+of efgartigimod in additional high-need conditions by 2025 and ambitions or expectations 
+regarding the further build out of our non-financial disclosures in future years. A further 
+list and description of these risks, uncertainties and other risks can be found in our  
+2023 annual report and our U.S. Securities and Exchange Commission (SEC) filings  
+and reports, including in our most recent annual report on Form 20-F filed with the SEC,  
+as well as subsequent filings and reports filed by us with the SEC. Given these uncertainties, 
+the reader is advised not to place any undue reliance on such forward-looking statements. 
+These forward-looking statements speak only to conditions existent as of the date of 
+publication of this document. We undertake no obligation to publicly update or revise  
+the information in this press release, including any forward-looking statements, except  
+as may be required by law.
+Reporting Practices | 
+argenx ESG Report 202365
+
+Page 66:
+Contact us via our website 
+argenx.com/contact-us
+You can find the annual report 2023 online at 
+reports.argenx.com/2023
+ LinkedIn
+ Instagram
+ X
+ Facebook
+

@@ -1,0 +1,1952 @@
+Page 1:
+PLAYA HOTELS & RESORTS
+2022  
+SUSTAINABILITY REPORT
+
+
+Page 2:
+PLAYA HOTELS & RESORTS
+TABLE OF CONTENTS
+CEO LETTER 3
+ABOUT THIS REPORT 4
+ FORWARD-LOOKING STATEMENTS 4
+WHO WE ARE 5
+SUSTAINABILITY HIGHLIGHTS 6
+GOVERNANCE AND OVERSIGHT 7
+ ESG COMMITTEE 7
+ PLAYA CARES ™ - SUSTAINABLE MANAGEMENT SYSTEM 8
+ 12 PROGRAMS: OUR SUSTAINABILITY APPROACH 9
+ PLAYA CARES ™ COMMITTEE 10
+ ETHICS AND HUMAN RIGHTS 10
+ RISK ASSESSMENTS AND MANAGEMENT  10
+ STAKEHOLDER ENGAGEMENT  10
+ENVIRONMENTAL STEWARDSHIP 11
+ PLAYA GREEN 11
+ ACQUISITIONS AND RENOVATIONS STRATEGY  11
+ BEST PRACTICES 12
+ PROPERTY LEVEL RECOGNITION 12
+ BIODIVERSITY  13
+ PLAYA PARTNERS 13
+SOCIAL RESPONSIBILITY 14
+ PLAYA HEALTH AND SAFETY  14
+ PLAYA COMMUNITY  14
+2022 ESG PERFORMANCE TABLE 16
+SASB  18
+GRI INDEX 20
+TCFD  28
+
+Page 3:
+3
+CEO LETTER
+Dear Stakeholders,
+I am proud to share our inaugural Sustainability Report, which highlights 
+Playa Hotels and Resorts’ journey towards our goals of reducing our 
+environmental impact and building sustainable relationships within, and 
+beyond, the Playa community. This report discloses our environmental and 
+social data for our owned and/or managed properties during the period of 
+January 1, 2022 to December 31, 2022, unless otherwise noted. We have 
+also included our Global Reporting Initiative (GRI) Index, Sustainability 
+Accounting Standards Board (SASB), and Taskforce on Climate-Related 
+Financial Disclosures (TCFD) disclosures to reflect 2022 operations and 
+our current best practices. These disclosures are located in the Appendix  
+of this report.
+In 2022, we continued to focus on incorporating sustainability throughout 
+our day-to-day operations. Our environmental sustainability program,  
+Playa Green, guides our efforts to address risks related to climate change 
+impacts and keeps us accountable to our stakeholders. Whether it was 
+the on-going effects of the COVID-19 pandemic or disruption related to 
+Hurricane Fiona in the Dominican Republic, the Playa team showed great 
+perseverance and rose to the challenge of handling the adverse impacts 
+of these events with care for all our stakeholders. We understand the  
+ importance of adapting to the challenges posed by climate change and 
+actively incorporate capital expenditure projects into our planning to  
+ improve the climate resiliency of Playa properties. We recently initiated  
+Playa’s first tri-generation project to reduce the electrical energy 
+consumption of our resorts through heat recovery.  We are also pursuing 
+clean energy projects at our properties.
+In March 2022, we began the process of developing a sustainable 
+management system called Playa Cares ™, accelerating the momentum 
+of our corporate social responsibility (CSR) journey. Launched in May 
+2023, Playa Cares™ is informed by the four strategic pillars of sustainable 
+tourism established by the Global Sustainable Tourism Council (GSTC). 
+This system helps translate our vision of being a leader in the all-inclusive 
+hotel industry segment, while upholding sustainable tourism principles.  
+From a governance perspective, our Environmental, Social and Governance 
+(ESG) Committee oversees Playa’s commitment to incorporating 
+environmental sustainability, social responsibility, and governance into 
+our daily operations and updates the Board on its activities directly at 
+least annually. In 2022, we established a shadow board comprised of 
+associates from all areas of our business who meet with me quarterly 
+to share innovative ideas and feedback to enhance everything from our 
+resort offerings to marketing initiatives to employee benefit programs. 
+The diverse perspectives from our shadow board provide exposure for our 
+associates and up-and-coming talent, while also contributing to Playa’s 
+growth and evolution as a company. 
+On the community engagement side, social responsibility is a key 
+component of Playa’s culture, and this is reflected in many of the programs 
+conducted by or for our employees. In 2022, we donated clothing, toiletries, 
+and other necessities to communities in Florida, Mexico, Jamaica, and the 
+Dominican Republic. We also partnered with community organizations 
+to conduct cleanup efforts within ecosystems that require environmental 
+protection, such as waste collection on International Coastal Cleanup Day 
+by Jewel Grande Montego Bay employees in September 2022. In addition, 
+the Ernesto Oliver Lopez Memorial Fund, which was established in memory 
+of one of our employees who passed away as a result of COVID-19, aids 
+Playa employees in need of emergency financial aid. In 2022, the fund 
+continued to accept donations from employees and community members 
+directly benefiting Playa employees in need of financial assistance. 
+I firmly believe that prioritizing our employees is key to Playa’s work 
+culture. We place a strong emphasis on valuing the diverse backgrounds 
+within our workforce. An event that comes to mind occurred in May 
+2022, at Hyatt Ziva Cancun, where employees came together to enhance 
+their understanding of various cultural perspectives and specific issues 
+surrounding diversity.  In addition, on March 8, 2022, International 
+Women’s Day was celebrated at Wyndham Alltra Playa del Carmen  
+and associates partook in a dynamic female empowerment workshop.
+Fostering a culture of environmental consciousness and inclusive growth 
+is integral to the success of our sustainability efforts at each of our 
+properties. I sincerely appreciate all Playa employees’ diligent efforts 
+and dedication to continuous improvement. I also commend the hard 
+work of our Playa Cares™ Leaders, who have implemented the programs 
+and initiatives under Playa Cares™ at their respective properties. With 
+the sustainability landscape in constant evolution, we will keep track  
+of regulatory developments and engage with industry groups to ensure 
+that Playa’s current strategy reflects our stakeholders’ needs in 2024  
+and beyond.
+I appreciate your interest in our Sustainability Report, and we look forward 
+to welcoming you to a Playa property in the future.
+BRUCE D. WARDINSKI
+Chairman and Chief Executive Officer
+
+
+Page 4:
+4
+ABOUT THIS REPORT
+This report is Playa Hotels and Resorts’ (“Playa” , “Company”) inaugural 
+sustainability report, showcasing our journey and progress on 
+environmental, social, and governance efforts and performance during 
+the periods from January 1, 2022 to December 31, 2022, unless 
+otherwise noted.
+The boundaries of this report, unless otherwise noted, include all owned 
+and/or managed resorts in Playa’s portfolio. Pertaining to environmental 
+data, metrics are based on FY2022 data from all managed and owned 
+resorts except: resorts that we did not manage for all of 2022 (Jewel 
+Palm Beach, Jewel Punta Cana, Hyatt Zilara Riviera Maya, and Wyndham 
+Alltra Vallarta) and resorts that were not operational in 2022 (Seadust 
+Cancun Family Resort and Kimpton Hacienda Tres Rios Resort). Social 
+data was limited to owned resorts. Any financial metrics are provided in 
+U.S. Dollars.
+Please note that our environmental and social data have not been  
+third party verified.
+This report includes ESG performance tables and disclosures in 
+accordance with the SASB, the TCFD framework, and the GRI Index.
+FORWARD-LOOKING STATEMENTS
+This report may contain “forward-looking statements” that are subject to 
+risks and uncertainties that could cause actual results to differ materially 
+from the statements made. These statements are identifiable by the 
+fact that they do not relate strictly to historical or current facts. Forward-
+looking statements reflect our current views with respect to, among 
+other things, our capital resources, portfolio performance, results of 
+operations, liquidity and financial condition, including, but not limited 
+to, statements regarding the anticipated performance of our hospitality 
+portfolio, development and acquisition plans, including those related to 
+any joint ventures and other business or operational issues.
+While forward-looking statements reflect our good faith beliefs, they 
+are not guarantees of future performance. The Company disclaims any 
+obligation to publicly update or revise any forward-looking statement to 
+reflect changes in underlying assumptions or factors, new information, 
+data or methods, future events or other changes after the date of this 
+annual report, except as required by applicable law. You should not 
+place undue reliance on any forward-looking statements, which are 
+based only on information currently available to us (or to third parties 
+making the forward-looking statements).
+This report is current as of December 4, 2023.
+
+
+Page 5:
+5
+WHO WE ARE 
+Playa, through its subsidiaries, is a leading 
+owner, operator, and developer of all-inclusive 
+resorts in prime beachfront locations in 
+popular vacation destinations in Mexico and 
+the Caribbean. As of December 31, 2022, 
+we owned and/or managed a total portfolio 
+consisting of 25 resorts (9,352 rooms) located 
+in Mexico, Jamaica and the Dominican 
+Republic. Our 2022 guest mix consisted of 
+approximately 90% leisure travelers.
+We have strategic relationships with Hyatt, 
+Hilton, and Wyndham, where we partner 
+with these brands to develop and manage 
+all-inclusive resorts. Other resorts in our 
+portfolio are branded under Marriott, Jewel, 
+and Seadust brands. Seadust Cancun Family 
+Resort, Kimpton Hacienda Tres Rios Resort, and 
+Wyndham Alltra Vallarta (formerly Wyndham 
+Alltra Riviera Nayarit) joined Playa’s portfolio 
+of managed resorts in 2022. Playa’s strategy 
+is to leverage its globally recognized brand 
+partnerships and proprietary in-house direct 
+booking capabilities to capitalize on the 
+growing popularity of the all-inclusive resort 
+model and reach first-time all-inclusive resort 
+consumers in a cost-effective manner.
+CORPORATE SOCIAL  
+RESPONSIBILITY JOURNEY
+•  2017: Hyatt Ziva Cancun property becomes the first Playa property 
+to receive Green Globe certification, setting the stage for our 
+sustainability commitment.
+•  2018: Launch of Playa Green, our environmental sustainability 
+program, with a focus on reducing water and energy consumption, 
+waste, and fostering employee responsibility.
+•  2020: ESG Committee established, integrating sustainability 
+accountability into our governance structure.
+•  2022: Significant improvements to data collection processes to 
+enhance the data coverage of environmental performance metrics. 
+•  January 2022: A total of 4 Sustainability Managers, a Sustainability 
+Analyst, and a Senior Sustainability Manager assigned to support 
+the implementation of Playa Cares™. 
+•  May 2023: Introduction of Playa Cares™, a sustainable management 
+system, emphasizing social and environmental impact. 
+•  November 2023: As of this date, 14 Playa resorts have achieved 
+Green Globe certification, underscoring our dedication to 
+environmental protection. Ongoing efforts aim for certification of all 
+non-certified properties.
+1) Room count as of EOP Oct 2023, pro-forma for managed resorts not yet opened
+2) Denotes management contract
+ Total Rooms: 9,756
+Hyatt Ziva
+Los Cabos
+Hyatt Ziva 
+Puerto Vallarta
+Hyatt Ziva Cancun
+Jamaica 
+Wyndham Alltra 
+Playa del Carmen
+Hyatt Ziva & Zilara 
+Rose Hall
+Hyatt Zilara Cancun
+Dominican Republic 
+Jewel Punta Cana
+Hilton La Romana
+Jewel Palm Beach
+Managed by Playa Hotels & Resorts
+Sanctuary Cap Cana
+Jewel Grande
+Hilton Rose Hall
+Jewel Paradise Cove Hyatt Ziva & Zilara 
+Cap Cana
+Cancún / Riviera Maya Rooms
+1. Hyatt Ziva Cancún 547
+2. Hyatt Zilara Cancún 310
+3. Hilton Playa del Carmen 524
+4. Wyndham Alltra Cancún 458
+5. Wyndham Alltra Playa del Carmen 287
+6. Hyatt Zilara Riviera Maya (2) 291
+7. Hyatt Ziva Riviera Cancún (2) 438
+8. The Yucatán Resort Playa del Carmen (2) 60
+9. Seadust Cancún Family Resort(2) 502
+10. Kimpton Hacienda Tres Rios Resort, Spa & Nature Park(2) 255
+Total Cancún / Riviera Maya 3,672
+Percentage by Region 38%
+Pacific Coast Rooms
+1. Hyatt Ziva Los Cabos 591
+2. Hyatt Ziva Puerto Vallarta 335
+3. Wyndham Alltra Riviera Nayarit (2) 229
+Total Western Mexico 1,155
+Percentage by Region 12%
+Dominican Republic Rooms
+1. Hilton La Romana 774
+2. Jewel Palm Beach 500
+3. Jewel Punta Cana 620
+4. Hyatt Ziva & Zilara Cap Cana 750
+5. Sanctuary Cap Cana (2) 324
+6. Wyndham Alltra Samana (2) 404
+Total Dominican Republic 3,372
+Percentage by Region 35%
+Jamaica Rooms
+1. Hyatt Ziva Rose Hall 276
+2. Hyatt Zilara Rose Hall 344
+3. Hilton Rose Hall 495
+4. Jewel Paradise Cove 225
+5. Jewel Grande (Owned) 88
+6. Jewel Grande(2) 129
+Total Jamaica 1,557
+Percentage by Region 16%
+3%
+16%
+19%
+40%
+Kimpton
+Wyndham Alltra
+Jewel
+Hilton
+Hyatt
+Brands by Rooms (%)
+Sanctuary
+The Yucatan Resort 
+Playa del Carmen
+Pacific Coast
+Wyndham Alltra Cancun
+Hyatt Zilara Riviera Maya
+Cancún / Riviera Maya 
+Hyatt Ziva Riviera Cancun
+Seadust Cancun
+Hilton Playa del Carmen
+Kimpton Hacienda Tres Rios
+Wyndham Alltra 
+Riviera Nayarit
+14%
+Wyndham Alltra 
+Samana
+3%
+
+Page 6:
+6
+SUSTAINABILITY HIGHLIGHTS
+We launched Playa Cares™, Playa’s 
+own sustainable management 
+system, in May 2023.
+Playa has 4 sustainability 
+managers to oversee the 
+Playa Cares™ program  
+at a regional level.
+We have 14 Green Globe 
+certified properties, with 5 
+properties at the Gold Level.
+We inaugurated the 
+Playa Builds Your Home 
+program in 2022. 
+
+
+Page 7:
+7
+GOVERNANCE AND OVERSIGHT
+Establishing a robust ESG foundation commences with solid governance 
+structures. In 2020, we formed our ESG Committee to enhance the 
+centralization and coordination of our sustainability endeavors. As we 
+progressed with our CSR initiatives, we identified the necessity for our 
+own sustainable management system, initiating its development in 
+2022. The culmination of our dedicated efforts resulted in the launch of 
+Playa Cares™ in 2023.
+ 
+We uphold the utmost integrity and ethical standards in our business 
+activities and transactions. Our Code of Business Conduct and Ethics 
+promotes honest and ethical conduct, ensuring transparent and 
+accurate public communications, complying with governmental laws 
+and regulations, promptly reporting code violations internally, and 
+accountability for adherence to the code. 
+We also execute such policies and procedures around risk management, 
+risk assessments, and stakeholder engagement to continually enhance 
+the ESG program and manage climate-related risks and exposures 
+across our portfolio.
+ESG COMMITTEE
+Our ESG Committee, which includes our Chief Operating Officer, 
+General Counsel, Chief People Officer, Senior Vice President, Investor 
+Relations & Strategy and Assistant Corporate Controller, is overseen by 
+the Nominating and Governance Committee (NGC) of our Board. It is an 
+organization-wide task force with representation from multiple areas of 
+Playa dedicated to obtaining a broader reach for idea generation and 
+effectively promoting best practices and cross-collaboration related to 
+corporate social responsibility and sustainability. Our ESG Committee 
+oversees Playa’s commitment to incorporating environmental 
+sustainability, social responsibility, and governance into our daily 
+operations at all levels with an emphasis on reducing our environmental 
+impact, mitigating risks, improving our communities and driving value 
+for all our stakeholders. 
+The ESG Committee reports directly to the NGC regarding Playa’s 
+activities over corporate social responsibility and sustainability matters 
+and the external reporting thereof (including matters relating to 
+diversity and inclusion). The NGC regularly updates the Board on the 
+activities of the ESG Committee. The ESG Committee also updates the 
+Board on its activities directly, at least annually.
+
+Page 8:
+8
+PLAYA CARES™ - SUSTAINABLE 
+MANAGEMENT SYSTEM
+The United Nations Environment Program (UNEP) and the World Tourism 
+Organization (WTO) define sustainable tourism as tourism that takes full 
+account of its current and future economic, social and environmental 
+repercussions, meeting the needs of visitors, industry, environment, 
+and host communities.
+In addition, they affirm that sustainable tourism refers to the 
+environmental, economic and socio-cultural aspects of tourism 
+development and an appropriate balance must be established among 
+these three dimensions to guarantee its long-term sustainability. 
+In line with these definitions, Playa launched Playa Cares™, our own 
+Sustainable Management System, in May 2023. Playa Cares ™ is built 
+on the four strategic pillars of Sustainable Tourism established by the 
+GSTC, which allow us to align each of our programs and initiatives with 
+global efforts to change the tourism industry into a driver of sustainable 
+development.
+SUSTAINABLE MANAGEMENT
+•   Decision Making Process: Policies  – Procedures – Standards – 
+Continuous Improvement
+ENVIRONMENTAL IMPACTS
+•   Protection of our Ecosystems – Sustainable Use of Resources
+SOCIO-ECONOMIC IMPACTS
+•   Positive Impacts in our Communities – Long Term Strategies
+CULTURAL IMPACTS
+•   Promotion and Preservation of Cultural Heritage
+Playa Cares™ seeks to comply with the following objectives in each of the destinations where we operate:
+•  To make optimal use of environmental resources, while maintaining essential ecological processes, helping 
+to conserve the natural heritage and biodiversity, and effectively contributing to climate action. 
+•  To respect, preserve, and promote local communities’ sociocultural authenticity, cultural heritage, traditional 
+values, and intellectual rights. 
+•  To operate safely and prepare our operation to adequately respond to any type of risk, guaranteeing the 
+well-being of our guests, visitors, associates, and contractors, within our resorts and offices. 
+•  To guarantee viable long-term economic operations, by providing socio-economic benefits to all stakeholders, 
+including stable employment opportunities, income generation, and social services to local communities. 
+•  To maintain a high level of satisfaction for our guests and ensure a significant experience, by actively 
+involving them in sustainability issues of the destinations they visit and promoting sustainable tourism 
+practices among them. 
+•  To comply with all applicable local, national, and international legislation and regulations related to our 
+Industry and type of activities. 
+Playa Cares™ is organized into 12 Programs, which are key elements for the sustainable management of the 
+company’s resources, and their implementation is mandatory for all Playa resorts.
+
+Page 9:
+9
+Within each of these programs, Playa Cares ™ provides the framework 
+for the planning, organization, implementation, monitoring, evaluation, 
+communication, updating and continuous improvement of all the 
+initiatives focused on the efficient use of Playa’s resources in each  
+of the destinations where we operate.
+As we continue to develop and implement Playa Cares ™ in 2023 
+and beyond, we expect its programs to align with the following UN 
+Sustainable Development Goals (SDGs):
+•  SDG 4: Ensure inclusive and equitable quality education and 
+promote lifelong learning opportunities for all
+•  SDG 6: Ensure availability and sustainable management of water 
+and sanitation for all
+•  SDG 8: Promote sustained, inclusive and sustainable economic 
+growth, full and productive employment and decent work for all
+•  SDG 10: Reduced inequality within and among countries
+•  SDG 13: Take urgent action to combat climate change and its 
+impacts
+•  SDG 14: Conserve and sustainably use the oceans, seas and marine 
+resources for sustainable development
+•   SDG 15: Protect, restore and promote sustainable use of terrestrial 
+ecosystems, sustainably manage forests, combat desertification, 
+and halt and reverse land degradation and halt biodiversity loss
+The development of each of the Playa Cares ™ elements was 
+informed by:
+•  Global Sustainable Tourism Council Criteria
+ 
+•   United Nations Sustainable Development Goals 
+•  Sustainability programs of each of the brands we operate
+•   International requirements and best practices  
+for the tourism industry
+•  National and local requirements in each of the destinations 
+where we operate
+The process of alignment, development, and implementation 
+of the Playa Cares ™ elements is a highly participatory process, 
+in which we constantly involve key groups and individuals from 
+different departments of Playa to adjust our system to the context 
+of local operations in each destination.
+To communicate internally and externally on each of the programs 
+and initiatives that are part of Playa Cares ™, we have defined four 
+lines of work: Playa Green, Playa Community, Playa Health 
+and Safety, and Playa Partners.
+12 PROGRAMS: OUR SUSTAINABILITY APPROACH
+
+Page 10:
+10
+PLAYA CARES™ COMMITTEE
+The implementation of Playa Cares ™ in each of our resorts and offices 
+is the responsibility of the Playa Cares ™ Committee. The Playa Cares ™ 
+Committee is responsible for planning, implementing, monitoring, and 
+adapting the programs and initiatives defined within the Playa Cares ™ 
+Sustainable Management System in each of the Playa resorts. Each 
+property has a Playa Cares™ Committee that meets on a monthly basis to 
+review metrics and projects, and create and follow up on its action plans.
+ETHICS AND HUMAN RIGHTS
+Obeying the law both in letter and in spirit is the foundation on which 
+the Company’s ethical standards are built. Playa has adopted a Code of 
+Business Conduct and Ethics (“Code”) to operationalize these values. 
+The Code covers a wide range of business practices and procedures. In 
+addition, we take a zero-tolerance approach to bribery and corruption. 
+Our Anti-Bribery and Anti-Corruption Policy establishes the obligations 
+of Playa, and of those working for and on behalf of Playa, in observing 
+and upholding our position against bribery and corruption, and to 
+provide guidance on how to recognize and deal with bribery and 
+corruption issues.
+For further information, refer to:
+•   Code of Business Conduct and Ethics
+•   Anti-Bribery and Anti-Corruption Policy
+RISK ASSESSMENTS  
+AND MANAGEMENT 
+Our Enterprise Risk Management Program (ERMP) was established to 
+oversee overall risk management across the Company. The program is 
+managed by the Risk Management Committee (RMC), a cross-functional 
+team comprising of executives from Finance, IT, and Development. In 
+conjunction with the ESG Committee, the RMC completes a review and 
+strategic planning session of climate-related risk and opportunities. 
+The results of the ERMP Risk Assessment are reviewed with senior 
+management and are presented to the Audit Committee and Board 
+of Directors annually. Similar to the process to identify risks, the ESG 
+Committee then works with various departments including Operations, 
+Engineering, Legal, Finance, and Development to manage climate-
+related risks.
+The ESG Committee conducts monthly meetings and engages functional 
+departments according to our relevant programs such as Playa Green. 
+ESG updates are provided by the ESG Committee to the CEO on a routine 
+basis, to the NGC semi-annually, and to the Board annually. Additional 
+meetings and other forms of engagement are conducted with 
+management, where required, to advance our sustainability objectives. 
+Needs, risks, and considerations are discussed and elevated from the 
+property level to our area directors and top down in the sharing of best 
+practices. Climate-related risks and considerations are factored into our 
+capital allocation and strategic planning on a regular basis as part of 
+our annual budgeting and recurring risk assessments to pro-actively 
+address these concerns. The ESG Committee also works in conjunction 
+with the RMC to incorporate and capture climate-related risks in the 
+Company’s broader ERMP . 
+Our risk assessment process incorporates sustainability risks into 
+company strategy and identifies and prioritizes sites that are high risk. 
+Given our footprint across several countries and regions, we aim to 
+incorporate best practices to anticipate regulatory changes and adjust 
+our operations accordingly with emphasis on risks and changes that are 
+estimated to be highly likely in the short-medium term, pose potentially 
+serious consequences if left unaddressed, or provide favorable return on 
+investment characteristics. 
+The most significant climate-related risk for our portfolio pertains to 
+extreme weather events (particularly hurricanes) and local infrastructure 
+as it relates to water and electricity. We adapt to these risks by investing 
+in property and business interruption insurance policies. Refer to our 
+TCFD disclosure (see ‘TCFD’ on page 42) to learn more about Playa’s 
+processes in identifying, assessing, and managing climate-related risks 
+and opportunities.
+STAKEHOLDER  
+ENGAGEMENT
+Guests: We have several initiatives that improve the guest’s 
+sustainability experience within our properties. Most of our 
+resorts have obtained Green Globe certification, and we 
+intend to pursue this certification for new properties entering 
+our portfolio. We request guests at participating resorts to 
+take part in several initiatives, such as the reduction of single 
+use of plastics (i.e., straws, plastic bags), saving water by 
+using water dispensers, and promoting local culture through 
+food, festivities, and folklore.
+Employees and communities: Refer to sections 
+Playa Health and Safety and Playa Community for more  
+information on how we build lasting relationships with and 
+enhance the lives of our associates and the communities in 
+which we operate.
+Investors: We provide important disclosures to investors by 
+posting them in the investor relations section of our website.
+
+
+Page 11:
+ENVIRONMENTAL STEWARDSHIP
+At Playa, we have developed a strong control of metrics and data, which 
+are uploaded monthly into our sustainable tourism management 
+system and to each of our brand partner’s sustainability platforms 
+(Hyatt, Hilton, Marriott, Wyndham). This measurement process provides 
+us with valuable information that is used to make decisions based on 
+consumption by guest and establish objectives.
+PLAYA GREEN
+Launched in 2018, Playa Green brings together all the programs, initiatives 
+and training focused on sustainable use, conservation of natural resources 
+and climate action, both within and outside our properties, in each of the 
+destinations where we operate. This program establishes sustainability 
+management processes which help us monitor legal compliance, evaluate 
+risks, inform strategy, and facilitate continuous improvement in our 
+environmental performance across Playa’s operations and throughout the 
+life cycle of our assets. 
+Energy and Carbon Management are addressed by nine components: 
+policies and standards; compliance matrix evaluation; communication 
+and internal training programs; development and help to the community; 
+environmental improvement projects; calibrations; records and evidence; 
+document measurement and control; and progress reporting.
+We have initiated or are currently planning the following projects as part of 
+our strategy to achieve energy / water conservation and management:
+•   We started Playa’s first tri-generation project to reduce the electrical 
+energy consumption of resorts through heat recovery. The strategy also 
+includes producing consumable water by extracting salty water from 
+the underground, filtering and eliminating the salt through reverse 
+osmosis, and returning it from the wastewater treatment plant.  
+•   We are pursuing clean energy projects at our properties.
+•   We have a strategy to replace existing laundry equipment with new-
+generation machines, which are expected to reduce water consumption 
+by 50%, and reduce the consumption of energy through the reduction 
+of drying time. 
+ACQUISITIONS AND RENOVATIONS 
+STRATEGY
+Our commitment to sustainability is ingrained in our capital 
+allocation decisions, recognizing the positive impact on 
+asset valuation through cost savings and improved margins. 
+Sustainability is a pivotal consideration in our approach to 
+mergers and acquisitions, as well as property renovations. 
+Throughout each property’s regular refresh cycle, our 
+development team collaborates with Operations and 
+Sustainability to identify opportunities for capital investments 
+that enhance sustainability.
+During renovations, our focus extends to improving the 
+sustainability attributes of our properties. Projects, including 
+energy management considerations, that were not previously 
+addressed are incorporated into the intermediate term refresh, 
+aligning with our resorts’ regular refresh cycle of 5 - 7 years.
+In 2022, we implemented a series of water conservation 
+measures during construction and renovation projects, including 
+the use of pre-mixed concrete, strict water dosage supervision, 
+and mandatory pressure testing of all hydraulic installations. 
+Additional initiatives encompassed the elimination of multiple 
+water hoses, mandatory use of native plants, and strategic 
+irrigation practices to minimize evaporation. Timers and high-
+efficiency irrigation systems, coupled with the use of treated 
+water for irrigation, further contributed to our sustainable water 
+management efforts. Looking ahead to 2023, we are taking 
+the initial step of establishing water metering at main water 
+consumption areas to measure and control water waste.
+Waste management practices in 2022 involved concentrated 
+debris and construction waste areas from project 
+commencement, designated eating areas for personnel with 
+provided garbage containers, and cleaning crews ensuring 
+proper disposal at authorized waste sites. Hazardous materials 
+were carefully designated, and separate deposits for recyclable 
+materials, such as PET, PVC, plastics, aluminum, copper, and 
+steel, were established.
+Addressing sustainability-related risks during construction or 
+renovation projects remained a key focus in 2022, particularly in 
+health and safety. Our comprehensive approach included hotel 
+audits to identify fire, life, and safety issues, the incorporation 
+of CO and CO2 detectors, replacement or modification of 
+railings to comply with safety requirements, and the use of 
+impact-resistant glass in windows and doors. We eliminated 
+light-gauge construction from resort facades and exterior areas, 
+sanitized indoor air conditioning to prevent legionella risks, 
+and enforced stringent safety policies and procedures during 
+the construction process. Standard procedures were established 
+for anti-vortex bottom suctions, automatic stop devices, and 
+grounding measures in all swimming pools, ensuring a robust 
+approach to safety across our properties.
+11
+
+Page 12:
+BEST PRACTICES1
+ 
+Most of our properties have a sustainability champion, Playa Cares ™ 
+Leaders, and a Playa Cares™ Committee that meets on a monthly basis. 
+This structure at the property-level allows quick implementation of ideas 
+that are also unique to the circumstances of each local community. 
+ENERGY
+•   96% of our properties have LED lighting on at least 80% of their 
+interior space, excluding specialized bulbs for historic lighting 
+fixtures
+•   100% of our properties have implemented energy efficiency 
+measures in the past three years
+•   100% of our properties have a preventive maintenance plan 
+that checks building energy and water equipment on at least a  
+quarterly basis
+•   46% of our properties have enhanced reflective or insulating 
+characteristics to reduce heating and cooling loads
+•  75% of our properties have conducted an energy efficiency 
+assessment within the past 3 years
+•  88% of our properties have digital thermostats installed in over  
+75% of guestrooms
+WATER
+•   100% of our properties have implemented water efficiency 
+measures within the past 3 years, ranging from drought tolerant or 
+native landscaping to cooling tower water management
+•   88% of our properties have more than 75% low-flow or dual flush 
+toilets to conserve water
+•   88% of our properties have more than 75% of faucets consuming no 
+more than 1.5 gallons per minute or less to conserve water
+•   58% of our properties have water consumption sub-metered in 
+various areas of their properties
+WASTE
+•   100% of our properties have implemented a recycling program 
+within the past 3 years
+•   100% of our properties have eliminated or replaced plastic straws 
+with non-plastic straws
+•   100% of our properties have placed recycling bins in back-of-house
+•   96% of our properties measure the amount of food waste generated 
+and 83% of our properties divert their food waste to help reduce  
+the amount of waste sent to the landfill
+PROPERTY LEVEL RECOGNITION
+In our commitment to environmental sustainability, we actively pursue 
+certifications and align with leading verification firms and practices. This 
+strategic approach strengthens our initiatives aimed at minimizing our 
+carbon footprint and safeguarding the natural environments in which 
+we operate.
+Currently, 14 of our resorts proudly hold the Green Globe certification, 
+a testament to our dedication to sustainable practices. Moreover, an 
+additional six resorts are actively engaged in the certification process, 
+underscoring our ongoing commitment to meeting and exceeding 
+environmental standards. As of 2023, five of our properties have 
+achieved Gold Level certification, marking a significant milestone in 
+our pursuit of excellence. The Green Globe standard, developed almost 
+30 years ago through collaboration with stakeholders in the travel 
+and tourism industry, serves as the foundation for these certifications. 
+Notably, this standard is endorsed by the GSTC, manages global 
+standards for sustainable travel and tourism, and acts as the international 
+accreditation body for sustainable tourism certification.
+In 2021, the Hilton La Romana Resort and Spa achieved the prestigious 
+Blue Flag Beach certification, an internationally recognized certification 
+promoting the sustainable development of the sea and freshwater 
+areas. Accreditation as a Blue Flag Beach required adherence to specific 
+criteria related to environmental education and information, water 
+quality, environmental management, and safety and services.
+1  For the purpose of this report, we collected and analyzed best practices for all properties managed by Playa in 2022. 12
+
+
+Page 13:
+BIODIVERSITY
+Acknowledging the critical global risks highlighted by the World 
+Economic Forum (WEF), such as biodiversity loss and ecosystem 
+collapse, Playa recognizes the urgency of conservation efforts in the 
+face of climate change. With resorts surrounded by the ocean, lagoons, 
+and lush mangroves, protecting these ecosystems is paramount for our 
+guests, our communities, and the future of our business. 
+In our commitment to biodiversity conservation, we conduct assessments 
+of biodiversity risks as part of the due diligence process before acquiring 
+assets. Our efforts extend to enhancing our knowledge to avoid the 
+procurement of endangered and non-renewable items. Monitoring and 
+mitigation measures are in place to address activities that may disturb 
+wildlife and their habitats. 
+Many of our beachfront properties face challenges from increased 
+sargassum, a seaweed impacting shorelines in Mexico and the 
+Dominican Republic. To address this, Playa properties promptly 
+clean sargassum in alignment with local authorities and destination 
+management organizations, mitigating risks such as beach erosion and 
+tourist dissatisfaction.
+Addressing marine and coastal pollution, some properties engage in 
+beach cleanup activities. Notably, on World Oceans Day 2022, Hilton 
+Rose Hall Resort & Spa partnered with Jewel Grande Montego Bay and 
+Hyatt Ziva and Zilara Rose Hall to remove 193.5 lbs (88 kg) of plastic 
+and 667 lbs (303 kg) of mixed waste from Fisherman Beach in Montego 
+Bay. Similarly, associates from Jewel Grande Montego Bay collaborated 
+with the Montego Bay Marine Park to clean up Old Hospital Beach, 
+emphasizing collective action for ocean revitalization.
+International Coastal Cleanup Day is an annual event coordinated by 
+the International Coastal Cleanup Association (ICCA). Volunteers from 
+around the world collect trash and debris from coastal and marine 
+habitats. Our associates at Hilton Rose Hall Resort and Spa and Jewel 
+Grande Montego Bay participated in this day by clearing trash from 
+coastlines, turning this into a regular Playa Green agenda item. 
+As part of our commitment to sustainable tourism and animal welfare, we 
+strictly adhere to all laws and regulations governing wildlife harvesting 
+and trade. In addition, to support the conservation of sea turtles, some 
+of our properties have implemented a Turtle Program which involves the 
+protection of nesting sites and the release of sea turtle hatchlings. 
+Guests can also observe the safe release of sea turtles by our staff.
+Acknowledging the growing risks to biodiversity throughout our value 
+chain, Playa is dedicated to formulating and executing additional action 
+plans that tackle the challenges faced by nature.
+PLAYA PARTNERS
+Playa Partners brings together programs and initiatives in which the 
+positive impact of Playa Cares™ is multiplied through strategic alliances 
+and joint project management with key organizations and individuals, 
+not only for the tourism industry but for our destinations. 
+13
+
+
+Page 14:
+SOCIAL RESPONSIBILITY
+Our associates and communities form the center of our Company. We 
+strive to foster a culture of inclusive growth and provide a respectful and 
+professional workplace to empower all our associates to express what is 
+important to them and to their communities. 
+PLAYA HEALTH AND SAFETY
+Our Playa Health and Safety line of work brings together all the 
+programs and initiatives focused on guaranteeing the well-being of our 
+stakeholders (associates, families, local communities, guests, visitors, 
+contractors, and suppliers). We have established a company policy 
+that ensures all associates are provided adequate health and safety 
+conditions for the development of their activities, reduces the risk of 
+accidents, increases the quality of life in their work areas, and protects 
+hotel and offices facilities, the community, and environment. With the 
+implementation of Playa Cares™ in 2023, properties will be required to 
+develop and annually update a risk assessment to identify risks of the 
+personnel and external suppliers that work in the resorts or offices. A 
+plan must be documented and implemented to minimize these risks 
+and protect the safety of our guests, associates, contractors, and the 
+community at large.
+ 
+We embrace and celebrate diversity. We recognize that a diverse 
+workforce and a culture of inclusion helps us compete more effectively, 
+drives productivity, and builds long-term sustainable value. We seek to 
+understand the communities where we work, while developing culture, 
+talent and strategies that cultivate a work environment of inclusiveness. 
+Inclusiveness means that we value each employee’s unique attributes, 
+strengths, and backgrounds, and that we believe every employee should 
+feel like they belong and are valued. We encourage our employees to 
+form deeper relationships with those around them based on mutual 
+respect, dignity and understanding. We expect everyone at Playa to live 
+up to these values and support our mission.
+PLAYA COMMUNITY
+One of the pillars of our Playa Cares ™ program is Playa Community. It 
+brings together all programs and initiatives focused on promoting 
+sustainable development among our stakeholder groups (associates, 
+families, local communities, guests, visitors, contractors, and suppliers). 
+We strongly believe that caring for our people is the first step in giving 
+back to our communities. Our philosophy at Playa has always been and 
+continues to be “We take care of our employees, and in turn, they take 
+care of our guests.” One key initiative that embodies this value is the 
+Playa Builds Your Home program. As part of this program, Playa builds 
+homes for associates who win a new home through the program. In April 
+2023, Hilton La Romana delivered a house that we began to construct 
+in October 2022 in an exciting display of solidarity and commitment. 
+The fortunate recipient has become the proud owner of a beautiful 
+home. The house, constructed and furnished by Playa, was handed over 
+in the community of Benerito, where the associate and his family can 
+embark on a new chapter in their lives.  The “Playa Builds Your Home” 
+initiative has proven to be a transformative force, exemplified by the 
+delivery of a home to this recipient. This inspiring program not only 
+14
+provides tangible support to our associates but also fosters a profound 
+sense of community and solidarity.  Beyond the construction of physical 
+structures, this initiative embodies the essence of care, demonstrating 
+our commitment to the holistic well-being of our associates.
+Additionally, we place significant emphasis on employee training 
+and benefits to nurture a compassionate and productive workplace 
+environment. We provide a competitive benefits package to all full-time 
+employees which includes health and welfare benefits, such as medical, 
+dental, disability insurance and life insurance benefits. The plans under 
+which these benefits are provided are not expected to discriminate in 
+scope, terms, or operation in favor of executive officers and are available 
+to all full-time employees.
+Onsite medical consultants are conveniently available for resort 
+employees at no extra cost. Additionally, health insurance is offered to 
+all employees in each of our locations, for both permanent and contract 
+positions.
+All associates are eligible for the following benefits: transportation 
+provided by Playa, English lessons and scholarships for both individuals 
+and their families, parental leave according to local laws, and hot meals 
+for all associates at a resort level.
+Furthermore, we provide ongoing training on safety, antibribery, 
+harassment and discrimination to further nurture the workplace 
+environment. We proactively use survey tools and regular performance 
+reviews to engage with our associates and help them achieve their goals 
+and to improve the workplace.
+
+
+Page 15:
+15
+We offer continuous learning and development with courses on 
+Playa’s culture, vision and philosophy, guest satisfaction, performance 
+management for leadership, mentoring and coaching, stress 
+management, emotional intelligence, effective interviewing and 
+talent development, high impact teams, conflict resolution and quality 
+management. For example, one growth and development opportunity 
+for our high potential employees is the Leaders Talent Development 
+Plan. Specific individuals are prepared for future leadership positions 
+within the organization through hands-on training, mentorship and 
+education. All of our resort leadership teams participate in our talent 
+program in order to allow identified employees to be promoted at their 
+resort, at another resort within the country, or be relocated within the 
+Playa organization. This program allows Playa to acquire the best talent, 
+retain and motivate its employees. 
+Outside of the workplace, we do all we can to enrich our communities 
+by partnering with local organizations, volunteering, and creating 
+opportunities like internship programs and youth career initiatives. 
+Collaborating with a diverse group of stakeholders in the tourism 
+industry and surrounding local communities is vital to the success of 
+sustainability initiatives and spreading awareness on environmental 
+and social issues.
+•   Hilton Rose Hall Resort & Spa: This property’s first community 
+outreach activity in 2022 was in partnership with Jamaica Aids, 
+Support For Life, was held on January 18, 2022. We provided 
+HIV & Syphilis testing services as well as HIV/STI education to our 
+Associates.
+•   Hyatt Ziva Puerto Vallarta: To underscore the significance of the 
+women at Playa, this property organized a beachside relaxation and 
+meditation session led by specialists to commemorate International 
+Women’s Day in March 2022. Through this initiative, we aim to 
+accentuate their value and recognize the dedication they contribute 
+to our esteemed company.
+•   Hyatt Ziva Riviera Cancun: On January 5, 2022, this property 
+carried out donations of food for low-income communities in the 
+town of Leona Vicario. In addition, this property made five different 
+donations of various items collected from the Lost and Found areas, 
+for the benefit of families with low resources in Puerto Morelos, 
+throughout the year.
+•   Wyndham Alltra Cancun: This property ensured that plastic caps 
+were separated, cleaned and bagged to be donated to la Asociación 
+Mexicana de Ayuda a Niños con Cáncer (AMANC). AMANC is the first 
+institution in Mexico, and the only one with a national presence, to 
+provide comprehensive support for the treatment of girls, boys, and 
+adolescents with cancer.
+
+
+Page 16:
+16
+COMPANY PROFILE 2019 2020 2021 2022 (Baseline)
+Total Number of Properties 23 21 22 192 
+Total Number of Offices3 3 3 3 3
+Total Number of Rooms4 8,690 8,172 8,366 6,955
+ECONOMIC PERFORMANCE 2019 2020 2021 2022
+Revenue (In thousands)5 $636,477 $273,189 $534,639 $856,263
+Occupied Rooms 2,451,840 804,566 1,268,158 1,747,087
+Occupancy Rate 77% 27% 52% 69%
+SOCIAL AND GOVERNANCE  
+PERFORMANCE 6 2019 2020 2021 2022
+Total Number of Employees 9,233 6,808 11,026 11,576
+Percent Male Employees 63% 61% 60% 61%
+Percent Female Employees 37% 39% 40% 39%
+Percent under 30 years old 37% 32% 36% 37%
+Percent 30 – 50 years old 55% 58% 56% 55%
+Percent over 50 years old 8% 10% 8% 8%
+Total Number of Board Members 12 8 8 8
+Percent Male 83% 75% 62% 50%
+Percent Female 17% 25% 38% 50%
+Percent Did Not Disclose 0% 0% 0% 0%
+Total Value of In-Kind Donations $97,636 $108,145 $15,696 $67,438
+Total Volunteer Hours 12,214 9,460 6,022 9,269
+Total Volunteers (Number of Events) 3,868 (67) 1,977 (99) 1,662 (93) 2,155 (242)
+ENVIRONMENTAL  
+PERFORMANCE 2019 2020 2021 20225
+Floor Area Coverage for Intensity 
+Metrics (ft2) 6,715,048 7,726,597 7,726,603  8,645,357
+Occupied Rooms for Intensity Metrics 1,498,371 647,775 1,268,158 1,747,087
+2022 ESG PERFORMANCE TABLE
+2  Unless otherwise noted, environmental data accounts for the properties managed and/or owned by Playa for which 2022 operational data was available. The number of properties does not include corporate offices.
+3 Stand-alone corporate offices only. 
+4 The values for Environmental Performance data represent room counts of 5,706 in 2019, 6,456 in 2020, 6,456 in 2021, and 6,955 in 2022.
+5  Revenue is presented on a consolidated basis in accordance with U.S. GAAP , including Jewel Palm Beach and Jewel Punta Cana, which are not included in our environmental reporting.  
+6 2022 Environmental Performance data includes office data for electricity and water consumption.
+
+Page 17:
+17
+ENERGY 2019 2020 2021 2022
+Total Energy Consumption (kWh) 182,166,136 142,682,983 217,682,687 298,186,111
+Total Direct Energy Consumption (kWh) 62,724,802 52,821,379 93,571,795 154,193,573
+Total Indirect Energy Consumption 
+(kWh) 119,441,333 89,861,604 124,110,892  143,992,538
+% Indirect Energy Consumption from 
+Electric Power (kWh) 100% 100% 100% 100%
+Energy Consumption per square foot 
+(kWh) 27 18 28  34
+% Energy from Renewables 14% 13% 8% 9%
+GREENHOUSE GAS EMISSIONS 2019 2020 2021 2022
+Total Greenhouse Gas Emissions  
+(metric Tons CO2e) 77,846 49,512 86,162  103,775
+Total Scope 1 Emissions  
+(metric tons CO2e) 14,425 12,786 21,530 36,217
+Total Scope 2 Emissions  
+(metric tons CO2e) 63,421 36,726 64,633  67,558
+Greenhouse Gas Emissions  
+per square foot (kgCO2e / ft2) 12 6 11  12
+WATER 2019 2020 2021 2022
+Total Water Consumption  
+(Cubic Meters) 3,303,887 2,490,523 4,780,055 7,369,367
+Water Consumption per occupied room 
+(Cubic Meters) 2 4 4 4
+WASTE 2019 2020 2021 2022
+Total Waste Generated (Metric Tons) 12,691.07 6,889.2 10,036.22 13,168
+Waste Generated per occupied room 
+(pounds) 19 23 17 17
+Waste Diversion Rate (%) 12% 5% 32% 42%
+
+
+Page 18:
+18
+CODE METRIC DESCRIPTION RESPONSE
+ACTIVITY METRICS
+SV-HL-000.A Number of available room-nights 2,508,767
+SV-HL-000.B Average occupancy rate (%) 69%
+SV-HL-000.C Total area of lodging facilities (Square meters) 798,865
+SV-HL-000.D
+Number of lodging facilities 19
+Percentage of lodging facilities that are managed (%) 100%
+Percentage of lodging facilities that are owned and leased (%) 84%
+Percentage of lodging facilities that are franchised (%) 84%
+ENERGY MANAGEMENT 8
+SV-HL-130a.1 Total energy consumed (Gigajoules) 1,071,059 
+SV-HL-130a.2 Percentage grid electricity (%) 48%
+SV-HL-130a.3 Percentage renewable (%) 9%
+WATER MANAGEMENT
+SV-HL-140a.1 Total water withdrawn (Thousand cubic meters) 4,934
+SV-HL-140a.1 Percentage withdrawn in regions with High  
+or Extremely High Baseline Water Stress (%) 23%
+SV-HL-140a.1 Total water consumed (Thousand cubic meters) 7,369
+SASB
+8    Energy consumption data excludes the following properties that operated in 2022 – Jewel Palm Beach, Jewel Punta Cana, Hyatt Zilara Riviera Maya and Wyndham Alltra Vallarta. 
+Jewel Palm Beach was owned by Playa and operated under the Dreams brand. Standalone offices were also excluded from SASB metrics.
+CODE METRIC DESCRIPTION RESPONSE
+LABOR PRACTICES
+SV-HL-310a.4 Description of policies and programs  
+to prevent worker harassment
+Playa has policy commitments toward equal 
+opportunity employment and prohibition of 
+harassment. We work to create a positive, accepting 
+and inclusive workplace where employees are 
+able to do their jobs without fear of harassment or 
+discrimination and we never tolerate retaliation 
+against employees who report this activity in good 
+faith. See also Section R of Playa Hotels & Resorts 
+Code of Business Conduct and Ethics.
+CLIMATE CHANGE ADAPTATION
+SV-HL-450a.1 Number of lodging facilities located  
+in 100-year flood zones N/A (no US properties for this designation)
+
+Page 19:
+19
+CODE METRIC DESCRIPTION RESPONSE
+ECOLOGICAL IMPACTS
+SV-HL-160a.1
+Number of lodging facilities in or near areas  
+of protected conservation status or endangered 
+species habitat
+13 properties are located within 5km of a recog-
+nized protected area.
+All properties are located within 50km of an endan-
+gered or critically endangered species.
+SV-HL-160a.2
+Description of environmental  
+management policies  
+and practices to preserve  
+ecosystem services
+Environmental stewardship is vital to the success 
+of Playa’s business, and we are committed to 
+collaborating with our stakeholders to make a 
+positive environmental impact. See also Playa 
+Hotels & Resorts Environmental Policy. 
+In addition, Playa has created Playa Cares™, 
+its own Sustainable Management System, the 
+implementation of which seeks to focus on optimal 
+and efficient resource use, respect and promotion 
+of local communities and cultures, safety and 
+risk mitigation, and long term economic and 
+socioeconomic benefit while complying with local 
+and global regulations. This means that Playa Cares™ 
+is fully aligned with the Company’s strategic plan 
+and its vision as a leading company in the global 
+tourism industry.
+Furthermore, Playa Cares™ is built on the 4 strategic 
+pillars of Sustainable Tourism established by the 
+GSTC, which allow us to align each of our programs 
+and initiatives with global efforts to change  
+the tourism industry into a driver of sustainable 
+development. For more information see  
+Playa Cares™.
+
+Page 20:
+20
+GRI INDEX
+NUMBER DESCRIPTION RESPONSE/DISCLOSURE
+2-1 Organizational details 2022 10-K (p. 1; Business, p. 6; Properties, p. 31) 
+2-2
+Entities included in  
+the organization’s  
+sustainability reporting
+2022 Sustainability Report (About This Report, p. 5)
+2022 10-K p. 6, 31
+The boundary of the Sustainability Report includes all properties managed by 
+Playa for the entirety of 2022.
+The properties covered in the Sustainability Report excludes some properties 
+listed in the 10-K, because the 10-K includes partial year properties. Partial year 
+properties are defined as properties that were not managed by Playa for the 
+entire year of 2022. 
+2-3 Reporting period, frequency  
+and contact point
+2022 Sustainability Report (About This Report, p. 5)
+2022 10-K p. 1
+Contact Us 
+2-4 Restatements of information N/A
+2-5 External assurance Playa did not seek assurance during the reporting period for ESG performance 
+data disclosed.
+2-6
+Activities, value chain,  
+and other  
+business relationships
+Playa Resorts  
+2022 10-K  p. 6, 9, 31  
+About Us  
+ 
+Playa Hotels & Resorts N.V. (NASDAQ: PLYA, “Playa”), through its subsidiaries, is a 
+leading owner, operator and developer of all-inclusive resorts in prime beachfront 
+locations in popular vacation destinations in Mexico and the Caribbean. Our brand 
+partners include Hyatt, Hilton, Jewel, Seadust, Kimpton and Wyndham.
+Playa’s strategy is to leverage its globally recognized brand partnerships and 
+proprietary in-house direct booking capabilities to capitalize on the growing 
+popularity of the all-inclusive resort model and reach first-time all-inclusive 
+consumers in a cost effective manner. We believe that this strategy should position 
+them to generate attractive returns for shareholders, build lasting relationships 
+with guests, and enhance the lives of associates and the communities in which we 
+operate. By also using new technologies and leveraging big data we aim to improve 
+guest satisfaction and shareholder returns. We continuously monitor, review and 
+optimize our portfolio to align with our strategic vision and maximize our return on 
+invested capital. As part of this ongoing process, we may sell assets that no longer fit 
+our criteria for capital investment.
+Playa owns and/or manages a total portfolio consisting of 25 resorts (9,352 rooms) 
+located in Mexico, Jamaica, and the Dominican Republic. Playa leverages years of 
+all-inclusive resort operating expertise and relationships with globally recognized 
+hospitality brands to provide a best in-class experience and exceptional value to our 
+guests, while building a direct relationship to improve customer acquisition cost 
+and drive repeat business. During 2022, we entered into three new management 
+agreements to manage all operations, sales and marketing of resorts operating 
+under the Wyndham, Kimpton and Seadust brands.
+
+Page 21:
+21
+NUMBER DESCRIPTION RESPONSE/DISCLOSURE
+2-7 Employees 
+ESG Performance Table (Social and Governance Performance)  
+ 
+2022 10-K (Human Capital Resources, p. 12)
+2-8 Workers who are not employees 2022 10-K  (Human Capital Resources, p. 12)
+2-9 Governance structure  
+and composition
+2023 Proxy Statement (Corporate Governance Profile, Our Board, p. 25; 
+Board Areas of Expertise Matrix, Board Diversity Matrix, Director Independence, 
+p. 26; Our Board Designations, p. 27; Board Committees, p. 30-32; Social and 
+Environmental Commitment, p. 36) 
+ 
+Playa Committee Composition
+2-10 Nomination and selection  
+of the highest governance body
+2023 Proxy Statement (Our Board Designations, p. 27)  
+ 
+Playa Documents and Charters Charter of the Nominating and Corporate 
+Governance Committee of the Board of Directors
+2-11 Chair of the highest  
+governance body
+2023 Proxy Statement (Director Independence, p. 26; Our Board Designations, 
+p. 27; Our Board Conflicts of Interest, p. 28-29)
+2-12
+Role of the highest governance 
+body in overseeing  
+the management of impacts
+2023 Proxy Statement (Board Committees, p. 30-32; Risk Oversight, p. 35; 
+Social and Environmental Commitment, p. 36-37) 
+TCFD (Board’s oversight of climate related risks and opportunities, p. 1-2) 
+Playa Documents and Charters Charter of the Nominating and Corporate 
+Governance Committee of the Board of Directors (Committee Powers, Duties and 
+Responsibilities, p. 3-4)
+2-13 Delegation of responsibility  
+for managing impacts
+2023 Proxy Statement (Social and Environmental Commitment, p. 36-37) 
+TCFD (Management’s role in assessing and managing climate related risks and 
+opportunities, p. 2) 
+2-14 Role of the highest governance 
+body in sustainability reporting
+2023 Proxy Statement (Social and Environmental Commitment, p. 36) 
+Playa Documents and Charters Charter of the Nominating and Corporate 
+Governance Committee of the Board of Directors (Corporate Social Responsibility 
+and Sustainability, p. 4)
+2-15 Conflicts of interest
+2023 Proxy Statement (Appointment of Directors, p. 7-10; Our Board Conflicts 
+of Interest, p. 28-29; Service on Other Boards, p, 29-30; Certain Relationships and 
+Related Transactions, p. 68-73; Review, Approval or Ratification of Transactions 
+with Related Persons, p. 73) 
+Playa Documents & Charters Code of Business Conduct and Ethics (Conflicts of 
+Interest, p. 2- 3); Board Rules (Conflicts of Interest and Related Party Transactions, 
+p. 12); Vendor Code of conduct (Anti-Corruption and Business integrity, p. 3); Anti-
+Bribery and Anti-Corruption Policy
+2-16 Communication  
+of critical concerns
+Playa Documents & Charters Code of Business Conduct and Ethics 
+(Compliance Procedures; Reporting Violations, p. 4-6)
+
+Page 22:
+22
+NUMBER DESCRIPTION RESPONSE/DISCLOSURE
+2-17 Collective knowledge  
+of the highest governance body 2023 Proxy Statement (Our Board Designations, p. 27, 36)
+2-18 Evaluation of the performance  
+of the highest governance body
+Playa’s Nominating and Governance Committee oversees the ESG Committee.  
+The ESG Committee reports directly to the Nominating and Governance 
+Committee regarding Playa’s activities over corporate social responsibility and 
+sustainability matters and the external reporting thereof (including matters 
+relating to diversity and inclusion). The Nominating and Governance Committee 
+regularly updates the Board on the activities of the ESG Committee. The ESG 
+Committee also updates the Board on its activities directly, at least annually. 
+2023 Proxy Statement (Compensation Committee, p. 31; Board and  
+Committee Self-Evaluations, p. 33) 
+Playa Documents & Charters; Board Rules (CEO Evaluation, p. 12-13);  
+Charter of the Nominating and Corporate Governance Committee of the  
+Board of Directors (Committee Powers, Duties and Responsibilities – Performance 
+Evaluations, p. 4)
+2-19 Remuneration policies
+2023 Proxy Statement (Director Compensation and Summary on Non-Executive 
+Director Compensation, p.38); Compensation Discussion and Analysis, p. 42-67) 
+Playa Documents & Charters Charter of the Compensation Committee of the 
+Board of Directors
+2-20 Process to determine 
+remuneration
+2023 Proxy Statement (Our Board Conflicts of Interest, p. 28-29; Compensation 
+Process, p. 47) 
+Playa Documents & Charters Charter of the Compensation Committee of the 
+Board of Directors
+2-21 Annual total compensation ratio
+2023 Proxy Statement (Pay Ratio, p. 67) 
+For the year ended December 31, 2022, we estimate that the ratio of the annual 
+total compensation of our CEO to the annual total compensation of our median 
+employee was 882:1.
+2-22 Statement on sustainable  
+development strategy A statement from our CEO is available in our 2022 Sustainability Report.
+2-23 Policy commitments
+2022 Sustainability Report (Playa Cares – Sustainable Management  
+System, p. 8-9) 
+Playa Documents & Charters Code of Business Conduct and Ethics; Human 
+Rights Policy; Environmental Policy; Vendor Code of Conduct 
+
+Page 23:
+23
+NUMBER DESCRIPTION RESPONSE/DISCLOSURE
+2-24 Embedding policy commitments
+2023 Proxy Statement (Social and Environmental Commitment, p. 33, 36-37)
+Playa Documents & Charters Human Rights Policy; Code of Business Conduct 
+and Ethics; Vendor Code of Conduct; Environmental Policy
+2-25 Processes to remediate  
+negative impacts
+For processes to remediate negative impacts, refer to our Code of Business  
+Conduct and Ethics, Human Rights Policy, Environmental Policy, Vendor Code  
+of Conduct, and Anti-Bribery and Anti-Corruption Policy under Playa Documents 
+& Charters.
+2-26 Mechanisms for seeking advice 
+and raising concerns
+Playa Documents & Charters (Code of Business Conduct and Ethics, p. 4-5)
+Playa Ethics Hotline Website
+EthicsPoint FAQs
+2-29 Approach to stakeholder  
+engagement
+2022 Sustainability Report (Stakeholder Engagement, p.12)
+2023 Proxy Statement
+Playa Cares™ - Sustainability (Governance; Local Sustainability & Responsibility)
+Playa Cares™ – Social Impact
+Our key stakeholders include shareholders, brand companies, employees, guests, 
+local communities, and suppliers.
+Stakeholders are determined by their impact on our company and its business 
+activities.
+Sustainability is vital to the success of Playa’s business, and we are committed to 
+collaborating with our stakeholders to make a positive environmental and social 
+impact. We engage our stakeholders on sustainability through various avenues 
+including meetings, surveys and events. We also have feedback channels in place 
+for guest and employee satisfaction.
+2-30 Collective bargaining  
+agreements
+Approximately 43% of our full-time equivalent work force is unionized.
+2022 10-K p. 19
+3-1 Process to determine  
+material topics
+2022 Sustainability Report (Playa Cares™ – Sustainable Management  
+System, p. 8-10)
+
+Page 24:
+24
+NUMBER DESCRIPTION RESPONSE/DISCLOSURE
+3-2 List of material topics
+2022 Sustainability Report (Playa Cares™ – Sustainable Management  
+System, p. 10)
+The list of material topics covered currently aligns with our portfolio of hotels  
+and resorts in this second year of reporting.
+The material topics covered include: water & energy, waste management, climate 
+change, ecosystems (flora and fauna), legal compliance, building & renovation, 
+health & safety, human resources and training, guest involvement, social 
+development, and project management. 
+3-3 Management  
+of material topics
+As a resort owner and operator in the Caribbean and Mexico, we are aware that 
+environmental issues if left unaddressed could pose significant risks to the local 
+travel and tourism industry. These risks include: 
+•    Climate change contributes to sea level rise, coastal erosion, and an increase 
+in the frequency and intensity of Sargassum seaweed blooms, coral bleaching 
+events, floods and droughts – all of which are detrimental to local tourism  
+and the local community.
+•    Increasing pressures on water and energy resources, as well as marine 
+pollution and degradation arising from improper waste management, have 
+repercussions on the ability of ecosystems to provide services that are essential 
+for human wellbeing. 
+•    Introduction of further regulations and stricter standards to strengthen 
+environmental protection present financial consequences to businesses  
+that are slow to change. 
+•    Societal and market expectations of sustainable business practices are rising, 
+and guests are likely to steer away from resorts with poorer sustainability 
+performance. 
+To address these risks, the Company has a sustainability management system  
+in place that focuses on the following key areas:
+1. Energy & Carbon Management; 
+2. Water Management; 
+3. Waste Management; 
+4. Flora & Fauna Conservation; and 
+5. Sustainable Procurement.
+We manage our material topics through the ESG Committee and Playa Cares™, 
+our sustainability platform. Our ESG Committee oversees our environmental 
+sustainability strategy, objectives, policies and procedures, with support in 
+implementation from our associates at our corporate offices and dedicated teams 
+at each resort. 
+Our sustainability management system helps us to monitor legal compliance 
+and facilitates continual improvement in our environmental performance 
+across the Company’s entire operations and throughout our asset life cycle. 
+This management system is informed by international standards including 
+the UN World Tourism Organization’s principles of sustainable tourism, 
+Global Sustainable Tourism Council (GSTC) Industry Criteria and World Health 
+Organization’s Protocols. 
+The five areas of our sustainability management system are each addressed 
+by nine components – policies and standards; compliance matrix evaluation; 
+communication and internal training programs; development and help to the 
+community; environmental improvement projects; calibrations; records and 
+evidence; document measurement and control; and progress reporting.
+
+Page 25:
+25
+NUMBER DESCRIPTION RESPONSE/DISCLOSURE
+201-1 Direct economic value  
+generated and distributed 2022 10-K (Financial Statements and Supplementary Data, p. 59-64)
+201-2
+Financial implications and other 
+risks and opportunities due to 
+climate change
+2022 10-K (Given the beachfront locations of our resorts, we are particularly 
+vulnerable to extreme weather events, such as hurricanes, which may increase 
+in frequency and severity as a result of climate change and adversely affect our 
+business, p. 18)
+TCFD Disclosure (Impact On Businesses, Strategy And Financial Planning, p. 5)
+Playa Documents & Charters Environmental Policy
+203-1 Infrastructure investments and 
+services supported Playa Cares™ Website- Social Impact
+205 Management approach
+disclosure
+Playa Documents & Charters Anti-Bribery and Anti-Corruption Policy; Code of 
+Business Conduct and Ethics (Bribes, Gifts and Gratuities, p. 10-11)
+2022 10-K p.56, 58
+205-2
+Communication and training 
+about anti-corruption  
+policies and procedures
+Playa Documents & Charters Anti-Bribery and Anti-Corruption Policy; Code 
+of Business Conduct and Ethics (Bribes, Gifts and Gratuities, p. 1, 10-11); Vendor 
+Code of Conduct (Anti-Corruption and Business Integrity, p. 3)
+2022 10-K (We could be exposed to liabilities under the FCPA and other anti-cor-
+ruption laws and regulations, including non-U.S. laws, any of which could have a 
+material adverse impact on us, p. 25)
+302-1 Energy consumption  
+within the organization ESG Performance Table (Environmental Performance)
+302-3 Energy intensity ESG Performance Table (Environmental Performance)
+303-5 Water consumption
+ESG Performance Table (Environmental Performance) 
+SASB (Water Management, p. 2)
+
+
+Page 26:
+26
+NUMBER DESCRIPTION RESPONSE/DISCLOSURE
+305-1 Direct (Scope 1)
+GHG emissions
+ESG Performance Table (Environmental Performance)
+All gases are included in the emission calculations.
+Our CO2 emissions from the combustion or biodegradation of biomass were 
+29.48 metric tons of CO2e.
+The source of emission factors for Mexico:
+•    Diesel, LPG (mobile and stationary), gasoline (mobile): Calculadora de emis-
+iones para el Registro Nacional de Emisiones V8 Mzo. 2022
+•    Biomass/woodwaste and charcoal: WRI Stationary Combustion Tool V4.1  
+Jamaica and Dominican Republic:
+•    Natural gas, gasoline (mobile), diesel, LPG (stationary), Biomass/woodwaste, 
+and charcoal: WRI Stationary Combustion Tool V4.1
+305-2
+Energy Indirect 
+(Scope 2)
+GHG emissions
+ESG Performance Table (Environmental Performance)
+The source of emission factors for Mexico was the Mexico Registro Nacional de 
+Emisiones 2023. Jamaica and the Dominican Republic’s source of emission 
+factors sources of electricity were from the International Energy Agency CO2 Emis-
+sions from Fuel Combustion 2022. The US corporate offices’ sources of emission 
+factors for electricity were from the EPA eGRID 2020 (Updated Jan, 2022).
+305-4 GHG Emissions Intensity ESG Performance Table (Environmental Performance)
+306-3 Waste generated ESG Performance Table (Environmental Performance)
+306-4 Waste diverted from disposal ESG Performance Table (Environmental Performance)
+306-5 Waste directed to disposal ESG Performance Table (Environmental Performance) 
+307 Management approach
+disclosure Playa Documents & Charters Environmental Policy
+307-1 Energy consumption  
+within the organization
+In 2022, Playa did not identify any known material instances of non-compliance 
+with environmental laws and/or regulations.
+401-2
+Benefits provided to full-time 
+employee that are not provided  
+to temporary or part-time  
+employees
+2023 Proxy Statement (Health and Welfare Benefits and Retirement Savings 
+Opportunities, p. 46)
+403-6 Promotion of worker health 2022 10-K (Social, p. 11; Human Capital Resources, p. 12)
+404-2
+Programs for upgrading  
+employee skills and transition 
+assistance programs
+2022 10-K (Environmental and Social, p. 11; Human Capital Resources, p. 12; 
+Employee Benefit Plan, p. 89)
+404-3
+Percentage of employees  
+receiving regular performance 
+and career development reviews
+2022 10-K (Social, p. 11)
+100% of our corporate employees receive regular performance and career devel-
+opment reviews.
+
+Page 27:
+27
+NUMBER DESCRIPTION RESPONSE/DISCLOSURE
+405 Management approach
+disclosure
+Playa Documents & Charters Code of Business Conduct and Ethics (Diversity 
+and Inclusion, p. 11; Equal Opportunity Employment, p. 12)
+Human Rights Policy (Prohibition of Discrimination and Harassment, p.2)
+405-1 Diversity of governance bodies
+and employees
+2023 Proxy Statement (Appointment of Directors, p. 7-10; Board Diversity 
+Matrix, p. 26)
+ESG Performance Table (Social and Governance Performance)
+413-1
+Operations with local  
+community engagement, 
+ impact assessments,  
+and development programs
+2022 10-K (Social, p. 11)
+Playa Cares™ Website- Social Impact
+416-1
+Assessment of the health and 
+safety impacts of product and 
+service categories
+2022 10-K (Focus on Safety Measures, p. 8)
+Human Rights Policy (Health and Safety, p. 2)
+2022 Sustainability Report (Playa Health and Safety, p. 17-18)
+418 Management approach
+disclosure
+2023 Proxy Statement (Audit Committee, p. 30; Cyber Risk, p. 35)
+Playa Documents & Charters Audit Committee Charter (Review of Cybersecuri-
+ty Risk Exposures, p. 6; Oversight of Risk Assessment and Management, p. 7)
+2022 10-K (Cyber risk and the failure to maintain the integrity of internal or 
+guest data could harm our reputation and result in a loss of business and/or 
+subject us to costs, fines, investigations, enforcement actions or lawsuits, p. 24)
+418-1
+Substantiated complaints  
+regarding breaches  
+of customer privacy and losses  
+of customer data
+There were no substantiated material complaints regarding violations  
+of customer privacy and losses of customer data during the reporting period.
+
+
+Page 28:
+28
+OVERVIEW
+Playa, through its subsidiaries, is a leading owner, operator, and  
+developer of all-inclusive resorts in prime beachfront locations in popular 
+vacation destinations in Mexico and the Caribbean. As of December 31, 
+2022, we owned and/or managed a total portfolio consisting of 25 
+resorts*  (9,352 rooms) located in Mexico, Jamaica and the Dominican 
+Republic. Playa’s strategy is to leverage its globally recognized brand 
+partnerships and proprietary in-house direct booking capabilities to 
+capitalize on the growing popularity of the all-inclusive resort model 
+and reach first-time all-inclusive resort consumers in a cost-effective 
+manner. We believe that this strategy should position us to generate 
+attractive returns for our shareholders, build lasting relationships with 
+our guests, and enhance the lives of our associates and the communities 
+in which we operate. We believe that our resorts have a competitive 
+advantage due to their location, brand affiliations, extensive amenities, 
+scale and design. 
+TCFD
+Our portfolio is comprised of all-inclusive resorts that share some 
+combination of the following characteristics: 
+•   Prime beachfront locations; 
+•   Globally recognized U.S. hotel brand partners; 
+•   Convenient air access from major and secondary North American 
+markets and international gateway markets; 
+•    Strategic locations in popular vacation destinations in countries 
+with strong local government commitments to tourism; 
+•    High quality standards and physical condition; and 
+•    Capacity for further revenues and earnings growth through 
+incremental renovation or repositioning opportunities
+Our all-inclusive resorts provide guests an attractive vacation experience 
+that offers both compelling value and price certainty, while at the same 
+time providing Playa more predictable revenue, expense and occupancy 
+rates than traditional full-service hotel business models. Generally, all-
+inclusive leisure guests book and pay further in advance, resulting in 
+lower cancellation rates and incremental sales of upgrades, premium 
+services and amenities not included in the all-inclusive package pricing.
+*  Unless otherwise noted, environmental data accounts for the properties managed 
+and/or owned by Playa for which 2022 operational data was available.
+
+Page 29:
+GOVERNANCE
+BOARD’S OVERSIGHT OF CLIMATE RELATED RISKS  
+AND OPPORTUNITIES
+Our Board of Directors (“Board”) oversees our Company’s risks and 
+opportunities from climate change as part of our Company’s overall 
+approach to Environmental, Social, and Governance (“ESG”) matters. 
+The Audit Committee of our Board receives annual risk assessments 
+including climate risks from Playa’s Risk Management Committee 
+(“RMC”). 
+The Nominating and Governance Committee (“NGC”) oversees our 
+Environmental, Social and Governance Committee (“ESGC”), which 
+is an organization-wide task force with representation from multiple 
+departments of the Company with the goal of obtaining a broader 
+reach for idea generation and effectively promoting best practices 
+and cross-collaboration related to corporate social responsibility and 
+sustainability. The ESG Committee reports directly to the Nominating 
+and Governance Committee regarding the Company’s activities over 
+corporate responsibility and sustainability matters and the external 
+reporting thereof (including matters relating to diversity and inclusion). 
+The Nominating and Governance Committee updates the Board 
+periodically on the activities of the ESG Committee. The ESG Committee 
+also directly updates the Board on its activities at least annually.
+MANAGEMENT’S ROLE IN ASSESSING AND MANAGING CLIMATE 
+RELATED RISKS AND OPPORTUNITIES
+Our ESG Committee oversees Playa’s commitment to incorporating 
+environmental sustainability, social responsibility, and best governance 
+practices into our daily operations at all levels with an emphasis on 
+reducing our environmental impact, mitigating risks, developing our 
+human capital, improving our communities, and driving value for all our 
+stakeholders. Our ESGC is led by representatives from various functional 
+departments and oversees our climate and overall environmental 
+sustainability strategy, objectives, policies and procedures, with 
+support from our management team at our corporate offices and 
+our dedicated teams at each resort. The ESGC conducts monthly 
+meetings and engages functional departments according to 
+our relevant programs such as Playa Green. ESG updates are 
+provided by the ESGC to the CEO on a routine basis, to the NGC, 
+and to the Board at least annually. Additional meetings and 
+other forms of engagement are conducted with management, 
+where required, to advance our sustainability objectives. Needs, 
+risks and considerations are discussed and elevated from the 
+property level to our area directors and top down in the sharing 
+of best practices. Climate related risks and considerations are 
+factored into our capital allocation and strategic planning on 
+a regular basis as part of our annual budgeting and recurring 
+risk assessments to pro-actively address these concerns. The 
+ESGC also works in conjunction with the RMC to incorporate 
+and capture climate-related risks in the Company’s broader 
+Enterprise Risk Management Program (“ERMP”).
+ 
+Operationally, the Playa Green program establishes 
+sustainability management processes which help us monitor 
+legal compliance, evaluate risks and inform strategy, and 
+also facilitate continual improvement in our environmental 
+performance across the Company’s operations and throughout 
+the life cycle of our assets. Energy and Carbon Management 
+are addressed by nine components – policies and standards; 
+compliance matrix evaluation; communication and internal 
+training programs; development and help to the community; 
+environmental improvement projects; calibrations; records and 
+evidence; document measurement and control; and progress 
+reporting.
+29
+
+
+Page 30:
+STRATEGY
+CLIMATE-RELATED RISKS AND OPPORTUNITIES IDENTIFIED OVER THE SHORT, MEDIUM AND LONG-TERM
+ 
+We use the following time horizons for identified climate risks and opportunities: Short term (<3 years), Medium term (3-7 years),  
+and Long term (>7 years). 
+30
+TIME FRAME CLIMATE RISKS CLIMATE OPPORTUNITIES
+Short  
+& Medium Term
+PHYSICAL
+•   Increased frequency and severity of extreme  
+weather events such as hurricanes
+•   Wildfires and associated poor air quality
+•   Variability in weather patterns
+•   Degradation in ecosystems
+TRANSITION
+•   Changing customer behavior
+•   Increased stakeholder concern
+•   Raw material cost increases
+•   Increased insurance cost
+•  Building resilience investment measures
+•  Use of more efficient modes of transport
+•  More efficient buildings
+•  Use of recycling
+•  Reduced water consumption
+•  Use of lower-emission sources of energy
+•  Participation in renewable energy programs 
+and adoption of energy efficiency measures
+•  Sustainability practices and certifications  
+to meet consumer preferences
+•  Contingency plans for extreme weather events
+Long Term
+PHYSICAL
+•   Rising mean temperatures
+•   Rising sea levels
+•   Changes in precipitation patterns and extreme  
+variability in weather patterns
+TRANSITION
+•   Increased pricing of GHG emissions
+•   Continued increased cost of raw materials
+•   Costs to transition to lower emissions technology
+•   Mandates on and regulation of existing products  
+and services (e.g. green building requirements)
+•   Enhanced emissions-reporting obligations  
+(e.g. ESG disclosure requirements)
+•   Customer preferences, demands, and expectations  
+for decarbonized travel
+• Early warning detection systems
+• Low emission goods and services
+• Use of supportive policy incentives 
+•  Enhanced long-term asset value from  
+investments in efficiency, resiliency,  
+and low-carbon solutions
+•  Avoiding future cost through early action on 
+forthcoming mandates and regulations
+•  Increase market share through early shift to 
+meet consumer preferences 
+
+
+Page 31:
+In 2021, Playa conducted property-specific climate-related risk 
+assessments for our entire portfolio. The assessment covered four main 
+areas: Climate, Water, Biodiversity, and Regulatory Policy risks and 
+opportunities.
+The Climate Risk Assessment analyzed both acute (floods, droughts 
+and cyclones) and chronic (change in long term precipitation, 
+temperature and sea level rise) physical climate risks, as well as 
+transition climate risks. The climate risks indicators evaluated are: 
+•   Sea Level Rise
+•   Precipitation Change
+•   Temperature Change
+•   Drought Risk
+•   Flood Risk
+•   Cyclone Risk
+•   Relative Market Carbon Intensity
+For overall climate risk, 19% of the portfolio was identified to be at ‘very 
+high risk’ and 15% at ‘high risk’. The most significant climate-related 
+risk for Playa is that of long-term precipitation and temperature change. 
+Cancun, Mexico was identified as a location with very high risk due to its 
+high vulnerability to sea level rise and very high risk of temperature and 
+precipitation change, among others. The risk assessment enables Playa 
+to take targeted, location-specific actions to mitigate climate risks and 
+capitalize on related opportunities. 
+The Water Risk Assessment analyzed physical risk (risks related to 
+quantity and availability of water), financial risk, community conflict risk, 
+and regulatory risk. The water risks indicators evaluated are: 
+•   Baseline Water Stress 
+•   Seasonal Variability 
+•   Future Water Stress 2030 
+•   Future Water Demand 2030 
+•   Future Water Supply 2030 
+•   Incoming Risk Likelihood 
+•   Water Risk Premium 
+For overall water risk, 6% of the portfolio were identified to 
+be at ‘very high risk’ and 46% at ‘high risk’. San Jose del Cabo 
+was identified as a location with very high risk due to its high 
+baseline water stress level, as well as high seasonal variability in 
+water supply and high future water stress level, among others. 
+Understanding property-specific water risk levels enables Playa 
+to better prioritize investments in water efficiency, amongst 
+other measures to minimize water usage and maximize water 
+reuse and recycling across our portfolio. 
+The Biodiversity Risk Assessment analyzed biodiversity 
+related risks and opportunities close to our properties. The 
+biodiversity risks indicators evaluated are: 
+•   Presence of Key Biodiversity Areas or Protected Areas 
+(including IUCN management categories I–VI, Ramsar 
+Wetlands of International Importance and World Heritage 
+sites)
+•   Presence of IUCN Red List of Threatened Species
+Four properties were found to be within 5km and all were 
+within 50km of recognized biodiversity sites. A total of 94 
+critically endangered species and 136 endangered species 
+were identified to be present in habitats within the vicinity of 
+our properties. Understanding the biodiversity values near our 
+properties enables Playa to better manage biodiversity risks 
+and take action to help safeguard these important habitats and 
+conserve species biodiversity.
+31
+
+
+Page 32:
+IMPACT ON BUSINESS
+Through Playa’s ERMP , the RMC assesses the associated impact levels of climate-related short, medium and long term risks.
+32
+TIME FRAME PRIORITY LEVEL IMPACTS
+Short  
+and Medium  
+Term
+High
+Our resorts are located at beachfronts and extreme weather events such as floods and 
+hurricanes can pose significant damage to the properties, disrupt property operations 
+and guest bookings or stays, and endanger the safety and wellbeing of our guests 
+and employees
+High
+Natural features that make coastal tourism attractive may be impacted by climate 
+change (e.g. Sargassum seaweed bloom on beaches, coral bleaching), reducing 
+tourism demand
+Medium Shift in guest preference toward green lodging attributes have an impact on resort 
+choices   
+Long Term
+High The rise in sea levels will impact acquisition and disposition strategy, as well as 
+capital investments planning  
+High Market valuation of assets may be positively impacted by thorough resilience plan-
+ning (e.g., infrastructure, land, buildings) and building efficiency enhancements
+High Asset valuation can also be negatively impacted as a result of write-offs and early 
+retirement (e.g., damage to property and assets in “high-risk” locations)
+Medium Increased capital costs may result from damage caused by rising sea levels and 
+extreme weather events to facilities
+Medium
+Increased operating costs may result from:
+•  higher costs of compliance with new mandates and regulations to limit carbon 
+emissions;
+• increased insurance premiums;
+• increased input prices of resources (e.g. energy, water); 
+• increased output requirements (e.g. waste treatment); and 
+• increased prices of goods and services due to supply chain disruptions
+Low/Medium Potential for reduced availability of insurance on assets in “high-risk” locations
+Medium
+Early investment in efficiency, resiliency, and low-carbon solutions could yield ben-
+efits including reduced risk exposure to future fossil fuel price increases and lower 
+sensitivity to increased carbon pricing 
+Medium Investment in green resort attributes and engagement of guests in sustainability 
+programs could offer a competitive edge in gaining guest preference
+
+Page 33:
+IMPACT ON STRATEGY AND PLANNING 
+We review our business strategy and risk management approach to 
+incorporate climate risk considerations. We undertake portfolio-wide 
+risk assessments for our existing portfolio as well as pipeline projects 
+for resort ownership and/or operations. Assessment is used to identify 
+climate-related risks and opportunities for incorporating resiliency 
+in long-term planning of our assets and capital budgeting. We carry 
+substantial insurance protection that covers our entire portfolio 
+against extreme weather events and business interruption as part 
+of our assessment and risk mitigation efforts. Through Playa Green, 
+our emphasis on green certification and property-level sustainability 
+initiatives strengthens the positioning of our resorts in response 
+to increasing customer demand for sustainable lodging options. 
+Our acquisition and asset portfolio optimization strategy takes into 
+consideration relevant climate-related risks and associated costs for 
+addressing such concerns. We work closely with local governing bodies 
+to share best practices and encourage policy enactment and changes 
+that are aligned with addressing local climate risks. 
+Some examples of our energy and water efficiency projects implemented 
+to mitigate climate-related risks include:
+•   Use of electricity powered by methane gas from landfills, a 
+renewable source of energy that helps to reduce carbon emissions 
+associated with this potent greenhouse gas
+•   Implementation of ASHRAE (American Society of Heating, 
+Refrigerating & Air-Conditioning Engineers) utility efficiency 
+measures based on findings of Mechanical Assessment reports
+•   Overhaul of lighting to energy-efficient LED lighting 
+•   Installation of light and HVAC sensors to reduce energy usage when 
+rooms are unoccupied 
+•   Investment in Reverse Osmosis plants so that seawater can be 
+accessed and used as a water source
+•   Installation of rainwater catchers and storage 
+•   Installation of water saving faucets
+•   Installation of water turbines to existing water pipes to 
+generate electricity
+•   Use of carbon dioxide as refrigerant in all refrigeration 
+chambers which significantly improves energy efficiency 
+•   Use of native or drought-tolerant landscaping to reduce 
+irrigation needs
+•   Installation of digital thermostats in guest rooms
+Some examples of our biodiversity conservation efforts include:
+•   Information on the historical and ecological value of local 
+heritage and natural sites are shared with guests through 
+information booklets and signages, and by our employees 
+•   Responsible tourist behavior is shared with guests through 
+our Code of Conduct for the Tourist at resorts including Hyatt 
+Ziva Cancún
+•   Our tour representatives at our Jamaican resorts are “Teams 
+Jamaica Certified” to correctly inform and instruct guests on 
+responsible interaction with the environment
+•   At Jewel Paradise Cove, we provide “Nature Walk & Talk” tours 
+to the guests to showcase and share about the biodiversity 
+located within the resort, as well as responsible interaction 
+guidelines
+•   At Hyatt Ziva Los Cabos, signages are put up on the beach to 
+educate guests on actions to be taken to protect sea turtles
+•   Periodic activities that reduce the impact of operations on 
+local biodiversity through cleaning activities at the beaches, 
+mangroves/wetlands, and nesting areas for turtles
+•   All resorts must comply with and follow Playa’s animal welfare 
+procedures such as prohibition of activities that involve 
+captive wildlife and avoiding the purchase of products made 
+with parts of wild animals or tested on animals.
+33
+
+
+Page 34:
+RESILIENCE OF STRATEGY, TAKING INTO ACCOUNT  
+DIFFERENT SCENARIOS, INCLUDING A 2 DEGREE CELSIUS  
+OR LOWER SCENARIO
+Through the Paris Agreement, countries have committed to limit global 
+warming to well below 2 degree Celsius from pre-industrial levels. The 
+Intergovernmental Panel on Climate Change (IPCC) reports that limiting 
+global warming to 1.5 degree Celsius would be most preferable, but 
+even then, there would be significant climate impacts.  Under a 1.5 
+degree Celsius scenario, transition risks would be greater than under 
+a 2 degree Celsius scenario since a more rapid transition may be 
+accompanied by tough government mandates and regulations. 
+On the other hand, a 2 degree Celsius scenario would involve 
+more significant physical risks, such as more drastic extreme 
+weather events. The Company considers these possible scenarios 
+and evaluates climate-related risks and opportunities across 
+the following timeframes: Short-term (<3 years), Medium-
+term (3-7 years), and Long-term (>7 years). We will continue to 
+monitor and review the changing circumstances, including the 
+regulatory landscape, and take appropriate actions to continue 
+enhancing our climate resilience.
+34
+
+
+Page 35:
+RISK MANAGEMENT 
+PROCESS FOR IDENTIFYING AND ASSESSING  
+CLIMATE-RELATED RISKS
+ 
+The ESGC is responsible for the oversight of the process to identify, 
+assess, plan and respond to climate-related risks and opportunities that 
+may impact our Company performance, asset preservation, associate 
+health and well-being, and investor engagement. We assess various 
+sustainability risks through a process of data collection, modelling, and 
+analysis in consideration of climate, water, biodiversity, socioeconomic, 
+and regulatory risks. We carry out portfolio-wide and property-specific 
+climate risk assessments, covering aspects of sea level rise, storm 
+surges, flood, drought, water scarcity, utility cost increase, biodiversity 
+impacts on protected areas and endangered species, wildfire, long term 
+changes in precipitation and temperature, and policy and regulation as 
+part of transition risks. These climate risk assessments are presented to 
+the ESGC as part of the ESGC’s oversight responsibilities.
+ 
+Our risk assessment process incorporates sustainability risks 
+into company strategy and identifies & prioritizes sites that 
+are high risk. Given our footprint across several countries and 
+regions, we aim to incorporate best practices to anticipate 
+regulatory changes and adjust our operations accordingly with 
+emphasis on risks and changes that are estimated to be highly 
+likely in the short-medium term, pose potentially serious 
+consequences if left unaddressed, or provide favorable return 
+on investment characteristics. Additionally, we strive to advance 
+our human rights performance by assessing human rights risks 
+and mitigating impacts through appropriate measures across 
+our operations.
+PROCESSES FOR MANAGING CLIMATE-RELATED RISKS 
+35
+TIME FRAME CLIMATE RISKS CLIMATE OPPORTUNITIES
+Short  
+& Medium Term
+PHYSICAL
+•  Increased frequency and severity of extreme  
+weather events
+• Variability in weather patterns
+• Degradation in ecosystems
+TRANSITION
+•   Changing customer behavior 
+• Increased stakeholder concern 
+•  Conduct regular preventive maintenance as 
+part of risk mitigation strategy
+•  Develop emergency response plans and 
+conduct related training for employees
+•  Invest in efficiency, resiliency, and low-carbon 
+solutions
+•  Invest in insurance to mitigate risks from 
+extreme weather events
+•  Engagement of guests and employees in 
+sustainability programs
+•  Integrate of climate-related issues within 
+business strategy reviews and operational 
+meetings 
+Long Term
+PHYSICAL
+•   Rising mean temperatures
+• Rising sea levels
+•  Changes in precipitation patterns and extreme 
+variability in weather patterns
+TRANSITION
+•   Increased pricing of GHG emissions
+• Increased cost of raw materials
+• Costs to transition to lower emissions technology
+•  Mandates on and regulation of existing products  
+and services (e.g. green building requirements)
+•  Enhanced emissions-reporting obligations  
+(e.g. ESG disclosure requirements)
+•  Customer preferences, demands, and expectations 
+for decarbonized travel
+•  Evaluate risk profile of a potential asset, 
+including climate-related risks, prior to 
+acquisition 
+•  Monitor risk profile of existing assets, 
+including climate-related risks, and optimize 
+portfolio by identifying and implementing 
+relevant mitigation and adaptation measures, 
+prioritizing “high-risk” locations
+•  Monitor and ensure compliance with climate-
+related regulations on an ongoing basis
+•  Strengthen partnerships with vendors for 
+sustainability  
+•  Partake in local sustainability initiatives to 
+boost destination sustainability
+
+Page 36:
+INTEGRATION INTO OVERALL RISK 
+MANAGEMENT 
+The Company’s ERMP was established to oversee overall risk 
+management across the Company. The program is managed by the RMC, 
+a cross-functional team comprising of executives from Finance, IT, and 
+Development. In conjunction with the ESGC, the RMC completes a review 
+and strategic planning session of climate-related risk and opportunities. 
+The results of the ERMP Risk Assessment review with senior management 
+are presented to the Audit Committee and Board of Directors annually. 
+Similar to the process to identify risks, the ESGC then works with various 
+departments including Operations, Engineering, Legal, Finance, and 
+Development to manage climate-related risks. 
+In 2022, the Company created Playa Cares ™, a Corporate Sustainability 
+Management system, which is built on the 4 strategic pillars of 
+Sustainable Tourism established by the Global Sustainable Tourism 
+Council (GSTC), allowing the Company to align programs and initiatives 
+with global efforts to change the tourism industry into a driver of 
+sustainable development. Playa Cares™ is organized into 12 programs, 7 
+of which either directly or indirectly address climate-related risks: Water 
+and Energy Management, Waste Management, Sustainable Supply 
+Chain, Climate Change, Ecosystems Flora and Fauna, Legal Compliance, 
+and Building and Renovation.
+In addition, Playa’s Corporate Quality department will propose medium 
+and long-term actions for the decarbonization of the company’s 
+operations once the scope 1, 2, and 3 emissions inventories have been 
+completed, as well as the analysis of risks in the face of climate change 
+phenomena. 
+SCOPE 1 AND 2 GHG EMISSIONS 
+More detailed and historical data can be found in our ESG performance tables online. 
+36
+2022 GREENHOUSE GAS EMISSIONS TOTAL GHG EMISSIONS
+(MT CO2E)
+GHG EMISSIONS PER SQUARE METERS
+(KG CO2E)
+Scope 1 36,217 45
+Scope 2 67,558 84
+Total Scope 1 + Scope 2 103,775 129
+METRICS USED
+1. GHG Emissions
+• Total GHG Emissions
+• Total Scope 1 Emissions
+• Total Scope 2 Emissions
+• GHG Emissions Intensity
+2. Energy 
+• Total Energy Consumption
+• Total Direct Energy Consumption
+• Total Indirect Energy Consumption
+• Energy Usage Intensity
+•  Percentage of energy produced or procured from renewables
+• Percentage of energy sourced from grid electricity
+3. Water
+• Total Water Consumption
+• Water Consumption per occupied room
+•  Percentage of the portfolio in regions with High or Extremely 
+High Baseline Water Stress (by floor area)
+4. Waste
+• Total Waste Generated
+• Total Waste Diverted
+• Total Waste Landfilled
+• Non-diverted waste Intensity
+• Waste Diversion Rate
+5. Additional Metrics Monitored
+•  Investments and corresponding estimated annual savings 
+from projects to reduce energy and carbon emissions
+•  Portfolio-wide and property-specific forecasted variances in 
+temperature and precipitation, relative risk levels of sea level 
+rise, drought, and flood
+•  Proximity to IUCN protected areas, endangered species 
+habitats, and wildfires
+•  Social determinants of well-being in and around a 
+community, including factors related to air pollution
+

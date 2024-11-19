@@ -1,0 +1,695 @@
+Page 1:
+For the Future 
+of Farming
+ForFarmers’ 2021  
+Sustainability 
+Reporting 
+
+
+Page 2:
+ForFarmers Annual Report 2021
+About ForFarmers’ 2021 Sustainability Reporting 
+1
+About ForFarmers’ 2021 Sustainability 
+Reporting 
+ForFarmers aims to provide a balanced, reliable and 
+clear view of its sustainability approach and performance. 
+This document provides specific information on the 
+management and reporting methods used to arrive 
+at the externally assured sustainability data, results 
+and topics included in the sustainability reporting. 
+ForFarmers references to ESG reporting is guided by the 
+World Economic Forum report: Measuring Stakeholder 
+Capitalism: Towards Common Metrics and Consistent 
+Reporting of Sustainable Value Creation (September 2020) . 
+Sustainability reporting content and scope
+The content disclosed in the sustainability reporting is 
+based on the material topics identified by ForFarmers and 
+its stakeholders following its materiality assessment. It is 
+also shown in which part of the value chain the material 
+topic has an impact. These material topics and related 
+boundaries define the sustainability reporting content. 
+Materiality determination process 
+Every two years we conduct an extensive survey among 
+stakeholders, which we then record in a materiality 
+matrix. In 2021 we asked just over 300 internal and 
+external stakeholders what they considered important 
+when it comes to our activities and role in society. 
+This time the process involved an online questionnaire 
+containing a number of quantitative and qualitative 
+questions structured around Environmental, Social and 
+Governance (ESG) themes. These were focused on the 
+following topics:
+• What do our stakeholders think are the most important 
+ESG themes in society right now
+• How do our stakeholders feel about certain sustaina -
+bility dilemmas and trade offs
+• How do our stakeholders feel about the adoption of new 
+technologies such as gene editing 
+• What do our stakeholders think will be the impact of 
+forthcoming policy and legislation such as the European 
+Green Deal and Farm to Fork strategy 
+The outcomes of the stakeholder dialogue were used 
+to update the y-axis of ForFarmers materiality matrix. 
+The x-axis of the matrix was updated using the expertise 
+of ForFarmers Sustainability Task Force. 
+The sustainability information in the annual report 
+includes the sustainability performance of all operating 
+segments, business units and group departments of 
+ForFarmers. The reporting includes all entities in which 
+ForFarmers, directly or indirectly, exercises management 
+control. For some of the sustainability KPIs, the scope is 
+more narrowly defined, as is shown in the table below. 
+ForFarmers excludes companies or businesses acquired 
+during the current and prior reporting period from the 
+reporting scope. The reason behind this is that newly 
+acquired companies or businesses first need to be 
+integrated into the ForFarmers organisation and become 
+familiar with the ForFarmers way of working, before the 
+reliability of the reported figures can be ensured. As a 
+result of this policy, De Hoop Mengvoeders (De Hoop), 
+is not included in the scope for 2021 reporting.
+Sustainability reporting criteria 
+The sustainability reporting has been prepared in 
+accordance with the GRI Standards and is presented 
+in accordance with the ‘core’ option. Details regarding 
+compliance with GRI (GRI content index) can be found in 
+the sustainability section on the corporate website. 
+For each externally assured sustainability KPI, 
+ForFarmers has defined specific reporting criteria, 
+see table below:
+
+Page 3:
+ForFarmers Annual Report 2021
+About ForFarmers’ 2021 Sustainability Reporting 
+2
+Sustainability KPI Definition used Specifics on scope External 
+Assurance 
+100 % responsibly sourced 
+palm oil and soy bean meal 
+by 2025
+ForFarmers considers soy meal sustainable when certificates are bought from soy programmes that 
+have successfully passed the benchmarking process against the baseline criteria established in the 
+FEFAC Soy Sourcing Guidelines and displayed on FEFAC’s customised page on ITC Standards Map.
+ForFarmers considers palm oil & palm oil derivatives sustainable when RSPO (Roundtable on Sustai -
+nable Palm Oil) certificates are bought for the equivalent tonnage of palm oil included in the raw 
+materials used by ForFarmers.
+Organic soy meal used (e.g. Reudink, ForFarmers UK 
+organic) or sold (e.g. as straights) is excluded from 
+the scope of the sustainable soy meal target as certi -
+ficate schemes are only applicable to conventional soy 
+and it is therefore not logical to buy conventional 
+certificates against organic soy used/sold. 
+Yes
+85% Suppliers signed Sedex 
+Code of Conduct
+The number of suppliers who are members of Sedex expressed as a % of spend over the reporting 
+period. Includes suppliers of raw materials, DML products and indirect procurement. 
+No specific exclusions. No
+Take leadership position on 
+reduction CO 2 emissions of 
+feed materials (scope 3 
+upstream)
+ForFarmers uses FeedPrint to calculate the CO 2 emissions of the major feed materials. Our formu -
+lation team now also uses this information to calculate the upstream emissions (scope 3) based on 
+materials being delivered to the feed mill. Where materials are used by ForFarmers which are not yet 
+in FeedPrint (usually micro-ingredients), alternative sources of information for example from Nevedi 
+are used until 100% of the formula is included. 
+No specific exclusions. No
+Take leadership position on 
+% non human edible feed 
+materials in diets
+ForFarmers uses the FAO definition and categorisation of human edible and non-edible feed materials. 
+All feed and DML materials are categorised and converted to an 88% dry matter basis. The volume of 
+materials categorised as by-products, grass and leaves, oil seed cakes and other non-edible are 
+divided by the total to produce a % non-human edible feed materials over the reporting period. 
+Poland is currently excluded due to the current IT 
+system configuration.
+No
+Largest mill carbon neutral 
+as proof of concept 
+Scope 1 and 2 greenhouse gas emissions associated with production at the Lochem 12 plant are 
+reported for the reporting period. The energy generated from the biomass boiler and solar panels is 
+converted into CO 2 and included in the total. 
+Transport and offices are not included in the calcu -
+lation. 
+No
+50% renewable energy Current reporting includes the primary energy used from the biomass boiler at Lochem, solar panels 
+at Lochem and a number of locations in the UK, the biodiesel content of the diesel used in logistics and 
+the % renewable energy included in the electricity supply in each country. The energy from these 
+sources (converted into kWh) is expressed as a percentage of the total primary energy usage (kWh).
+The emissions from the blend plants in the United 
+Kingdom and the pet food factory in Calveslage 
+(Germany) are currently excluded from the scope.
+No 
+10% energy/fuel reduction 
+per tonne compared to 2020
+Primary energy usage per fuel type is recorded (either in kWh or litres) for the reporting period. 
+Primary energy usage is divided either by production volume or logistics volume (in the case if diesel). 
+The emissions from the blend plants in the United 
+Kingdom and the pet food factory in Calveslage 
+(Germany) are currently excluded from the scope.
+No
+GHG emissions Greenhouse gas (GHG) emissions are emissions related to gas that contributes to the greenhouse 
+effect by absorbing infrared radiation. The GHG emissions are categorised by scope:
+• Direct (scope 1) GHG emissions: GHG emissions from sources that are owned or controlled by 
+ForFarmers (production and logistics). For the diesel emissions, the tank-to-wheels cycle is 
+applied;
+• Energy indirect (scope 2) GHG emissions: GHG emissions that result from the generation of 
+purchased or acquired electricity consumed by ForFarmers. The market-based method for 
+reporting on scope 2 GHG emissions is applied as of 2019. 
+• In the full tables, the total GHG/tonne shown is calculated using the volume produced using each 
+energy type (not total volume).
+ForFarmers only reports on scope 1 and scope 2 GHG 
+emissions from ForFarmers controlled compound 
+feed plants. The emissions from the blend plants in 
+the United Kingdom and the pet food factory in Calve -
+slage (Germany) are therefore excluded from the 
+scope.
+Ja 
+
+Page 4:
+ForFarmers Annual Report 2021
+About ForFarmers’ 2021 Sustainability Reporting 
+3
+Sustainability KPI Definition used Specifics on scope External 
+Assurance 
+Take leadership position in 
+phosphate and nitrogen 
+efficiency
+The calculated value for phosphate and nitrogen efficiency indicates the amount of phosphate and 
+nitrogen which is taken up via feed deposited in animals and animal products. In other words, 
+the phosphate and nitrogen efficiency value informs about the phosphate and nitrogen utilisation on the 
+farm.
+The scope of both phosphate and nitrogen efficiency 
+calculations is restricted to dairy cows, swine and 
+poultry in the Netherlands. The results are always 
+one year behind due to the availability of the data.
+Considering that (reliable) data which is required for 
+the calculation of phosphate efficiency is only 
+available for Dutch farmers, the scope is restricted to 
+The Netherlands only.
+Phosphate 
+only
+Lost Time Incident 
+Frequency Rate @0.5 per 100 
+FTE and a 50% reduction in 
+number of LTIs compared to 
+2019 
+A Lost Time Incident is defined as any unplanned event that results in personal injury, where the 
+injured party is unable to work during their next scheduled day. This also includes employees, 
+contractors and visitors who have an accident on our (customer’s) premises, at a company organised 
+event or during driving on our (contractor’s) lorries. Excluded are driving to and from normal or 
+contracted place of work.
+The LTI Frequency Rate per quarter is calculated by the following formula: (200.000 hours x LTIs per 
+quarter) / total hours worked (= contract hours + overtime hours) per quarter. This is in line with the 
+formula used in GRI, the international standards for sustainability reporting.
+No specific exclusions. Yes 
+Reduction of 50% of Feed 
+Safety Incidents compared 
+to 2017 
+An incident is considered a feed safety incident when human health and/or animal health is at risk. 
+Total number of feed safety incidents regarding non-compliance with regulations and voluntary codes 
+concerning the health and safety impact of products and services, resulting in a fine or penalty; 
+resulting in a warning or via external audits (minor incidents excluded). 
+No specific exclusions. Yes
+With respect to the KPI reporting, there are no changes in the scope of external assurance compared to 2020.
+
+Page 5:
+ForFarmers Annual Report 2021
+About ForFarmers’ 2021 Sustainability Reporting 
+4
+As the sustainability data is derived from various sources 
+across the value chain and differs in maturity, ForFarmers 
+continues to work on improving the sustainability data 
+collection processes and control environment. In this 
+respect, the Executive Team asked ForFarmers’ external 
+auditor (KPMG) to provide limited assurance on a number 
+of the sustainability KPIs in the 2021 annual report as 
+indicated above. KPMG’s assurance report, including 
+details of the work they carried out, can be found in the 
+Annual Report 2021. 
+Furthermore, ForFarmers has several environmental 
+certifications: in Germany ForFarmers is ISO 50001 
+certified and in the UK there are ISO 50001 and 14001 
+certifications. ISO 50001 supports ForFarmers to use 
+energy more efficiently through the development of an 
+energy management system.
+ForFarmers uses publicly available conversion factors to 
+convert energy use (kWh or litre) to CO 2. The factors used 
+in 2021 are shown below. 
+Governance related to Sustainability
+ForFarmers has a two-tier governance approach to 
+sustainability in the form of the Sustainability Advisory 
+Board and the Sustainability Task Force. In 2021 both 
+committees had a similar composition and way of working 
+as last year to ensure consistency and relevant expertise. 
+The Sustainability Advisory Board meets twice a year 
+and is chaired by the CEO of ForFarmers. The role of 
+the Sustainability Advisory Board is to provide advice 
+on ForFarmers’ sustainability strategy and on major 
+trends and challenges that should be taken into account. 
+The Sustainability Advisory Board is composed of 
+two members of ForFarmers’ Executive Committee, 
+one member of ForFarmers’ Supervisory Board and 
+six external members who are all major players in 
+ForFarmers’ supply chain, academia and NGOs.
+Composed of one member of the Executive Team and 
+eight senior managers, the Sustainability Task Force 
+is responsible for the implementation of ForFarmers’ 
+sustainability approach. Each business owner is 
+responsible for a specific sustainability focus area. 
+The task force coordinates improvement measures with 
+respect to KPIs and provides relevant information to the 
+Executive Board and Team. Within the Executive Team, 
+the director Supply Chain is responsible for ForFarmers’ 
+sustainability approach. ForFarmers’ Corporate Affairs 
+Director is Chairman of the Task force and is responsible 
+for driving the sustainability agenda and to continually 
+improve performance.
+Coefficients to GHG (in kg of CO₂)
+Production Country From To 2021
+Gas Netherlands kWh Kg of CO 2 0.182
+Gas Germany KWh Kg of CO 2 0.182
+Gas Belgium KWh Kg of CO 2 0.182
+Mazout (gas replacer) Belgium KWh Kg of CO 2 0.278
+Gas Poland KWh Kg of CO 2 0.182
+Gas UK KWh Kg of CO 2 0.185
+Electricity Netherlands KWh Kg of CO 2 0.392
+Electricity Germany KWh Kg of CO 2 0.280
+Electricity Belgium KWh Kg of CO 2 0.205
+Electricity Poland KWh Kg of CO 2 0.697
+Electricity UK AIC Kg of CO 2 0.377
+Gas oil UK KWh Kg of CO 2 0.278
+Kerosene UK KWh Kg of CO 2 0.247
+Medium oil UK KWh Kg of CO 2 0.268
+Gas Oil Poland KWh Kg of CO 2 0.278
+Coal Poland KWh Kg of CO 2 0.306
+Diesel All countries l Kg of CO 2 2.4740
+
+Page 6:
+ForFarmers Annual Report 2021
+About ForFarmers’ 2021 Sustainability Reporting 
+5
+Sustainability management approach 
+Sustainability data is integrated in ForFarmers’ internal 
+reporting processes. Each sustainability focus area 
+has assigned a business owner for coordinating the 
+sustainability performance on the respective pillar and 
+determining future actions and initiatives. The collected 
+data is reviewed by the business owner. On a quarterly 
+basis1 the sustainability data is consolidated by the 
+Corporate Affairs Director and reviewed by Finance 
+and Internal Audit. Several internal controls, including 
+sanity checks and qualitative analysis, are performed to 
+ensure the accuracy and completeness of the data used 
+to calculate the KPI performance. The sustainability 
+performance is then discussed within the Sustainability 
+Task Force as well as the country management teams to 
+discuss the current status and next steps. Subsequently 
+it is submitted to the Executive Board and Team for 
+evaluation.
+1 Excluding P-efficiency as this is reported annually, and one year behind, due to the 
+availability of data
+Stakeholder dialogue
+ForFarmers recognises the importance of understanding 
+the views of its stakeholders. They challenge us, 
+they share their expectations and concerns, they raise 
+issues, they provide feedback and they collaborate with 
+us. ForFarmers identified two stakeholder groups: level A 
+stakeholders have been defined as those directly involved 
+in the ForFarmers supply chain (employees, suppliers, 
+customers, processors and retailers). Level B includes all 
+other stakeholder groups (shareholders, members, NGOs, 
+regulators, government, media, investors and banks). 
+Engagement with these stakeholders is key for 
+ForFarmers and takes place regularly on a formal and 
+informal basis. We communicate with the stakeholders 
+through various channels and at a variety of levels. 
+The following table provides an overview about how 
+ForFarmers engages with each stakeholder group, 
+what has been shared and discussed during these 
+engagements with them and, subsequently, ForFarmers’ 
+responses to these raised topics. This is in addition to the 
+separately, formally organized stakeholder dialogue to 
+update the materiality matrix. 
+* Barney Kay will step down. The process for a successor has started.
+Sustainability advisory board
+• Provide oversight of ForFarmers sustainability performance
+• Provide input from key external stakeholders
+ Chairman  Yoram Knoop, CEO
+Director Supply Chain Arthur van Och
+Director Corporate Affairs Nick Major
+Supplier Prof. Leo den Hartog
+Farmers Dr Simon Schlüter
+Food Industry Frank van Ooyen
+Erwin Wunnekink
+Retail Barney Kay *
+NGO Sijas Akkerman
+Caroline Drummond
+ Chairman Nick Major, Corporate Affairs Director
+Director Investor Relations Caroline Vogelzang
+Director Supply Chain Arthur van Och
+Group Finance Director Bas Deelder
+Internal Auditor Rik Berkel
+ Business Owners
+Health and Safety Arthur van Och
+Nutritional Innovation Ad van Wesel
+Formulations & Lab Wilco Engberts
+Quality Manfred Hessing
+Raw Materials Falko Weinberg
+Purpose
+Composition
+Sustainability task force
+• Working group which reviews progress against implementation plan
+• Identifies gaps in current performance and agree corrective actions
+
+Page 7:
+ForFarmers Annual Report 2021
+About ForFarmers’ 2021 Sustainability Reporting 
+6
+Stakeholders 
+Level A
+Engagement with stakeholders Expectations shared and topics discussed Expectations/topics addressed in ForFarmers' reporting 
+Employees • Day-to-day contact 
+• Employee intranet continuously
+• Employee magazine half-yearly 
+• Regular team meetings 
+• Bi-annual employee survey 
+• Regular employee councils 
+• Management conferences half-yearly 
+• Best-in-class employer 
+• Safe working environment 
+• Fair remuneration 
+• Flexible working arrangements 
+• Openness and transparent communications 
+• Support tor social projects 
+Our innovation and sustainability agenda:  
+Going Circular For the Future of Farming and in particular  
+the following sustaianbility focus areas: 
+4. People and Society 
+Developing Talent For The Future of Farming 
+Suppliers • Day-to-day contact 
+• Code of conduct when relevant 
+• Regular audits 
+•  meetings and visits continuously 
+• Contracts and specifications when applicable
+• Partnership approach 
+• Fair pricing 
+• Honour all obligations 
+• Openness and transparency 
+• Traceability 
+• Feed safety 
+• Responsible sourcing 
+• Green house gas emissions 
+Our innovation and sustainability agenda:  
+Going Circular For the Future of Farming and in particular  
+the following sustaianbility focus areas: 
+1.  Feed Resources 
+2.  Feed Production 
+3.  Feed Solutions 
+4.  People and Society 
+Customers • Day-to-day contact 
+• Website and social media continuously 
+• 3-4 magazines per year 
+• Monthly digital newsletter 
+• Ouarterly sounding boards 
+• Advertising and promotions when relevant 
+• Regular events 
+• Fair pricing 
+• On-time, in-full delivery 
+• Product quality 
+• Technical advice and support 
+• Innovation 
+• Feed efficiency and feed safety 
+• Support tor industry initiatives 
+• Resource (phosphate/nitrogen) efficiency 
+• Animal health and welfare 
+• Antimicrobial resistance 
+Our innovation and sustainability agenda:  
+Going Circular For the Future of Farming and in particular  
+the following sustaianbility focus areas: 
+1.  Feed Resources 
+2.  Feed Production 
+3.  Feed Solutions 
+4.  People and Society 
+Processors • Day-to-day contact 
+• Regular technical meetings and projects 
+• Technical advice and support 
+• Innovation 
+• Openness and transparency 
+• Traceability 
+• Feed safety 
+• Resource efficiency 
+• Animal health and welfare 
+• Antimicrobial resistance 
+• Responsible sourcing 
+• Green house gas emissions 
+Our innovation and sustainability agenda:  
+Going Circular For the Future of Farming and in particular  
+the following sustaianbility focus areas: 
+1.  Feed Resources 
+2.  Feed Production 
+3.  Feed Solutions 
+4.  People and Society 
+Retailers • Day-to-day contact 
+• Regular technical meetings and projects 
+• Technical advice and support 
+• Innovation 
+• Openness and transparency 
+• Traceability 
+• Feed safety 
+• Resource efficiency 
+• Animal health and welfare 
+• Antimicrobial resistance 
+• Responsible sourcing 
+• Green house gas emissions 
+Our innovation and sustainability agenda:  
+Going Circular For the Future of Farming and in particular  
+the following sustaianbility focus areas: 
+1.  Feed Resources 
+2.  Feed Production 
+3.  Feed Solutions 
+4.  People and Society 
+
+Page 8:
+ForFarmers Annual Report 2021
+About ForFarmers’ 2021 Sustainability Reporting 
+7
+Stakeholders 
+Level B
+Engagement with stakeholders Expectations shared and topics discussed Expectations/topics addressed in ForFarmers' reporting 
+Shareholders • Annual shareholder meeting 
+• Publication and presentation of annual and  
+half-year results 
+• Quarterly trading updates 
+• Regular roadshows 
+• Annual Report 
+• Return on investment 
+• Openness and transparency 
+• Strong culture and values 
+• Dividend performance
+• Clear strategy
+• Sustainability approach
+• Reporting and disclosure
+Our innovation and sustainability agenda:  
+Going Circular For the Future of Farming 
+Developing Talent For The Future of Farming 
+Governance and Compliance Financial Statements 
+Appendix: Sustainability Reporting 
+Members • Regular meetings and events 
+• Newsletter/member magazine 3-4 per year 
+• Continuously via website 
+• Strong culture and values
+• Openness and transparency
+• Long-term management focus 
+• Resource efficiency 
+• Animal health and welfare
+• Antimicrobial resistance
+Our innovation and sustainability agenda,  
+Going Circular For the Future of Farming and 
+in particular the following sustainability focus areas: 
+1.  Feed Resources 
+2.  Feed Production 
+3.  Feed Solutions 
+4.  People and Society 
+Developing Talent For the Future of Farming 
+NGOs • Participation in conferences when relevant 
+• Ad hoc meetings 
+• Sustainable practices
+• Openness and transparency 
+• Responsible sourcing of raw materials
+• Animal health and welfare 
+• Environmental impact of livestock production
+Our innovation and sustainability agenda,  
+Going Circular For the Future of Farming and 
+in particular the following sustainability focus areas: 
+1.  Feed Resources 
+2.  Feed Production 
+3.  Feed Solutions 
+4.  People and Society 
+Developing Talent For the Future of Farming 
+Regulators • Membership of national and European trade 
+associations 
+• Regular site visits and certification audits 
+• Compliance with regulations and standards 
+• Responsible sourcing of raw materials
+• Animal health and welfare 
+• Environmental impact of livestock production 
+• Cooperation between national competent authorities  
+and company schemes 
+Our innovation and sustainability agenda,  
+Going Circular For the Future of Farming and 
+in particular the following sustainability focus areas: 
+1.  Feed Resources 
+2.  Feed Production 
+3.  Feed Solutions 
+4.  People and Society
+Developing Talent For the Future of Farming 
+Government • Membership of national and European trade 
+associations 
+• Technical groups and committees when applicable 
+• Compliance with regulations and standards 
+• Contribution to policy consultations 
+• Development and implementation of regulations  
+and standards 
+• Development of policy
+Our innovation and sustainability agenda,  
+Going Circular For the Future of Farming 
+Developing Talent For the Future of Farming 
+Appendix: Sustainability Reporting 
+Media • Interviews when relevant 
+• Press releases when relevant 
+• Transparency 
+• Sustainability approach 
+• Specific projects and initiatives 
+Annual Report and ForFarmers website 
+lnvestors  
+and banks
+• Annual Report 
+• Regular roadshows 
+• lnvestor conferences and meetings when relevant 
+• Transparent reporting and disclosure
+• Corporate governance 
+• Sustainability approach 
+Our innovation and sustainability agenda:  
+Going Circular For the Future of Farming 
+Developing Talent For the Future of Farming 
+Financial Statements 
+Appendix Sustainability Reporting 
+
+Page 9:
+ForFarmers Annual Report 2021
+About ForFarmers’ 2021 Sustainability Reporting 
+8
+Through this structural stakeholder engagement with 
+all stakeholder groups, ForFarmers identifies emerging 
+topics that are important for the company to consider in 
+relation to strategic topics. 
+Memberships 
+As an important player in the livestock and feed industry, 
+ForFarmers collaborates with industry associations and 
+partnerships to further sustainability progress within 
+the industry. ForFarmers’ memberships include, among 
+others, European Feed Manufacturers Federation (FEFAC) 
+of which a ForFarmers employee is the immediate 
+past President and national feed associations (Nevedi 
+in the Netherlands, Deutscher Verband Tiernahrung 
+(DVT) in Germany, the Belgian Feed Association (BFA) 
+and the Agricultural Industries Confederation (AIC) in 
+the UK). Tasomix is not a member of the Polish Feed 
+Association. Through these memberships ForFarmers 
+helps to represent, promote and defend the interests of 
+the European compound feed industry with the National 
+and European Institutions and international bodies. 
+A comprehensive list of all our memberships can be found 
+on the website .
+EU Taxonomy
+The EU Taxonomy regulation, which came into force 
+in 2020 is a mandatory classification system to 
+determine which economic activities are considered 
+‘environmentally sustainable’. Accordingly, to classify 
+an activity as 'environmentally sustainable', a distinction 
+between Taxonomy-eligibility and Taxonomy-alignment 
+is required. If an activity meets the description in the 
+Delegated Regulations, it is considered Taxonomy-eligible. 
+Companies need to disclose only the shares of eligible 
+Turnover, capital expenditure (capex) and operating 
+expenditure (opex) for 2021, whilst for 2022 the alignment 
+assessment is required. Activities can be considered 
+‘environmentally sustainable’ if certain criteria are met 
+(Taxonomy-alignment). 
+The EU Taxonomy regulation covers six environmental 
+pillars, of which in 2021 the Delegated Act was adopted 
+for the first two environmental pillars (Climate Change 
+Mitigation and Climate Change Adaptation), to be followed 
+by the other four in 2022 (sustainable use and protection 
+of water and marine resources, the transition to a circular 
+economy, pollution prevention and control, and the 
+protection and restoration of biodiversity and ecosystems).
+Our ambitions with regard to sustainability, such as our 
+focus on circularity via the use of non-human-edible moist 
+and liquid feeds, or our continued efforts to reduce energy 
+consumption per tonne of feed are not yet covered under 
+the first two environmental pillars of the EU taxonomy. 
+As a result, the current eligibility of the activities of 
+ForFarmers where it concerns revenues is still relatively 
+low. With respect to capital expenditures and operational 
+expenditures, these fall partly within the EU taxonomy, 
+namely 7.4% of capex, 7.1% of opex and, as mentioned, 0% 
+of revenues in 2021. ForFarmers avoided double-counting 
+in calculating the Taxonomy-eligible capex and opex 
+across economic activities by tracking capex and opex 
+items by their nature.
+Turnover
+Total turnover under the EU Taxonomy equals ‘Revenue’ 
+as included in the Consolidated Financial Statements. 
+The proportion of eligible Turnover is calculated by 
+assessing which portion of total turnover derives from 
+products or services associated with economic activities 
+included in the EU Taxonomy. Under the first 2 pillars of 
+the EU Taxonomy, there is no economic activity that clearly 
+matches the business of ForFarmers.
+Capex
+Total capex under the EU Taxonomy corresponds to the 
+following Consolidated Financial Statements line items:
+• Additions, new lease contracts and acquisitions through 
+business combinations in property, plant and equipment 
+and right of use assets (note 18)
+• Additions and acquisitions through business combina -
+tions in intangible fixed assets (note 19)
+• Purchases of poultry livestock, feed and nurture 
+(note  24)
+The proportion of eligible capex is calculated by assessing 
+which portion of total capex of ForFarmers relates to 
+assets or processes associated with economic activities 
+included in the EU Taxonomy. The conclusion is that 
+eligible capex is limited to a small portion of total capex, 
+
+Page 10:
+ForFarmers Annual Report 2021
+About ForFarmers’ 2021 Sustainability Reporting 
+9
+and mainly relates to investments in trucks and IFRS16 
+additions for lease cars, besides investments in energy 
+efficient equipment.
+Opex
+Total opex under the EU Taxonomy concerns direct 
+non-capitalized costs that relate to research and 
+development, building renovation measures, short-term 
+lease, maintenance and repair, and any other direct 
+expenditures relating to the day-to-day servicing of assets 
+of property, plant and equipment that are necessary to 
+ensure the continued and effective functioning of such 
+assets. As an accounting policy choice, ForFarmers also 
+included in the total opex variable lease payments and 
+low-value leases.
+The proportion of eligible opex is calculated by assessing 
+which portion of total opex relates to assets or processes 
+associated with economic activities included in the EU 
+Taxonomy. The conclusion is that eligible opex is limited to 
+a small portion of total opex, and mainly relates to variable 
+short-term lease payments for lease cars.
+This Appendix about ForFarmers' sustainability reporting 
+forms part of the ForFarmers annual report 2021.
+

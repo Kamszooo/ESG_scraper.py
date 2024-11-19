@@ -1,0 +1,2272 @@
+Page 1:
+SUSTAINABILIT Y REPOR T 2013
+ •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •       •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •
+•      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •       •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •    
+•      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •       •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •
+•      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •       •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •   
+ •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •       •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •
+•      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •       •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •      •   
+Connecting 
+people 
+
+Page 2:
+Contents
+Cover: Vopak Singapore - Banyan Terminal
+2Vopak   |   Sustainability Report 2013   |
+At a glance 3
+Vopak on Vopak 4
+Key figures 5
+Message from the Executive Board 6
+Profile 8
+What we do 9
+Products and services 12
+Our customers 12
+How we work 12
+Mission and strategy 13
+Strategy 14
+Sustainability strategy 15
+Principles on sustainability 17
+Reporting scope 19
+Boundary protocol 19
+Capacity developments 19
+Change in scope and measurement 20
+Transparency 20
+Reconciliation to Vopak Annual 
+Report 20
+Governance 22
+Governance 23
+Ethics and conduct 24
+Awards received in 2013 25
+Our stories 26
+Robot Power 27
+Environmental plastic 29
+Reduction of steam 31
+Water works 33
+Stars of safety campaign 35
+Sustainability performance 37
+Safety and health 38
+Environmental care 42
+Responsible partner 47
+Excellent people 52
+Innovation 55
+Strategy on innovation 56
+Terminaling in the future 57
+Social innovation 57
+Commercial innovation 58
+Technological innovation 58
+Projects 58
+Knowledge sharing 59
+Other information 60
+Assurance report 61
+GRI index 63
+Subsidiaries and Joint Ventures 68
+Glossary 71
+
+Page 3:
+At a glance
+
+Page 4:
+Vopak on Vopak
+The infographics on this page are based on the reporting scope of this Sustainability Report.
+4Vopak   |   Sustainability Report 2013   |
+At a glance   |   Vopak on Vopak
+
+Page 5:
+Key figures
+2013 2012
+Safety & Health
+Fatalities, own employees & contractors 1 2
+Sickness absence rate own employees (%) 2.0 2.1
+TIR own employees & contractors (per million hours worked) 1.8 2.0
+LTIR own employees & contractors (per million hours worked) 0.6 0.7
+Environmental Care
+Direct energy consumption by primary source (TJ) 3,776 4,033
+Indirect energy consumption by primary source (TJ) 3,366 2,744
+Land adjacent to protected areas (% numbers of terminals) 83 85
+Total direct and indirect greenhouse gas emissions by weight (kTons CO2 equivalent) 503 469
+Total direct and indirect greenhouse gas emissions per cbm storage (kg/cbm) 18.1 1 7. 2
+Total number of significant spills 48 56
+Total amount of spills (in 2013 reported in tons, in 2012 in cbm) 558 334
+Total number of contaminations 19 30
+Total number of fires 26 40
+Responsible partner
+Revenues (in EUR millions) 1,295.2 1,313.9
+Significant financial assistance received from government (in EUR millions) 4.3 0.5
+% investment with human rights screened. 100 N.R.1
+% of business units analyzed for corruption risks. 100 N.R.1
+Excellent people
+Total number of employees 6,088 6,209
+Total number of incidents of discrimination, fraud and corruption and actions taken 8 6
+Monetary value of significant fines for permit violations (in EUR thousands) 170 N.R.1
+1. Not reported
+Vopak   |   Sustainability Report 2013   | 5
+At a glance   |   Vopak on Vopak
+
+Page 6:
+Message from the Vopak Executive Board
+At Vopak, we have a collective ambition. We want to be recognized for our outstanding performance on 
+safety, health and environment. Our aim is not only to be the world leader in independent tank storage 
+when measured by size and earnings, but also to be the world leader in our industry with respect to 
+sustainability and service offering.
+2013 was a challenging year. Our ambition was to exceed our record 2012 financial results, continuing on 
+the growth path we have pursued since 2003. However, the new economic reality demanded adjustment 
+from all our stakeholders and forced us to alter our outlook during the year, as Vopak did not grow its 
+earnings for the first time in ten years. We ended the year with earnings slightly below those of 2012. 
+Vopak’s continued focus on service improvements and cost management contributed to a healthy EBITDA 
+margin development in 2013.
+Regrettably, we suffered a contractor fatality in China during construction work in Dongguan. This sad 
+event means, despite our realized personal and process safety improvements, we fell short of our 
+commitment to zero incidents. 
+Adapt to new realities
+Each year provides new insights that we learn from. What struck us forcefully in 2013 was our ability 
+to adapt to new realities. Once again, we witnessed a great organization with a strong company culture. 
+This sustainability report gives a glimpse into the huge energy and passion that has made Vopak the 
+world’s leading independent storage company. In 2013, we again improved our sustainability results 
+compared to previous years.
+Vopak has a long tradition of sustainable entrepreneurship. For almost 400 years, we have been an integral 
+part of the societies in which we operate. During that long history, we have evolved into a globally active 
+storage company with its roots in the Netherlands. Wherever we go, we seek to forge long-term 
+relationships with our employees, business partners and local/regional stakeholders. Whenever we take 
+the initiative to set up new business operations somewhere in the world, we enter into commitments for 
+many decades to come. We take our responsibility for our people and our other stakeholders (customers, 
+neighbors, partners, and suppliers), and in doing so, secure the long-term continuity of our business.
+For Vopak, sustainability means personal and process safety for all employees and contractors, creating 
+no negative environmental impact, acting as a responsible partner and supporting local communities and 
+reporting according to the latest standards (GRI 3.1 .B+). 
+6Vopak   |   Sustainability Report 2013   |
+At a glance   |   Message from the Executive Board
+
+Page 7:
+Society decides which hydrocarbons and chemicals it wants to use. As service provider, we take that 
+as our starting point. It is our role to develop optimal solutions for the supply chains in which liquid bulk 
+products are stored, transported, transshipped and handled; globally and locally. Regarding new, more 
+sustainable energy and chemical products, our aim is to facilitate our customers in their introduction. 
+Vopak therefore continuously optimizes its technical, operational and procedural capabilities for its 
+customers and our employees and stakeholders, focusing on optimizing the positive effects on the 
+local communities and minimizing the potential negative effects on the environment. We aim to reduce 
+emissions to soil, water and air whilst minimizing the use of water and energy. 
+We are supported in this by our open company culture; a culture we must treasure, nurture and pass on to 
+all new colleagues.
+We hope you find the Vopak sustainability report insightful and inspiring to read. 
+The Executive Board 
+Eelco Hoekstra (Chairman and CEO) 
+Jack de Kreij (Vice-chairman and CFO) 
+Frits Eulderink (COO)
+Vopak   |   Sustainability Report 2013   | 7
+At a glance   |   Message from the Executive Board
+
+Page 8:
+Profile
+Vopak Terminal Vlaardingen (Netherlands)
+Royal Vopak is the world’s largest independent liquid bulk tank storage service provider by capacity, 
+specializing in the storage and handling of oil products, liquid chemicals and gases. The company operates 
+79 terminals in 28 countries with a combined storage capacity of more than 30 million cubic meters.1 
+Vopak’s terminals are strategically located for users in key ports along the major shipping routes. The 
+majority of our customers are companies operating in the chemical and oil industries, for which Vopak 
+stores a large variety of products destined for a wide range of industries and customers.
+With almost 400 years of experience in storage and transshipment, Vopak understands the value 
+of excellent service and our dedication to this is deeply embedded in our way of working. Our total 
+commitment to our customers' success has resulted in long-term business relationships. We base 
+our operations among others on the principles of transparency, loyalty, commitment and mutual trust.
+Vopak's annual turnover in 2013 was EUR 1 .3 billion. We are a publicly-traded company with a listing 
+on NYSE Euronext Amsterdam (ticker symbol: VPK). At end 2013, Vopak had a market capitalization of 
+EUR 5.4 billion. Including our joint ventures, we employ an international workforce of more than 
+6,000 people.
+Sustainability is an integral part of Vopak’s business processes and operations. This is reflected by our 
+consistent application and enforcement of strict standards, rules, codes and procedures, such as those 
+concerning safety, health and environment. Our standards are in keeping with the most professional oil 
+and petro-chemical companies, which constitute a major part of Vopak’s customer base. The Vopak 
+standards comply as a minimum with local legislation and regulations.
+Our people
+Strategically-located terminals coupled with state-of-the-art technologies are critical, but it is our people 
+who can make the real difference. We continuously invest in the training and development of our 
+employees worldwide; not only to improve their career possibilities and strengthen their dedication 
+to Vopak’s strategic goals (growth leadership, operational excellence and customer leadership), but also 
+to focus on their personal development. All over the world, our customers can count on the talent of 
+our dedicated professionals and their commitment to service.
+1 Based on the reporting scope of this Sustainability Report.
+8Vopak   |   Sustainability Report 2013   |
+At a glance   |   Profile
+
+Page 9:
+The organization
+Vopak is organized into four geographical divisions: Netherlands, EMEA, Asia and Americas. The former 
+divisions North America and Latin America were merged into the Americas division as of 1 May 2013. 
+A separate global business unit exists for the worldwide LNG terminal activities.
+The divisions work closely with one another, sharing knowledge, expertise, and best practices. Combined 
+with global functional departments and global leadership teams, we believe we can respond rapidly, 
+creatively and effectively to changing customers' needs and market developments.
+In a number of countries we have teamed up with strong partners, often local companies, to deliver our 
+services to customers in these markets and thus to jointly benefit from opportunities for growth. Vopak 
+teams up with joint ventures and associates for a number of alliance reasons. Through the cooperation 
+with strategic partners we can leverage our partners’ local knowledge and contacts. In some jurisdictions 
+cooperation with a local partner is required, for instance due to foreign ownership restrictions. Sometimes 
+Vopak sets up joint ventures and associates with pre-committed customers to secure occupancy at a 
+terminal. To ensure we meet customer expectations of a consistent service quality on a global basis, 
+we apply the Vopak operational and safety standards at all our joint venture facilities as well.
+What we do
+Vopak operates bulk liquids storage terminals in key strategic ports. We own and operate specialized 
+facilities including product tanks, jetties, truck loading stations and pipelines, and provide access to road 
+and rail networks. In many instances, we store our customers’ products for extended periods at our 
+terminals, often under strictly specified conditions such as controlled temperatures. Vopak also blends 
+components according to customer specifications.
+Vopak   |   Sustainability Report 2013   | 9
+At a glance   |   Profile
+
+Page 10:
+The following map illustrates the global presence of Vopak terminals:
+Vopak’s terminals play a key role in bringing our customers' products from the production plant or 
+feedstock production sites via tank terminals to end-user locations respectively production plants as 
+they transit through ports. Our independent tank terminal network is responsible for storage and 
+transshipment. Vopak works closely with other service providers engaged by its customers, such as 
+shipping companies.
+Vopak in the supply chain:
+At the heart of Vopak's business model is the economic principle to provide common infrastructure to 
+many different customers and to benefit from economies of scale and utilization rates. We focus on our 
+core activity – tank terminals services – thereby enabling our customers to focus on their own core 
+activities. Our customers also benefit from the flexibility provided by purchasing independent storage 
+as needed, i.e., the ability to use customized contract durations.
+10Vopak   |   Sustainability Report 2013   |
+At a glance   |   Profile
+
+Page 11:
+Vopak operates three types of terminals:
+•	 Hub terminal: This type of terminal engages in import, distribution and export of liquid bulk products at 
+a global meeting point for trade and provides access to the market. The hub terminal provides a vital link 
+for incoming and outgoing global product flows. Our main hub locations are Amsterdam, Rotterdam 
+and Antwerp (ARA) in Northwest Europe, Houston (US), Fujairah (United Arab Emirates) and Singapore. 
+An example of a main hub location is Vopak Terminal Europoort in Rotterdam (Netherlands);
+•	 Import/export terminal: This type of terminal stores products that are either imported or exported for 
+end-users in a specific region. This type of terminal acts as a point of origin for inland distribution by 
+inland shipping, pipeline, tank truck or rail (including regasification in the case of LNG). Alternatively, it 
+acts as a collection point for small parcels, originating from an inland production facility, to create a large 
+parcel for overseas export. An example of an import terminal is Vopak Terminal London (UK);
+•	 Industrial terminal: This type of terminal provides a logistical center integrated via pipelines to the 
+petrochemical facilities within an industrial complex. Within the complex, it supports product flows and 
+the supply and export of feedstock and finished products. An example of an industrial terminal is Vopak 
+Terminal Sakra in Singapore.
+Products and services 
+At the terminals operated by Vopak, a wide variety of liquid bulk products are stored. Those products are 
+classified in four groups: oil products, chemicals and LPG, biofuels and vegetable oils, and LNG. 
+•	 Oil products (such as crude oil, gasoline, naphtha, diesel and fuel oil) are mainly stored in large-size 
+tanks;
+•	 Chemical products (such as methanol, xylene, MEG and styrene) are typically stored in smaller tank 
+sizes. Chemical products often require specific storage conditions such as controlled temperature 
+conditions or atmospheres. LPG is a highly flammable product and is stored in refrigerated tanks at 
+about minus 40°C or in bullets under high pressure;     
+•	 Biofuels and vegetable oils: bio-ethanol is often stored in the same size tanks as chemicals and requires 
+similar specific storage conditions. Bio-diesel and vegetable oils are often stored in the same size tanks 
+with less restricted storage conditions than chemicals;     
+•	 LNG is stored in specially-designed full containment large tanks and is cooled at atmospheric pressure 
+to about minus 160°C.
+Vopak   |   Sustainability Report 2013   | 11
+At a glance   |   Profile
+
+Page 12:
+In general, one customer rents one tank for one product during the contract period. However, we also 
+apply co-mingled storage, where multiple customers use similar capacity for a product, provided that the 
+product specification is equal and customers agree on this optimization mechanism. When properly 
+cleaned when changing products, some tanks can be used for multiple products which provide flexibility 
+in storage capacity. The wide variety of liquid bulk products that we can store attracts customers that 
+produce or trade more than one type of product. 
+We also offer additional (handling) services at our terminals. Examples of these are blending two products, 
+mixing additives into a product, applying a nitrogen blanket on top of a product to push out oxygen, 
+heating or cooling products and loading or unloading ships, railcars and trucks. At many locations, we 
+can also assist our customers with customs formalities and documentation.
+Our customers
+The majority of our customers are generally active in the chemical and oil industries. They include national 
+and international chemical and oil companies, governments, downstream distributors, utility providers 
+and traders of oil products, chemicals, biofuels and vegetable oils. 
+These customers can be divided into three large categories by revenue, which were of approximately 
+equal size in 2013: global customers (active at multiple locations in Vopak’s global network), regional 
+customers (active at more than one location within a region) and local customers (active at one location). 
+Vopak has a specific approach and offering for each of these customer categories and we offer global 
+and regional network accounts.
+Our top 10 major customers accounted for approximately 36% of gross revenues in 2013. No individual 
+customer contributed more than 7% of gross revenues in 2013. The products Vopak stores on our behalf 
+of our customer are used in a broad range of related industries. Our terminals support and optimize the 
+reliability and efficiency of our customers’ logistic processes.
+How we work
+Vopak’s ambition is to maintain a leading culture of safety, flawless execution and operational excellence. 
+We believe we can only achieve this by acting according to the Vopak Values. These seven values embody 
+the behaviors that guide our employees in their day-to-day work, by acting with professionalism, a focus 
+on service, integrity, improvement, agility, ownership and passion. 
+Our organization works closely together to share knowledge across our global network. We identify and 
+address key developments quickly and adapt our business to changing circumstances. 
+We operate with the philosophy of a global company driven by local entrepreneurship. In short, this 
+facilitates applying a global brand, standards, systems, market knowledge and operational capabilities 
+in the local competitive landscape. We continually seek to improve and expand our terminal network, 
+particularly in strategically-located ports.
+12Vopak   |   Sustainability Report 2013   |
+At a glance   |   Profile
+
+Page 13:
+Mission and strategy
+Vopak Brazil - Alemoa Terminal 
+A growing geographic imbalance exists, at both a regional and a global level, between the areas of 
+production and (industrial) consumption of oil and gas products, chemicals, biofuels and vegetable oils. 
+As a result, there is a robust demand for the physical transportation and efficient and safe storage and 
+handling of these products. This has led to a growing demand for solid infrastructures that seamlessly link 
+the logistics networks of producers, traders and distributors. The need for storage and handling services 
+at critical locations is further intensified by new players in the market, the liberalization of previously closed 
+economies and a demand that is increasingly becoming more specific for each country. Independent 
+storage and handling facilities can reduce the pressure on logistics systems and contribute towards the 
+reliability and efficiency of regional and global supply chains. The most important requirements for storage 
+are the right logistic locations, a strong focus on sustainability and safety, reliable and efficient services 
+and the ability of anticipating changes to the required efficient service in a flexible manner.
+Vopak’s mission is to make a sustainable contribution to efficient logistics processes for our customers 
+by being the leading provider of independent, optimum tank terminal infrastructure at locations that are 
+critical to Vopak’s customers in all regions of the world. 
+To achieve our mission, we continue to invest in the further growth of our global network, in continuous 
+operational improvements, and in our customer service. Vopak has developed a strategy to realize that 
+mission. This strategy rests on three pillars: 
+•	 Growth leadership: our ability to identify and secure the right locations for our terminals;
+•	 Operational excellence: constructing, owning, operating and maintaining terminals to deliver services 
+at competitive costs in local markets; 
+•	 Customer leadership: creating long-term sustainable relationships with customers and healthy 
+occupancy rates of terminals against attractive rates. 
+A sustainable foundation lies at the basis of all three pillars.
+Vopak’s strategy is executed through focused strategic initiatives and internal sharing of best-practices to 
+further improve existing operational processes. All this is supported by an ongoing evaluation process of 
+possible changes to worldwide product flows, intensive collaboration with customers, effective knowledge 
+sharing within the Vopak network at a global level, strategic collaboration with various partners and 
+consulting experts in wide-ranging areas for improvement.
+Vopak   |   Sustainability Report 2013   | 13
+At a glance   |   Mission and strategy
+
+Page 14:
+Strategy
+
+Page 15:
+Sustainability strategy
+Vopak Singapore - Banyan Terminal
+Our objective is to create value and be a strong link in the sustainable supply chain of our customers. 
+We want to contribute to optimizing these supply chains in the most sustainable manner. This means that 
+with regards to sustainability, our performance should compare favorably to the sustainability performance 
+of our leading customers. 
+For Vopak, sustainability means a profitable operation with added value for all its stakeholders and without 
+causing any negative social or environmental impact. We strive to reduce consumption of natural 
+resources, energy and water, as well as to reduce emissions and spills to soil, air and surface water. 
+We strive to minimize the negative impact and maximize the positive impact on the community.
+Together with our stakeholders, we have identified four sustainability themes for our social, environmental 
+and economic efforts:
+Vopak   |   Sustainability Report 2013   | 15
+Strategy   |   Sustainability strategy
+
+Page 16:
+Safety and health
+Safety is our first priority. We see it as our responsibility to provide a safe and healthy workplace for Vopak 
+employees and for our contractors. Continuously improving working conditions and monitoring the 
+effectiveness of controls are fundamental to our Safety, Health and Environmental policy. 
+Environmental care
+Vopak aims to be a responsible neighbor. Our objective is to continue reducing emissions to the 
+environment (minimizing our footprint), not only to soil and water but also vapor emissions, carbon 
+emissions in the air, odors and noise. In pursuing this objective, we consistently adhere to guidelines 
+set out in operating licenses, legislation and our own global standards. 
+Responsible partner
+Vopak recognizes its responsibility for the social, environmental and economic consequences of its 
+activities across the entire supply chain. Our suppliers do not directly contribute to our core process 
+of service delivery to our customers, yet they are involved in support processes, such as maintenance 
+and construction projects. This is why we require them to commit to our standards and values. 
+Excellent people
+Our ambitions and the high-quality service we aim for starts with our people. Vopak invests in long-term 
+relationships with our employees and in creating a work environment that brings out their talents and 
+skills. We devote attention to areas such as job satisfaction, personal development, competitive terms of 
+employment and a good work-life balance. We install the Vopak spirit, loyalty and enthusiasm in our many 
+different nationalities by being inclusive, setting clear targets and managing performance.
+16Vopak   |   Sustainability Report 2013   |
+Strategy   |   Sustainability strategy
+
+Page 17:
+Principles on sustainability
+Vopak Brazil - Aratu Terminal
+Safety
+Safety is our top priority. We constantly update our initiatives to improve personal and process safety. 
+In this process of continuous improvement, we actively involve our business partners and customers, 
+both directly and by participating in national and international sector organizations. (For more details, 
+see Safety and Health section) 
+Environment
+Vopak aims to be a responsible neighbor. Our objective is to further reduce emissions to the environment 
+(minimize footprint), not only to soil and water but also to reduce gaseous emissions, odors and noise. 
+In pursuing this objective, we consistently adhere to guidelines set out in operating licenses, legislation 
+and our own global standards. (For more details, see Environmental care section). 
+Ethics and integrity
+At Vopak, we have the responsibility towards all stakeholders to operate ethically and with integrity in 
+every area of our activities. Integrity has always been, and will continue to be, the key to establishing and 
+maintaining our reputation. Like our employees, facilities and the services we provide, it is a critical asset. 
+Vopak’s business principles, based on integrity, are laid down in our Code of Conduct.
+Human rights
+Vopak respects human rights as described in the United Nation's Universal Declaration of Human Rights 
+and accepts the responsibility of ensuring that all our entities respect human rights when conducting 
+business. Therefore Vopak ensures that our partners, (main) contractors, suppliers and employees are by 
+agreement bound to the Vopak Code of Conduct. 
+Vopak   |   Sustainability Report 2013   | 17
+Strategy   |   Principles on sustainability
+
+Page 18:
+Fair treatment of employees
+Vopak endorses the principles of the United Nations’ International Labour Organization. We have long 
+been  committed to providing a safe and healthy environment for our employees.
+Communities
+Vopak is committed to being a good neighbor and engaging with the communities living close to our 
+operations. We behave as a responsible citizen and work to minimize the negative impact of our 
+operations. We aim to support communities, for instance by improving the infrastructure adjacent to 
+our facilities. We are committed to source locally as much as possible. (See also Community involvement 
+section)
+Sustainable suppliers and customers
+Vopak works with customers and suppliers to maintain long-term partnerships and ensure continuous 
+improvement in our approach to sustainability. We aim to be the supplier of choice based on our service 
+quality and sustainability. Likewise, we aim to choose suppliers whose commitment to sustainability 
+matches our own. (See also Business partners section). 
+Sustainable services
+Vopak delivers its services in accordance with stringent safety and environmental standards and in 
+cooperation with the local authorities in the areas in which we operate. By continuously assessing 
+and improving the condition of our terminals, we are able to maintain the highest level of quality for 
+our stakeholders. (See also Business partners section).
+18Vopak   |   Sustainability Report 2013   |
+Strategy   |   Principles on sustainability
+
+Page 19:
+Reporting scope
+Boundary protocol
+The reporting period covered by this Sustainability Report is the 2013 calendar year and this report builds 
+on our previous annual Sustainability Reports. 
+For this report, Vopak has consolidated data from all terminals under our operational control and from 
+terminals that report voluntarily. Terminals under operational control apply Vopak´s operational standards, 
+adhere to Vopak´s Code of Conduct and are part of the three-year cycle of Vopak´s so-called terminal health 
+assessments. Other terminals are not consolidated in this sustainability report. 
+Considering the possible impacts on Vopak's business, both LNG terminals – Gate terminal (Netherlands) 
+and Altamira LNG Terminal (Mexico) – report voluntarily.
+Vopak Terminals Korea and Engro Vopak Terminal in Pakistan have been under Vopak's operational control 
+for sustainability reporting purposes since 2012. Comparative data pertaining to 2011, 2010 and 2009 are 
+not restated. 
+T erminals and capacity in scope
+Divisions
+Number of 
+terminals
+Capacity 
+(in million 
+cbm)
+Netherlands 9 8.4
+Europe, Middle East & Africa 21 8.0
+Asia (including China) 28 7. 3
+Americas 19 3.2
+LNG 2 0.8
+T otal 79 27 .7
+Reporting on capacity developments
+Vopak is a growing company that makes investments and divestments. The sustainability reporting on 
+those acquired and divested terminals follows these principles:
+Greenfield  
+Undeveloped land that is acquired to build a new terminal is directly in reporting scope from the first day 
+of acquisition.
+Acquisitions  
+When a terminal is acquired and operations are continued, there will be a grace period of one calendar 
+year before the terminal is in scope of sustainability reporting. During this year, all data must be reported 
+and monitored in our internal Hyperion reporting system.
+Brownfield  
+When an existing terminal is expanded, the entity is directly in scope of sustainability reporting.
+Divestment  
+When terminals are divested, they fall outside the scope of sustainability reporting as of 1 January 
+of that year.
+Vopak   |   Sustainability Report 2013   | 19
+Strategy   |   Reporting scope   |   Boundary protocol
+
+Page 20:
+Changes in scope and measurement
+The significant changes relating to the scope, boundary and measurement methods used in 2013 
+versus the 2012 reporting period, are divestments in: 
+•	 Vopak Terminal San Antonio (Chile);
+•	 Vopak Oxiquim - Mejillones Terminal (Chile);
+•	 Xiamen Paktank (China);
+•	 Vopak Terminal Ecuador (Ecuador);
+•	 Vopak Terminals Pasir Gudang (Malaysia);
+•	 Vopak Terminal Petroleumhaven (Netherlands).
+When a divestments is made, Vopak ensures the employees working at the specific terminal are 
+transferred under the same contractual circumstances as they had under Vopak management. 
+T ransparency 
+We aim to be clear and transparent towards our stakeholders about the Sustainability Policy we pursue, 
+its  results and our own aspirations. 
+To this end, our reports on Vopak’s sustainability performance are aligned with the sustainability reporting 
+guidelines of the Global Reporting Initiative (GRI). The 2013 Sustainability Report is based upon the 
+GRI 3.1 .B+ guidelines, which were created to promote globally uniform, measurable reports in the 
+economic, social and environmental domains. Reports published after 31 December 2015 should be 
+prepared under the new GRI 4 reporting guidelines. 
+Informing stakeholders about Vopak’s performance and improvements has two benefits: 
+•	 It demonstrates transparency and credibility in the way Vopak manages its sustainability issues;
+•	 It creates a dialogue with stakeholders and the communities in which Vopak operates, which helps 
+us to gain insights and improve our performance in the area of sustainability.  
+Our interpretation of people, planet and profit, and our acknowledgement of their interdependence, is 
+measured in 22 selected GRI key performance indicators (KPIs) that we report on. These reflect our 
+performance in areas that are relevant to Vopak, and for which consistent information is available internally. 
+The KPIs address economic, environmental and social performance areas.
+20Vopak   |   Sustainability Report 2013   |
+Strategy   |   Reporting scope   |   Boundary protocol
+
+Page 21:
+Reconciliation to Vopak Annual Report 
+As a result of the boundary protocol applied in this Sustainability Report which is different from the 
+consolidation principles applied in the Annual Report, differences exist between the two reports. 
+Below these differences are stipulated and explained.
+T erminals in scope/out of scope
+Capacity expansion
+Capacity was expanded exclusively by means of increase of storage capacity at existing terminals, 
+divestments and acquisitions.
+•	 Consolidated companies:  0.4 million cbm
+•	 Joint ventures: 0 million cbm
+•	 Total expansion: 0.4 million cbm 
+T otal storage capacity
+Number of employees
+The basic starting point in the Vopak sustainability program, is that every person working at a Vopak 
+operated entity, is counted as one person.
+Therefore, all reported employees in this report are based on headcount, whereas the number of 
+employees in the Annual Report is reported in FTE’s.
+Vopak   |   Sustainability Report 2013   | 21
+Strategy   |   Reporting scope   |   Boundary protocol
+
+Page 22:
+Governance
+
+Page 23:
+Governance
+Vopak Horizon Fujairah Ltd (UAE)
+Vopak has a two-tier governance structure, consisting of an Executive Board and a Supervisory Board:
+•	 The Executive Board is responsible for the management of the company and for the determination and 
+realization of its strategic and other objectives. These include those for health, safety, the environment 
+(part of sustainability), quality, strategy and policy, as well as the related development of results; 
+•	 The Supervisory Board reviews Vopak’s overall performance, including the policies pursued and results 
+achieved by the Executive Board, the company’s situation, and its statements.  
+For more information on governance at Vopak, please see the governance section in our 2013 Annual 
+Report.
+The Supervisory Board also reviews the strategy of Vopak, as proposed by the Executive Board. Similarly, 
+it approves important proposals for capital expenditure, acquisitions and divestments, changes in financial 
+and other corporate policies and the annual budget. The Supervisory Board also evaluates the performance 
+of the Executive Board as a whole and of its individual members, and proposes to the AGM any changes 
+to the composition of the Executive Board. Similarly, the Supervisory Board annually reviews its own 
+performance and proposes new appointments and the departure of existing Supervisory Board members 
+to the AGM. Finally, the Supervisory Board ensures the company’s policies are formulated and pursued 
+in the interest of all its stakeholders, including shareholders and employees, and that these policies are 
+sustainable and meet the highest ethical standards. 
+The members of the Executive Board and the Supervisory Board are appointed by the Annual General 
+Meeting of Shareholders (AGM) on the basis of a non-binding recommendation by the Supervisory Board. 
+The AGM is also authorized to suspend and dismiss members of the Executive Board and the Supervisory 
+Board.
+Vopak has evaluated its corporate governance setup against the Dutch Corporate Governance Code (the 
+Code) and concluded that it satisfies the principles and best practice provisions of the Code applied in 
+2013, with six exceptions, which are explained in the special section in our Annual Report. Two members 
+of the Supervisory Board (Mr Van der Vorm and Mr Van den Driest) are considered non-independent 
+members, according to the criteria of the Code. The other four members are independent according to 
+the Code’s criteria. 
+Vopak   |   Sustainability Report 2013   | 23
+Governance   |   Governance
+
+Page 24:
+Vopak shareholders can provide recommendations and directions to the Executive Board at the AGM 
+and at other shareholder meetings. Regular analyst meetings and investor roadshows also provide the 
+Executive Board with valuable insights. Shareholder resolutions may be passed at the AGM, within 
+the provisions of the Corporate Governance Code.
+Detailed information on all Executive Board and Supervisory Board members of Vopak is provided in 
+a special section in our 2013 Annual Report. 
+Management approach
+The Executive Board is formally responsible for the implementation of Vopak’s Sustainability Policy. This 
+responsibility is delegated along operational lines to division management and to the management of 
+the operating companies. Within the Executive Board, it is the responsibility of the Chief Operating Officer 
+(COO) to guide overall implementation in collaboration with the Global Director Operations & Technology, 
+in close cooperation with the divisional operations directors. All Vopak employees bear their own 
+responsibility for sustainability as laid down in the Vopak Code of Conduct and Sustainability Policy.
+Ethics and Conduct
+At Vopak, we understand and take seriously our responsibility towards all stakeholders to operate ethically 
+and with integrity in every area of our activities. 
+The Vopak Values 
+One of Vopak’s objectives is to preserve the continuity of the company by maintaining a strong financial 
+foundation and conducting a long-term profitable business in a responsible manner. To achieve this, 
+we invest in sustainable growth by balancing short-term and long-term interests with due care and respect 
+for our stakeholders – including customers, employees, shareholders, joint venture partners, neighbors 
+and suppliers – and the environment.
+We consider it vital that Vopak employees understand and share Vopak’s values, and consistently abide 
+by them when conducting business. In brief, the seven Vopak Values are:
+•	 Professionalism: always striving for the highest standards;
+•	 Service: our most important product; we always aim to deliver what we promise; 
+•	 Integrity: the basis for lasting relationships;
+•	 Improvement: through open communication, creativity and continuous assessment of results; 
+•	 Agility: adaptability, flexibility and alertness in order to act rapidly and skillfully;
+•	 Ownership: to take responsibility and initiative in the best interest of the customer and the company;
+•	 Passion: enthusiasm, loyalty and commitment; we believe in what we do. 
+24Vopak   |   Sustainability Report 2013   |
+Governance   |   Governance
+
+Page 25:
+Code of Conduct
+Integrity is and has always been key to our reputation. Like our employees, facilities and the services we 
+provide, it is considered a critical asset. Integrity is at the heart of Vopak’s business principles, which are 
+laid down in our Code of Conduct. This code reflects our company values and sets out how we aim to do 
+business in a responsible and sustainable manner. It details Vopak’s principles on: 
+•	 Free enterprise and fair competition;
+•	 Legal compliance; 
+•	 Human rights;
+•	 Business integrity;
+•	 Communication; 
+•	 Biodiversity; 
+•	 Employees and community; 
+•	 Fraud prevention, reporting and investigation; 
+•	 Anti-corruption. 
+Processes related to the Code of Conduct
+ Vopak has rules of conduct relating to suspected irregularities, the so-called whistle-blower regulation. 
+If Vopak employees or other stakeholders have a concern about how to behave properly in a specific 
+situation at Vopak, its subsidiaries or joint ventures with management control, they can raise that concern 
+with their superior or the person designated by the Executive Board for this purpose. Any concern raised 
+shall be promptly and discreetly addressed with due care and respect.
+In 2013, eight cases of fraud were identified at our terminals. In all of these cases the appropriate 
+measures were taken, and five people left the company as a result. 
+Conflict of interest
+Vopak employees are expected to avoid all situations in which their personal or financial interests may 
+conflict with the company’s interest, or interfere with effective job performance. Vopak accepts that its 
+employees may have private financial and/or business interests in addition to their professional activities 
+within Vopak. However, to the extent that these interests may directly or indirectly interface with activities 
+of Vopak companies, employees are requested to report such interests to their superiors or the person 
+designated by the Executive Board (the General Counsel & Corporate Secretary in Rotterdam), and to keep 
+a record of this. 
+Awards
+Vopak received the following awards in 2013:
+•	 Vopak Terminals Terquimsa (Spain): the Community of Tarragona Port has awarded Vopak Terminal 
+Terquimsa with their ‘Environment and Sustainability’ annual prize. These prizes are given by the 
+Association for Tarragona Port Development amongst all the stakeholders related to the Port. Things like 
+‘SHE Day’ or the marine pollution prevention tests carried out jointly with the authorities were decisive 
+to win the award;
+•	 Kertih Terminal (Malaysia): 2013 marks the third consecutive year where Kertih Terminal received the 
+prestigious Malaysian Society of Occupational Safety and Health (MSOSH) Grand Award for superior 
+occupational safety and health performance at the national level in the Logistics and Transportation 
+category. 
+Vopak   |   Sustainability Report 2013   | 25
+Governance   |   Governance
+
+Page 26:
+ 
+Our stories 
+Starts of  
+safety campaign
+The story by  
+Carlos Medina
+Robot Power 
+The story by  
+Ron Bakker
+We have chosen a few real-life examples that show  
+why we are proud of what we do and the way we work
+Environmental 
+Plastic
+The story by  
+Piet Hoogerwaard
+Reduction 
+of steam
+The story by  
+Mohamed Ezzahiri
+Water works 
+The story by  
+Lars Schaumann
+Vopak   |   Sustainability Report 2013   | 26
+
+Page 27:
+Robot power
+Oil, gas and petrochemical plants require regular inspections. But 
+to ensure the safety of the inspectors, it’s essential to shut down 
+the plants while they are being assessed. And that’s a time-
+consuming, risky and complex business.
+The story by Ron Bakker
+Robot
+Power 
+To develop robots that can replace humans  
+in inspections of storage tanks.
+Vopak   |   Sustainability Report 2013   | 27
+
+Page 28:
+But what if robots could do this essential work instead of humans?
+Vopak is part of a consortium that, together with the European 
+Commission, launched the Petrobot project in September 2013. 
+The ground-breaking project aims to develop robots that can replace 
+humans in inspections of pressure vessels and storage tanks.
+Safer, easier, cheaper
+“ At present, no inspection can start until you’ve performed a complex 
+shutdown procedure, ” explains Ron Bakker, Petrobot project leader 
+for Vopak. “To keep inspectors safe, it’s not enough just to close a 
+valve: you have to decouple the storage tank from live sections of the plant. Storage tanks are ventilated 
+and cleaned extensively to remove all products that can emit flammable or toxic gases. ”
+After the inspection – which often lasts several days – a lot of this work must be done in reverse. “Robotic 
+technology will reduce the exposure of staff to potentially hazardous conditions by performing inspections 
+on ‘life’ storage tanks, meaning while the storage tank is still filled with product.
+The technology will also save considerable time and resources. For example, up to 80% of the activities 
+around inspecting storage tanks – closed containers that store gases or liquids at a pressure substantially 
+different from that of the surrounding environment – are related to making the tank suitable for humans 
+to enter. And that’s really significant when your top priority is safety, as it is at Vopak, ” says Ron.
+New technologies
+Petrobot involves partners from the Netherlands, the UK, Sweden, Norway, Switzerland and Germany 
+over a three-year period. The EU will contribute EUR 3.7 million to the EUR 6.2 million project.
+The project consortium is led by Shell Global Solutions International. It groups companies from the entire 
+value chain, including technology providers, inspection service companies and end-users. Consortium 
+members are: Shell, Chevron, Gasco, Vopak, AIR, OCR, HIS, Quasset, Dekra and Innospection.
+The project intends to develop and test several new technologies, including technology that will allow 
+storage tanks to be inspected while they are in use. A crawler will enter the tank and scan the bottom 
+for damage.
+To inspect the interior of storage tanks, a robot in the shape of an arm or a crawler will enter via a manhole 
+or a nozzle after the tank is taken off-line. The robot will then scan the tank wall for damage.
+Specialist inspection tools allow the robots to detect damage to tank walls or floors, and are designed 
+to have the same capacity as a human inspector.
+The robots will be tested in the installations of the end-user consortium members, including Vopak. 
+“If all goes well, we could start seeing robots conduct inspections from 2017 , ” concludes Ron.
+“ If all goes well, we could start seeing robots conduct 
+inspections from 2017 . ”
+Vopak   |   Sustainability Report 2013   | 28
+
+Page 29:
+Cleaning up ‘plastic soup’
+Plastic is made from oil - and at least some of the oil Vopak stores 
+in its plants across the world may eventually end up as plastic 
+waste in ports and oceans. Plastic marine debris, known as 
+‘plastic soup’, is found on the surface of all the world’s oceans. 
+These huge floating patches of waste are a threat to marine life. To help address this problem, Vopak, 
+together with the Port of Rotterdam and the Plastic Soup Foundation, last year launched a project aimed at 
+reducing the plastic waste that ships dump into the sea. 
+“Our project is a modest step when you consider the scale of this global problem, but we believe it’s 
+important to do whatever we can to help clean up ports and oceans, ” says Piet Hoogerwaard, Managing 
+Director of Vopak Agencies in Rotterdam.
+The story by Piet Hoogerwaard
+Environmental
+Plastic 
+Vopak Agencies supports project on reducing  
+plastic waste ships dump into the sea.
+Vopak   |   Sustainability Report 2013   | 29
+
+Page 30:
+Plastic back into oil
+The project will take recycling a step further: instead of simply 
+collecting plastic and processing it to give it a second life as plastic, 
+Vopak and its partners aim to convert it back into oil. "The technique 
+to do this was developed by Delft Technical University and is relatively 
+simple and inexpensive, ” says Piet. 
+Two hundred kilograms of plastic will yield one barrel of oil. This is 
+done by heating the plastic to 270°C–380°C under high pressure at a 
+plant to be built in 2014 in the port of Rotterdam. “Oil derived from 
+plastic is of high quality and can be used for many purposes, including 
+shipping fuel, ” Piet adds. "The sheer variety of plastics entering the waste stream creates sorting and 
+recycling challenges. The advantages of this technique above recycling, is that all kinds of plastics - varying 
+from rubber seals to PET flasks - can be processed without pre-treatments such as separating, resulting in 
+a yield up to 98% of oil."
+Valuable commodity
+Raising awareness among crews of the 20,000 ships visiting Rotterdam each year is one of the project’s 
+main aims. “Vopak Agencies offers full agency services for all possible types of vessels making it practical 
+for our staff to distribute flyers made in cooperation with the Plastic Soup Foundation, explaining the 
+damage caused by plastic thrown overboard. The flyer also points out that collecting plastic on board 
+ships, and then disposing of it at special waste locations in port, can be lucrative. Turning it back into oil 
+makes plastic a valuable commodity, ” Piet says. 
+“It’s crucial to provide incentives to captains and their crew. Dealing with plastic waste responsibly 
+requires a different way of thinking and I always tell captains about the problem and what they can do 
+about it when I board ships. But it’s important for them to realize there’s something in it for them. ” 
+Exactly how visiting ships will be compensated for collecting plastic waste is yet to be decided. They 
+might be rewarded in cash, or gain points for every kilo of plastic turned back into oil, which could then 
+give them a discount on a ship’s port dues. Vopak is determined to expand the project, starting with the 
+ports of Amsterdam and Antwerp. “We have a large network of shipping agencies that we can use to 
+distribute flyers and other information to enhance awareness about plastic soup and the recycling 
+program. Wherever there’s an opportunity to help put a halt to the plastic soup, we’ll try to seize it. ”
+Valuable commodity
+Raising awareness among crews of the 20,000 ships visiting Rotterdam each year is one of the project’s 
+main aims. “Vopak Agencies offers full agency services for all possible types of vessels making it practical 
+for our staff to distribute flyers made in cooperation with the Plastic Soup Foundation, explaining the 
+damage caused by plastic thrown overboard. The flyer also points out that collecting plastic on board 
+ships, and then disposing of it at special waste locations in port, can be lucrative. Turning it back into oil 
+makes plastic a valuable commodity, ” Piet says. 
+“It’s crucial to provide incentives to captains and their crew. Dealing with plastic waste responsibly 
+requires a different way of thinking and I always tell captains about the problem and what they can do 
+about it when I board ships. But it’s important for them to realize there’s something in it for them. ”  
+Exactly how visiting ships will be compensated for collecting plastic waste is yet to be decided. 
+They might be rewarded in cash, or gain points for every kilo of plastic turned back into oil, which could 
+then give them a discount on a ship’s port dues. 
+Vopak is determined to expand the project, starting with the ports of Amsterdam and Antwerp. “We have 
+a large network of shipping agencies that we can use to distribute flyers and other information to enhance 
+awareness about plastic soup and the recycling program. Wherever there’s an opportunity to help put 
+a halt to the plastic soup, we’ll try to seize it. ”
+Vopak   |   Sustainability Report 2013   | 30
+
+Page 31:
+Reducting steam production
+To save energy, Vopak Terminal Botlek looked beyond the obvious 
+technical improvements. It also involved its sales and cleaning 
+staff, whose insights held the key to reducing energy 
+consumption. The result was an 8-10% cut in the use of natural 
+gas to keep products at the right temperature.
+The story by Mohamed Ezzahiri
+Reduction of steam 
+To save energy, Vopak Terminal Botlek in Rotterdam looked beyond  
+the obvious technical improvements.
+Vopak   |   Sustainability Report 2013   | 31
+
+Page 32:
+“We chose a holistic approach and it paid off, ” says Mohamed 
+Ezzahiri, who coordinated the energy saving efforts at Vopak Terminal 
+Botlek (Netherlands). “Usually we would not involve these 
+departments in enhancing the energy efficiency of our operations, 
+but it worked well. ”
+Keeping products at the right temperature for safe storage and 
+transport requires a significant amount of energy. To this end, we burn 
+gas to make steam, and maintain an extensive system of steam pipes 
+that transport the heat to the terminals. 
+Thorough analysis
+“When we started exploring energy savings, we thoroughly analyzed where and why heating is required, ” 
+says Mohamed. The team soon noticed that although some of the tanks only required heating during the 
+coldest winter months, the steam pipes at those locations were kept warm all year round. 
+“We realized that if we knew which of the tanks did not need heating, we could idle those pipes. That was 
+when we started talking to our sales people. They could identify tanks that would not need heating in the 
+foreseeable future by looking at our client contracts. This allowed us to stop using the steam pipes to 
+these locations, resulting in promising savings, ” Mohamed explains.
+Cold water
+In some instances, the steam was only used to clean tanks when they were empty. So the team worked 
+with the cleaning staff to explore alternative methods. They found they could replace the steam with cold 
+water, which is more energy efficient. More importantly, yet another stretch of the steam pipes could be 
+dismantled, generating even more savings. 
+Through these initiatives, Botlek reduced its use of natural gas by 300,000 cbm per year, on a total use 
+of three to four million cbm.
+“Because the project involved staff from so many different departments, it increased awareness at the 
+terminal about responsible energy use, ” says Mohamed. “It was inspiring to see how motivated both the 
+sales people and cleaning staff were to help us find ways to be more energy efficient. They kept going, 
+even when they encountered obstacles. ”
+“ Based on this positive outcome, we will continue 
+to explore energy-saving opportunities and we’ll 
+seize them with the help of whoever can contribute. ”
+Vopak   |   Sustainability Report 2013   | 32
+
+Page 33:
+Water works
+With terminals in 79 locations around the world, Vopak is 
+close to many local communities. As part of our commitment 
+to those communities, we support projects that address their 
+specific needs, as well as global projects such as 
+the Vopak Water Program. 
+The story by Lars Schaumann
+Water works 
+Thai Tank Terminal integrated 
+the Vopak Water Program.
+Vopak   |   Sustainability Report 2013   | 33
+
+Page 34:
+Nearly a billion people worldwide have no access to clean, fresh 
+water. Since 2010, through our Water for Growth program, Vopak has 
+provided safe drinking water for some 10,000 people.
+Given that Vopak works with liquids and water management is an 
+important element of our environmental commitment, it’s no surprise 
+this program is close to our hearts. 
+Perfect fit
+“Our terminals are located on water, our supply chain depends on it 
+and our core business is handling liquid bulk products, ” says Lars 
+Schaumann, Deputy Managing Director of Vopak’s Thai Tank Terminal. 
+“What’s more, we develop, construct, operate and maintain solid infrastructure-expertise that can make a 
+real difference in countries where there is no water infrastructure. ”
+What began as an initiative by managers from Vopak EMEA to establish a water supply in Tanzania has 
+been taken up by other regions worldwide. In 2013, the Thai Tank Terminal in the Gulf of Thailand integrated 
+the Vopak Water Program into its local corporate social responsibility activities. 
+Vital resource
+“For many years, CSR activities have played an important role in our terminal operations, ” says Lars. 
+“The Water Program is a perfect fit: it has a clear connection to our business, supports the local 
+communities and deals with a natural resource that is vital for everyone. ”
+Clean water and sanitation enable communities to develop. With these elements in place, everything else 
+follows: better health, education and improved economic prospects. For its first project, Thai Tank Terminal 
+chose to upgrade and repair the sanitation facilities at a nearby kindergarten and primary school for around 
+580 local children.
+Around 40 employees – the terminal’s entire CSR team – jumped in to help a subcontractor with the 
+renovation work. They worked on the project during the April holidays so that when the youngest pupils 
+returned to school they had working toilets and running water.
+The new facilities were officially delivered to the school’s headmaster at the end of May.
+“Our CSR approach is to work with the residents of our 18 neighboring communities on sustainable 
+projects such as this one at Chak Luk Ya School, ” says Lars. 
+“We’re now looking for our next project. This could be further sanitation upgrades at this or another 
+school, or something similar at a local wat (temple). ” 
+“ What’s more, we develop, construct, operate and maintain 
+solid infrastructure-expertise that can make a real difference 
+in countries where there is no water infrastructure. ”
+Vopak   |   Sustainability Report 2013   | 34
+
+Page 35:
+“Hey Dad, do you have your permit?” 
+ 
+Vopak’s Puerto Cabello Terminal in Venezuela is driving home its 
+safety message through the youngest people in the Vopak family: 
+the children of its employees. The youngsters are the stars of 
+a safety campaign to raise awareness of the Vopak Fundamentals 
+– the minimum safety requirements for our operational activities. 
+The story by Carlos Medina
+Stars of safety
+campaign 
+Safety message through the children of Vopak Venezuela employees.
+Vopak   |   Sustainability Report 2013   | 35
+
+Page 36:
+“Family comes first in Latin America, ” says HR Manager 
+Carmen Herrera. “People might not always listen to their managers, 
+but they listen to their wives and their children. That’s why we 
+decided to build a campaign around the family. ”
+The campaign features 23 children in a series of photos illustrating 
+the eight Vopak Fundamentals. The posters have been prominently 
+placed around the terminal and in the staff canteen, where they 
+remind employees and contractors of the fundamental safety 
+practices, for example when they work at height or in confined spaces.
+Own responsibility
+When it comes to safety, Vopak goes to great lengths to keep everyone at our terminals safe. This 
+includes our employees, contractors, construction workers, truck drivers and port authorities. However, all 
+these partners also have a responsibility to know the basic safety requirements. 
+In a country that does not always put safety first, changing people’s attitudes to safe working practices is a 
+long-term project. Saul Riobueno, Vopak’s Safety, Health and Environment (SHE) manager in Venezuela, 
+believes that involving the whole family will increase the chances of success. “We want children to 
+remind their parents about safety; to say ‘Hey Dad, you’re working high up today, do you have your 
+permit?’. ”
+In the 11 years that Vopak has been operating the 40-year-old terminal, it has made huge advances in 
+improving the infrastructure and way of working. There have also been great strides in safety – but there is 
+still work to be done to reach the same high standards as at some of Vopak’s other terminals elsewhere 
+in the world. 
+Second nature
+In Venezuela, Vopak already involves family in activities such as sports tournaments and its Christmas 
+and Labor Day celebrations. It also hosts a summer camp for the children of its 150 employees every year. 
+It was at last summer’s camp that the idea for the campaign came to fruition.
+“We spoke to the children about safety and asked them what they thought about the Fundamentals, ” says 
+Carlos Medina, the terminal’s manager. “We then invited them to a professional photo shoot at 
+the terminal, and selected 23 photos for the campaign. ”
+These pictures also feature in brochures for customers, and the campaign will be the central theme 
+of all employee and family events at the terminal over the next five years. 
+“The response has been overwhelming, ” says Saul. “It’s capturing the hearts and minds of our people 
+to see their children’s faces at work every day. Of course, this is just the beginning. The real results will 
+be when attitudes change and safety starts at home. That’s our ultimate goal. ”
+“ People might not always listen to their managers, but they 
+listen to their wives and their children. That’s why we decided 
+to build a campaign around the family. ”
+Vopak   |   Sustainability Report 2013   | 36
+
+Page 37:
+Sustainability performance
+
+Page 38:
+Safety and health
+Objectives
+Safety is our top priority. We see it as our responsibility to provide a safe and healthy workplace for all 
+people on a Vopak facility with no negative impact on the surroundings, community and environment. 
+Our safety aim is to be the best in our industry and as good as our leading customers.
+Regrettably, we had one fatality in 2013. This was a contractor in China who lost his life during construction 
+work. We have taken action throughout our facilities globally to implement the lessons learned from this 
+incident into our daily business and share these also externally.
+It is everyone’s responsibility to stop work 
+that is unsafe
+We introduce new initiatives and embed ongoing efforts to improve personal and process safety. In this 
+process of continuous improvement, we actively involve our business partners and customers, both 
+directly and by participating in national and international sector organizations. Continuously improving 
+working conditions and monitoring the effectiveness of controls are fundamental to our health and safety 
+policy. 
+We strongly believe that all incidents can be prevented and accordingly we remain committed to achieve 
+the goal of zero incidents and no damage to the environment. Safety is everyone’s responsibility; we 
+demand every employee, contractor and visitor to contribute to his own safety and that of others. 
+Everyone who works at or visits a Vopak site should be able to go home at the end of the working day 
+without having suffered or caused harm in any way. 
+Controlling risk for everyone is a key element underpinning all activities undertaken by Vopak. In today’s 
+complex world, this requires unflagging effort from all staff. We can only achieve this if every employee, 
+contractor and visitor understands the risks, realizes the critical importance of safety and knows what to 
+do under all circumstances. Our Fundamentals on Safety [Case story Venezuela] provide a basis for all our 
+activities, supported by our Vopak standards. They form an integral part of the Vopak Safety, Health and 
+Environment (SHE) management system and are considered a minimum requirement for all Vopak 
+locations. The Fundamentals describe a range of operational activities and the safety conditions that every 
+person at Vopak is expected to be familiar with and to comply with. 
+Vopak   |   Sustainability Report 2013   | 38
+Sustainability performance   |   Safety and health   |   Objectives
+
+Page 39:
+The Vopak Fundamentals on Safety state that:
+•	 Everyone will be trained and competent in the work they conduct; 
+•	 Everyone must know, understand and comply with the basic safety regulations in force at a location; 
+•	 Everyone who works at a location must comply fully with the applicable procedures; 
+•	 Work will not be conducted without a job safety assessment; 
+•	 For work without an approved procedure, a permit to work is needed; 
+•	 Emergency response plans will be in place before work starts; 
+•	 Appropriate and prescribed personal protective equipment must be worn.  
+Improvement initiatives
+Process safety reporting 
+An important objective in our company is to continuously improve process safety. One key element is to 
+broaden our performance indicator framework, so that we can prioritize our actions and resources on high 
+risk issues to prevent accidents. Following a pilot implementation in 2013, we aim to adopt the American 
+Petroleum Institute Recommended Practice 754 process safety performance indicators for refining and 
+petrochemical industries (API RP 754). The impact of this change and for the implementing in our safety 
+and health reporting will be: 
+•	 To have more pro-active, leading indicators with a greater focus on prevention;
+•	 To differentiate actions; to focus better on what matters towards major accident prevention; 
+•	 To align more closely with industry guidance and best practice. 
+API RP 754 is based on classifying process safety incidents according to their actual and potential 
+consequence in a so called tier system. By definition, process safety incidents always involve a loss 
+of primary containment (‘spill’).  
+ 
+Tier 1 and 2 give the most serious lagging indicators. These will provide Vopak with a more focused and 
+detailed means to classify our process incidents based on actual and potential risk. Included are indicators 
+that are normalized against available working hours.  
+ 
+Tier 3 indicators represent minor incidents and near misses. Therefore, they are excellent potential lessons 
+that Vopak wants to explore. API classifies these at tier 3 and 4 and allows for an integrated framework. 
+This approach provides a framework for process safety indicators that will allow for a more detailed 
+risk-based approach to incident prevention. 
+In 2013, during the pilot implementation of API RP 754, Vopak record a Tier 1 and Tier 2 Process Safety 
+Event Rate of 0.35 (incidents per 200.000 working hours). As this is the first year this data is measured 
+and introduced, this figure should be treated as a reference for future years. 
+Global Vopak SHE day
+On 28 May 2013, Vopak organized the sixth annual global SHE day. It is mandatory for every Vopak location 
+to organize a special program for SHE Day,  which draws attention to safety, health and the environment 
+aims to stimulate the continuous improvement of the company, its employees and contractors in these 
+three areas. SHE Day is just one day, but its impact is long-lasting. 
+The topic of the 2013 SHE Day was: Compliance: 'The Right Way, Every Day'. A video message from 
+our Executive Board is an important part of SHE Day every year. In addition to the importance of safety 
+and our Vopak Fundamentals on Safety last year’s video addressed the fatality in China in particular. 
+Eelco Hoekstra, our Chairman of the Executive Board and CEO, said: 
+39Vopak   |   Sustainability Report 2013   |
+Sustainability performance   |   Safety and health   |   Objectives
+
+Page 40:
+“ At Vopak we have a collective ambition. We want to be recognized for our outstanding performance 
+on safety, health and environment. Our aim is not only to be the world leader in independent tank storage 
+when measured by size and earnings, but also to be the world leader in our industry with respect to 
+sustainability and service offering. ” 
+Facts and figures Safety and health
+T otal Injury Rate
+An analysis of the cause of the safety and health incidents shows that 79% were non-process safety 
+related. The most of these injuries were caused by slips, trips and falls, the remaining 21% were related 
+to process safety incidents (exposure to chemicals and/or steam). Fortunately, all these incidents were 
+of low severity.
+We further continued the downward trend in safety incidents among both our own personnel and 
+contractors in 2013. The lost time injury rate (LTIR) for our employees and contractors combined was 
+0.6 per million hours worked (2012: 0.7). The total injury rate (TIR) related to the number of hours worked 
+by both our own employees and contractors was 1 .8 accidents per million hours worked in 2013 (2012: 
+2.0). We achieved this decrease in our TIR through continuous awareness programs, and through 
+extensive improvements to our facilities and processes. 
+Process incidents
+The number of process incidents that occur at our tank terminals is an important measure of our safety 
+and environmental care. Process incidents include product spills, product contaminations and fires, 
+including any smoldering, no matter how small. 
+In 2013, we saw 79% of all reportable incidents being related to the Vopak Fundamentals on Safety. 
+Of these; Transfer of Product accounted for 65% and Permit to Work for 23%, further highlighting the 
+need to focus on process safety [case story on Fundamentals]. This confirms that continued focus and 
+efforts on field compliance of the Vopak Fundamentals are vital to continuous improvement. With the 
+continued embedding of competence based assessments (in theory as well as in practice) and 
+supervision on the Vopak Fundamentals, we see further opportunities to improve. Compliance to our 
+fundamentals and our operational standards remain as the main levers to improve our safety performance. 
+Process integrity further improved through a focus on design and maintenance of assets, continuous 
+improving processes and procedures and ensuring we have a competent and disciplined workforce. 
+Through the combination of these efforts the number of process incidents reduced to 93 in 2013 
+(2012: 126). 
+Vopak   |   Sustainability Report 2013   | 40
+Sustainability performance   |   Safety and health   |   Objectives
+
+Page 41:
+The total number of spills decreased from 56 in 2012 to 48 in 2013. The quantity of product spilled in 2013 
+was 558 tons (we started to measure the quantity of spills in tons in 2013), an increase compared to 2012 
+primarily due to two larger spills. Most Vopak terminals are equipped with secondary containment 
+measures and an emergency spill program. Spills are identified and cleaned immediately after occurrence, 
+so there are no effects on the environment (soil, groundwater and/or surface water).
+The total number of product contaminations fell to 19 in 2013 from 30 in 2012. The number of fires 
+(including smoldering) declined to 26 in 2013 from 40 in 2012.
+41Vopak   |   Sustainability Report 2013   |
+Sustainability performance   |   Safety and health   |   Objectives
+
+Page 42:
+Environmental care
+Objectives 
+Vopak aims to be a responsible neighbor. Our objective is to further reduce emissions to the environment, 
+not only to soil and water, but also reduce gaseous emissions, odors and noise. In pursuing this objective, 
+we adhere to guidelines set out in operating licenses, legislation and our own global standards. We 
+acknowledge that taking measures to curb emissions may sometimes conflict with energy consumption, 
+as some environmental measures require the use of energy. 
+We have standardized our approach at a global level in our internal Vopak standards, which map the impact 
+our operations may have on the environment. This helps us address the issue of how to minimize our 
+impact, including the carbon footprint of our operations. We are committed to developing a sound waste 
+management system and minimizing our energy consumption, soil contamination, air and surface water 
+emissions, and water consumption.
+Energy and carbon reporting
+Scope of carbon reporting
+The way Vopak report on its energy use and carbon emissions (based on CO2 emissions) encompasses 
+Scope 1 (direct energy use and emissions from combustion of fossil fuels) and Scope 2 (indirect energy 
+use and emissions from electricity purchased for our own use). We do not report on Scope 3 (direct and 
+indirect energy use and emissions from purchased materials and services).
+Vopak   |   Sustainability Report 2013   | 42
+Sustainability performance   |   Environmental care   |   Objectives
+
+Page 43:
+The energy consumption of Vopak depends on the products we store for our customers and the climate 
+conditions. Short-term energy-saving programs therefore focus on improving the processes of heat 
+exchange and efficiencies of the system. 
+Direct energy
+Direct energy sources, such as gaseous and liquid fuels, are mainly used to produce steam for heating 
+purposes and for limited on-site transfer by steam-driven pumps. The total energy consumption of the 
+companies in scope, broken down by direct energy source, is shown in the following table.
+T otal direct energy in TJ consumed  (consolidated 
+companies including joint ventures)
+Energy source 2010 2011 2012 2013
+Natural gas 3,648 3,368 3,013 3,187
+Fuel gas oil 899 250 365 428
+Coal 34 26 8 29
+Biofuel - - - -
+LPG 61 124 647 132
+T otal direct energy (TJ) 4,678 3,768 4,033 3,776
+T otal relative direct energy (MJ/cbm) 151 155 153 136
+It should be noted that the quantity of LPG consumed does not only reflect the energy generated from 
+(heating by burning) LPG in 2013. It is mainly attributable to the use of LPG to support the incineration of 
+product vapors in the various vapor treatment systems that Vopak operates. Use of LPG decreased in 2013 
+compared with 2012 because we implemented more energy-efficient systems, such as vapor recovery 
+units or vapor return systems, which do not require supporting gas (usually LPG). 
+In 2013, one joint venture terminal (in China) used coal to generate steam in its boiler house. 
+43Vopak   |   Sustainability Report 2013   |
+Sustainability performance   |   Environmental care   |   Objectives
+
+Page 44:
+Indirect energy
+Electricity is the main source of indirect energy that Vopak uses. Within Gate terminal, we also use warm 
+water from an adjacent electric power plant. Using this source of excess heat, means we do not have to 
+use energy to vaporize and heat the liquefied natural gas.
+Energy source 2010 2011 2012 2013
+Storage capacity (mln cbm) 27 .5 24.4 27 .3 27 .7
+Steam (TJ) N.R.1 N.R.1 N.R.1 7
+Indirect heating (TJ) - 115 1,247 1,689
+Electricity (TJ) 1,130 1,091 1,497 1,670
+T otal indirect energy (TJ) 1,130 1,206 2,744 3,366
+T otal relative indirect energy (MJ/cbm) 41 49 101 122
+1. Not reported
+The increase of our indirect energy consumption  in 2013 is caused by the LNG terminals, which use 
+electricity to cool the natural gas to liquid to -160oC, water from the electrical power plant or sea water 
+(water will be cooled 7oC) is used to vaporate the liquid gas into the gas distribution system. In total 
+Vopak's two LNG terminals consumed 1,970 TJ in 2013, almost 60% of our total indirect energy 
+consumption. Higher energy consumption at our LNG operations is caused by higher water consumption, 
+because more water intake results in a better, more continuous process of gasifying the liquid LNG. 
+T otal direct and indirect greenhouse gas emissions by weight
+Vopak generates scarcely any CO2 from its operating processes. The majority of our carbon emissions are 
+generated during the production of steam for heating purposes or electricity for powering our pumps. 
+However, the direct and indirect energy used in our operations does generate CO2.
+No ozone-depleting chemical substances are emitted. Most of our terminals do not handle these specific 
+chemicals. At the terminals where we do handle these chemicals, we use special vapor recovery systems.
+Total greenhouse gas emissions (direct and indirect) are calculated in accordance with the standards set 
+by the Carbon Disclosure Project.
+Vopak   |   Sustainability Report 2013   | 44
+Sustainability performance   |   Environmental care   |   Objectives
+
+Page 45:
+T otal direct and indirect carbon emissions
+Vopak's total carbon emissions in 2013 were 7% higher, mainly due to the conversion factors of electricity 
+in Estonia (25% higher because of coal fired power plants instead of nuclear energy).
+T otal carbon emissions (in CO2 equivalents)
+Emissions for Vopak including joint ventures
+2010 2011 2012 2013
+Direct carbon (kTon) 278 213 241 223
+Indirect carbon (kTon) 165 154 228 280
+T otal carbon emission (kT on) 443 367 469 503
+T otal relative carbon emission (kg/cbm storage) 16.1 15.1 1 7. 2 18.1
+Our ambition to reduce our energy use is a combined effort throughout the Vopak global community. 
+More terminals [case story Botlek] are involved in energy efficiency initiatives, sometimes together with 
+their energy supplier. For the Vopak Terminal of Canada in Hamilton, this resulted in a direct energy saving 
+of 25%.
+ Waste
+When we assessed the focus areas for our sustainability program, waste was identified as a focus point 
+by our terminals, our customers (to save costs) and NGOs (mindful of our ecological footprint).
+To develop the principles of ’waste does not exist’, a pilot study in 2010 identified and categorized waste 
+streams for prevention and re-use. Most important outcomes were that we will minimize the amount of 
+waste produced, and that we will strongly promote re-using waste, both within Vopak's operations and 
+throughout our supply chain. 
+Our main waste is generated by:
+•	 Soil remediation. Every spill that occurs at a terminal must be cleaned immediately and the 
+contaminated soil disposed of;
+•	 Residual waste management. When tanks change service to another product, small amounts of 
+product may remain in the tanks and pipelines. This is currently treated as chemical waste and removed 
+from the site and discharged. However, there are companies that can upgrade some residual waste into 
+a product with a value; 
+•	 Slops: When tanks are cleaned for inspection, a quantity of waste (called slop) has to be removed from 
+the tank;
+•	 Sludges from our waste water treatment plants. Waste water treatment plants are installed not only in 
+new terminals, but also at older terminals.  
+If we can identify and categorize our waste in a systematic way, we estimate we could save significant 
+cost for waste disposal. In 2013, approximately 75% of our terminals reported waste figures, which is an 
+25% improvement compared to 2012. 
+Land and water
+As the owner and user of 1,880 hectare of land, Vopak is responsible for taking care of this land, as 
+reflected in our environmental objectives. Some of this land is equipped with a secondary containment 
+system to prevent spills and other contamination from entering the soil and groundwater. The aim is to 
+identify the total amount of secondary containment and, based on a risk approach, improve the protection 
+of the sub soil and ground water at our terminals.
+45Vopak   |   Sustainability Report 2013   |
+Sustainability performance   |   Environmental care   |   Objectives
+
+Page 46:
+Water management is an important responsibility. Vopak aims to have closed water balances and gain 
+an insight into the treatment of water (both quantity and quality) at each of our terminals by 2015. The 
+categories of water we identified at Vopak are: rain water, surface water, ground water, tap water and 
+contaminated water. In 2013 Vopak consumed 1,684,000 cbm tap water. 
+To establish our objectives, we have committed to assessing the water care systems at our terminals. 
+The objective is to make a clear distinction between flows of good quality water (clean rainwater) and 
+contaminated water. The principle is that clean water should remain clean and not be mixed with 
+contaminated water, while contaminated water should be treated in a water treatment plant. Since 2010, 
+we have taken initiatives to separate clean water and contaminated water flows. For example, our Belgian 
+terminals have already established a clear distinction between flows of good quality water and 
+contaminated water, which we also report towards the authorities.
+To improve the treatment of contaminated water, some existing treatment plants will be upgraded or 
+replaced with new state-of-the-art plants. For example, at our Europoort terminal (Netherlands) two 
+new waste water treatment plants are being installed.
+Biodiversity impact on our surroundings
+Impact on our surroundings
+A 2011 study conducted with Wageningen University and TNO, assesses the impact of our regular 
+business on its surroundings. One or more of the following impacts could arise, depending on where 
+the terminal is situated: 
+•	 Noise;
+•	 Odors; 
+•	 Emissions of nitrogen and carbon; 
+•	 Light; 
+•	 Volatile organic compound emissions;
+•	 Surface water;
+•	 Soil contamination and soil use. 
+The results of this study are still used at every greenfield project. In all cases we address and solve these 
+issues immediately during the engineering phase.
+Vopak principles on contamination
+Our principles on contamination are:
+•	 Prevention;
+•	 A spill response program applicable to both soil and water; 
+•	 Installing vapor recovery units to prevent emissions to air. 
+Areas of special concern 
+Within Vopak we have defined the following areas of special concern:
+•	 Natura 2000 sites (Europe); 
+•	 Areas falling under the UNESCO Man and the Biosphere Programme;
+•	 Areas defined by BirdLife International;
+•	 Wetlands according to the Ramsar Convention. 
+When applying this definition, it means that 83% of all our terminals are within five miles of these areas. 
+Some Vopak terminals are in the direct vicinity of areas of ecological diversity, so less than 500 meters 
+away. Where this is the case, extra care is taken to prevent any damage to this area from air, soil, 
+groundwater and surface water contamination. The preventive measures are stated in the 
+Vopak Standard for Soil and Groundwater Management. 
+Vopak   |   Sustainability Report 2013   | 46
+Sustainability performance   |   Environmental care   |   Objectives
+
+Page 47:
+Responsible partner
+Objectives
+Vopak recognizes its responsibility for the social, environmental and economic consequences of its 
+activities across the entire supply chain.
+Vopak does not manufacture goods, purchase raw materials or sell materials or goods to its customers. 
+Our core product is the service we deliver to our customers. Our suppliers do not directly contribute to 
+this core service delivery process. However, they are involved in support processes, such as maintenance 
+and construction projects for new terminals. For this reason, they are also required to commit to our 
+standards and values. To promote higher levels of sustainability across the supply chain, we increasingly 
+assess our suppliers on the basis of working conditions and their use of sustainable materials. 
+For vendors providing critical services to our terminal, we apply Vopak’s general conditions for the 
+purchase of goods and services. These include business conduct, safety and environmental conditions 
+committing the vendor to the standards of our Code of Conduct, the Vopak Fundamentals on Safety and 
+the Vopak Sustainability Policy. 
+The vast majority of our purchased services are construction activities conducted under Vopak 
+management on our premises with local supervision from Vopak’s own personnel. Hence we closely 
+monitor our vendors. 
+Our expansion projects in execution generated over 33 million man hours during 2013, representing over 
+15.000 man years. These man hours are mostly related to local contractors. 
+Vopak will terminate any relationship with a supplier, if we conclude they are not behaving in line with our 
+general conditions, our Code of Conduct and our Anti-Corruption Policy and Fraud Prevention Policy. 
+Selective audits are part of our vendor selection process. 
+Concerns with respect to ethical behavior can be raised directly to management or anonymously via our 
+whistle-blower system. 
+47Vopak   |   Sustainability Report 2013   |
+Sustainability performance   |   Responsible partner   |   Objectives
+
+Page 48:
+Our terminals
+Vopak’s independent tank terminal network fulfils several important functions in the product’s journey 
+from producer to end-user. The logistics chain in bulk liquid import and export often involves transport by 
+sea-going vessels. For Vopak’s customers, the terminal can serve as a point of origin for inland distribution 
+by inland shipping, pipeline, tank truck, or rail. Alternatively, it can serve as collection point for small 
+quantities originating from an inland production facility, to be combined into a large quantity for overseas 
+export. A number of our terminals are part of industrial complexes for petrochemical factories. The terminal 
+is connected to the factories by pipelines and facilitates mutual product flows and the supply and export of 
+feedstock and finished products.
+Our services
+Vopak develops its services with product, market and functional requirements in mind. We always do this 
+in close collaboration with customers and strategic partners. Ongoing dialogue with our customers is 
+therefore key to our strategy: we can only provide excellent customer service if we are fully aware of our 
+customers’ wishes and requirements. 
+In addition to our daily customer contact, we collect feedback annually through our global customer 
+satisfaction survey. This survey enables us to adjust our commercial plans and initiate specific 
+improvements in line with our customers’ requirements and needs. This way, our customers largely define 
+the initiatives we take to further improve our relationships with them. In addition, we constantly train our 
+staff to sharpen their service focus.
+Stakeholder engagement
+Sustainability management enables Vopak to measure, manage and report on the Triple P-indicators, 
+relating to people (social), planet (environment) and profit (economic), and to set business strategies that 
+reduce risks and increase shareholder value. Our principal approach toward stakeholders is outside-in, 
+meaning that it starts with stakeholder dialogue. Our responsibility is inside-out, however: it starts with 
+the factors directly under our control. 
+Daily contacts
+Customers, suppliers and employees meet to share important information every day. In addition, various 
+audits are undertaken, both by Vopak itself (global insurance, global internal audit, terminal health 
+assessment, project post implementation reviews) and by our customers and various authorities. These 
+audits aim to assure control for internal purposes, confirm the integrity of our terminals and processes 
+and pre-assess implementation plans. We undertake direct contacts with the media, financial 
+stakeholders, our neighbors and other stakeholders ensuring timely and consistent communications 
+related to relevant topics per stakeholder area. 
+Regular contacts
+We maintain regular contacts with our financial stakeholders, neighbors, local and other authorities. 
+Various meetings and webcasts are organized, which are tailored to different audiences, enabling us 
+to demonstrate our determination to be transparent towards all our target groups. We inform key 
+stakeholders on the main developments impacting the company, through planned and ad hoc press 
+releases. In addition, we organize regular communications through the Capital Markets Day events and 
+regular meetings with authorities.
+Vopak   |   Sustainability Report 2013   | 48
+Sustainability performance   |   Responsible partner   |   Objectives
+
+Page 49:
+Annual contacts
+We maintain contact every year with our customers, local and global stakeholders, and a wide variety of 
+communities, including our neighbors, non-governmental organizations, sustainability organizations and 
+ministries in the countries where we operate. In addition to maintaining direct contact with these 
+stakeholders, we participate at various industry and other events, ranging from the World Economic Forum 
+and the International Energy Forum to the annual meetings of chemical and petrochemical associations, 
+and product-related conferences. We undertake various surveys throughout the year, notably the annual 
+Customer Satisfaction Survey, which gives feedback from our customers on a wide range of commercial, 
+operational, safety and service related topics (score over 2012: 31, with a response rate of 66%). The 
+surveys aim to the implement of the suggestions, comments and recommendations we received from 
+hundreds of respondents globally.
+Associations
+In 2013, Vopak was member of VOTOB (the Dutch association of independent tank storage companies), 
+FETSA (Federation of European Tank Storage Associations) and the Dutch LNG Platform.
+Community involvement
+Vopak operates in 79 different locations throughout the world. It is the responsibility of the local 
+management teams of our subsidiaries to engage in activities to strengthen the relationships with local 
+communities at our terminals. This means we apply a global philosophy, but a local approach. 
+Vopak is committed to being a good neighbor and engaging with communities living close to our 
+operations. We behave as a responsible citizen and work to minimize the negative impact of our 
+operations. We aim to support communities, for instance by improving the infrastructure adjacent to 
+our facilities [case story Thailand]. We are committed to source locally as much as possible.
+Human rights
+Vopak respects human rights as described in the United Nation's Universal Declaration of Human Rights 
+and accepts the responsibility of ensuring that all our entities respect human rights when conducting 
+business. 
+In 2013 Vopak screened all Final Investment Proposals on human rights issues. Our screening is based 
+on the identification of the country where the project is being executed (OECD or other) and the 
+characteristics of the investment proposal (major repairs or expansion). The screening included an 
+assessment of the areas where the risks of human rights issues are high. For these projects specific 
+agreements between all the stakeholders in the project should be in place, detailing the manner in which 
+parties will uphold human rights. These procedures resulted in one investment proposal that has been 
+extended with such an agreement between all stakeholders, detailing: 
+•	 Integrity and ethics;
+•	 Human rights; 
+•	 Fair treatment of employees;
+•	 Community involvements; 
+•	 Sustainable customers and suppliers;
+•	 Sustainable services. 
+All partners, (main) contractors and suppliers specifically agreed they shall adhere to the 
+Vopak Code of Conduct, which includes human rights. 
+49Vopak   |   Sustainability Report 2013   |
+Sustainability performance   |   Responsible partner   |   Objectives
+
+Page 50:
+Business partners
+Sustainable suppliers and customers
+Vopak works with customers and suppliers to maintain long-term partnerships and ensure continuous 
+improvement in our approach to sustainability. We aim to be the supplier of choice based on our service 
+quality and sustainability. Likewise, we aim to choose suppliers whose commitment to sustainability 
+matches our own.
+Sustainable services
+Vopak delivers its services in accordance with stringent safety and environmental standards and in 
+cooperation with the local authorities in the areas in which we operate. By continuously assessing and 
+improving the condition of our terminals, we are able to maintain the highest level of quality for our 
+stakeholders.
+Key suppliers
+In 2013, Vopak selected a number of key suppliers of hoses, loading arms, pumps and tank building. 
+These key suppliers have committed to comply with our Code of Conduct. 
+External Benchmarks
+In 2013, Vopak was included in several external benchmarks:
+•	 VBDO (Vereniging Beleggers voor Duurzame Ontwikkeling). Vopak’s score improved to 44% in 2013 
+from 14% in 2011;
+•	 Carbon Disclosure Project (CDP). This independent, non-profit organization holds the world’s largest 
+database of primary corporate climate change information. The CDP acts on behalf of 551 institutional 
+investors from around the world. On a scale of A to E, in 2013, Vopak scored a level C for its climate 
+reporting in the CDP benchmark. 
+•	 Dow Jones Sustainability Index (DJSI). In 2013, Vopak scored 67%, slightly below our 2012 score of 
+73%, but well above the 45% average score of our peers. 
+•	 Transparency Benchmark. The Dutch Ministry of Economic Affairs produces an annual report on Dutch 
+companies’ corporate social responsibility reporting. Vopak scored 143 out of a total 200 points in 2013, 
+an increase of 6% compared to 2012.   
+Inclusion in these benchmark studies gives us valuable feedback and information regarding Vopak´s 
+perceived performance in the areas of people, planet and profit. The overall impression is presented in the 
+table below.
+Vopak   |   Sustainability Report 2013   | 50
+Sustainability performance   |   Responsible partner   |   Objectives
+
+Page 51:
+Commitments and achievements
+In our 2012 Sustainability Report and at the 2013 Annual General Meeting of Shareholders, Vopak made 
+the commitments listed in the table below. Performance against these commitments can also be found 
+in this overview.
+Plans for 2014
+In 2014, Vopak wants to further strengthen its sustainability strategy. Therefore, we will review our 
+sustainability strategy in 2014 so we can build on the foundation we have and identify our future steps 
+in sustainability. 
+In line with this changing environment, sustainability reports published after 31 December 2015 should be 
+prepared under the new GRI 4 reporting guidelines. Our current report is under the GRI 3.1 .B+ guidelines. 
+Both the strategic review as well as the GRI 4 guidelines enables Vopak to develop:
+•	 A validated materiality matrix, outlining relevant issues to stakeholders;
+•	 A sustainability-strategy based on the materiality matrix to increase the value generated by Vopak’s 
+sustainable position;
+•	 Defined KPI’s and targets;
+•	 A corporate story and sales presentation describing the newly-formulated Vopak sustainability strategy.  
+Permit violations and fines
+In 2013, there were four permit violations, regarding emissions of hydrocarbons to the environment, 
+resulting in a total fine of EUR 170.000. These violations include stench, spills, and safety gaps.
+Grants received
+In 2013 Vopak received two grants from the European Union for research projects. 
+The first grant (EUR 600,000) was awarded by the EU-LIFE program for environment and climate action, 
+for a new remediation concept Vopak is applying to a volatile organochlorine compound (VOCI) 
+contamination. The second grant was awarded to the members of the consortium working on the Petrobot 
+project, including Vopak [case story Petrobot]. The total grant to the consortium was EUR 3,739,940. Vopak 
+did not receive any grants from local governments in 2013.
+51Vopak   |   Sustainability Report 2013   |
+Sustainability performance   |   Responsible partner   |   Objectives
+
+Page 52:
+Excellent people
+Objectives
+Our people are our most valuable asset. Employing the best people who are passionate about Vopak will 
+enable us to grow our business sustainably for the future. 
+We are proud that retention of our people remains high. As an organization, we strive to keep our people 
+engaged and foster their personal and professional development. We support them to perform to their 
+best ability. We have a long track record of providing the procedures and training to ensure a safe 
+environment for our employees, contractors and local communities. As a result, our people are loyal and 
+enthusiastic about Vopak. This is borne out by the results of our biennial employee engagement survey. 
+The 2013 survey showed satisfaction rose to 7 .7 from 7 .5 in 2011 . Engagement was also higher at 7 .7 , above 
+the benchmark 7 .4, while pride scored the highest at 7 .8. We want to nurture these positive elements of 
+our culture as we continue to professionalize our business. 
+To take Vopak forward in a changing business environment, we need to have the right people with the 
+right competencies in the right places. Active succession management and developing our employees 
+through systematic coaching and training are therefore crucial to our global HR strategy. 
+In 2013, we expanded the scope of our electronic support tool 4People so we can gather more 
+management information to support the business. This will provide management with an overview of what 
+resources are needed in different parts of the world. In 2014, we will analyze this data in more depth when 
+making decisions about organizational performance and productivity at a local, regional and global level. 
+We encourage our employees to be internationally mobile and to move their skills and competencies to 
+locations worldwide where they are needed most.  
+People development
+Vopak again placed significant emphasis on people development in 2013. We updated and further 
+enhanced learning programs in areas such as safety, operations, sales and marketing and leadership 
+development. All these focus on enhancing behavioral competencies and skills. For example, the 
+Enhanced Sales Capability program aims to increase the effectiveness of our commercial community and 
+align the way they work globally.
+We also introduced an electronic training course on anti-bribery legislation and Vopak’s Code of Conduct, 
+which more than 85% of the management employees completed. 
+Vopak   |   Sustainability Report 2013   | 52
+Sustainability performance   |   Excellent people   |   Objectives
+
+Page 53:
+Vopak develops its young leaders through coaching and training. To this end, we introduced a new global 
+leadership development program in 2013. IManage is aimed at employees with no direct leadership 
+function (specialists), while IBuild is for people with less than five years’ direct leadership experience. Both 
+lay a solid foundation to help first-line people managers become more effective leaders. The program 
+develops both personal and team leadership skills in line with Vopak’s leadership fundamentals and in 
+support of our values. It runs for nine months and includes workshops, coaching and self-study. The pilot 
+was attended by 30 managers in EMEA and will be rolled out in other locations worldwide during 2014. It 
+will also be extended to senior management this year. 
+My Learning Operations
+Our special training program, My Learning Operations (MLO), was rolled out worldwide in 2013. This 
+important initiative was introduced in 2012, and kicked off with a movie to enhance awareness of the 
+Vopak Fundamentals on Safety. The MLO project aims to increase our employees' knowledge and skills to 
+the delivery of safer, more reliable and even higher-quality operations and service. 
+The implementation of My Learning Operations is well on its way. To date more than 50 terminals are live 
+in the system. By end 2014, next to the Vopak Fundamentals on Safety, 10 other blended-learning modules 
+should be implemented at our terminals. To date over 4000 employees are already using this tool in their 
+people development program. In the future we will continue to develop more blended-learning modules to 
+increase the safety and awareness of our people.
+Diversity
+Vopak is a multicultural company with operations spanning 28 countries around the globe. This means our 
+workforce is diverse and includes people from many different cultures, nationalities and beliefs. We 
+respect this diversity and nurture the many different approaches and perspectives each culture brings to 
+our business. Whatever their backgrounds, our people share our company’s passion for service and want 
+to perform to the best of their ability. 
+Our workforce is still predominantly male. This is due to Vopak’s technical environment, in which there are 
+few female candidates with the required skills and expertise.
+Our focus is on having the right expertise and skills available in key areas of the business, rather than on 
+putting people into roles to meet diversity targets. To ensure sufficient competencies worldwide, we 
+expect to increase international mobility of our employees in 2014.
+53Vopak   |   Sustainability Report 2013   |
+Sustainability performance   |   Excellent people   |   Objectives
+
+Page 54:
+Facts & figures Excellent people
+People at Vopak
+Information on the Vopak workforce for the past four years is presented below.
+Employees
+T otal number of employees 2010 2011 2012 2013
+Subsidiaries (FTE) 3,740 3,921 3,932 4,010
+Subsidiaries and joint ventures (headcount) 5,864 5,994 6,209 6,088
+Gender and nationality of managers and professionals
+% employees
+Executive 
+Board
+Division 
+manage-
+ment 
+teams
+Global staff 
+directors
+Global 
+staff HQ
+Gender
+Male 100% 81% 85% 74%
+Female – 19% 15% 26%
+Nationality
+Dutch 100% 27% 85% 86%
+Other 1 – 73% 15% 14%
+1. Any nationality other than Dutch.
+Sickness and absence rate 
+In 2013, our absenteeism rate was 2.0%, which is slightly lower than the previous year (2.1%). 
+T otal number of incidents of discrimination, fraud and bribery
+In 2013, there were six cases reported within our whistle-blower regulations and eight cases of fraud 
+were reported. 
+A whistle-blower reported during 2013 that the Vopak Code of Conduct and Vopak values may be breached 
+at one of our terminals. The alleged irregularities centered on intentional abuses of the procurement 
+process for projects in recent years and conflict of interest issues. An on-site investigation with the 
+assistance of independent experts revealed a case of fraud that resulted in the resignation of five 
+members of the management team of that terminal. The management team of the division has taken 
+measures to ensure operations continue with no further incidents and that safety and services are not 
+affected.  
+Vopak   |   Sustainability Report 2013   | 54
+Sustainability performance   |   Excellent people   |   Objectives
+
+Page 55:
+Innovation
+
+Page 56:
+Strategy on innovation
+Vopak Singapore - Banyan Terminal
+Vopak’s overall corporate strategy is based on three pillars:
+•	 Growth leadership: our ability to identify and secure the right locations for our terminals;
+•	 Operational excellence: constructing, owning, operating and maintaining terminals to deliver services 
+at  competitive costs in local markets;
+•	 Customer leadership: creating long-term sustainable relationships with customers and healthy 
+occupancy rates of terminals against attractive rates.
+These three pillars also drive ‘connected innovation’ within our company, together with the Vopak 
+Fundamentals, our corporate governance structure, the Vopak Code of Conduct and our values. 
+Innovation within Vopak originates from interaction between us and various stakeholders. We build and 
+maintain networks to generate ideas and collect input for innovation that can among others, improve 
+our process integrity (operational continuity), process safety, process efficiency, and the durability of our 
+systems and materials.
+We therefore approach innovation within Vopak in three ways: 
+•	 Through social innovation: improving the way we interact and cooperate within the company. We do 
+this, for example, through flexible organizations, dynamic management and smart ways of working. 
+In addition, we have developed a global intranet environment and introduced a social media tool to 
+improve data sharing and enhanced collaboration.
+•	 Through commercial innovation: improving the way we interact with our customers, through a global 
+Customer Relationship Management tool and a global sales effectiveness training program. 
+•	 Through technological innovation: the way we design, build, operate and maintain our terminals. This 
+is overseen by our Global Operations and Technology department and stimulates all staff to contribute 
+to value enhancing innovations. 
+For this, a vision on the future for Vopak is required to frame our innovation efforts. This is why we have 
+created, the ‘Sustainable Terminaling in the Future’ project.
+Vopak   |   Sustainability Report 2013   | 56
+Innovation   |   Strategy on innovation
+
+Page 57:
+T erminaling in the future
+Vopak Singapore - Banyan Terminal
+Our innovation program, called ‘Terminaling in the future’, lays out topics and objectives for the design and 
+operations of Vopak terminals in the year 2035, with a specific focus on sustainability. The main objectives 
+of this program are: 
+•	 To become an innovative bulk liquid storage provider by applying leading-edge technology to develop 
+terminals and terminal activities that meet future demands and improve business performance;
+•	 To explore and develop future innovative terminal concepts that are energy efficient, labor extensiveand 
+free of emissions and waste. Also, to deliver the highest and fastest service levels in the industry at the 
+lowest cost, with intelligent networking and minimal space requirements; 
+•	 To identify specific opportunities for innovation within the portfolio that can either be applied in the 
+short term, require further customization for terminals and terminal activities, or hold promising options 
+in the longer term; 
+•	 To establish a structured innovation development activity within Vopak to monitor, develop and 
+coordinate terminal innovation opportunities on a continuous basis, in close cooperation with Vopak’s 
+terminal design activities and external partners;
+•	 To identify external partners and research institutes that Vopak needs to work with to customize and 
+develop relevant technologies. 
+All our developments are based on these objectives. All will in some way contribute to the final scope 
+of Terminaling in the Future.
+Social innovation
+One of the main challenges in social innovation is to set up a network for sharing experiences and 
+activities. It is crucial to ensure exposure to relevant external input, and to share and receive knowledge 
+about our impact on the health and safety of employees across our terminals and divisions and the 
+relevant communities.
+YES!Delft  
+Vopak supports the YES!Delft initiative. YES!Delft is a center for high-tech entrepreneurs. It has a clear 
+mission: to build tomorrow’s leading firms. YES!Delft inspires students, professionals and scientists to 
+take their first steps towards becoming entrepreneurs and offers them the necessary support to turn their 
+enterprise into a ‘leading firm’. It focuses on companies with a technical, innovative and scalable product 
+or process. 
+57Vopak   |   Sustainability Report 2013   |
+Innovation   |   Strategy on innovation
+
+Page 58:
+Center for the Edge 
+Vopak attends innovation talks such as the Deloitte Center for the Edge, which conducts original research 
+and develops substantive points of view for new corporate growth. The Silicon Valley-based Center helps 
+senior executives make sense of and profit from emerging opportunities on the edge of business and 
+technology.
+Commercial innovation
+An example of a commercial innovation is our initiative to provide break bulk facilities, to enable the use of 
+LNG as a transport fuel. In this project Vopak and Gasunie jointly plan to build a break bulk terminal for 
+LNG in Rotterdam. 
+In 2013, Vopak extended its Multisite Certificate for the International Sustainability and Carbon Certification 
+with the addition of the German DE certificate. This enables us to offer more sustainable service to 
+customers at an expanding number of terminals. Vopak now has a multisite EU- and DE-certification for 
+nine terminals that handle biofluids.
+T echnological Innovation
+As part of our innovation program (Terminaling in the future), we have identified the following technical 
+topics for short-term, medium-term and long-term research:
+•	 Energy efficiency; 
+•	 Labor extensive operations; 
+•	 Emission and waste-free operations;
+•	 High service levels;
+•	 Intelligent automation;
+•	 Minimal use of space.
+Projects
+Vopak does not have a separate research department. We strive to participate in external programs that 
+address our innovation objectives and topics. For this reason, we have made the following commitments:
+Petrobot initiative
+Vopak is part of a consortium that, together with the European Commission, launched the Petrobot project 
+in September 2013. The ground-breaking project will develop robots that can replace humans to inspect 
+pressure vessels and storage tanks. The main objectives of this program are to minimize the risks for 
+people in tank entries and to prolong tank availability, as the robot inspection should be possible on life 
+tanks.
+iT ank innovation platform
+As a leading tank storage company, Vopak is participating in the Port of Rotterdam’s innovation platform, 
+called iTank. This platform offers students internships, innovation courses and cases studies from its 
+participating partners, which they can study, experience and learn from a professional environment. 
+Students can also deliver innovative solutions to industrial issues.
+Vopak   |   Sustainability Report 2013   | 58
+Innovation   |   Strategy on innovation
+
+Page 59:
+Game changer projects
+We participate in the long-term Dutch scientific research program ‘Bio-based Geo & Civil Engineering for 
+a Sustainable Society’. In this program, we are especially interested in how to avoid corrosion and the 
+possibility of reversing corrosion, such as making steel out of rust. We are also involved in self-healing 
+materials, especially self-healing concrete and coatings.
+Knowledge sharing
+One of our main challenges is to set up a network across our terminals and divisions to receive and share 
+knowledge internally about new technological possibilities. These possibilities can have a practical, almost 
+directly applicable, applied scientific or more fundamental scientific nature. 
+59Vopak   |   Sustainability Report 2013   |
+Innovation   |   Projects
+
+Page 60:
+Other information
+
+Page 61:
+Assurance report
+To the Executive Board of Koninklijke Vopak N.V .
+Report on the Sustainability Report
+Engagement and responsibilities
+In the Sustainability Report (hereafter: ‘Report’) Koninklijke Vopak N.V . reports on its policies, activities 
+and performance relating to sustainability in the reporting year ending 31 December 2013. We have been 
+engaged by the Executive Board of Koninklijke Vopak N.V . to review the Report. 
+Review procedures focus on obtaining limited assurance which does not require exhaustive gathering of 
+evidence as in audit engagements. Consequently a review engagement provides less assurance than an 
+audit.
+We do not provide any assurance on the assumptions and feasibility of prospective information, such as 
+targets, expectations and ambitions, included in the Report. 
+The Executive Board of Koninklijke Vopak N.V . is responsible preparing the Report. We are responsible 
+for providing a limited assurance report on the information in the Report. 
+Reporting criteria
+Koninklijke Vopak N.V . developed its reporting criteria on the basis of the G3.1 Guidelines of the Global 
+Reporting Initiative (‘GRI’). These reporting criteria contain certain inherent limitations that may influence 
+the reliability of the information. Detailed information on these limitations and on Koninklijke Vopak N.V . ’s 
+reporting scope is given in our ‘Sustainability reporting scope’ on page 19. We consider the reporting 
+criteria to be relevant and appropriate for our review. 
+Review procedures performed  
+We planned and performed our review procedures in accordance with Dutch law, including Standard 
+3410N ‘ Assurance engagements relating to sustainability reports’. Our most important review procedures 
+were: 
+•	 Performing an external environment analysis and obtaining insight into the industry, relevant 
+sustainability issues, relevant laws and regulations and the characteristics of the organization; 
+•	 Assessing the acceptability of the reporting policies and consistent application of these, such as 
+assessment of the outcomes of the stakeholder dialogue and the reasonableness of estimates made 
+by management;
+•	 Reviewing the systems and processes for data gathering, internal controls and processing of other 
+information, such as the aggregation process of data to the information as presented in the Report;
+•	 Reviewing internal and external documentation to determine whether the information in the Report is 
+adequately substantiated;
+•	 Evaluating the overall presentation of the Report, in line with the reporting criteria of Koninklijke Vopak 
+N.V .;
+•	 Reviewing the application level according to the G3.1 Guidelines of GRI.
+We believe the evidence obtained from our review is sufficient and appropriate to provide a basis for 
+our conclusion.
+61Vopak   |   Sustainability Report 2013   |
+Other information   |   Assurance report
+
+Page 62:
+Conclusion
+Based on our review procedures performed, nothing has come to our attention that would cause us 
+to conclude that the information in the Report, in all material respects, does not provide a reliable and 
+adequate presentation of the sustainability policy of Koninklijke Vopak N.V . or of the activities and 
+performance of the organization relating to sustainability in 2013, in accordance with Koninklijke Vopak 
+N.V . ’s reporting criteria.
+Rotterdam, 27 February 2014  
+ 
+PricewaterhouseCoopers Accountants N.V .  
+ 
+Original signed by M. de Ridder RA 
+Vopak   |   Sustainability Report 2013   | 62
+Other information   |   Assurance report
+
+Page 63:
+GRI index
+GRI no. Description Reference Page no.
+Strategy and analysis
+1.1 Statement from the most senior decision-maker of the organization (e.g. CEO, chair, or 
+equivalent senior position) about the relevance of sustainability to the organization and its 
+strategy.
+1.2 Description of key impacts, risks, and opportunities.
+Organizational profile
+2.1 Name of the organization. 8
+2.2 Primary brands, products, and/or services. 8
+2.3 Operational structure of the organization, including main divisions, operating companies, 
+subsidiaries, and joint ventures.
+8
+2.4 Location of organization’s headquarters. 73
+2.5 Number of countries where the organization operates, and names of countries with either major 
+operations or that are specifically relevant to the sustainability issues covered in the report.
+8
+2.6 Nature of ownership and legal form. 8
+2.7 Markets served (including geographic breakdown, sectors served, and types of customers/
+beneficiaries).
+8
+2.8 Scale of the reporting organization. 8
+2.9 Significant changes during the reporting period regarding size, structure, or ownership. 8
+2.10 Awards received in the reporting period. 25
+Report parameters
+3.1 Reporting period (e.g., fiscal/calendar year) for information provided. 19
+3.2 Date of most recent previous report (if any). 19
+3.3 Reporting cycle (annual, biennial, etc.). 19
+3.4 Contact point for questions regarding the report or its contents. 73
+3.5 Process for defining report content. 19
+3.6 Boundary of the report (e.g., countries, divisions, subsidiaries, leased facilities, joint ventures, 
+suppliers). See GRI Boundary Protocol for further guidance.
+19
+3.7 State any specific limitations on the scope or boundary of the report. 19
+ Item is covered in the Sustainability Report  Item is partially covered in the Sustainability Report
+ Item is covered in the Annual Report  Item is not or not yet reported
+63Vopak   |   Sustainability Report 2013   |
+Other information   |   GRI index
+
+Page 64:
+GRI no. Description Reference Page no.
+3.9 Data measurement techniques and the bases of calculations, including assumptions and 
+techniques underlying estimations applied to the compilation of the Indicators and other 
+information in the report. 
+19
+3.10 Explanation of the effect of any restatements of information provided in earlier reports, and the 
+reasons for such restatement (e.g. mergers/acquisitions, change of base years/periods, nature of 
+business, measurement methods).
+19
+3.1 1 Significant changes from previous reporting periods in the scope, boundary, or measurement 
+methods applied in the report.
+19
+3.12 Table identifying the location of the Standard Disclosures in the report. 63
+3.13 Policy and current practice with regard to seeking external assurance for the report. If not 
+included in the assurance report accompanying the sustainability report, explain the scope and 
+basis of any external assurance provided. Also explain the relationship between the reporting 
+organization and the assurance provider.
+61
+Governance, commitment and engagement
+4.1 Governance structure of the organization, including committees under the highest governance 
+body responsible for specific tasks, such as setting strategy or organizational oversight.
+9
+4.2 Indicate whether the Chair of the highest governance body is also an executive officer (and, if so, 
+their function within the organization’s management and the reasons for this arrangement).
+24
+4.3 For organizations that have a unitary board structure, state the number of members of the 
+highest governance body that are independent and/or non-executive members.
+24
+4.4 Mechanisms for shareholders and employees to provide recommendations or direction to the 
+highest governance body. 
+23
+4.5 Linkage between compensation for members of the highest governance body, senior managers, 
+and executives (including departure arrangements), and the organization’s performance 
+(including social and environmental performance).
+4.6 Processes in place for the highest governance body to ensure conflicts of interest are avoided. 
+4.7 Process for determining the qualifications and expertise of the members of the highest 
+governance body for guiding the organization’s strategy on economic, environmental, and social 
+topics.
+4.8 Internally developed statements of mission or values, codes of conduct, and principles relevant 
+to economic, environmental, and social performance and the status of their implementation.
+24
+4.9 Procedures of the highest governance body for overseeing the organization’s identification and 
+management of economic, environmental, and social performance, including relevant risks and 
+opportunities, and adherence to or compliance with internationally agreed standards, codes of 
+conduct, and principles.
+4.10 Processes for evaluating the highest governance body’s own performance, particularly with 
+respect to economic, environmental, and social performance.
+4.1 1 Explanation of whether and how the precautionary approach or principle is addressed by the 
+organization. 
+4.12 Externally developed economic, environmental, and social charters, principles, or other 
+initiatives to which the organization subscribes or endorses. 
+25
+4.13 Memberships of associations (such as industry associations) and/or national/international 
+advocacy organizations in which the organization has positions in governance bodies, 
+participates in projects or committees, provides substantive funding beyond routine membership 
+dues, or views membership as strategic.
+38
+4.14 List of stakeholder groups engaged by the organization. 48
+4.15 Basis for identification and selection of stakeholders with whom to engage. 48
+ Item is covered in the Sustainability Report  Item is partially covered in the Sustainability Report
+ Item is covered in the Annual Report  Item is not or not yet reported
+Vopak   |   Sustainability Report 2013   | 64
+Other information   |   GRI index
+
+Page 65:
+GRI no. Description Reference Page no.
+4.16 Approaches to stakeholder engagement, including frequency of engagement by type and by 
+stakeholder group.
+48
+4.17 Key topics and concerns that have been raised through stakeholder engagement, and how the 
+organization has responded to those key topics and concerns, including through its reporting.
+15
+Economic performance (core indicators)
+EC1 Economic value generated and distributed, including revenues, operating costs, employee 
+compensation, donations and other community investments, retained earnings, and payments to 
+capital providers and governments.
+EC2 Financial implications and other risks and opportunities for the organization’s activities due to 
+climate change.
+EC3 Coverage of the organization’s defined benefit plan obligations.
+EC4 Significant financial assistance received from government. 51
+EC6 Policy, practices, and proportion of spending on locally-based suppliers at significant locations of 
+operation. 
+17
+EC7 Procedures for local hiring and proportion of senior management hired from the local 
+community at significant locations of operation. 
+EC8 Development and impact of infrastructure investments and services provided primarily for public 
+benefit through commercial, in-kind, or pro bono engagement. 
+49
+Environmental performance (core indicators)
+EN1 Materials used by weight or volume. 
+EN2 Percentage of materials used that are recycled input materials. 
+EN3 Direct energy consumption by primary energy source. 42
+EN4 Indirect energy consumption by primary source. 42
+EN7 Initiatives to reduce indirect energy consumption and reductions achieved. (additional). 42
+EN8 Total water withdrawal by source. 
+EN1 1 Location and size of land owned, leased, managed in, or adjacent to, protected areas and areas 
+of high biodiversity value outside protected areas.
+45
+EN12 Description of significant impacts of activities, products, and services on biodiversity in 
+protected areas and areas of high biodiversity value outside protected areas. 
+46
+EN16 Total direct and indirect greenhouse gas emissions by weight. 42
+EN17 Other relevant indirect greenhouse gas emissions by weight. 
+EN19 Emissions of ozone-depleting substances by weight. 42
+EN21 Total water discharge by quality and destination. 45
+ Item is covered in the Sustainability Report  Item is partially covered in the Sustainability Report
+ Item is covered in the Annual Report  Item is not or not yet reported
+65Vopak   |   Sustainability Report 2013   |
+Other information   |   GRI index
+
+Page 66:
+GRI no. Description Reference Page no.
+EN22 Total weight of waste by type and disposal method. 42
+EN23 Total number and volume of significant spills. 40
+Social performance / labor (core indicators)
+LA1 Total workforce by employment type, employment contract, and region. 54
+LA2 Total number and rate of employee turnover by age group, gender, and region. 
+LA4 Percentage of employees covered by collective bargaining agreements. 
+LA5 Minimum notice period(s) regarding significant operational changes, including whether this is 
+specified in collective agreements. 
+LA7 Rates of injury, occupational diseases, lost days, and absenteeism, and number of work-related 
+fatalities by region. 
+40
+LA8 Education, training, counseling, prevention, and risk-control programs in place to assist 
+workforce members, their families, or community members regarding serious diseases. 
+LA10 Average hours of training per year per employee by employee category. 
+LA13 Composition of governance bodies and breakdown of employees per category according to 
+gender, age group, minority group membership, and other indicators of diversity. 
+53
+LA14 Ratio of basic salary of men to women by employee category. 
+Social performance / human rights (core indicators)
+HR1 Percentage and total number of significant investment agreements that include human rights 
+clauses or that have undergone human rights screening.
+5
+HR2 Percentage of significant suppliers and contractors that have undergone screening on human 
+rights and actions taken. 
+HR4 Total number of incidents of discrimination and actions taken. 53
+HR5 Operations identified in which the right to exercise freedom of association and collective 
+bargaining may be at significant risk, and actions taken to support these rights. 
+HR6 Operations identified as having significant risk for incidents of child labor, and measures taken to 
+contribute to the elimination of child labor. 
+HR7 Operations identified as having significant risk for incidents of forced or compulsory labor, and 
+measures to contribute to the elimination of forced or compulsory labor. 
+5
+Social performance / society (core indicators)
+SO1 Nature, scope, and effectiveness of any programs and practices that assess and manage the 
+impacts of operations on communities, including entering, operating, and exiting. 
+SO2 Percentage and total number of business units analyzed for risks related to corruption. 
+SO3 Percentage of employees trained in organization’s anti-corruption policies and procedures. 
+ Item is covered in the Sustainability Report  Item is partially covered in the Sustainability Report
+ Item is covered in the Annual Report  Item is not or not yet reported
+Vopak   |   Sustainability Report 2013   | 66
+Other information   |   GRI index
+
+Page 67:
+GRI no. Description Reference Page no.
+SO4 Actions taken in response to incidents of corruption. 
+SO5 Public policy positions and participation in public policy development and lobbying. 
+SO8 Monetary value of significant fines and total number of non-monetary sanctions for non-
+compliance with laws and regulations. 
+51
+Social performance / products and services (core indicators)
+PR1 Life cycle stages in which health and safety impacts of products and services are assessed for 
+improvement, and percentage of significant products and services categories subject to such 
+procedures. 
+PR3 Type of product and service information required by procedures and percentage of significant 
+products and services subject to such information requirements. 
+PR5 Practices related to customer satisfaction, including results of surveys measuring customer 
+satisfaction.
+49
+PR6 Programs for adherence to laws, standards, and voluntary codes related to marketing 
+communications, including advertising, promotion, and sponsorship. 
+PR9 Monetary value of significant fines for non-compliance with laws and regulations concerning the 
+provision and use of products and services. 
+ Item is covered in the Sustainability Report  Item is partially covered in the Sustainability Report
+ Item is covered in the Annual Report  Item is not or not yet reported
+67Vopak   |   Sustainability Report 2013   |
+Other information   |   GRI index
+
+Page 68:
+Subsidiaries, Joint Ventures and Associates
+PRINCIPAL SUBSIDIARIES WITHIN THE BOUNDARY PROTOCOL OF THIS REPORT
+Europe, Middle East & Africa
+Belgium
+Vopak Agencies Antwerpen NV 
+Vopak Terminal Eurotank NV  
+Vopak Chemical Terminals Belgium NV 
+Germany
+Vopak DUPEG Terminal Hamburg GmbH 
+Vopak Agency Germany GmbH
+Finland
+Vopak Chemicals Logistics Finland Oy
+France
+Fos Faster LNG Terminal SAS (90%)
+The Netherlands
+Vopak Nederland B.V .  
+Vopak Terminal Vlissingen B.V .  
+Vopak Terminal Amsterdam Westpoort B.V .  
+Vopak Agencies Amsterdam B.V .  
+Vopak Agencies Rotterdam B.V .  
+Vopak Agencies Terneuzen B.V .  
+Vopak Chemicals Logistics Netherlands B.V .  
+Vopak LNG Holding B.V .  
+Vopak EMEA B.V .  
+Vopak Global Information Services B.V .  
+Vopak Global Procurement Services B.V .  
+Vopak Terminal Botlek B.V .  
+Vopak Terminal Chemiehaven B.V .  
+Vopak Terminal Europoort B.V .  
+Vopak Terminal Laurenshaven B.V .  
+Vopak Terminals North Netherlands B.V .  
+Vopak Terminal TTR B.V .  
+Vopak Terminal Vlaardingen B.V .
+Russia
+Representative office of Vopak Chemicals Logistics 
+Finland Oy, Moscow
+South Africa
+Vopak Terminal Durban (Pty) Ltd. (70%)
+Spain
+Vopak Terminal Algeciras S.A. (80%)
+Sweden
+Vopak Sweden AB
+Switzerland
+Monros AG 
+Tu rkey
+Vopak Terminal Marmara Depolama 
+Hizmetleri AS
+United Kingdom
+Vopak Terminal London Limited B.V . 
+Vopak Terminal Purfleet Ltd.  
+Vopak Terminal Teesside Ltd.  
+Vopak Terminal Windmill Ltd. 
+Asia/Australia
+Australia
+Vopak Terminals Australia Pty Ltd. 
+Vopak Terminals Sydney Pty Ltd. 
+Vopak Terminal Darwin Pty Ltd.
+China
+Vopak China Management Company Ltd. 
+Vopak Terminal Zhangjiagang Ltd. 
+Vopak Terminal Shandong Lanshan (60%)1 
+India
+Vopak Terminals Kandla (CRL Terminals Pvt, Ltd.)
+Indonesia
+PT Vopak Terminal Merak (95%)
+Singapore
+Vopak Asia Pte. Ltd.  
+Vopak Terminals Singapore Pte. Ltd. (69.5%)2 
+Vopak Terminal Penjuru Pte. Ltd. (69.5%)3
+Vietnam
+Vopak Vietnam Co. Ltd.
+1 Vopak Terminal Penjuru Pte. Ltd. 60% ownership in Vopak Terminals Shandong Lanshan
+2 Vopak Holding Singapore Pte. Ltd. 69.5% ownership in Vopak Terminals Singapore Pte. Ltd.
+3 Vopak Terminals Singapore Pte Ltd. 100% ownership in Vopak Terminal Penjuru Pte. Ltd.
+Vopak   |   Sustainability Report 2013   | 68
+Other information   |   Subsidiaries and Joint Ventures
+
+Page 69:
+North America 
+Canada
+Vopak Terminals of Canada Inc.
+United States
+Vopak North America Inc. 
+Vopak Terminals North America Inc.  
+Vopak Terminal Deer Park Inc.  
+Vopak Terminal Galena Park Inc.  
+Vopak Terminal Savannah Inc.  
+Vopak Terminal Wilmington Inc.  
+Vopak Terminal Los Angeles Inc.  
+Vopak Terminal Long Beach Inc.  
+Vopak Terminal Perth Amboy LLC (87 .75%) 
+Latin America
+Brazil
+Vopak Brasil S.A. 
+VPK Partiçipacões e Serviçoes Portuários Ltda.
+Colombia
+Vopak Colombia S.A.
+Mexico
+Vopak Mexico SA de CV
+Panama
+Vopak Panama Atlantic Inc.
+Peru
+Vopak Peru S.A.
+Venezuela
+Vopak Venezuela S.A. 
+JOINT VENTURES
+Europe, Middle East & Africa
+Bahrain
+Vopak Zamil Holding W.L.L. (50%)
+Estonia
+AS Vopak E.O.S. (50%)
+The Netherlands
+Altamira LNG CV (60%) 
+Altamira LNG Management B.V . (60%) 
+Cross-Ocean C.V . (50%) 
+Cosco Container Lines (Netherlands) B.V . (50%) 
+Gate terminal B.V . (47 .5%) 
+Gate terminal Management B.V . (50%) 
+MultiCore CV (25%) 
+Vopak Terminal Eemshaven B.V . (50%) 
+Pakistan
+Engro Vopak Terminal Ltd. (50%)
+Spain
+Terminals Quimicos SA (Terquimsa) (50%)
+United Arab Emirates
+Vopak Horizon Fujairah Ltd. (33.33%)
+United Kingdom
+Morzine Limited (Thames Oilport) (33.33%)
+Asia
+China
+Vopak Terminal Ningbo Co. Ltd. (37 .5%)  
+Vopak Shanghai Logistics Company Ltd. (50%)  
+Vopak Nanjiang Petrochemicals Terminal Tianjin 
+Company Ltd. (50%) 
+Vopak Ethylene Terminal Tianjin Co. Ltd. (50%)  
+Vopak Bohai Petrochemicals (Tianjin) Terminal Co. 
+Ltd. (50%)  
+Tianjin Lingang Vopak Jetty Co. Ltd. (30%)  
+Vopak Terminal SDIC Yangpu Co. Ltd. (49%)  
+Vopak Sealink Terminal (Dongguan) Co. Ltd. (50%)  
+Dongguan Sealink Jetty Co. Ltd. (50%) 
+Indonesia
+PT Jakarta Tank Terminal (49%)
+Japan
+Nippon Vopak Co. Ltd. (40%)
+Korea
+Vopak Terminals Korea Ltd. (51%)
+69Vopak   |   Sustainability Report 2013   |
+Other information   |   Subsidiaries and Joint Ventures
+
+Page 70:
+Malaysia
+Kertih Terminals Sdn. Bhd. (30%)1  
+Pengerang Terminals Sdn. Bhd. (49%)2 
+Pengerang Independent Terminals Sdn. Bhd. (89.8%)3
+Thailand
+Thai Tank Terminal Ltd. (49%)
+Latin America
+Brazil
+Uniao-Vopak Armazens Gerais Limitada (50%)
+Mexico
+Terminal de Altamira de S. de R.L. de C.V . (60%) 
+TLA Servicios de R.L. de C.V . (60%)
+Panama
+Payerdi Terminal Company S. de R.L. (50%)
+1 Vopak Terminal Penjuru Pte. Ltd. 30% ownership in Kertih Terminals Sdn. Bhd.
+2 Vopak Terminal Pengerang B.V . 49% ownership in Pengerang Terminals Sdn. Bhd.
+3 Pengerang Terminals Sdn Bhd. 89.8% ownership in Pengerang Independent Terminals Sdn. Bhd.
+Vopak   |   Sustainability Report 2013   | 70
+Other information   |   Subsidiaries and Joint Ventures
+
+Page 71:
+Glossary
+Biofuels/Biodiesel 
+Products of vegetable origin or from animal fats 
+that are added to gasoline or diesel
+Brownfield 
+A project describing the expansion of storage 
+capacity at an existing terminal
+BTEX 
+Benzene Toluene & Xylenes (specific type of 
+groundwater and soil contaminations)
+Cbm  
+Cubic meter
+CDP  
+Carbon Disclosure Project
+CEO 
+Chief Executive Officer, the highest ranking 
+executive with the overall responsibility of the 
+organization
+CFO 
+Chief Financial Officer, member of the Executive 
+Board, specifically charged with Finance
+COO 
+Chief Operating Officer, member of the Executive 
+Board, specifically charged with Operations & 
+Technology
+Corporate Governance 
+The manner in which the company is managed and 
+the supervision of management is structured
+CRSA 
+Corporate Risk Self-Assessment
+CSR 
+Corporate Social Responsibility
+DJSI 
+Dow Jones Sustainability Index
+EMEA 
+Vopak division Europe, Middle East & Africa
+Greenfield 
+Building a new terminal on undeveloped land
+GRI 
+Global Reporting Initiative (for more information 
+visit www.globalreporting.org)
+HR 
+Human Resources
+Hub 
+Regional storage and transport centre
+ICT 
+Information and Communication Technology
+ILO 
+International Labour Organization
+IOCs 
+International Oil Companies
+ISO 
+International Organization for Standardization
+KPI 
+Key Performance Indicator
+LNG 
+Liquefied Natural Gas
+LPG 
+Liquefied Petroleum Gas
+LTIR 
+Lost Time Injury Rate; number of accidents 
+entailing absence from work per million hours 
+worked (of own personnel and contractors at 
+subsidiaries, joint ventures and associates)
+MJ  
+Megajoules
+NGO 
+Non-Governmental Organization
+NPS 
+Net Promoter Score; a method of measuring the 
+strength of customer loyalty for an organization
+NYSE 
+New Y ork Stock Exchange
+71Vopak   |   Sustainability Report 2013   |
+Other information   |   Glossary
+
+Page 72:
+OECD 
+Organisation for Economic Cooperation and 
+Development  
+SECA  
+Sulphur Emission Control Area
+SHE 
+Safety, Health and Environment
+THA 
+Terminal Health Assessment
+Throughput 
+Volume of a product handled by a terminal in a 
+given period, calculated as (in + out)/2
+TJ  
+Terrajoules
+TIR 
+Total Injury Rate; Total number of injuries per 
+million hours worked (own personnel and 
+contractors)
+UNESCO 
+United Nations Educational, Scientific and Cultural 
+Organization
+VBDO 
+Vereniging van Beleggers voor Duurzame 
+Ontwikkeling (Dutch Association of Investors for 
+Sustainable Development)
+Vopak   |   Sustainability Report 2013   | 72
+Other information   |   Glossary
+
+Page 73:
+Contact us
+Royal Vopak
+Global Communication & Investor Relations 
+Telephone: +31 (0)10 400 2911 
+Email: global.communication@vopak.com
+Visiting address
+Westerlaan 10 
+3016 CK Rotterdam 
+The Netherlands
+Postal address
+P .O. Box 863 
+3000 AW Rotterdam 
+The Netherlands
+Sustainability contact
+Willem van der Zon  
+Telephone: +31 (0)10 400 2561 
+Email: willem.van.der.zon@vopak.com
+Media contact
+Gerbert van Genderen Stort 
+Telephone: +31 (0)10 400 2786 
+Email: gerbert.stort@vopak.com
+Investor Relations contact
+Chiel Rietvelt 
+Telephone: +31 (0)10 400 2776 
+Email: chiel.rietvelt@vopak.com
+Royal Vopak global office (Netherlands)
+73Vopak   |   Sustainability Report 2013   |
+Other information   |   Contact us
+
+Page 74:
+Credits
+Royal Vopak
+Global Communication & Investor Relations 
+Telephone: +31 (0)10 400 2911 
+Email: global.communication@vopak.com
+Consultancy, concept and design
+DartGroup, Amsterdam
+T ext support
+Stampa, Amsterdam
+T echnical realization
+DartGroup, Amsterdam 
+Polder Knowledge, Rotterdam 
+Photography Executive Board members
+Fotografie Alexander, Almere 
+Vopak   |   Sustainability Report 2013   | 74
+Other information   |   Credits
+
+Page 75:
+Royal Vopak
+Westerlaan 10
+3016 CK Rotterdam
+P .O. Box 863
+3000 AW Rotterdam
+The Netherlands
+Telephone: +31 (0)10 400 2911
+Email: global.communication@vopak.com
+www.vopak.com
+•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•
+•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						• 
+•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•
+•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•
+•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•
+•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•
+•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•
+•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•						•
+

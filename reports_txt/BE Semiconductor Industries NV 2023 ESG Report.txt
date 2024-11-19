@@ -1,0 +1,3473 @@
+Page 1:
+Environmental, Social and Governance Report 2023 
+
+Page 2:
+2
+Environmental, Social and Governance Report
+This Environmental, Social and Governance ("ESG") Report provides an overview of Besi’s 
+ESG activities in 2023 including a discussion of the following topics: 
+• Overview
+• Materiality assessment 
+• Strategy 
+• Initiatives 
+• Governance 
+• Reporting framework 
+• Environmental impact 
+• People wellbeing 
+• Responsible business 
+A year of progress
+Besi has significantly increased its ESG activities and reporting since 2020 including the 
+development of various short- and long-term targets through 2050. Since 2019, we have 
+reduced Scope 1 & 2 emissions intensity by 65%, fuel consumption intensity by 46%, water 
+usage intensity by 34% and absolute hazardous waste generation by 27%. We also 
+increased our energy from renewable sources from 18% to 71%. We have also identified and 
+commenced work on 85 initiatives associated with our ESG pillars (Environmental Impact, 
+People Wellbeing and Responsible Business) many of which have lessened Besi’s ESG 
+impact. In fact, we equaled or exceeded substantially all targets for 2022 set in 2019 and 
+set new targets in 2022 for achievement in 2024 and 2030 using 2021 data as a baseline. In 
+addition, in 2023 we set an objective of reaching net zero greenhouse gas emissions in our 
+operations by 2030, incorporating Scope 1 & 2 emissions. 
+In general, we measure our ESG performance in terms of relative intensity targets given 
+the highly cyclical nature of our revenue development on a year to year or even multi-year 
+basis. Of note, Besi’s performance with respect to most relative intensity targets in 2023 
+was adversely affected by two important factors. The first related to the spike we 
+experienced in our electricity consumption, Scope 2 emissions and waste disposal in the 
+second and third quarters of 2023 associated with the construction of a new production 
+facility in Malaysia and the completion of two new cleanrooms in Malaysia and Singapore 
+to facilitate growth in Besi’s wafer level assembly operations. The second factor related 
+directly to the cyclical revenue volatility of the semiconductor assembly equipment market 
+in which we participate. This market experienced a significant downturn in demand starting 
+in the second quarter of 2022 and continued through year end 2023. As a result, Besi’s 
+revenue declined from a peak of € 749 million in 2021 to € 579 million in 2023. As a result of 
+both such factors, all relative intensity ratios and some performance metrics were 
+adversely affected this year versus 2022 actual results and 2024 targets. Relative intensity 
+ratios began to significantly improve in Q4-23 upon the substantial completion of such 
+projects and further migration to renewable energy in Asia. We are currently on track to 
+meet or exceed substantially all environmental targets established for 2024.
+Since 2019, Besi has significantly expanded the scale and scope of its initiatives and 
+reporting activities relative to leading external frameworks such as SASB, GRI, SDG, NFRD, 
+TCFD and the EU Taxonomy. We have also proactively responded to external questionnaires 
+such as CDP Climate Change and the S&P Global Corporate Sustainability Assessment, 
+with a focus on materiality, clarity and transparency. In 2020 and 2021, we identified 12 
+material topics most relevant to our business, established three material ESG pillars and 
+engaged in a four-stage materiality assessment. This framework was applied for our 2023 
+report. In addition, we conducted a Double Materiality Assessment as a precondition to 
+compliance in 2024 with Corporate Sustainability Reporting Directive (“CSRD”) 
+requirements, assessing the impact of Besi on people and the environment as well as the 
+environmental and social-related risks and opportunities to which we are exposed. The 
+results of the analysis will be used to further validate our current approach to ESG-related 
+topics, make any necessary adjustments to our ESG strategy and comply with the CSRD’s 
+European Sustainability Reporting Standards (“ESRS”) in 2024. We also published a formal 
+policy on our website this year which provides a strategic view of Besi’s management 
+activities across the ESG aspects of our business. In addition, Ernst & Young Accountants 
+LLP provided reasonable assurance on our materiality assessment and limited assurance 
+on the Environmental, Social and Governance Report included in this Annual Report. Their 
+assurance report is included in Other Information. 
+In addition, our ESG ratings with the major publicly recognized agencies such as 
+Sustainalytics, S&P Global, ISS ESG and MSCI improved significantly in 2023, further 
+underscoring Besi’s progress towards best practice metrics. More specifically, we achieved 
+a rating of “AA” in the updated 2023 MSCI ESG Ratings Assessment, up from “A” in 2022 and 
+“BBB” in 2021. Further, in November 2023, Besi’s ESG Risk Rating declined to 14.4 as per 
+Sustainalytics versus 17.8 in 2021 highlighting long-term trend improvement. We also were 
+selected for inclusion as a component of the AEX ESG Index in 2022. Such index identifies 
+the 25 companies within the combined AEX (large cap) and AMX (mid cap) indices 
+demonstrating best in class ESG practices as per criteria assessed by Sustainalytics.
+Further, progress continues to advance Besi’s sustainable product design as a core 
+component of our sustainable long-term value creation model. As such, we seek to design 
+leading edge assembly solutions with high levels of reliability, yield of defect free devices 
+and throughput with a lower total cost of ownership including efficiencies in energy and 
+material consumption. Toward this end, we developed an initiative named “Design-to-X” 
+this year as part of our strategic plan review which included input from our leading 
+customers and other stakeholders. This initiative combines Design-to-Cost and Design-
+to-Sustainability concepts to identify ESG improvement opportunities in all product 
+groups while reducing the cost of many mature die attach and packaging platforms. It is in 
+its early stages and builds upon the environmentally friendly product design enhancements 
+identified in a collaborative project with the University of Applied Sciences and Arts 
+(Lucerne, Switzerland) (“UASA”) over the past three years. The UASA collaboration led to 
+
+Page 3:
+3
+the creation of roadmaps with the potential to achieve absolute energy savings of 
+approximately 10% per die attach platform over the next five years. Such potential savings 
+are material as die attach revenue represented approximately 77% of Besi’s total revenue 
+in 2023. Growth in Besi’s installed base of hybrid bonding and other wafer level systems 
+also contributes to sustainable product design via an improvement in the overall 
+performance, speed, efficiency, cost and energy efficiency of such systems versus those 
+using leadframe and substrate assembly technologies. 
+In addition, we made considerable progress this year with employee and supplier 
+engagement with Besi’s ESG goals and objectives. Many of the defined goals, ambitions, 
+and activities we have promoted with such stakeholders since 2019 have been implemented 
+and well received by our organization. The results of our bi-annual Employee Engagement 
+survey conducted by Willis Towers Watson in 2023 further highlighted this progress. In 
+general, Besi scored above the high-tech norm in six of seven categories in this year’s 
+survey. Specifically, the survey had a high level of participation (94%) and engagement 
+(89%) by our employees. The engagement levels were five percentage points higher than 
+the sector’s benchmark. The survey results also indicated a high level of satisfaction with 
+our ESG credentials due to a high level of favorable responses to ESG category questions 
+(87%). This component scored four percentage points higher than the sector benchmark 
+and was our most improved category this year.
+Besi also saw increased supply chain participation with respect to ESG topics via an 
+enhanced Besi ESG survey. In this regard, we conducted vendor site visits and stakeholder 
+interviews and circulated questionnaires at their principal Asian production facilities to 
+ensure that our suppliers as well as temporary and contracted third-party workers adhered 
+to the standards outlined in Besi’s Supplier Code of Conduct. We also engaged with our 
+supply chain through an ESG briefing roadshow, training sessions and the sharing of ESG-
+related knowledge. In addition, Besi conducted an ESG assessment survey that focused on 
+Besi’s pillars of Environmental Impact, People Wellbeing and Responsible Business. Fifty-
+five suppliers were sent this assessment survey with a response received from forty-six 
+(84%), representing approximately 50% of our total purchasing volume. Such responses 
+were used to create a grading system of either Low Risk, Medium Risk or High Risk. Moving 
+forward, Besi will incorporate this ESG scorecard into its periodic audit for annual suppliers. 
+Finally, the percentage of purchasing volume which answered the RBA Code of Conduct 
+Self-Assessment increased from 62% in 2022 to 66% 2023 marking further progress in our 
+supply chain engagement with Besi’s ESG activities. 
+Materiality assessment
+In 2020, Besi’s management team identified 12 ESG topics most material to our business. 
+Such topics formed the basis of our ESG approach and foundation of three strategic pillars: 
+Environmental Impact, People Wellbeing and Responsible Business. In 2021, we conducted 
+a full assessment of the material topics identified in 2020 by engaging in a four-stage 
+materiality assessment involving an industry trend analysis (including consideration of 
+SASB standards for the semiconductor industry), peer group benchmarking, key investor 
+research and broader stakeholder outreach including employees, customers and suppliers. 
+The assessment served to substantiate Besi’s current strategy and understanding of 
+material topics with the collaboration of key stakeholder groups to validate their areas of 
+interest. In addition, the perspective of investors as a key stakeholder was captured in the 
+research phase and factored into the final assessment. The assessment highlighted a 
+variety of important themes that can have the most significant positive impact in the 
+near-term of which we prioritized four focus areas, (i) energy use and renewable energy, (ii) 
+sustainable design (iii) health and safety and (iv) diversity and inclusion. 
+Besi Austria employees participated in the Wings for Life World Run 2023.
+
+Page 4:
+4
+In 2023, Besi reviewed its 2021 materiality assessment and concluded that the material 
+topics identified were still valid. As a result, the same reporting framework was applied to 
+ESG reporting for 2023. Besi recognizes increased interest expressed by stakeholders to 
+report information as to their dependence on biodiversity and ecosystems. As a result, 
+these topics were included within our materiality assessment. We also began conducting 
+a Double Materiality Assessment in 2023 according to CSRD requirements as a precondition 
+to full compliance by year end 2024. Updated results of this assessment will be included in 
+Besi’s 2024 Annual Report. 
+Based on the aforementioned materiality assessment performed in 2021 and reviewed in 
+2023, the ranking of topics of importance per stakeholder group is listed below for each of 
+Besi’s three process pillars: Environmental Impact, People Wellbeing and Responsible 
+Business: 
+Material topics
+Strategic Pillars Employees Customers Suppliers 
+1. Environmental Impact
+ 
+1. Energy use and renewable energy
+2. Carbon emissions
+3. Sustainable design
+4. Waste and hazardous waste disposal
+5. Water use
+   Sustainable design 
+1.  Energy use and renewable energy  
+   Waste and hazardous waste disposal
+4. Carbon emissions
+5. Water use
+1. Waste and hazardous waste disposal
+2. Carbon emissions
+3. Energy use and renewable energy
+4. Sustainable design
+5. Water use
+2. People Wellbeing
+ 
+ 
+1. Employee health and safety
+2. Employee engagement
+3. Diversity and inclusion
+1. Employee health and safety
+2. Diversity and inclusion
+3. Employee engagement
+1. Employee health and safety
+2. Employee engagement
+3. Diversity and inclusion
+3. Responsible Business 1. Ethics and compliance
+2. Responsible supply chain
+3. Community impact
+4. Tax practices
+1. Ethics and compliance
+2. Responsible supply chain
+3. Tax practices
+4. Community impact
+1. Ethics and compliance
+2. Responsible supply chain
+3. Community impact
+4. Tax practices
+
+Page 5:
+5
+Strategic pillars Material topics 2024 targets* 2030 targets* Relevant
+SDGs
+Energy use and 
+renewable energy
+15%
+Reduction in 
+fuel consumption
+11%
+Increase in electricity
+75%
+Renewable energy 
+globally
+25%
+Reduction in 
+fuel consumption
+25%
+Increase in 
+electricity
+100%
+Renewable 
+energy globally
+Carbon emissions 62%
+Reduction in 
+Scope 1 & 2 carbon 
+emissions
+12% 
+Reduction in Scope 3 
+carbon emissions
+Net zero 
+Scope 1 & 2 emissions
+20%
+Reduction in 
+Scope 3 carbon 
+emissions
+Waste and hazardous 
+waste disposal
+15%
+Reduction in 
+total waste
+20%
+Reduction in 
+hazardous waste
+18%
+Reduction in 
+total waste
+20%
+Reduction in 
+hazardous waste
+Water use 2%
+Reduction in water 
+consumption
+5%
+Reduction in water 
+consumption
+Sustainable design Develop priority targets for sustainable system design Achieve priority targets for sustainable system design
+Diversity 
+and inclusion
+Increase % female 
+employees in
+workforce to
+>–19% 
+Increase % female 
+employees in
+management to
+>–21% 
+Maintain % local 
+nationals in 
+management
+>–86% 
+Increase % female 
+employees in 
+workforce to
+>–20%  
+Increase % female 
+employees in 
+management to
+>–23% 
+Maintain % local 
+nationals in 
+management
+>–86% 
+Employee health 
+and safety  Safety incident record of 0
+Employee 
+engagement and 
+career development 
+ 
+Maintain employee 
+engagement
+>–85%
+Remain above 
+high-tech benchmark
+Increase investment in 
+employee training to
+>–21 
+working hours per 
+employee per year
+Maintain employee 
+engagement
+>–85% 
+Remain above 
+high-tech benchmark
+Increase investment 
+in employee training to
+>–21 
+working hours per 
+employee per year
+Ethics and 
+compliance Whistleblower procedure in place. Prompt response to violations by Besi senior management
+Responsible 
+supply chain
+70% 
+Purchasing 
+Volume (“PV”) 
+audited
+75% 
+PV to sign Self 
+Assessment 
+Questionnaire 
+in our Code of 
+Conduct
+77% 
+PV to sign 
+General Work 
+Agreement 
+or General 
+Procurement 
+Contract
+73% 
+PV to sign 
+Conflict-Free 
+Sourcing 
+Initiative
+75% 
+PV audited
+85% 
+PV to sign Self 
+Assessment 
+Questionnaire 
+in our Code of 
+Conduct
+85% 
+PV to sign 
+General Work 
+Agreement 
+or General 
+Procurement 
+Contract
+80% 
+PV to sign 
+Conflict-Free 
+Sourcing 
+Initiative
+Community impact Report on Besi hours volunteered, monetary donations and education projects supported
+Tax practices Comprehensive compliance with tax obligations where factual economic activities take place
+People
+Wellbeing
+Responsible
+Business
+Environmental
+Impact
+Priority focus area
+*  All targets are based on estimated reductions relative to 2021 baseline levels.
+
+Page 6:
+6
+ESG Strategy
+Within our three strategic pillars, Besi’s ESG strategy has identified twelve material topics 
+and formalized a range of short and long-term targets against which we have committed 
+to report. Besi follows the objectives of the UN Sustainable Development Goals (“SDGs”) in 
+such reporting whose 17 interlinked goals are designed to be a blueprint for achievement 
+by 2030 of a better and more sustainable future. SDG objectives help inform our thinking 
+and approach to sustainable business growth. We have aligned the SDGs to which we can 
+make the greatest contribution with our strategic pillars. 
+ESG initiatives
+Since 2020, we increased the number of Besi’s ESG initiatives from 75 to 85 at year end 
+2023 (up 13%). Of the total initiatives identified, 65 have been completed and 20 are  
+ongoing or scheduled to be implemented over the next few years. The charts below indicate 
+the distribution of ESG initiatives per major pillar and Besi’s progress against such 
+initiatives. 
+ESG topics and initiatives are widely supported by Besi employees at all levels of the 
+organization including management, development personnel and production staff. 
+20
+13
+65
+21 51
+Completed initiatives 
+Planned + ongoing initiatives 
+Environmental impact 
+People wellbeing
+Responsible business
+Initiatives implemented during 2023 include:
+Environmental Impact:
+• All business units
+• Inception of Design-to-X initiative to incorporate Design-to-Cost and Design-to-
+Sustainability concepts in product design and development. 
+• Besi APac
+• Reduced shipments from Besi Netherlands to Besi APac to once a week versus twice 
+a week.
+• Purchase of renewable electricity at new Glenmarie, Malaysia site.
+• Besi Netherlands
+• Increased lighting energy efficiency at our Meco facility.
+• Installation of smart meters at Meco facility to improve energy management.
+• Completion of wastewater treatment project with Copernicus Institute, Utrecht, the 
+Netherlands, to measure ecological footprint of Besi’s plating systems.
+• Reduction of paper waste through sustainable procurement initiative with 70% of 
+total waste now recycled at this site.
+• Besi Austria
+• Expansion of existing solar PV system to reduce energy consumption.
+• Installation of groundwater heat pump to replace gas usage.
+• Besi Switzerland
+• Implementation of joint project with UASA Switzerland, which identified potential 
+energy savings for die attach platforms of approximately 10%.
+• Expansion of LED lighting system.
+• Besi Leshan 
+• Installation of centrifuge to reduce water consumption via recycling.
+• Purchase of EV vehicles to replace ICE vehicles.
+• Installed EV charging points for corporate and employee use. 
+People Wellbeing
+• Six of seven Besi operations are now ISO 45001 compliant. Besi Leshan received external 
+validation in 2023.
+• Active engagement in diversity-related recruitment programs.
+• Bi-annual employee engagement survey:
+• Survey indicated that employees feel safe in their current physical working environment, 
+there is effective collaboration between departments to meet customer needs and  
+a strong feeling of trust exists between team members.
+• Employees also had a strong understanding and motivation to contribute to Besi’s 
+business and ESG objectives. 
+• Results will be used to improve areas in which we under-performed. 
+
+Page 7:
+7
+Responsible Business
+• Conducted ESG assessment survey with suppliers focused on Environmental Impact, 
+People Wellbeing and Responsible Business pillars. 
+• Fifty-five suppliers were engaged with a response rate of 84% representing approximately 
+50% of total purchasing volume.
+• Continued annual third-party external supplier audits for all significant production and 
+development facilities with respect to their ISO 9001, ISO 14001, ISO 45001 and RBA 
+capabilities. 
+• Supported activities and charities in our local communities, particularly in Malaysia, 
+China, Switzerland, the Netherlands and Austria.
+ESG topics and initiatives are widely supported by Besi employees at all levels of the 
+organization including management, development personnel and production staff. 
+ESG governance
+Besi’s ESG focus and strategic initiatives are integrated into its operations. The Board of 
+Management is responsible for setting our ESG strategy and targets as well as its 
+implementation and execution. The Supervisory Board has oversight responsibility for 
+Besi’s ESG strategy. In addition, ESG issues are assessed monthly by the management 
+team including resource allocation and capital investment. 
+As such, Besi’s ESG governance and approach is fully aligned with its hierarchal structure. 
+SVPs and facility management monitor and track progress against ESG-related goals. 
+Progress is then reported to the Board of Management and discussed in detail at Besi’s 
+monthly management meeting. Incentives for all such employees are aligned with 
+performance against certain specific ESG targets which forms a portion of their variable 
+compensation. The Supervisory Board is updated by the Board of Management as to Besi’s 
+progress on a quarterly basis. 
+All of Besi’s production sites have environmental, health and safety (“EHS”) officers and 
+committees and a health and safety management structure. These committees have 
+representatives from each department responsible for the inspection, enforcement and 
+promotion of EHS matters in the workplace. EHS inspections are conducted quarterly to 
+identify and address any unsafe acts and conditions which may exist. Employees also 
+regularly receive EHS training. In addition, we have implemented externally certified ISO 
+9001 and ISO 14001 management systems to manage quality and environmental topics as 
+well as health and safety topics in our operations. Six of seven Besi product operations 
+have received ISO 45001 certificates of approval for their occupational health and safety 
+management systems with all expected to have received such certification by the end of 
+2024. 
+ESG reporting framework 
+Reporting scope 
+The data in this ESG report covers all entities that belong to the scope of the Consolidated 
+Financial Statements (see Note 2 to the Consolidated Financial Statements, section 
+"Principles of consolidation") excluding the following “Environmental Impact” data: 
+• Energy data for four and water data for seven sales and service offices due to their 
+immaterial significance.
+• Energy, emission, water and waste-related data for our operations in Vietnam due to 
+their immaterial significance this year.
+Besi is continuously enhancing its ESG methodology and data collection so as to identify 
+all material impacts for inclusion in the ESG report. For example, our Scope 3 CO₂ emissions 
+from inbound freight at our Dutch plating research and development site were added in 
+2023. Comparable numbers for prior years were not adjusted due to a lack of available data.
+External reporting frameworks 
+As part of our expanded reporting activities, we have analyzed appropriate external 
+frameworks to enhance and broaden Besi’s ESG strategy. We have aligned our reporting 
+principles with them as much as possible to ensure that Besi’s reporting is appropriately 
+aligned with its business and operations.
+Besi has prepared the sustainability information in this Annual Report with reference to 
+the GRI universal standards for the 1. Foundation, 2. General disclosures and 3. Material 
+topics including the reporting principles as included in chapter 4 of GRI 1. Foundation.  
+We refer to Annex 2 of our 2023 ESG report for our GRI content index 2023 available at 
+www.besi.com. 
+In addition, the Sustainability Accounting Standards Board (“SASB”) published 77 industry 
+standards to enable business to communicate material sustainability information to their 
+investors. We believe that the semiconductor industry-specific standards and metrics 
+provided by the SASB¹ are appropriate for a company of Besi’s business and size. When 
+material topics are not covered by SASB, we apply topic specific disclosures from the 
+Global Reporting Initiative (“GRI”) and/or our own developed criteria whenever possible.  
+A majority of the requisite information for GRI compliance is available and presented on 
+our website including a list of the key topics, metrics and disclosures necessary for 
+compliance with SASB as well as a list of material topics with their respective reporting 
+criteria (Annex 1 of our 2023 ESG Report). In addition, we intend to assess the applicability 
+of other frameworks such as the IFRS Sustainability Disclosure Standards of the 
+International Sustainability Standards Board (“ISSB”) and the Taskforce for Nature-related 
+Financial Disclosures (“TNFD”). 
+1  The SASB Standards became a resource of the IFRS Foundation as of August 1, 2022, upon consolidation of the Value 
+Reporting Foundation (which housed the SASB Standards and the Integrated Reporting Framework) into the IFRS 
+Foundation.
+
+Page 8:
+8
+The CSRD is effective for Besi as of January 1, 2024. As such, we will be required to report 
+in accordance with the European Sustainability Reporting Standards (ESRS) in Besi’s 2024 
+Annual Report (published in 2025). In 2023, Besi initiated its CSRD compliance activities, 
+implementing various actions to ensure readiness on a timely basis. For instance, we 
+started to assess material topics by means of a ‘double materiality assessment’ according 
+to ESRS requirements. During 2024, we will conduct a gap assessment against the final 
+standards and develop an implementation roadmap to ensure compliance. 
+Additionally, we published both a new ESG policy and a Diversity and Inclusion policy which 
+can be found on our website. The ESG policy aims to address the material topics involved 
+in our business in alignment with our long-term value creation strategy for stakeholders 
+while conducting our business in a sustainable way, respecting both the environment and 
+society. The Diversity and Inclusion policy outlines what diversity and inclusion means to 
+Besi, our goals and what we are doing to promote a diverse and inclusive business culture. 
+Such policies will be updated following completion of our Double Materiality Assessment 
+and gap analysis versus ESRS standards.
+EU Taxonomy 
+The EU Taxonomy Regulation (EU 2020/852) (“EU Taxonomy”) is a green classification 
+system that determines which economic activities can be considered environmentally 
+sustainable under the EU framework. It helps companies, investors, and other stakeholders 
+identify and invest in activities that contribute to sustainable objectives.
+The EU Taxonomy establishes six environmental objectives, each supported by subsequent 
+delegated acts that define related activities and determine technical screening criteria 
+(“TSC”): 
+• Climate change mitigation (“CCM”).
+• Climate change adaptation (“CCA”).
+• Sustainable use and protection of water and marine resources (“WTR”).
+• Transition to a circular economy (“CE”).
+• Pollution prevention and control (“PPC”).
+• Protection and restoration of biodiversity and ecosystems (“BIO”).
+The EU Taxonomy requires that any undertaking which is subject to Directive 2013/34/EU 
+report on its alignment with the EU Taxonomy’s objectives².  The relevant Key Performance 
+Indicators (“KPIs”) for eligibility and alignment are reported as the proportion of turnover, 
+capital expenditure (“CapEx”) and operating expenses (“OpEx”). In 2022, the required 
+disclosure was limited to eligibility and alignment assessment for CCM and CCA activities. 
+Starting in 2023, the disclosure requirement has been expanded to also include the 
+eligibility of activities for the remaining four objectives. 
+BESI’S ESG RATING TRENDS
+ESG Rating Agent 2021 
+Score
+2022 
+Score
+2023 
+Score
+Current  
+Ranking
+‘BBB’ ‘A’ ‘AA’
+Second highest 
+possible MSCI ESG 
+rating
+17.8 15.6 14.4
+12th out of 342 
+semiconductor 
+related companies
+C- C- C
+Top 10% of  
+industry
+39 47 50
+Above industry 
+average (score 21)  
+Besi’s accounting principles for determining turnover, capital expenditures and operating 
+expenses under the EU Taxonomy are aligned with the accounting principles included in 
+Note 2 to the Consolidated Financial Statements. Operating expenses as per the EU 
+Taxonomy have a different definition and are included as a subset of the operating 
+expenses reported in the Consolidated Financial Statements.
+Circular economy
+This year, Besi extended the scope of the EU Taxonomy assessment to the activities 
+outlined in the Environmental Delegated Act that came into force in June 2023. Besi has 
+identified the following revenue streams and associated economic activities under the 
+Circular Economy objective:
+• Manufacture of electrical and electronic equipment (CE 1.2), associated with Besi’s core 
+activity of manufacturing semiconductor assembly equipment.
+• Repair, refurbishment, and remanufacturing (CE 5.1), associated with the extended 
+warranty service on the machines purchased from Besi in the past. 
+The proportion of the EU Taxonomy eligible revenue is determined as the part of the net 
+turnover derived from our products and services associated with CE 1.2 “Manufacture of 
+electrical and electronic equipment” and CE 5.2 “Repair, refurbishment and 
+remanufacturing”, divided by the net turnover. In addition, Besi derives a portion of its 
+revenue from the sale of spare parts. However, in the absence of more granular financial 
+reporting information, Besi is unable to distinguish between spare parts and wear and tear 
+²  The EU Taxonomy Regulation (EU) 2020/852 as supplemented with Commission Delegated Regulation (EU) 2021/2139, 
+Commission Delegated Regulation (EU) 2021/2178, Commission Delegated Regulation (EU) 2023/2485 and Commission 
+Delegated Regulation (EU) 2023/2486.
+
+Page 9:
+9
+components (referred to as consumables), a distinction explicitly outlined in the description 
+of economic activity “Sale of spare parts (CE 5.2)”. As a result, Besi has opted for a more 
+conservative approach by not reporting eligibility for this revenue stream. This category 
+will be further examined in the future.
+Besi concluded that a portion of the CapEx associated with manufacturing equipment is 
+essential to its revenue-generating activities. As a result, the investments associated 
+with Besi’s R&D are classified under the activity “Manufacture of electrical and electronic 
+equipment (CE 1.2)”. The denominator for the CapEx KPI includes additions to tangible and 
+intangible assets during the financial year.
+Besi further concluded that a portion of the OpEx associated with the non-capitalized R&D 
+costs is related with its core activity of manufacturing semiconductor assembly equipment. 
+As a result, these OpEx are classified under the activity “Manufacture of electrical and 
+electronic equipment (CE 1.2)”. Total OpEx in the scope of the EU Taxonomy are determined 
+based on the non-capitalized costs associated with R&D, building renovation, short-term 
+leases, maintenance and repair activities and any other direct expenditures related to the 
+day-to-day servicing of property, plant and equipment. 
+The Environmental Delegated Act only mandates the disclosure of eligible amounts under its 
+specified objectives for 2023. Reporting on alignment is required in 2024. Besi has proactively 
+conducted a preliminary alignment assessment of activities pursuant to the Circular Economy 
+objective, as a substantial portion of Besi's revenue falls within the scope of these activities. 
+However, it is unlikely that Besi will report high levels of alignment next year in the absence 
+of EU Ecolabels for machines manufactured by Besi and the extensive substantial contribution 
+and Do Not Significant Harm (“DNSH”) criteria required for the activity pursuant to CE 1.2.
+Climate change mitigation
+In 2023, Besi made investments to modernize its energy generation system at its site in 
+Austria by installing heat pumps and solar panels. As a result, Besi allocated related CapEx 
+to the activities outlined under the category “Installation, maintenance and repair of 
+renewable energy technologies (CCM 7.6)”. 
+To evaluate the alignment of its investments as per CCM 7.6, Besi conducted a detailed 
+examination of Technical Screening Criteria. Besi is taking a conservative approach with 
+regard to reporting alignment to CCM 7.6 due to insufficient evidence pertaining to the 
+DNSH criteria for CCA, although the investments in both heat pumps and solar panels 
+meet the substantial contribution criteria. In particular, the DNSH requires a comprehensive 
+physical climate risk assessment for sites hosting renewable energy installations. We 
+believe the granularity of the climate risk assessment performed by Besi in 2022 under the 
+Task Force on Climate-related Financial Disclosures (“TCFD”)  falls below the expectations 
+set forth in the EU Taxonomy framework. As such, Besi intends to revisit the assessment 
+in 2024 to ensure that potential future investments align with the criteria.
+Key Performance Indicators
+In the aggregate, 82% of Turnover was eligible under CE objectives, 66% of CapEx were 
+eligible under CCM and CE objectives, and 51% of OpEx were eligible under CE objectives. In 
+2024, Besi will continue to assess revenue, capital expenditures and operating expenses 
+for eligibility and alignment in accordance with the EU Taxonomy.
+International Women’s Day, Besi Singapore.
+
+Page 10:
+10
+Turnover
+Financial year N 2023 Substantial Contribution Criteria DNHS criteria
+Economic Activities (1)
+mEUR % Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y/N Y/N Y/N Y/N Y/N Y/N Y/N % E T
+A. TAXONOMY-ELIGIBLE ACTIVITIES                    
+A.1.  Environmentally sustainable 
+activities (Taxonomy-aligned)
+                   
+n/a                    
+Turnover of environmentally 
+sustainable activities (Taxonomy-
+aligned) (A.1)
+ – 0%               0%   
+of which Enabling   0%               0% E  
+of which Transitional   0%               0%  T
+A.2  Taxonomy-eligible but not 
+environmentally sustainable (not 
+Taxonomy-aligned activities)
+                   
+    EL; 
+N/EL
+EL; 
+N/EL
+EL; 
+N/EL
+EL; 
+N/EL
+EL; 
+N/EL
+EL; 
+N/EL
+          
+Manufacturing of electric and 
+electronical equipment
+ CE 1.2 472.2 82% N/EL N/EL N/EL N/EL EL N/EL        n/a   
+Repair, refurbishment, and 
+remanufacturing
+ CE 5.1 2.5 0% N/EL N/EL N/EL N/EL EL N/EL        n/a   
+                    
+Turnover of Taxonomy-eligible but not 
+environmentally sustainable activities 
+(not Taxonomy-aligned activities) (A.2)
+ 474.7 82%             0%   
+A.  Turnover of Taxonomy-eligible 
+activities (A.1+A.2)
+ 474.7 82%             0%   
+B.  TAXONOMY-NON-ELIGIBLE 
+ACTIVITIES
+   
+Turnover of Taxonomy-non-eligible 
+activities
+ 104.2 18%
+Total  578.9 100%
+Code (2)
+Turnover (3)
+Proportion of Turnover,  
+year N (4)
+Climate Change  
+Mitigation (5)
+Climate Change  
+Adaptation (6)
+Water (7)
+Pollution (8)
+Circular Economy (9)
+Biodiversity (10)
+Climate Change  
+Mitigation (11)
+Climate Change  
+Adaptation (12)
+Water (13)
+Pollution (14)
+Circular Economy (15)
+Biodiversity (16)
+Minimum Safeguards
+Proportion of Taxonomy-
+aligned (A.1) or eligible (A.2) 
+Turnover, year N-1 (18)
+Category enabling  
+activity (19)
+Category transitional 
+activity (20)
+
+Page 11:
+11
+CapEx
+Financial year N 2023 Substantial Contribution Criteria DNHS criteria
+Economic Activities (1)
+mEUR % Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y/N Y/N Y/N Y/N Y/N Y/N Y/N % E T
+A. TAXONOMY-ELIGIBLE ACTIVITIES                    
+A.1.  Environmentally sustainable 
+activities (Taxonomy-aligned)
+                  
+n/a                    
+CapEx of environmentally sustainable 
+activities (Taxonomy-aligned)
+           –  0%               0%   
+of which Enabling   0%               0% E  
+of which Transitional   0%               0%  T
+A.2  Taxonomy-eligible but not 
+environmentally sustainable (not 
+Taxonomy-aligned activities)
+                   
+    EL; 
+N/EL
+EL; 
+N/EL
+EL; 
+N/EL
+EL; 
+N/EL
+EL; 
+N/EL
+EL; 
+N/EL
+          
+Installation, maintenance and repairs 
+or renewable energy technology
+CCM 
+7.6
+0.4 1% EL N/EL N/EL N/EL N/EL N/EL         n/a   
+Manufacturing of electric and 
+electronical equipment
+CE 1.2 21.1 65% N/EL N/EL N/EL N/EL EL N/EL        n/a   
+                    
+CapEx of Taxonomy-eligible but not 
+environmentally sustainable activities 
+(not Taxonomy-aligned activities) (A.2)
+ 21.5 66%         0%   
+A.  CapEx of Taxonomy-eligible 
+activities (A.1+A.2)
+ 21.5 66%          0%   
+B. TAXONOMY-NON-ELIGIBLE 
+ACTIVITIES
+   
+CapEx of Taxonomy-non-eligible 
+activities
+ 10.9 34%
+Total  32.4 100%
+Code (2)
+CapEx (3)
+Proportion of CapEx,  
+year N (4)
+Climate Change  
+Mitigation (5)
+Climate Change  
+Adaptation (6)
+Water (7)
+Pollution (8)
+Circular Economy (9)
+Biodiversity (10)
+Climate Change  
+Mitigation (11)
+Climate Change  
+Adaptation (12)
+Water (13)
+Pollution (14)
+Circular Economy (15)
+Biodiversity (16)
+Minimum Safeguards
+Proportion of Taxonomy-
+aligned (A.1) or eligible (A.2) 
+CapEx, year N-1 (18)
+Category enabling  
+activity (19)
+Category transitional 
+activity (20)
+
+Page 12:
+12
+OpEx
+Financial year N 2023 Substantial Contribution Criteria DNHS criteria
+Economic Activities (1)
+mEUR % Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y; N; 
+N/EL
+Y/N Y/N Y/N Y/N Y/N Y/N Y/N % E T
+A. TAXONOMY-ELIGIBLE ACTIVITIES                    
+A.1.  Environmentally sustainable 
+activities (Taxonomy-aligned)
+                   
+n/a                    
+OpEx of environmentally sustainable 
+activities (Taxonomy-aligned)
+ – 0%               0%   
+of which Enabling   0%               0% E  
+of which Transitional   0%               0%  T
+A.2  Taxonomy-eligible but not 
+environmentally sustainable (not 
+Taxonomy-aligned activities)
+                   
+    EL; 
+N/EL
+EL; 
+N/EL
+EL; 
+N/EL
+EL; 
+N/EL
+EL; 
+N/EL
+EL; 
+N/EL
+          
+Manufacturing of electric and 
+electronical equipment
+ CE 1.2 19.2 51%  N/EL N/EL N/EL N/EL EL N/EL         n/a   
+                    
+OpEx of Taxonomy-eligible but not 
+environmentally sustainable activities 
+(not Taxonomy-aligned activities) (A.2)
+ 19.2 51%             0%   
+A.  OpEx of Taxonomy-eligible 
+activities (A.1+A.2)
+ 19.2 51%              0%   
+B.  TAXONOMY-NON-ELIGIBLE 
+ACTIVITIES
+ 
+OpEx of Taxonomy-non-eligible 
+activities
+ 18.5 49%
+Total  37.7 100%
+Code (2)
+OpEx (3)
+Proportion of OpEx,  
+year N (4)
+Climate Change  
+Mitigation (5)
+Climate Change  
+Adaptation (6)
+Water (7)
+Pollution (8)
+Circular Economy (9)
+Biodiversity (10)
+Climate Change  
+Mitigation (11)
+Climate Change  
+Adaptation (12)
+Water (13)
+Pollution (14)
+Circular Economy (15)
+Biodiversity (16)
+Minimum Safeguards
+Proportion of Taxonomy-
+aligned (A.1) or eligible (A.2) 
+OpEx, year N-1 (18)
+Category enabling  
+activity (19)
+Category transitional 
+activity (20)
+
+Page 13:
+13
+ 
+Green activity by our customers
+We deliver systems which can potentially be used by our customers for a variety of 
+environmentally friendly applications as set forth in the following table: 
+Potential green activity  
+by our customers
+Application Contribution by Besi
+Power transmission Electrical 
+vehicles
+• Our new equipment generations are used in the fabrication of advanced power packages for automotive and industrial applications 
+enabling more efficient power conversion and reduced power dissipation. 
+Communication 5G cellular 
+networks
+• Our advanced SiP technologies allow for faster, more secure, more efficient and higher bandwidth transmission and reception in 5G 
+advanced cellular networks.
+More efficient high-end 
+computing
+Data centers
+Mobile 
+Phones
+Edge/AI 
+Phones
+Gaming
+Autonomous 
+driving
+• Our next generation die bonding systems allow for ever greater contact density per chip or SiP. As such, they require less power usage and 
+heat dissipation for data transfer and provide a reduction of overall power usage per bit for both data center and autonomous driving 
+applications. 
+• The progress achieved by our hybrid bonding development has also led to significant improvements relative to the energy efficiency, 
+material consumption and reduced heat dissipation realized by our end-customers versus substrate and leadframe assembly.
+• Our system development for the assembly of integrated photonics and co-packaged optics can reduce power consumption in data centers.
+Less waste General • We continuously optimize our systems for reduced material consumption during customer operation in the areas of epoxy and molding 
+compounds as well as the conversion to water-based chemicals in our plating process technologies as a means of reducing waste. 
+• Our wafer level systems also facilitate the usage of chiplets in device architectures which also can significantly reduce material 
+consumption.
+• We increase the throughput and yield and reduce the waste generation of our systems during customer operation by shortening learning 
+curves and reducing operator interaction. 
+Circular economy General • We offer upgrades, retrofits and conversion kits to customers to extend the useful lives of our systems. 
+• Some of our equipment has been running at customer sites for more than ten years. 
+• Some customers sell our equipment to third parties in the secondary market further extending the useful lives of our systems. 
+• We reduce the energy consumption of our systems with comparable output by optimizing process cycles and component selection. 
+• We work with scientific institutes to further optimize our systems’ material and energy usage and increase their recycling potential. 
+• We reduce transport-based emissions via local manufacturing and the usage of alternative freight methods. 
+• We re-use packaging in our operations to reduce waste and enhance sustainability.
+
+Page 14:
+14
+TCFD 
+Besi recognizes the adverse effects caused by the emerging climate change crisis and 
+carefully monitors the impact of climate change on our operations. In addition, we 
+recognize increasing interest from customers and investors on climate topics and support 
+the activities of the Taskforce on Climate-Related Financial Disclosures (“TCFD”). Our 
+objective is to comply with its recommendations to provide greater transparency in the 
+reporting of climate-related risks and opportunities. Additionally, we have used TCFD’s 
+guidance and conducted a climate change risk assessment using various scenarios to 
+inform the development of Besi’s climate strategy. 
+Besi has made certain climate-related disclosures versus TCFD recommendations as part 
+of this Annual Report. An overview of all TCFD topics and relevant disclosures including the 
+climate-related scenario analysis used for compliance with TCFD, are available in Besi’s 
+ESG Report that can be found at www.besi.com. 
+Our key stakeholders 
+Besi regularly engages with stakeholders to identify business and performance 
+opportunities, issues and risks in order to better assess its long-term sustainable value 
+creation model. Insights are gathered through a variety of channels including dialogue 
+with investors and customers, management reviews, employee surveys and internal and 
+external audits. We listen to our stakeholders, strive to be as responsive as possible and 
+to exceed their expectations. 
+We identify key stakeholders according to Besi’s impact on their interests as well as their 
+ability to influence our strategy and objectives. Our key stakeholders include shareholders, 
+suppliers, customers, employees, local communities, society and local governments. 
+Stakeholder group Why we engage How we engage
+Shareholders • Shareholders expect Besi to protect their investment and 
+provide a competitive return on capital while operating 
+responsibly as a corporate citizen. 
+• Both existing and new investors have shown increased 
+interest in ESG and have specific ESG criteria with which to 
+evaluate Besi’s performance. 
+• Shareholders are engaged through an active investor relations program including quarterly and 
+annual conference calls, roadshows, conferences, analyst presentations and Besi’s Annual 
+General Meeting (“AGM”).
+• We maintain close contact with investors in Europe, North America and Asia. 
+• We conduct regular meetings with investment professionals and encourage them to ask 
+questions during our earnings calls, meetings, conferences and at our AGM. 
+• We engage in important face-to-face dialogue and receive valuable feedback about our business 
+and ESG topics. 
+• We posted a formal ESG policy on our website to better inform shareholders and analysts as to 
+Besi’s material topics and activities.
+Suppliers • Maintaining a responsible supply chain is an important part 
+of our Responsible Business pillar. 
+• A high quality, flexible and scalable supply chain is critical to 
+satisfying customer needs in a cyclical business and to the 
+long-term success of our business. 
+• We seek to build long-term, mutually beneficial relationships 
+with our suppliers. 
+• We are expanding our efforts to ensure that all suppliers can 
+match Besi’s own environmental and ethical standards. 
+• We engage with suppliers through direct dialogue, site visits and audits. 
+• We perform annual third-party external audits for all significant production and development 
+facilities with respect to supplier ISO 9001, ISO 14001, ISO 45001, and RBA capabilities. 
+• We work together with suppliers to lower our joint environmental footprint, create sustainable 
+products and supply chains and assess and mitigate social, health, safety and ethical risks.
+• In 2023, we conducted an ESG roadshow and provided training sessions for key suppliers to 
+increase their ESG-related knowledge. We also asked 55 material suppliers to respond to an 
+ESG assessment survey to which 84% responded.
+• We have begun engagement with suppliers as to the origin of their imported steel and iron 
+supplies due to new EU restrictions.
+
+Page 15:
+15
+Stakeholder group Why we engage How we engage
+Customers • Building strong relationships is important to attract 
+customers and to our revenue growth. 
+• Providing superior customer support is critical to maintaining 
+strong relationships. 
+• Besi’s customers increasingly seek products that are 
+sustainable, environmentally friendly and ethically produced. 
+• Our ESG strategy is formulated with sustainable design as a 
+key component. 
+• Customer satisfaction is an important measure to gauge customer fulfilment. 
+• We have a very experienced team of 268 sales and service people globally which maintain 
+customer relationships and engage key customers on topics such as device roadmaps, assembly 
+equipment requirements and future market trends. 
+• We conduct annual customer satisfaction surveys to assess existing relationships and identify 
+areas for improvement. 
+• Customer satisfaction scores have increased over the past five years. In 2023, customers were 
+particularly satisfied with the reliability, durability and performance of Besi’s systems. 
+• We engage with customers to ensure that our products meet their environmental and social 
+standards.
+• We conduct sustainable design training on a regular basis in both Austria and Switzerland to 
+help engineers promote sustainable design in next generation product development. 
+Employees • Besi considers satisfied and engaged employees as a key 
+ingredient for its successful growth. 
+• Employees expect Besi to have high social and ethical 
+standards in the conduct of its business. 
+• Employees also expect us to provide them with equal 
+treatment and opportunities, safe working conditions and 
+career development potential.
+• Our ESG performance and engagement will become 
+increasingly important in attracting and retaining talent. 
+• We promote an atmosphere of open dialogue between managers and employees. During 
+performance appraisals, both employees and managers are encouraged to voice their concerns 
+in a collegial exchange. 
+• Employee interests are also communicated in a more institutional way via local European Works 
+Council representations. 
+• We conduct Town Hall meetings for all employees on a quarterly basis to inform them as to 
+current business and financial developments. 
+• We have launched ESG resource pages in certain locations to educate and engage our employees 
+about Besi’s ESG strategy and progress.
+• We conduct bi-annual employee engagement surveys. Our most recent 2023 survey reported a 
+high level of participation (94%) and engagement (89%). 
+Local communities, 
+governments and 
+society
+• Besi relies on the health, wellbeing and stability of local 
+communities in the regions where we operate. 
+• We aim to have a positive impact on communities through 
+good corporate and employee conduct. 
+• Society expects Besi to respect national and international 
+laws and regulations, positively impact local communities 
+and provide transparency on economic, environmental and 
+social topics.
+• Besi invests in many community projects, particularly in Asia. 
+• Senior managers review any concerns raised by local communities. They try to communicate any 
+issues which may arise to all stakeholders as well as best practices for successful resolution. 
+• We abide by appropriate social, ethical and environmental standards in our operations. 
+• We meet or exceed minimum legal and regulatory compliance levels. 
+• We engage in responsible tax practices. 
+• We pay our fair share of taxation in all jurisdictions in which we have operations.
+• Local governments expect compliance with local laws, regulations and care for the health, 
+safety and security of their communities. 
+• Many countries pay close attention to ESG topics in light of increased concern over serious 
+environmental issues. 
+• We use international social and ethical standards wherever possible in all our operations. 
+• We participate in dialogue with local chambers of commerce as appropriate. 
+• We do not participate in lobbying activities or make political contributions.
+
+Page 16:
+16
+ ENVIRONMENTAL IMPACT
+Besi is committed to reducing its environmental impact, resource consumption and the 
+carbon footprint of its operations which includes increasing the sustainability of the 
+components, modules and systems we produce and purchase from third parties. Material 
+topics of this pillar include a reduction of carbon emissions and overall usage of energy, 
+waste, water and hazardous materials. It also focuses on integrating sustainable design 
+processes into Besi’s development activities and increasing the utilization of renewable 
+energy sources. We updated our targets for 2024 and 2030 in 2022 and updated the base 
+year for target setting from 2019 to 2021, as a result of Besi’s successful performance 
+versus prior targets. In 2023, the Supervisory Board approved a company-wide ESG policy 
+for publication on our corporate website outlining Besi’s commitment to climate change 
+mitigation, energy efficiency, renewable energy deployment, waste reduction, re-use and 
+recycling. In addition, we set an objective of reaching net zero greenhouse gas emissions 
+in our operations by 2030, incorporating all Scope 1 & 2 emissions.
+Set forth below are Besi’s material topics related to its Environmental Impact process 
+pillar, progress in 2023, progress against Besi’s targets relative to the 2021 baseline and its 
+targets for 2024: 
+Material topic 2023 progress update versus 2022 2023 progress update versus 2021 base year 2024 target versus 2021 base year
+Energy use and 
+renewable energy
+• Fuel consumption intensity increased by 10% but declined on an 
+absolute basis (14%). 
+• Electricity consumption intensity increased by 48% and an increase 
+of 21% on an absolute basis. 
+• 100% renewable energy achieved at European operations which 
+was comparable to 2022.
+• Renewable energy utilized globally declined from 76% to 71%. 
+• Reporting against TCFD framework continued with relevant 
+disclosures wherever possible.
+Projects realized:
+• Purchase of renewable electricity at new Glenmarie, Malaysia site. 
+• Expansion of existing solar PV system and installation of 
+groundwater heat pump to replace gas usage at Besi Austria.
+• Increased lighting energy efficiency at Besi Netherlands.
+• Expansion of LED lighting system at Besi Switzerland.
+• Installation of smart meters at Meco facility in the Netherlands. 
+• Fuel consumption: Fuel intensity of 3.2 Kwh/ 
+€million revenue was roughly equal to 2021.
+• Electricity consumption: Electricity intensity 
+increased to 34 Kwh/€million revenue versus 21 Kwh/ 
+€million revenue in 2021 (+62%).
+• Renewable energy in Europe increased to 100% 
+versus 92% in 2021.
+• Renewable energy utilized globally increased to 71% 
+in 2023 versus 20% in 2021.
+• 15% reduction in fuel 
+consumption intensity.
+• 11% increase in energy 
+consumption intensity due to 
+increased cleanroom 
+requirements. 
+• 75% renewable energy 
+utilized globally.
+Suppliers Day at Besi APac, Malaysia.
+
+Page 17:
+17
+Material topic 2023 progress update versus 2022 2023 progress update versus 2021 base year 2024 target versus 2021 base year
+Carbon emissions • Scope 1 & 2 emissions intensity increased from 5.2 to  
+8.9 tCO₂/€million revenue (+71%).
+• Absolute Scope 1 & 2 emissions increased from 3,755 to  
+5,124 tCO₂ (+36%).
+• Scope 3 emissions intensity increased from 13.6 to 17.0 
+tCO₂e/€million revenue (+25%).
+• Absolute Scope 3 emissions roughly equal: from 9,817 tCO₂e 
+to 9,843 tCO₂e.
+Projects realized:
+• Increased utilization of renewable energy in our Malaysian facilities.
+• EV vehicles purchased in China to replace petrol-based ICE vehicles.
+• Reduced shipments from Besi Netherlands to Besi APac to once a 
+week versus twice per week.
+• Scope 1 & 2 emissions intensity  
+of 8.9 tCO₂/€million revenue decreased versus  
+14.4 tCO2/€million revenue in 2021 (-38%) mainly  
+as a result of the accelerated implementation of 
+renewable energy usage in Asia.
+• Absolute Scope 1 & 2 emissions  reduced from 10,812 
+tCO₂ in 2021 to 5,124 tCO₂ (-53%).
+• Scope 3 emissions intensity rose from 15.9 
+tCO₂e/€million revenue in 2021 to  
+17.0 tCO₂e/€million revenue (+7%). 
+• Absolute Scope 3 emissions declined reduced from 
+11,942 tCO₂e in 2021 to 9,843 tCO₂e (18% reduction). 
+• 62% reduction in Scope 1 & 2 
+carbon emissions intensity.
+• 12% reduction in Scope 3 
+carbon emissions intensity.
+Waste and 
+hazardous waste 
+disposal
+• Total waste intensity increased from 319 to 430 kg/€million 
+revenue (+35%) due to completion of cleanroom facilities in 
+Singapore and Malaysia.
+• Absolute total waste disposal increased by 8% mainly due to 
+scrapping activities in Besi APac and Besi Austria.
+• Hazardous waste decreased by 8% in absolute terms.
+• Reduced paper waste at Besi Netherlands through sustainable 
+procurement initiative with 70% of total waste now recycled  
+at this site.
+• Total waste intensity of 430 kg/€million revenue 
+increased versus 316 kg/€million revenue (+36%). 
+• Absolute total waste increased by 5%.
+• Absolute hazardous waste decreased by 33%.
+• 15% reduction in total waste 
+intensity.
+• 20% reduction in hazardous 
+waste.
+Water withdrawal • Water withdrawal intensity increased from 46 to 51 m3/€million 
+revenue (+11%).
+• Absolute water withdrawal decreased by 9%.
+• Use of centrifuge at China facility to increase water recycling.
+• Water intensity of 51 m3/€million revenue increased 
+by 24% versus 41 m3/€million revenue in 2021. 
+• Absolute water withdrawal decreased by 3%.
+• 2% reduction in water 
+withdrawal intensity.
+Sustainable 
+design
+• Projects underway to analyze product lifecycles in multiple product 
+groups. 
+• Finished wastewater treatment project in collaboration with 
+Copernicus Institute of Sustainable Development at Utrecht 
+University, the Netherlands, to measure ecological footprint of 
+Besi’s plating systems. 
+• Launch of Design-to-X initiative to incorporate a Design-to-Cost 
+and Design-to-Sustainability philosophy in product design. 
+• Roadmaps, priorities and initiatives developed for 
+sustainable system design in accordance with 
+targets. 
+• Develop additional targets for 
+sustainable system design.
+
+Page 18:
+18
+SDG alignment
+The following SDGs align with the Environmental Impact pillar of Besi's ESG strategy: 
+Goal/description How we contribute
+ 
+Ensure access to affordable, reliable, 
+sustainable and modern energy for all. 
+We increased the percentage of renewable energy used across our operations to 71% in 2023 which was significantly above the 
+25% renewable energy target for 2022. On track to meet the revised 2024 target of 75%. 
+ 
+Build resilient infrastructure, promote 
+inclusive and sustainable industrialization 
+and foster innovation.
+We conduct life cycle assessments as a means of reducing our products’ environmental footprint while increasing their efficiency 
+and recyclable content. Toward this end, we have collaborative projects underway with several European universities and launched 
+an initiative called Design-to-X to increase Besi’s sustainable system design for each successive product generation.
+ 
+Ensure sustainable consumption and 
+production patterns.
+The availability and conservation of natural resources is one of today’s largest global challenges. We accept our responsibility by 
+concentrating on the procurement of environmentally friendly materials, reducing waste and packaging in our supply chain for 
+product manufacturing and increasing our participation in the circular economy.
+ 
+Take urgent action to combat climate 
+change and its impacts.
+We recognize the urgent global challenge of reducing greenhouse gas emissions. We contribute to this effort by investigating 
+innovative systems and solutions to help reduce emissions during their entire use phase and by providing a transparent overview 
+of greenhouse gas emissions as part of our Annual Report. In this regard, we significantly outperformed the 2022 targets for 
+Scope 1, 2 and 3 emissions and fuel and electricity intensity against a 2019 baseline. In 2022, we set new challenging targets for 
+achievement by 2024 and 2030 against a 2021 baseline. We aim to reach net zero greenhouse gas emissions in our operations by 
+2030, incorporating all Scope 1 & 2 emissions. Our long-term objective is to reach net zero carbon emissions by 2050 in recognition 
+of the global ecological and societal imperatives caused by climate change. 
+
+Page 19:
+19
+Energy use and renewable energy 
+We seek to decrease our energy usage via a reduction of fuel and electricity consumption 
+and increased utilization of renewable energy sources.  
+FUEL CONSUMPTION
+Target
+  (based on 2021 baseline)
+2.5
+2.1
+1.8
+Fuel
+Relative to revenue 
+2.1
+2.8
+Target
+2019 2020 2021 2022 2023 2024 2030
+4
+3
+2
+1
+0
+GWh KWh/€ million revenue
+20
+15
+10
+5
+0
+3.3
+5.9 6.4
+3.2
+2.52.8
+Relative target 2024 
+Target fuel consumption intensity 2024
+2.9
+ELECTRICITY CONSUMPTION
+Renewable energy
+Relative to revenue 
+Non-renewable energy
+Target renewable energy
+Target non-renewable energy
+2019 2020 2021 2022 2023 2024 2030
+20
+15
+10
+5
+0
+GWh KWh/€ million revenue
+100
+75
+50
+25
+0
+Relative target 2024 
+Target electricity consumption intensity 2024
+Target
+  (based on 2021 baseline)
+80%
+20%
+15.6
+82%
+18%
+14.0
+80%
+20%
+13.5
+21
+24%
+76%
+16.5
+29% 25%
+71% 75% 100%
+19.9
+23 26
+23
+34
+31
+39
+In 2023, Besi's absolute fuel consumption declined by 14% versus 2022. However, Besi’s 
+electricity consumption increased on both an absolute and relative intensity basis 
+compared to 2022 due to the expansion of a new production site in Glenmarie, Malaysia, 
+the completion of cleanrooms at our Singapore and Malaysia facilities. In addition, Besi’s 
+percentage of renewable energy utilized in 2023 decreased versus 2022 due primarily to 
+the limited availability of renewable energy at the Glenmarie site in the first half of 2023. 
+However, we were able to purchase renewable electricity for this site in the second half of 
+2023 and will continue to do so in 2024. As a result, we expect to meet the 2024 target for 
+this KPI. At present we purchase 100% of our electricity needs from renewable source at 
+all our European operations. 
+Groundwater heat pump project at Besi Austria
+During 2023, we invested in a groundwater heat pump at Besi’s Radfeld, Austria facility 
+to replace natural gas usage for its central heating system. The project’s aim, in the 
+best-case scenario, is to fully substitute gas usage with renewable heat generation and 
+to reduce gas usage on an annual basis by approximately 50,000m³, or approximately 
+100 tCO₂ emissions. The project is expected to be operational in the first quarter of 
+2024.
+
+Page 20:
+20
+Carbon emissions 
+Reducing Besi’s carbon footprint is a key focus of our ESG strategy. In reporting carbon 
+emission levels, we have adopted the standards and methodology put forth by the 
+Greenhouse Gas Protocol, an independent standard which divides emissions into three scopes: 
+• Scope 1 emissions: cover direct greenhouse gas (“GHG”) emissions resulting from day-to-
+day business activities. This category includes on-site fuel combustion such as gas 
+boilers as well as manufacturing, transport and fugitive emissions. 
+• Scope 2 emissions: cover indirect GHG emissions which result from the electricity, heat 
+and steam we purchase from external sources. 
+• Scope 3 emissions:  include our emissions resulting from upstream and downstream 
+transportation, business flights and non-renewable electricity consumption, 
+transmission and distribution losses and well-to-tank, except for the exclusions as 
+mentioned in the Reporting Scope section. 
+Our ambition is to reduce carbon emissions intensity (carbon emissions/revenue) across 
+all three reporting scopes. We exceeded targets in 2022 set in 2019 and intend to meet or 
+exceed more challenging targets set for 2024. Toward this end, we aim to reach net zero 
+operational greenhouse gas emissions in our operations by 2030, including all Scope 1 & 2 
+emissions. 
+Our absolute Scope 1 emissions decreased by 38% in 2023 relative to 2022 due to improved 
+energy efficiency. Our absolute Scope 2 emissions increased in 2023 relative to 2022 due to 
+a variety of construction projects associated with the expansion of our technology and 
+production capabilities, including the temporary absence of renewable energy available at 
+the Glenmarie, Malaysia site. 
+In addition, both Besi’s Scope 1 & 2 and Scope 3 emissions intensity increased in 2023 
+relative to 2022 due primarily to the significant downturn experienced in the semiconductor 
+assembly equipment industry which caused our revenue to decline by 20% year over year. 
+However, Besi has reduced its Scope 1 & 2 emissions intensity versus the 2021 baseline by 
+5.5 tCO₂ emissions/€million revenue, or 38%, as a result of the accelerated implementation 
+of renewable energy across our Asian and European facilities. 
+Furthermore, Besi has reduced its absolute Scope 3 emissions versus our 2021 baseline by 
+2,099 tCO₂e, or 18%, reflecting progress in the areas of transportation, freight and travel 
+as well as the beneficial impact of a higher proportion of leading edge assembly systems 
+in our product mix. In 2023, Besi’s Scope 3 emissions intensity increased to 17.0 tCO₂e 
+emissions/€million revenue, a 7% increase versus the 2021 baseline. 
+Installation of solar power reduced energy usage at Besi Austria
+We expanded a solar roof and increased the usage of photovoltaics systems in 2023 at 
+Besi’s Radfeld, Austria facility to help reduce aggregate energy consumption and Scope 
+2 emissions. The solar cells utilized were assembled using Besi’s own equipment.
+River cleaning by Besi Singapore employees.
+
+Page 21:
+21
+SCOPE 1 & 2 EMISSIONS
+2019 2020 2021 20232022 2024 2030
+10,812
+3,755
+Scope 1 & 2  Target Scope 1 & 2  
+Relative to revenue 
+ 9,065 
+ 8,587 
+Relative target 2024 
+12,500
+10,000
+7,500
+5,000
+2,500
+0
+tCO 2 tCO 2 /€ million revenue
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+19.8
+14.4
+5,124
+8.9
+25.4
+Target Scope 1 & 2 
+emissions intensity 2024
+Target net zero 
+Scope 1 & 2 
+emissions
+Target
+(based on 2021 baseline)
+5.55.2
+0.0
+ SCOPE 3 EMISSIONS*
+tCO 2 e tCO 2 e/€ million revenue
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+12,500
+10,000
+7,500
+5,000
+2,500
+0
+Scope 3
+7,407 7,157
+Target Scope 3
+2019 2020 2021 2023 203020242022
+15.9
+20.8
+16.5
+Relative to revenue 
+17.0
+9,8439,817
+Relative target 2024 
+14.0
+12.7
+Target
+(based on 2021 baseline)
+Target Scope 3 
+emissions intensity 2024
+13.6
+11,942
+*  Besi expanded the categories included in its Scope 3 emissions measurement for 2022. Therefore, Scope 3 emissions data 
+for the years 2019 – 2021 are not fully comparable.
+Waste and hazardous waste disposal
+We seek to reduce the waste and hazardous waste produced by our operations wherever 
+possible. In all facilities, waste separation systems are in place and the re-use, reduce, 
+recycle concept is well established. The principal focus of our efforts is the reduction of 
+waste used in the packaging process wherein we use materials such as plastic, wood and 
+cardboard to ensure proper protection. There was an increase in Besi’s absolute waste 
+produced and waste intensity in 2023 relative to 2022. The launch of the new Glenmarie, 
+Malaysia site, the scrapping of obsolete materials at Besi Austria in the first half of 2023 
+and refurbishments to the assembly space at Besi Netherlands all contributed to the 
+increase in absolute waste. The increase in absolute waste combined with the significant 
+revenue decline experienced by Besi in 2023 led to a significant increase in our waste 
+intensity this year. Given that these construction activities were completed in 2023, we 
+anticipate reducing waste intensity materially in 2024 and intend to meet or exceed our 
+2024 intensity target in this area.
+ 
+
+Page 22:
+22
+WASTE
+10%14% 5% 7% 6%
+Hazardous waste
+Relative to revenue 
+Non-hazardous waste
+Target hazardous waste
+Target non-hazardous waste
+2019 2020 2021 2022 2023 2024 2030
+400
+300
+200
+100
+0
+Tonne kg/€ million revenue
+2,000
+1,500
+1,000
+500
+0
+Relative target 2024 
+237
+159
+346
+316
+230
+319 259268
+430
+800
+447
+Target waste intensity 2024
+Target
+  (based on 2021 baseline)
+10%9%
+249
+Water withdrawal
+Water conservation is another priority. Virtually all water used in our operations is 
+discharged back into local water systems. As a result, our net water usage is limited. In 
+addition, Besi does not operate in any regions with a high or very high-water risk as defined 
+by the World Resources Institute. Besi utilized approximately 30 million liters of fresh 
+water in its operations in 2023 of which approximately 90% was utilized in our Asian 
+production operations. Water withdrawal intensity increased this year due to the 
+significant revenue decrease experienced.
+WATER WITHDRAWAL
+Water withdrawal
+Relative to revenue 
+Target
+2019 2020 2021 2022 2023 2024 2030
+40
+30
+20
+10
+0
+Thousands m 3 m 3 /€ million revenue
+200
+150
+100
+50
+0
+Relative target 2024 
+Target water intensity 2024
+30
+27 26
+41
+33
+46
+3940
+51
+59
+77
+Target
+  (based on 2021 baseline)
+30
+Sustainable design 
+Besi develops high quality, premium priced system solutions for customers offering 
+leading edge reliability, accuracy, throughput, system uptime, yield of defect free devices, 
+longevity and low environmental impact. We have implemented externally certified ISO 
+9001 and ISO 14001 management systems to manage quality and environmental issues in 
+our production operations. In addition, six of seven Besi operations have received ISO 
+45001 certificates of approval for their occupational health and safety management 
+system. Our development efforts focus on system efficiency both in terms of environmental 
+impact and productivity/cost savings with a particular emphasis on: 
+• Leading edge product innovation. 
+• Energy efficiency. 
+• Recycling potential of applied production materials. 
+• Recycled content used in our products. 
+• Exclusion of hazardous components in our systems. 
+• Exclusion of conflict materials from our design process.
+We prioritize sustainable design in our system development efforts and conduct life cycle 
+assessments as a means of reducing their environmental footprint while increasing their 
+efficiency and recyclable content. As a result, we can provide customers a low total cost 
+of ownership and an attractive return on initial investment while promoting sustainability 
+themes.
+
+Page 23:
+23
+In 2021, we launched several sustainable design initiatives focused on design-to-cost, 
+quality and sustainability. Such initiatives were focused on upgraded versions of our 
+mainstream die bonding product lines as well as for new wafer level assembly platforms 
+such as hybrid bonding and next generation TCB chip to wafer systems. We also participated 
+in a project with the University of Applied Sciences and Arts (Lucerne, Switzerland) to 
+identify potential areas of cooperation with respect to environmentally friendly product 
+design. Internal projects were also commenced to analyze product lifecycles in multiple 
+product groups to further extend their useful lives. 
+In 2023, Besi increased its focus on sustainable design initiatives related to energy 
+consumption and greenhouse gas emissions. Toward this end, we developed an initiative 
+named “Design-to-X” as part of our strategic plan review. This initiative combines Design-
+to-Cost and Design-to-Sustainability concepts to identify ESG improvement opportunities 
+in all product groups while reducing the cost of many mature die attach and packaging 
+platforms. More specifically, the review analyzed the ways Besi could reduce its greenhouse 
+gas emissions and energy use and minimize the carbon footprint for its end-users while 
+increasing product performance and efficiencies in design, procurement and operations. 
+We have developed certain key deliverables utilizing Besi’s existing sustainable engineering 
+efforts and plan to engage with customers who derive the greatest value from 
+decarbonization efforts. 
+In addition to such initiatives, we completed a wastewater treatment project this year in 
+collaboration with the Copernicus Institute of Sustainable Development at Utrecht 
+University, the Netherlands, to measure the ecological footprint of Besi’s plating systems. 
+The project highlighted reduced electricity consumption as a priority in our sustainable 
+design efforts for this platform.
+Besi’s systems can also be customized, reconfigured and redeployed over their product 
+lifespan thus extending their useful life as well as reducing their environmental impact 
+and raw material consumption. Customer utilization of our extensive global network of 
+field service and spare parts also helps customers extend the useful life of our systems.
+Future sustainable design priorities
+• Realization of benefits from Design-to-X initiative. 
+• Optimization of material selection and consumption.
+• Optimization of transport packaging.
+• Sourcing from more sustainable suppliers.
+• Implementation of performance and design initiatives at the component level.
+• Logistics optimization.
+• Enhance energy efficiency and usage of renewable energy at our Asian facilities.
+• Reduction of discretionary travel.
+Besi Switzerland collaborating on environmentally friendly product design
+In 2021, we commenced participation in a project with the Lucerne University of Applied 
+Sciences and Arts (Switzerland) to identify potential fields of interest for more 
+environmentally friendly product design. Different scenarios involving customers, 
+production locations and processes were examined and highlighted a range of 
+environmental influences. As a result of our collaborative efforts, we set a target to 
+reduce energy consumption of our die attach platforms by 10% by 2027. We are 
+developing a ten-year roadmap to create additional energy savings programs.
+Design-to-Sustainability
+Circular Design 
+For existing/future systems
+Optimize Across Multiple 
+ESG metrics (e.g., carbon 
+emissions, water use, 
+electricity)
+ 
+ 
+Design-to-X
+Combination of Design- 
+to-Cost and Design- 
+to-Sustainability 
+Design-to-Value 
+Maximizing value for 
+customers 
+• Introduce Design-to-
+Sustainability (focusing  
+on ESG metrics)
+• Embed Design-to-X in 
+development process
+• Set up requisite 
+engineering capabilities  
+and resource allocation
+• Continue reducing total 
+cost of ownership for die 
+bonding and packaging 
+systems
+ 
+ 
+Design-to-Cost
+Cost-Efficient-Design 
+Priority in new product 
+development
+Cost-Down-Engineering 
+Reduce total cost of 
+ownership
+ Optimizing for cost
+Optimizing for sustainability 
+
+Page 24:
+24
+ PEOPLE WELLBEING
+Material issue 2023 progress update versus 2022 2023 progress update versus 2021 base year 2024 target versus 2021 base year
+Diversity and 
+inclusion
+• Female employees as % of total employees was equal to 2022 
+(17%). 
+• Female managers as % of total managers decreased from 20% 
+in 2022 to 17% in 2023. 
+• Local managers as % of total managers was equal to 2022 
+(88%). 
+• Implemented Diversity and Inclusion policy.
+• 17% female employees as % of total employees, 
+equal to 2021.
+• Female managers as % of total managers 
+decreased from 18% in 2021 to 17% in 2023. 
+• Local managers as % of total managers increased 
+from 87% in 2021 to 88% in 2023. 
+• Increase % of female employees as % 
+of total employees to >19%. 
+• Increase % of female employees in 
+management to >21%.
+• Maintain % of local nationals in 
+management >86%. 
+Health and safety • Reported incidents declined to three versus six in 2022.
+• Of the three incidents reported, one was a minor absence  
+(less than four days) and two were first aid cases in which  
+the employee could resume work immediately after treatment. 
+No fatalities were reported. 
+• Six out of seven Besi facilities (Austria, China, Malaysia, 
+Singapore, Switzerland and our Meco facility in the 
+Netherlands) are now ISO 45001 compliant. 
+• Incidents reported decreased to three versus five 
+in 2021. 
+• Achieve safety incident record of 
+zero.
+Employee 
+engagement and 
+career development
+• 31 average training hours per employee, equal to 2022. 
+• Bi-annual employee engagement survey conducted by Willis 
+Towers Watson.
+• Survey results indicated that employees feel safe in their 
+current physical working environment and that there is 
+effective collaboration between departments to meet 
+customer needs.
+• Employees also had a strong understanding and motivation to 
+contribute to Besi’s business and ESG objectives and felt that 
+there is a strong feeling of trust between team members. 
+• Survey results will be used to improve areas of under-
+performance both company-wide and at facility-levels. 
+• Sustainable design training conducted in Austria and 
+Switzerland to help engineers promote sustainable design in 
+next generation product development. 
+• Quarterly Town Hall meetings for all employees conducted to 
+share business progress. 
+• Employee turnover reduced from 11% in 2022 to 7% in 2023.
+• 2023 employee engagement survey indicated 
+high level of participation (94%) and engagement 
+(89%).
+• Besi scored above the high-tech norm in six of 
+seven categories in the 2023 survey.
+• Average training hours per employee increased to 
+31 hours, up 19% versus 2021.
+• Maintain employee engagement 
+>85%.
+• Remain above high-tech benchmark.
+• Maintain investment in employee 
+training >21 working hours per 
+employee per year.
+
+Page 25:
+25
+SDG alignment
+The following SDGs align with the People Wellbeing pillar of Besi's ESG strategy:
+Goal/description How we contribute
+ 
+Ensure healthy lives and promote well-being 
+for all at all ages.
+Employee health, safety and wellbeing are material topics. Besi’s production sites have EHS officers and committees and a 
+health and safety management system and procedures. EHS committees are responsible for the inspection, enforcement and 
+promotion of health and safety matters in the workplace. Employees also regularly receive EHS training. 
+ 
+Achieve gender equality and empower all 
+women and girls.
+We are committed to improving gender diversity across all operations and providing equal opportunities for all employees. We 
+increased the percentage of women in management from 14% in 2019 to 17% in 2023. We are committed to further increasing 
+the percentage of women in management and women in the workforce but recognize the difficulties achieving such goals per 
+region due to the limited number of qualified personnel available.
+ 
+Promote sustained, inclusive and sustainable 
+economic growth, full and productive 
+employment and decent work for all.
+We are committed to providing a safe and secure working environment for all employees. All employees are made aware of 
+their rights including the right to freedom of association and collective bargaining. 
+Besi is committed to being a good employer and promoting a workplace culture supporting 
+the achievement of its business and ESG objectives. We comply with all applicable 
+employment laws and regulations in the countries in which we operate. All employees are 
+made aware of their rights including the right to freedom of association and collective 
+bargaining. We seek to be a preferred employer by emphasizing the diversity, health, safety 
+and wellbeing of our employees, flexible working arrangements and career growth and 
+development. In 2023, the Supervisory Board approved a companywide ESG policy that has 
+been published on our corporate website. This policy outlines Besi’s commitment to 
+employee engagement and career development, diversity and inclusion, equal opportunity, 
+elimination of discrimination and health and safety.
+
+Page 26:
+26
+HEADCOUNT TRENDS
+2,500
+2,000
+1,500
+1,000
+500
+0
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+FTE Temp % of Total
+2019 202220212020
+1,081
+62 95
+453
+1,154
+1,060
+496
+491463
+2,141
+1,162
+144
+512
+1,819
+2023
+1,193
+134
+543
+1,870
+1,596 1,618
+Europe/NA Fixed HC Asia Fixed HC Temporary HC Temp % of Total
+Topic 2019 2020 2021 2022 2023
+Employee turnover 16% 7% 10% 11% 7%
+New hires 6% 8% 19% 11% 10%
+As indicated in the tables above, our fixed and temporary headcount levels vary significantly 
+from year to year depending on conditions in our cyclical semiconductor assembly 
+equipment market. In market upturns, headcount typically increases. Conversely, in 
+downturns, headcount is reduced in alignment with decreased demand, particularly as it 
+relates to temporary production personnel. Similarly, new hiring also follows market 
+movements with higher percentages experienced in industry upturns and lower ratios 
+realized in industry downturns. Employee turnover typically, but not always, follows such 
+cyclical market influences. Turnover is typically lower in downturns where employees are 
+less likely to seek employment elsewhere and higher in industry upturns where there is 
+more demand for personnel industry wide. 
+Diversity and inclusion 
+Besi values and encourages cultural, age and gender diversity in its workforce. Management 
+believes that diversity and inclusion help broaden our perspective and contribute to 
+growth. Diversity and inclusion are priority topics in Besi’s ESG strategy with improved 
+gender diversity across all operations the most immediate focus. We recognize that 
+women continue to be underrepresented in science, technology, engineering and 
+mathematics fields and is thus a priority in recruiting efforts. Many of our product groups 
+and manufacturing sites engage with local universities to drive growth in diversity 
+representation. Our newly published ESG policy and Code of Conduct also emphasize equal 
+opportunity for all employees and applicants. Specifically, the Diversity and Inclusion 
+policy outlines what diversity and inclusion means to Besi, our goals and what Besi is 
+doing to promote a diverse and inclusive business culture.
+FEMALE EMPLOYEES
+% of headcount 
+2019 2020 20222021 2023 20302024
+Female employees Target 
+30
+20
+10
+0
+Target 
+(based on 2021 baseline)
+17%17% 17% 17% 17%
+20%19%
+FEMALE MANAGERS
+14%
+18%16%
+20% 17%
+23%21%
+30
+20
+10
+0
+% of headcount managers 
+Female managers Target 
+2019 2020 20222021 2023 20302024
+Target 
+(based on 2021 baseline)
+LOCAL MANAGERS
+100
+75
+50
+25
+0
+% of headcount managers 
+83% 85% 88% 88% 86%86%87%
+Target 
+2019 2020 20222021 2023 20302024
+Local managers 
+Target 
+(based on 2021 baseline)
+
+Page 27:
+27
+Besi’s diversity efforts indicate slow but steady progress as measured by an increasing 
+percentage of female managers and local managers in the workforce since 2019. However 
+in 2023, Besi reported a decrease in the female managers indicator due to promotion of 
+several male employees to management positions in Besi APac.
+National Future Day
+On November 9, 2023, Besi Switzerland participated in National Future Day 2023 which 
+provides schoolchildren insight into gender atypical professions. The objective was to 
+provide schoolchildren with the courage and confidence to take charge of their future 
+outside of gender images. As engineering tends to be an underrepresented female 
+profession, Besi Switzerland showed participants  what a career in the semiconductor 
+industry involves and provided tutorials on how to use some of Besi’s technology 
+including a course on how to code and use a soldering iron. 
+Employee health and safety 
+Employee health and safety represents another material ESG topic. Besi monitors incidents 
+in the workplace at all locations worldwide. Incidents are grouped into categories by 
+severity: (i) fatalities, (ii) major absences (more than four days), (iii) minor absences (less 
+than four days) and (iv) first aid cases in which employees can resume work immediately 
+after treatment or the following day. Safety hazards at Besi are limited. There were three 
+safety incidents recorded last year at Besi’s Malaysian and Meco operations of which two 
+were first aid cases and one was a minor absence. In general, incidents are few as our 
+production facilities are predominantly clean environments with no heavy chemicals 
+present. In addition, there were no legal proceedings related to health and safety incidents 
+in 2023. We are committed to be compliant with all local laws. Our facilities in Austria, 
+China, Malaysia, Singapore, Switzerland and our Meco facility in the Netherlands are ISO 
+45001 compliant. We expect our Duiven, Netherlands facility to be ISO 45001 compliant 
+and certified by the end of 2024. 
+SICKNESS RATE
+Asia Europe Total
+2019 2020 2021 2023
+2.1%
+1.9%
+2.1%
+1.7%
+1.3% 1.3% 1.3%
+0.8%
+1.1%
+2.2%
+1.5%
+3.8%
+2022
+2.1%
+1.6%
+3.5%
+4%
+3%
+2%
+1%
+0%
+% of headcount
+Improved working conditions Besi Leshan
+Work began at our Besi Leshan facility to optimize safe working conditions for 
+employees. The facility received ISO 45001 certification in 2023 which represents further 
+external validation of Besi’s commitment to occupational health and safety 
+management.
+Employee engagement and career development 
+One of Besi’s principal challenges is to attract, motivate and retain skilled workers critical 
+to our success in a highly competitive semiconductor equipment industry. A key component 
+of our strategy is training and talent development for which we provide a variety of 
+educational programs companywide. In addition, we monitor employee engagement and 
+satisfaction across all regional operations and conduct surveys to assess our relative 
+success in such activities. Increases in training hours per employee in 2022 were favorably 
+influenced by a Chinese government sponsored online training program. In 2023, training 
+hours remained roughly equivalent to 2022. 
+
+Page 28:
+28
+TRAINING
+2220
+26
+31 31
+2121
+Hours/employee 
+Training hours 
+40
+20
+0
+Target 
+2019 2020 20222021 2023 20302024
+Target 
+(based on 2021 baseline)
+Future priorities 
+• Improve gender diversity across all locations. 
+• Maintain the health and safety of all employees including the maintenance of selected 
+COVID-19 protocols related to travel, corporate gatherings and testing. 
+• Continue to improve Besi’s management systems and gain external ISO 45001 
+certification for all operations by 2024.
+ RESPONSIBLE BUSINESS
+Material issue 2023 progress update versus 2022 2023 progress update versus 2021 base year 2024 targets versus 2021 base year
+Ethics and compliance • No reported violations of Besi’s Code of Conduct.
+• Training provided to all new employees.
+• No reported violations of Besi’s Code of Conduct. 
+• Training provided to all new employees.
+• Increase employee training participation 
+as it relates to Besi’s Code of Conduct.
+Responsible supply 
+chain
+• % of Purchase Volume (“PV”) to sign General Work 
+Agreement (“GWA”) or General Procurement Contract 
+(“GPC”) decreased slightly to 76% versus 77%. 
+• % of PV to sign Conflict Free Sourcing Initiative 
+(“CFSI”) signatories decreased to 71% versus 73%. 
+• % of PV compliant with RoHS directive slightly 
+decreased to 93% versus 94%. 
+• % of PV to sign Self-Assessment Questionnaire 
+(“SAQ”) as to our Code of Conduct increased to 66% 
+versus 62%. 
+• % of PV audited was 63%, equal to 2022.
+• % of Purchase Volume (“PV”) to sign General Work 
+Agreement (“GWA”) or General Procurement Contract 
+(“GPC”) increased to 76% versus 64%. 
+• % of PV to sign CFSI increased to 71% versus 66%. 
+• % of PV compliant with RoHS directive slightly 
+decreased to 93% versus 94%. 
+• % of PV to sign Self-Assessment Questionnaire 
+(“SAQ”) as to our Code of Conduct increased to 66% 
+versus 63%. 
+• % of PV audited increased to 63% versus 59%.
+• 77% of PV to sign GWA or GPC.
+• 73% of PV to sign CFSI.
+• 75% of PV to sign SAQ as to our Code of 
+Conduct.
+• 70% of PV audited.
+Community impact • Supported various local charities within the regions 
+we operate. 
+• Supported local technical schools through donations 
+of employee time.
+• Volunteered employee hours to local initiatives.
+• 35 employees at our Meco facility in the Netherlands 
+generated € 4,375 in social value in the number of 
+hours volunteered.
+• Besi Netherlands donated € 7,740 to “‘Stichting 
+Kinderen van de Voedselbank”.
+• Besi Leshan provided local schools with 600 hours of 
+community support and donated ¥ 10,000 RMB to a 
+local charity.
+• Report on Besi hours volunteered, 
+monetary donations and education 
+projects supported.
+Tax practices • Compliant with tax obligations where factual 
+economic activities take place. 
+• Compliant with tax obligations where factual 
+economic activities take place.
+• Compliant with tax obligations where 
+factual economic activities take place. 
+
+Page 29:
+29
+SDG alignment
+The following SDG aligns with the Responsible Business pillar of Besi's ESG strategy: 
+Goal/description How we contribute
+ 
+Promote peaceful and inclusive societies for sustainable development, provide 
+access to justice for all and build effective, accountable and inclusive institutions 
+at all levels.
+Besi’s ESG policy, Code of Conduct and Whistleblower procedure guide the activities of our 
+employees. Our ESG policy provides a strategic view of Besi’s management across the 
+environmental, social and governance aspects of our business related to both our 
+operations and value chain. All new employees are required to sign the Code of Conduct 
+and undertake training upon hiring. All other employees undergo training on a regular 
+basis. Besi’s Supplier Code of Conduct outlines the standards expected of our suppliers in 
+areas such as human rights, product quality, health and safety and the environment. 
+Besi operates in a responsible and sustainable manner for the benefit of all stakeholders. 
+We are committed to the UN Universal Declaration of Human Rights, adhere to high ethical 
+standards and expect the same commitment from key stakeholders, particularly across 
+our supply chain. We strive to have a positive impact on the communities and countries in 
+which we operate via charitable activities, by following responsible tax practices and by 
+maintaining open, constructive and mutually respectful relations with tax authorities. In 
+2023, the Supervisory Board approved a companywide ESG policy that has been published 
+on our corporate website. This policy outlines the Company’s commitment to ethics and 
+corporate culture, engagement with employees and external stakeholders, political 
+involvement, and transparent reporting.
+Ethics and compliance
+The importance of appropriate anti-corruption and human rights policies has increased 
+with the expansion of Besi’s Asian operations, supply chain and logistics activities. In this 
+regard, Besi has an ESG policy, Code of Conduct and Whistleblower procedure (all of which 
+are available on our website) to guide employee activities and to set out the responsibilities, 
+procedures and support functions in reporting violations. In addition, all employees are 
+required to sign our Code of Conduct and undertake training upon hiring. Further, we 
+conduct training for all employees globally on a regular basis. Besi’s Code of Conduct also 
+prohibits anti-competitive practices. There were no legal proceedings associated with 
+anti-competitive behavior over the past three years. 
+Our confidential Whistleblower procedure enables employees to report suspected cases of 
+misconduct. These cases are investigated immediately and overseen by local management 
+and the Board of Management, who have responsibility for approving appropriate corrective 
+measures. 
+Responsible supply chain
+Besi adheres to high ethical standards and expects the same from its suppliers. As such, 
+we have three policies in place to promote a sustainable supply chain: a Conflict Minerals 
+policy, a Supply Chain policy and a Supplier Code of Conduct based on the code published 
+by the Responsible Business Alliance (“RBA”). The Code of Conduct is based on international 
+norms and standards including the Universal Declaration of Human Rights, International 
+Labor Standards and the OECD Guidelines for Multinational Enterprises. Besi’s Supply 
+Chain policy and Code of Conduct have been fully in accordance with RBA requirements 
+since 2018. In addition, we seek to align our operations and supply chain with the Restriction 
+of Hazardous Substances (“RoHS”) directive. In 2023, 93% of our relevant purchasing 
+volume was compliant with the RoHS directive. In addition, we have begun engagement 
+with suppliers as to the origin of their imported steel and iron supplies due to new EU 
+restrictions.
+Besi is committed to improving the sustainability of its supply chain. Our supply chain 
+activities include the sourcing of raw materials, components and semi-finished products 
+from vendors. The issue of conflict minerals is an important topic for supply chain 
+management, particularly in Europe and North America. We seek to minimize the impact of 
+conflict minerals wherever possible. In 2023, Conflict Mineral Reporting Template 
+Questionnaires were returned by suppliers representing 71% of material related purchasing 
+volume, a slight decrease versus the 73% recorded in 2022. 
+
+Page 30:
+30
+With respect to human rights, we follow the RBA Code of Conduct both in our production 
+facilities and supply chain. Labour standards in the RBA Code of Conduct include: 
+• Freely chosen employment 
+• Young workers 
+• Working hours 
+• Wages and benefits 
+• Humane treatment 
+• Non-discrimination/non-harassment 
+• Freedom of association 
+In 2019, Besi achieved gold status with the RBA which is externally audited and accredited. 
+In 2023, 88 suppliers were responsible for approximately 80% of Besi’s total purchasing 
+volume. As a result, we established a risk map matrix to assess the importance, reliability, 
+financial condition and sustainability of all suppliers on a more regular basis. Besi evaluates 
+suppliers by means of its quarterly business review process under which we regularly 
+conduct performance reviews and key supplier audits. In 2023, the number of supplier 
+performance reviews and audits was 63% of our total purchasing volume, equal to 2022. 
+Engagement with suppliers also resulted in additional progress on ESG topics in 2023. Our 
+Malaysian and Chinese operations began a more comprehensive engagement strategy 
+with suppliers this year through an ESG briefing roadshow, training sessions and the 
+sharing of ESG-related knowledge. We also conducted an ESG assessment survey that 
+posed questions related to Besi’s material ESG pillars of Environmental Impact, People 
+Wellbeing and Responsible Business. Concerning the Environmental Impact pillar, we 
+asked suppliers whether targets had been set to help reduce Besi’s energy usage, carbon 
+emissions, waste and hazardous material usage as well as their usage of renewable 
+energy. Fifty-five suppliers were sent this assessment survey with a response received 
+from forty-six (84%), representing approximately 50% of our total purchasing volume. 
+Such responses were used to create a grading system of either Low Risk, Medium Risk or 
+High Risk. For each risk category, an action plan was created for supplier engagement to 
+ensure improvement in their management of ESG-related issues. Moving forward, Besi will 
+incorporate this ESG scorecard into its periodic audit for annual suppliers. 
+Finally, the percentage of purchasing volume which answered the RBA Code of Conduct 
+Self-Assessment increased from 62% in 2022 to 66% in 2023 marking further progress in 
+our supply chain engagement with Besi’s ESG activities. 
+SUPPLY CHAIN
+Purchasing Volume (“PV”) Audited 
+42%
+61% 59% 63% 63%
+75%70%
+% of PV 
+Audited Suppliers 
+100
+50
+0
+Target 
+2019 2020 20222021 2023 20302024
+Self Assessment Questionnaire  
+62% 62% 63% 66%
+85%75%
+62%
+% of PV 
+Code of Conduct Self Assessment Questionnaire (“SAQ”) Signatories 
+100
+50
+0
+Target 
+2019 2020 20222021 2023 20302024
+Code of Conduct Supplier Agreements
+61% 64% 64%
+76% 77%77% 85%
+% of PV 
+General Work Agreement (“GWA”) or 
+General Procurement Contract (“GPC”) Signatories 
+100
+50
+0
+Target 
+2019 2020 20222021 2023 20302024
+
+Page 31:
+31
+Conflict Free Sourcing Initiative Signatories
+65% 66%64% 71% 73%73% 80%
+% of PV 
+Conflict Free Sourcing Initiative (“CFSI”) Signatories 
+100
+50
+0
+Target 
+2019 2020 20222021 2023 20302024
+Community impact
+Besi supports activities in the local communities in which it operates, particularly in Asia 
+where the assistance is more greatly needed. In Malaysia, activities undertaken in 2023 
+included a tree planting hiking trail in Taman Botani Negara. In addition, Besi’s Chinese 
+operations supported their community by providing lectures to Leshan primary school 
+children and by training eight school students for Leshan’s vocational school. In total, 
+both initiatives amounted to 600 hours of community support. Besi Leshan also donated  
+¥ 10,000 RMB to the ‘Star Charity’ which was endorsed by the Leshan Import and Export 
+Chamber Commerce. The charity raised ¥ 728,000 RMB to provide support to those in 
+poverty.
+At Besi Netherlands, we conducted a Christmas promotion to raise funds for “Stichting 
+Kinderen van de Voedselbank” , a charity that combats the social consequences of child 
+poverty in the Netherlands. It is the only foundation in the Netherlands that donates 
+clothing packages to children, all of which are new clothes rather than those that have 
+been used and donated. Besi employees managed to raise € 7,740 for this charity. At our 
+Meco facility in the Netherlands, 35 of our employees engaged in community service with 
+a charity called Cello. This program generated € 4,375 in social value through the number 
+of hours volunteered.
+Besi Austria supported local technical universities and schools through donations, active 
+interchange and dialogue. In addition, they hosted a Girls Day career orientation project for 
+girls and young women. Points of contact were established between female students for 
+future-oriented professions in the fields of technology, natural sciences, and computer 
+science. Other career orientation days were also held during the year. 
+On November 9, 2023, Besi Switzerland participated in National Future Day 2023 which 
+provides schoolchildren insight into gender atypical professions. The purpose of the day 
+was to provide schoolchildren with the courage and confidence to take charge of their 
+future outside of gender images. As engineering tends to be an underrepresented female 
+profession, Besi Switzerland showed participants what a career in the semiconductor 
+industry involves and provided tutorials on how to use some of Besi’s technology including 
+courses on coding and the use a soldering iron.
+Besi APac partnership with the Ideas Academy
+Besi APac continued its long-term partnership with the Ideas Academy which provides 
+high quality, affordable virtual education and in-person classes for students in Kuala 
+Lumpur.
+Tax practices 
+Besi’s global tax policy views taxation, including the payment and collection of taxes, as 
+an integral part of its business and an important part of its social responsibility and 
+contribution to society. Besi’s tax policy is aligned with its ESG Strategy and follows the 
+principle of responsible tax practices whereby Besi’s legitimate interests, reputation and 
+corporate social responsibility are taken into consideration. In this respect, the interests 
+of all stakeholders are taken into consideration including customers, shareholders, local 
+governments and the communities and countries in which Besi operates. Besi’s global tax 
+policy is annually updated and signed off by the Board of Management. 
+It consists of the following principles:
+• We commit to paying taxes on time and in accordance with all applicable laws and 
+regulations. 
+• Our tax policy follows Besi’s business. As such, our profits are allocated to the countries 
+in which business value is created, taxes are paid and where factual economic activities 
+are executed. In addition, all transactions must have a business rationale. 
+• Intra-group transactions are entered into on an arm’s length basis and adhere to the 
+guidelines issued by the Organization for Economic Co-operation and Development 
+(“OECD”). 
+• We strive to comply with the letter and spirit of applicable tax laws and regulations and 
+are guided by relevant international standards. 
+• We seek a competitive, stable, sustainable and explainable effective corporate tax rate 
+whereby tax incentives and subsidies are used. Any tax optimization must be based on 
+opportunities provided by law or case law and must be aligned with our business and 
+objectives.
+• Besi does not undertake transactions whose sole purpose is to create an abusive tax 
+result. In addition, Besi does not use artificial tax structures in tax haven jurisdictions as 
+defined by the OECD. 
+
+Page 32:
+32
+• We seek to establish and maintain an open and constructive dialogue with tax authorities 
+and other government bodies in all jurisdictions where we operate based on the 
+disclosure of all relevant facts and circumstances. We discuss important fiscal aspects 
+upfront with the relevant tax authorities if questions arise as to proper taxation policy. 
+We also seek rulings from tax authorities to confirm the applicable treatment. In the 
+Netherlands and Switzerland, jurisdictions where Besi has substantial operations, we 
+engage with the Tax Authorities through regular meetings, telephone calls and other 
+correspondence.
+The effective tax rate for 2023 was 14.7% (2022: 12.6%). Similar to 2022, income tax expense 
+for the 2023 fiscal year was affected by foreign tax rates differentials, non-deductible 
+expenses, tax-exempt income, tax credits, changes in valuation allowances on deferred 
+tax assets and benefits from preferential tax regimes legislated by the countries concerned 
+in order to promote economic development and investment. Further details regarding 
+income tax expense are provided in Note 29 to the Consolidated Financial Statements.
+Future Responsible Business priorities 
+• Conduct supply chain audits representing 75% of Besi’s purchasing volume by 2030 in 
+accordance with our new supply chain risk matrix. 
+• Enhance our supplier evaluation process in the areas of lead time, quality and 
+technological capabilities. 
+• Encourage more suppliers to join the CFSI such that 80% of Besi’s purchasing volume 
+has signed by 2030. 
+Besi’s future ESG priorities
+Besi’s mission is to become the world’s leading supplier of semiconductor assembly 
+equipment for advanced packaging applications and to exceed industry average 
+benchmarks of financial performance. We also strive to create long-term value for our 
+stakeholders and operate our business in a sustainable way, respecting the environment, 
+our own employees and the wider society. Besi is committed to running its operations in 
+accordance with internationally recognized standards and best practices and to promote 
+sustainability with all stakeholders through the reporting on material ESG topics on an 
+annual basis in line with regulatory standards. 
+Our key objectives include the priorities set forth in the chart below:
+ 
+ 
+ 
+ 
+Implement 
+Design-to-X 
+initiative
+Increase supply 
+chain audits to 
+75% of PV by 2030
+Expand best 
+practice reporting 
+against ESG 
+frameworks 
+including CSRD 
+compliance Exceed 2024 and 
+2030 ESG targets
+Target 80% PV 
+compliance with 
+CFSI by 2030
+Reach net zero 
+Scope 1 & 2 
+emissions in our 
+operations by 
+2030
+Increase 
+diversity in 
+female and local 
+management
+Future ESG 
+Priorities
+ 
+Achieve 100% 
+renewable energy 
+sources at global 
+operations
+Improve 
+customer and 
+employee 
+satisfaction
+
+Page 33:
+33
+Appendices to the Environmental, Social and Governance Report 2023
+Annex 1: SASB Reference Table 2023 34
+Annex 2: GRI Reference Table 2023 36
+Annex 3: Reporting Criteria Material Topics Environmental, Social and Governance 43
+Annex 4: Taskforce on Climate-related Financial Disclosures 45
+
+Page 34:
+34
+Annex 1: SASB Reference Table 2023
+Sustainability Accounting Standards Board (SASB) Alignment
+Topic Accounting Metrics Code Disclosure Disclosure Location
+Greenhouse Gas 
+Emissions
+(1) Gross global Scope 1 emissions and  
+(2)  Amount of total emissions from perfluorinated 
+compounds
+TC-SC-110a.1 (1) Scope 1: 208 Metric Tonnes CO₂e.  
+(2) Besi doesn’t have emissions from perfluorinated compounds.
+ESG Report 2023, Annex 4: 
+Taskforce on Climate-related 
+Financial Disclosures 
+Greenhouse Gas 
+Emissions
+Discussion of long-term and short-term strategy or plan  
+to manage Scope 1 emissions, emissions reduction targets, 
+and an analysis of performance against those targets 
+TC-SC-110a.2 Reducing Besi’s carbon footprint is a key focus of Besi’s ESG strategy.  
+Our ambition is to reduce carbon emissions intensity (carbon emissions/
+revenue) across all three reporting scopes. Besi has reduced its direct 
+emissions (Scope 1 & 2) intensity by 40% compared to the base year 2021. 
+We set target to be carbon neutral for Scope 1 & 2 emissions.
+Annual Report 2023, page 65 
+Environmental impact
+Energy Management in 
+Manufacturing
+(1) Total energy consumed,  
+(2) Percentage grid electricity, and 
+(3) Percentage renewable
+TC-SC-130a.1 (1) 21.8 GWh energy consumed. 
+(2) 19.9 GWh grid electricity consumed, 91% of total energy consumption. 
+(3) 71% renewable energy utilized globally.
+Annual Report 2023, page 65 
+Environmental impact
+Water Management (1) Total water withdrawn, and 
+(2)  Total water consumed, percentage of each in regions 
+with High or Extremely High Baseline Water Stress
+TC-SC-140a.1 Besi consumed approximately 30 million liters of fresh water in its 
+operations in 2023, of which approximately 90% was utilized in our Asian 
+production operations. Virtually all water used in our operations is 
+discharged back into local water systems. As a result, our net usage is 
+limited. We do not operate in any regions with a high or very highwater risk 
+as defined by the World Resources Institute.
+Annual Report 2023, page 65 
+Environmental impact
+Waste Management (1)  Amount of hazardous waste from manufacturing, and 
+(2) Percentage recycled
+TC-SC-150a.1 (1) 15.8 tons 
+(2) 19%
+Annual Report 2023, page 65 
+Environmental impact
+Employee Health & 
+Safety
+Description of efforts to assess, monitor, and reduce 
+exposure of employees to human health hazards
+TC-SC-320a.1 Employee health and safety represents material topic for Besi. In our 
+Annual report we disclose how Besi assesses, monitors and reduces 
+exposure of employees to human health hazards.
+Annual Report 2023, page 73 
+People Wellbeing
+Employee Health & 
+Safety
+Total amount of monetary losses as a result of legal 
+proceedings associated with employee health and safety 
+violations
+TC-SC-320a.2 There were no legal proceedings related to health and safety incidents  
+in 2023.
+Annual Report 2023, page 73 
+People wellbeing
+Recruiting & Managing 
+a Global & Skilled 
+Workforce
+Percentage of employees that are 
+(1) Foreign nationals and 
+(2) Located offshore
+TC-SC-330a.1 (1) Besi is a global company with headquarters in Duiven, the Netherlands. 
+We operate 8 facilities in Asia and Europe for production and development 
+activities as well as 13 sales and service offices across Europe, Asia and 
+North America. We employed a total staff of 1,736 fixed and 134 temporary 
+personnel at December 31, 2023, of whom approximately 66% were based 
+in Asia and 34% were based in Europe and North America.  
+Based on the foreign nationals per facility we have determinded this metric 
+at 12% for Besi as a whole. However, we do not believe that disclosing   
+a single percentage of foreign nationals is a useful metric for our business. 
+We disclose additional metrics, such as local managers and training hours, 
+which in our view are a more effective metrics for assessing this aspect. 
+(2) 1%
+N/A
+
+Page 35:
+35
+Topic Accounting Metrics Code Disclosure Disclosure Location
+Product Lifecycle 
+Management
+Percentage of products by revenue that contain IEC 62474 
+declarable substances
+TC-SC-410a.1 We provide disclosure on our approach to responsible supply chain.   
+We seek to align our operations and supply chain with the Restriction  
+of Hazardous Substances (“RoHS”) directive. Further Besi has a Conflicts 
+Minerals Policy in place. 
+We will investigate to start a project for supplier confirmation that the 
+purchased materials do not contain IEC 62474 declarable substances.
+Annual Report 2023, page 77 
+Responsible business
+Product Lifecycle 
+Management
+Processor energy efficiency at a system-level for: 
+(1) Servers, 
+(2) Desktops, and 
+(3) Laptops
+TC-SC-410a.2 Besi does not disclose single percentages for these product categories, 
+given that we are a engaged in the development, production, marketing 
+and sales of back-end equipment for the semiconductor industry and not 
+in the actual manufactering of processors. 
+N/A
+Materials Sourcing Description of the management of risks associated with 
+the use of critical materials
+TC-SC-440a.1 Besi disclose its risk management process in which we have identified the 
+following risk: 
+Besi depends on its suppliers for critical raw materials, components and 
+subassemblies on a timely basis. If suppliers do not deliver their products 
+on a timely basis, particularly during a large order ramp, our revenue, 
+customer relationships and market share could be materially and adversely 
+affected.
+Annual Report 2023, page 83 
+Risk management
+IP Protection & 
+Competitive Behavior
+Total amount of monetary losses as a result of legal 
+proceedings associated with anticompetitive behavior 
+regulations
+TC-SC-520a.1 There were no legal proceedings associated with anti-competitive behavior 
+during 2022 or 2023.
+Annual Report 2023, page 77 
+Responsible business
+Total production The entity shall disclose total production from its own 
+manufacturing facilities and those with which it contracts 
+for manufacturing services. For semiconductor equipment 
+manufacturers the total production shall be reported on a 
+per unit basis. For semiconductor device manufacturers the 
+total production shall be reported consistent with 
+International SEMATECH Manufacturing Initiative’s 
+Semiconductor Key Environment Performance Indicators 
+Guidance, Technology Transfer #09125069A-ENG.
+TC-SC-000.A Besi's total production amounted to 859 machines. N/A 
+Percentage of 
+production from 
+owned facilities
+Percentage of production from owned facilities TC-SC-000.B 100% of the production is of our own facilities. N/A
+
+Page 36:
+36
+Annex 2: GRI Reference Table 2023
+GRI content index 
+        
+Statement of use BE Semiconductor Industries N.V. has reported the information cited in this GRI content index for 
+the period January 1, 2023 - December 31, 2023 with reference to the GRI Standards.
+GRI 1 used GRI 1: Foundation 2021
+        
+In the table below, reference is made to the Annual Report 2023, which can be downloaded at  
+www.besi.com/investor-relations/financial-reports-and-publications/financial-reports/  
+Further reference is made to the Code of Conduct, Whistleblower Policy, Supplier Code of Conduct and 
+Global Tax Policy, all available at www.besi.com/investor-relations/corporate-governance/ 
+Annex 1: SASB Reference Table 2023 and Annex Reporting Criteria Marterial Topics Environmental, Social 
+and Governance are included in the ESG Report 2023, which can be downloaded at  
+www.besi.com/investor-relations/corporate-governance/    
+GRI Standard Disclosure Location Section/remarks Page(s)
+GRI 2: General 
+Disclosures 2021
+2-1  Organizational details Annual Report 2023 Corporate Information 198
+2-2   Entities included in the organization’s 
+sustainability reporting
+Annual Report 2023 Financial Statements - Principles of Consolidation 143 - 144
+2-3  Reporting period, frequency and contact point Annual Report 2023 The Environmental, Social and Governance Report covering the period January 1, 2023 -  
+December 31, 2023 is included in the Annual Report 2023. 
+For questions on this report, please contact our Investor Relations, for contact details see 
+https://www.besi.com/investor-relations/
+N/A
+2-4  Restatements of information Annual Report 2023 Environmental, Social and Governance - Reporting scope 56
+2-5  External assurance Annual Report 2023 Environmental, Social and Governance - Assurance Report of the Independent Auditor 205
+2-6   Activities, value chain and other business 
+relationships
+Annual Report 2023 Company Profile 4 - 5
+2-7  Employees Annual Report 2023 Key highlights - Headcount data 6
+2-8  Workers who are not employees Annual Report 2023 Key highlights - Headcount data 
+Workers who are not employees amount to 98 of which 6% relates to production,  
+71% to research and development, 21% to customer support and 2% to other.
+6
+2-9  Governance structure and composition Annual Report 2023 Corporate Governance 104
+2-10   Nomination and selection of the highest 
+governance body
+Annual Report 2023 Environmental, Social and Governance - ESG Governance 56
+2-11  Chair of the highest governance body Annual Report 2023 Corporate Governance 104
+2-12   Role of the highest governance body in overseeing 
+the management of impacts
+Annual Report 2023 Environmental, Social and Governance - ESG Governance 56
+2-13   Delegation of responsibility for managing impacts Annual Report 2023 Environmental, Social and Governance - ESG Governance 56
+2-14   Role of the highest governance body in 
+sustainability reporting
+Annual Report 2023 Environmental, Social and Governance - ESG Governance 56
+2-15  Conflicts of interest Annual Report 2023 Corporate Governance - Board of Management - Conflicts of Interest 
+Corporate Governance - Supervisory Board - Conflicts of Interest
+105 
+106
+2-16 Communication of critical concerns Annual Report 2023 Report of the Supervisory Board - Supervisory Board meeting topics 133 - 134
+
+Page 37:
+37
+GRI Standard Disclosure Location Section/remarks Page(s)
+2-17   Collective knowledge of the highest governance 
+body
+Annual Report 2023 Board of Management and Supervisory Board Members 137
+2-18   Evaluation of the performance of the highest 
+governance body
+Annual Report 2023 Report of the Supervisory Board - Supervisory Board meeting topics 133 - 134
+2-19  Remuneration policies Annual Report 2023 Remuneration Report - Remuneration structure 115 - 118
+2-20  Process to determine remuneration Annual Report 2023 Remuneration Report - General 111
+2-21  Annual total compensation ratio Annual Report 2023 Remuneration Report - Remuneration of the Board of Management 127 - 128
+2-22   Statement on sustainable development strategy Annual Report 2023 
+ESG policy
+Environmental, Social and Governance - ESG strategy 
+https://www.besi.com/investor-relations/corporate-governance/
+55
+2-23  Policy commitments Annual Report 2023 Environmental, Social and Governance - People Wellbeing & Responsible Business 73, 77
+2-24  Embedding policy commitments Annual Report 2023 Environmental, Social and Governance - Responsible Business 77 - 80
+2-25  Processes to remediate negative impacts Annual Report 2023 
+Code of Conduct 
+Whistleblower procedure 
+Supplier Code of Conduct 
+ESG policy
+Annual Report 2023 - Environmental, Social and Governance - Responsible Business -  
+Ethics and compliance 
+Code of Conduct, Whistleblower procedure, Supplier Code of Conduct, ESG policy
+78 - 79
+2-26   Mechanisms for seeking advice and raising 
+concerns
+Annual Report 2023 
+Code of Conduct 
+Whistleblower procedure 
+Supplier Code of Conduct
+Annual Report 2023 - Environmental, Social and Governance - Responsible Business -  
+Ethics and compliance 
+ 
+Code of Conduct, Whistleblower procedure and Supplier Code of Conduct
+78
+2-27  Compliance with laws and regulations Annual Report 2023 Annual Report 2023 - Risk Management - Risk appetite / Legal and compliance risks 
+ 
+There were no significant instances of non-compliance with laws and regulations during 
+the reporting period.
+85, 96
+2-28  Membership associations N/A We do not participate in a significant role in industry associations, other membership 
+associations, and national or international advocacy organizations.
+N/A
+2-29  Approach to stakeholder engagement Annual Report 2023 Environmental, Social and Governance - Our key stakeholders 63 - 64
+2-30  Collective bargaining agreements Annual Report 2023 23% of our fixed employees is subjected to collective bargaining agreements. 
+For employees not covered by collective bargaining agreements see Environmental,  
+Social and Governance - People Wellbeing
+73
+GRI 3: Material Topics 
+2021
+3-1  Process to determine material topics Annual Report 2023 Environmental, Social and Governance - Materiality assessment 52
+3-2  List of material topics Annual Report 2023 Environmental, Social and Governance - Materiality assessment 53
+3-3  Management of material topics Annual Report 2023 Environmental, Social and Governance - ESG initiatives  
+Environmental, Social and Governance - ESG governance
+55 - 56
+GRI 201: Economic 
+Performance 2016
+201-1   Direct economic value generated and distributed Annual Report 2023 Financial Statements 2023 - Consolidated Statement of Operations 140
+201-2   Financial implications and other risks and 
+opportunities due to climate change
+Annual Report 2023 
+ESG Report 2023
+Risks and Risk Management - Risk factors - Strategic risks 
+Environmental, Social and Governance - TCFD
+85, 91, 96 
+Annex 4
+
+Page 38:
+38
+GRI Standard Disclosure Location Section/remarks Page(s)
+201-3   Defined benefit plan obligations and other 
+retirement plans
+Annual Report 2023 Financial Statements 2023 - Notes to the Consolidated Financial Statements - Note 25 
+Employee benefits
+169
+201-4   Financial assistance received from government N/A Research and development subsidies and credits available to offset research and 
+development expenses were € 9.6 million in 2023. R&D grants have been received from the 
+EU, from the Österreichische Forschungsförderung-gesellschaft and from local 
+governments.
+N/A
+GRI 202: Market 
+Presence 2016
+202-1   Ratios of standard entry level wage by gender 
+compared to local minimum wage
+Annual Report 2023 
+Supplier Code of Conduct
+Environmental, Social and Governance - Responsible Business - Responsible supply chain 
+Supplier Code of Conduct: Wages and benefits
+77 
+3
+202-2   Proportion of senior management hired from the 
+local community
+Annual Report 2023 Environmental, Social and Governance - People Wellbeing - Diversity and Inclusion 75
+GRI 203: Indirect 
+Economic Impacts 2016
+203-1   Infrastructure investments and services 
+supported
+N/A Infrastructure investments and services supported is not applicable. N/A
+203-2  Significant indirect economic impacts N/A Indirect economic performance is not determined to be a material topic. N/A
+GRI 204: Procurement 
+Practices 2016
+204-1  Proportion of spending on local suppliers Annual Report 2023 Environmental, Social and Governance - Responsible Business - Responsible supply chain 
+70% of our material related purchasing volume is sourced in Asia.
+78 - 80 
+GRI 205:  
+Anti-corruption 2016
+205-1   Operations assessed for risks related to 
+corruption
+Annual Report 2023 Risks and Risk Management - Risk factors - Operational risks & Legal and Compliance 
+risks
+91, 96
+205-2   Communication and training about  
+anti-corruption policies and procedures
+Annual Report 2023 
+Supplier Code of Conduct
+Report of the Supervisory Board - Supervisory Board meeting topics 
+Training provided to all new employees, see Environmental, Social and Governance - 
+Responsible business - Ethics and compliance 
+Supplier Code of Conduct, see Environmental, Social and Governance - Responsible 
+business - Responsible supply chain 
+Supplier Code of Conduct: Business Ethics
+133 
+76 - 77 
+ 
+77 - 78 
+ 
+5
+205-3  Confirmed incidents of corruption and actions 
+taken
+N/A No reported incidents of corruption. N/A
+GRI 206:  
+Anti-competitive 
+Behavior 2016
+206-1   Legal actions for anti-competitive behavior, 
+anti-trust, and monopoly practices
+Annual Report 2023 Not applicable, in 2023 there were not such legal proceedings. 
+Environmental, Social and Governance - Responsible Business - Ethics and compliance
+78
+GRI 207: Tax 2019 207-1  Approach to tax Annual Report 2023 
+Global Tax Policy
+Environmental, Social and Governance - Responsible Business Tax practices 
+Global Tax Policy
+80
+207-2   Tax governance, control, and risk management Annual Report 2023 Environmental, Social and Governance - Responsible Business Tax practices 80
+207-3   Stakeholder engagement and management of 
+concerns related to tax
+Annual Report 2023 Environmental, Social and Governance - Responsible Business Tax practices 80
+
+Page 39:
+39
+GRI Standard Disclosure Location Section/remarks Page(s)
+GRI 302: Energy 2016 302-1   Energy consumption within the organization Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Energy use and 
+renewable energy. 
+The 2023 fuel consumption of 1.8 GWh consists of:
+• Gas 0.85 GWh (non-renewable)
+• Gasoline 0.05 GWh (non-renewable)
+• Diesel 0.1 GWh (non-renewable)
+• City Heating 0.8 GWh (of which 82% sustainable generated)
+ 
+Within the 2023 electricty consumption of 19.9, GWh 0.3 GWh relates to purchased 
+cooling. 
+ 
+The data on the energy consumption is derived from meter readings and/or invoices from 
+suppliers. In case the energy consumption is included in the rent an estimate is made of 
+Besi’s share in the total energy consumption of the building.  
+General available conversion factors are used to convert the energy usage into GWh. For 
+conversion factors see Annex Reporting Criteria Marterial Topics Environmental, Social 
+and Governance.
+65, 68
+302-3  Energy intensity Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Energy use and 
+renewable energy
+68
+302-4  Reduction of energy consumption Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Energy use and 
+renewable energy  
+In 2024 we will further investigate the disclosure of the amount of reductions in energy as  
+a direct result of conservation and efficiency initiatives (if applicable).
+65, 68
+302-5   Reductions in energy requirements of products 
+and services
+Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Sustainable design 71 - 72
+GRI 303: Water and 
+Effluents 2018
+303-1   Interactions with water as a shared resource Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Water withdrawal 71
+303-3  Water withdrawal Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Water withdrawal 
+98% of the water withdrawal consists of third-party water and 2% relates to groundwater.
+71
+303-4  Water discharge Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Water withdrawal 71
+303-5  Water consumption Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Water withdrawal 71
+GRI 305: Emissions 2016 305-1  Direct (Scope 1) GHG emissions Annual Report 2023 
+ESG Report 2023
+Environmental, Social and Governance - Environmental impact  - Carbon emissions 
+Scope 1: 208 Metric Tonnes CO₂e 
+Annex 4: Taskforce on Climate-related Financial Disclosures
+66, 70 
+ 
+Annex 4
+305-2  Energy indirect (Scope 2) GHG emissions Annual Report 2023
+ESG Report 2023
+Environmental, Social and Governance - Environmental impact  - Carbon emissions 
+Scope 2: 4,916 Metric Tonnes CO₂
+Annex 4: Taskforce on Climate-related Financial Disclosures
+66, 70
+Annex 4
+305-3  Other indirect (Scope 3) GHG emissions Annual Report 2023
+ESG Report 2023
+Environmental, Social and Governance - Environmental impact  - Carbon emissions 
+Scope 3: 9,843 Metric Tonnes CO₂e
+Annex 4: Taskforce on Climate-related Financial Disclosures
+66, 70
+Annex 4
+305-4  GHG emissions intensity Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Carbon emissions 66, 70
+305-5  Reduction of GHG emissions Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Environmental impact 66, 70
+
+Page 40:
+40
+GRI Standard Disclosure Location Section/remarks Page(s)
+GRI 306: Waste 2020 306-1   Waste generation and significant waste-related 
+impacts
+Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Waste and hazardous 
+waste disposal 
+The disclosed waste related impacts relate to waste generated in Besi's own activities.
+65, 71
+306-3  Waste generated Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Waste and hazardous 
+waste disposal
+70 - 71
+306-4  Waste diverted from disposal Annual Report 2023 
+Annex 1: SASB Reference 
+Table  
+2023
+Environmental, Social and Governance - Environmental impact  - Waste and hazardous 
+waste disposal 
+The recycling percentage of hazardous waste amounts to 19%. See also annex 1:  
+SASB Reference Table 2023 for the disclosure of the reclycing percentage for hazardous 
+waste.  
+The recycling percentage of non-hazardous waste amounts to 47%.
+70 - 71
+306-5  Waste directed to disposal Annual Report 2023 Environmental, Social and Governance - Environmental impact  - Waste and hazardous 
+waste disposal 
+In 2024 it will be investigated if the disclosures on waste disposal can be further detailed  
+with a breakdown of the disposal operations. 
+70 - 71
+GRI 308: Supplier 
+Environmental 
+Assessment 2016
+308-1   New suppliers that were screened using 
+environmental criteria
+Annual Report 2023 Environmental, Social and Governance - Responsible Business  - Responsible supply chain 
+In 2023 progress was made on ESG-related topics and targets through engagement with 
+suppliers. We set expectations as to the type of ESG information required of them ahead 
+of Besi’s annual Supplier Day. Additionally, we began collecting RBA and ESG information 
+as part of the scorecard used in supplier audits. Our initial efforts will focus on CO₂ 
+emissions in Besi’s supply chain as part of overall Scope 3 emissions reduction efforts.
+77 - 79
+308-2   Negative environmental impacts in the supply 
+chain and actions taken
+Annual Report 2023 Environmental, Social and Governance - Responsible Business  - Responsible supply chain 
+In 2023 progress was made on ESG-related topics and targets through engagement with 
+suppliers. We set expectations as to the type of ESG information required of them ahead 
+of Besi’s annual Supplier Day. Additionally, we began collecting RBA and ESG information 
+as part of the scorecard used in supplier audits. We also conducted an ESG assessment 
+survey that posed questions related to Besi’s material ESG pillars of Environmental 
+Impact, People Wellbeing and Responsible Business.  Fifty-five suppliers were sent this 
+assessment survey with a response received from forty-six (84%), representing 
+approximately 50% of our total purchasing volume. Such responses were used to create  
+a grading system of either Low Risk, Medium Risk or High Risk.
+78 - 79
+GRI 401: Employment 
+2016
+401-1   New employee hires and employee turnover Annual Report 2023 Environmental, Social and Governance - People Wellbeing, table new hires and employee 
+turnover
+75
+401-2   Benefits provided to full-time employees that are 
+not provided to temporary or part-time employees
+N/A There is no distinction made in the benefits between full-time employees and temporary 
+or part-time employees.
+N/A
+
+Page 41:
+41
+GRI Standard Disclosure Location Section/remarks Page(s)
+GRI 402: Labor/
+Management Relations 
+2016
+402-1   Minimum notice periods regarding operational 
+changes
+Annual Report 2023 Besi is committed to being a good employer and promoting a workplace culture supporting  
+the achievement of its business and ESG objectives. We comply with all applicable 
+employment laws and regulations in the countries in which we operate. 
+ 
+Risk Management - Risk appetite 
+Besi strives to be fully compliant with its Code of Conduct and all applicable national and 
+international laws and regulations in the markets and jurisdictions in which it operates.  
+Besi seeks to comply with all environmental and labor laws and uses its best efforts to 
+comply with best practice standards in the jurisdictions in which Besi operates.For the 
+minimum notice periods regarding operational changes Besi follows local labor laws.
+75 - 76 
+ 
+ 
+ 
+ 
+86
+GRI 403: Occupational 
+Health and Safety 2018
+403-1   Occupational health and safety management 
+system
+Annual Report 2023 Environmental, Social and Governance - ESG Governance 
+Environmental, Social and Governance - People Wellbeing - Employee health and safety 
+73, 75, 76
+403-2   Hazard identification, risk assessment, and 
+incident investigation
+Annual Report 2023 Environmental, Social and Governance - ESG Governance 
+Environmental, Social and Governance - People Wellbeing - Employee health and safety 
+56 
+73, 76
+403-3   Occupational health services Annual Report 2023 Environmental, Social and Governance - ESG Governance 
+Environmental, Social and Governance - People Wellbeing - Employee health and safety 
+56 
+76
+403-4   Worker participation, consultation, and 
+communication on occupational health and safety
+Annual Report 2023 Environmental, Social and Governance - ESG Governance 
+Environmental, Social and Governance - People Wellbeing (employee engagement survey)
+56 
+64, 73
+403-5   Worker training on occupational health and safety Annual Report 2023 Environmental, Social and Governance - ESG Governance 56, 73
+403-6   Promotion of worker health Annual Report 2023 Environmental, Social and Governance - ESG Governance 
+Environmental, Social and Governance - People Wellbeing - Employee health and safety 
+56 
+73, 76
+403-7   Prevention and mitigation of occupational health 
+and safety impacts directly linked by business 
+relationships
+Annual Report 2023 Environmental, Social and Governance - ESG Governance 
+Environmental, Social and Governance - People Wellbeing - Employee health and safety 
+56 
+73, 76
+403-8   Workers covered by an occupational health and 
+safety management system
+Annual Report 2023 Environmental, Social and Governance - ESG Governance 56
+403-9   Work-related injuries Annual Report 2023 Environmental, Social and Governance - People Wellbeing - Employee health and safety 76
+403-10   Work-related ill health N/A We operate in a clean environment with no heavy chemicals present, reference is made to 
+Environmental, Social and Governance - People wellbeing - Employee health and safety. 
+76
+GRI 404: Training and 
+Education 2016
+404-1   Average hours of training per year per employee Annual Report 2023 Environmental, Social and Governance - People Wellbeing - Employee engagement and 
+career development 
+Breakdown per gender:
+• 33.1 average hours of training per male employee
+• 23.3 average hours of training per female employee
+76 - 77
+404-2   Programs for upgrading employee skills and 
+transition assistance programs
+Annual Report 2023 Environmental, Social and Governance - People Wellbeing - Employee engagement and 
+career development
+76, 77
+404-3   Percentage of employees receiving regular 
+performance and career development reviews
+N/A All employees receive annually a regular performance and career development review. N/A
+GRI 405: Diversity and 
+Equal Opportunity 2016
+405-1   Diversity of governance bodies and employees Annual Report 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Diversity and Inclusion 
+Policy
+Diversity Supervisory Board reference is made to page 137 of the Annual Report 2023 for 
+details and further to the report of the Supervisory Board - Composition and diversity. 
+Corporate Governance - Diversity and inclusion 
+Diversity Employees: Environmental, Social and Governance - People Wellbeing - Diversity 
+and inclusion 
+Besi does currently not include an overview of age groups, will be included in 2024 
+Diversity, Inclusion, Board of Management and Supervisory Board.
+132, 137 
+ 
+ 
+73, 75 
+ 
+ 
+ 
+2, 3
+
+Page 42:
+42
+GRI Standard Disclosure Location Section/remarks Page(s)
+GRI 406: Non-
+discrimination 2016
+406-1   Incidents of discrimination and corrective actions 
+taken
+N/A No reported incidents of discrimination. N/A
+GRI 407: Freedom of 
+Association and 
+Collective Bargaining 
+2016
+407-1   Operations and suppliers in which the right to 
+freedom of association and collective bargaining 
+may be at risk
+Annual Report 2023 
+Supplier Code of Conduct
+Environmental, Social and Governance - Responsible Business - Resonsible supply chain  
+Supplier Code of Conduct: Freedom of association and collective bargaining. 
+78 
+3
+GRI 408: Child Labor 
+2016
+408-1   Operations and suppliers at significant risk for 
+incidents of child labor
+Annual Report 2023 
+Supplier Code of Conduct 
+ESG policy
+Environmental, Social and Governance - Responsible Business - Resonsible supply chain  
+Supplier Code of Conduct: Child/underage labor  
+We strive to eliminate any discrimination including any distinction, exclusion or preference 
+made on the basis of race, color, sex, gender, religion, political opinion, physical or mental 
+disability, national extraction or social origin and promote equal opportunities in our value 
+chain. 
+ESG policy
+78 
+ 
+3 
+ 
+4
+GRI 409: Forced or 
+Compulsory Labor 2016
+409-1   Operations and suppliers at significant risk for 
+incidents of forced or compulsory labor
+Annual Report 2023 
+Supplier Code of Conduct 
+ESG policy
+Environmental, Social and Governance - Responsible Business - Resonsible supply chain  
+Supplier Code of Conduct: Forced labor  
+We strive to eliminate any discrimination including any distinction, exclusion or preference 
+made on the basis of race, color, sex, gender, religion, political opinion, physical or mental 
+disability, national extraction or social origin and promote equal opportunities in our value 
+chain. 
+ESG policy
+78 
+ 
+3 
+ 
+ 
+4
+GRI 411: Rights of 
+Indigenous Peoples 2016
+411-1   Incidents of violations involving rights of 
+indigenous peoples
+N/A No reported incidents of violations involving rights of indigenious people. N/A
+GRI 413: Local 
+Communities 2016
+413-1   Operations with local community engagement, 
+impact assessments, and development programs
+Annnual Report 2023 Environmental, Social and Governance - Responsible Business - Community Impact 80
+413-2   Operations with significant actual and potential 
+negative impacts on local communities
+N/A Not applicable N/A
+GRI 414: Supplier Social 
+Assessment 2016
+414-1  New suppliers that were screened using social 
+criteria
+Annual Report 2023 Environmental, Social and Governance - Responsible Business - Resonsible supply chain 
+In 2023 progress was made on ESG-related topics and targets through engagement with 
+suppliers. We set expectations as to the type of ESG information required of them ahead 
+of Besi’s annual Supplier Day. Additionally, we began collecting RBA and ESG information 
+as part of the scorecard used in supplier audits.  
+Additionally, we began collecting RBA and ESG information as part of the scorecard used in 
+supplier audits. We also conducted an ESG assessment survey that posed questions related 
+to Besi’s material ESG pillars of Environmental Impact, People Wellbeing and Responsible 
+Business. Fifty-five suppliers were sent this assessment survey with a response received  
+from forty-six (84%), representing approximately 50% of our total purchasing volume. Such 
+responses were used to create a grading system of either Low Risk, Medium Risk or High Risk. 
+In 2024 we will continue developing supplier screeening focusing on social criteria.
+78 - 79
+414-2   Negative social impacts in the supply chain and 
+actions taken
+Supplier Code of Conduct Supplier Code of Conduct: Business Ethics 5 - 6
+GRI 415: Public Policy 
+2016
+415-1   Political contributions N/A No political contributions N/A
+GRI 418: Customer 
+Privacy 2016
+418-1   Substantiated complaints concerning breaches of 
+customer privacy and losses of customer data
+Data Privacy Statement No substantiated complaints received N/A
+
+Page 43:
+43
+Annex 3: Reporting Criteria Material Topics Environmental, Social and Governance
+ 
+Pillar Topic Code Reference Remark
+Environmental Impact Energy and renewable 
+energy
+SASB • TC-SC-130a.1 The percentage grid electricity is included in the annex SASB Reference 
+Table 2023.
+GRI • GRI 302-1 and GRI 302-3 In the annex GRI Reference Table 2023 a breakdown of the energy and fuel 
+consumption is included. 
+The data on the energy consumption is derived from meter readings and/or 
+invoices from suppliers. In case the energy consumption is included in the 
+rent an estimate is made of Besi’s share in the total energy consumption 
+of the building.  
+General available conversion factors are used to convert the energy usage 
+into GWh: 
+Gasoline: 1 liter = 8.9 kWh 
+Diesel: 1 liter = 10 kWh 
+Gas: 1 m³ = 9,769 kWh
+Carbon emissions SASB • TC-SC-110a.1 and TC-SC-110a.2 SASB only includes Scope 1 emissions, Besi discloses also Scope 2 and 3 
+emissions.
+GRI • GRI 305-1, 305-2 (location based), 305-3 and 305-4
+Waste and hazardous 
+material use
+SASB • TC-SC-150a.1 (Hazardous waste) Percentage of hazardous waste recycled is included in the Annex SASB 
+Reference Table 2023.
+GRI • GRI 306-3, no breakdown by composition will be included
+Water use SASB • TC-SC-140a.1
+Sustainable design Own • Besi shall report the following: 
+A description of the approach to sustainable design, including:
+-   a general description of sustainable design including the main focus 
+areas;
+-  the approach regarding sustainable design as a means of reducing the 
+environmental impact;
+-  the inclusion of product life cycle assessment as part of sustainable 
+design;
+-  whether systems can be customized, reconfigured and redeployed for 
+other production purposes over their product life span, thus extending 
+their useful life and reducing the environmental impact;
+-  whether initiatives have been deployed regarding the extension of the 
+useful life of products delivered.
+
+Page 44:
+44
+Pillar Topic Code Reference Remark
+People Wellbeing Diversity and inclusion GRI • GRI 405-1-b.i
+Own • Disclose percentage of women of the total fixed headcount.
+• Disclose percentage of total female managers of total managers.
+• Disclose percentage of local national management of total 
+management.
+The definition of manager is: an employee of job grade manager or above 
+and managing team members.  
+Employee health and 
+safety
+SASB • TC-SC-320a.1 and TC-SC-320a.2
+Own • Disclose sickness rate as % of working days (calculation based on 
+headcount). 
+Disclose total number of incidents in the workplace.
+• Incidents are grouped into categories by severity: (i) fatalities, (ii) major 
+absences (of more than four days), (iii) minor absences (of less than four 
+days) and (iv) first aid cases in which employees can resume work 
+immediately after treatment or the following day.
+Employee engagement 
+and career 
+development
+GRI • GRI 404-1 and GRI 404-2-a, Besi will only include the average training 
+hours per employee and per gender, no breakdown will be provided in 
+employee category.
+Own • Disclose employee engagement as calculated by external advisor.
+Responsible Business Ethics and compliance GRI • GRI 206
+Own • Disclose reported violations of Besi's Code of Conduct.
+Responsible supply 
+chain
+Own • Disclose the percentage of purchase volume audited by Besi.
+• Disclose the percentage of suppliers who have signed the Self-
+Assessment Questionnaires, Code of Conduct Supplier Agreements and 
+Conflict Free Sourcing Initiative. 
+Number of suppliers which signed the various target documents is 
+determined with corresponding purchasing volume. 
+Based on data above, the % for responsible business is calculated.
+Community impact Own • Disclose how Besi supports activities in the local communities in which 
+it operates.
+Tax practices GRI • GRI 207-1, GRI 207-2 and GRI 207-3
+Other Topic Code Reference Remark
+Material topics Material Topics GRI • GRI 3
+
+Page 45:
+45
+Annex 4: Taskforce on Climate-related Financial Disclosures 
+TCFD 
+Besi recognizes the adverse effects caused by the emerging climate change crisis and 
+carefully monitors the impact of climate change on our operations. In addition, we 
+recognize increasing interest from customers and investors on climate topics and support 
+the activities of the Taskforce on Climate-related Financial Disclosures (“TCFD”). Our 
+objective is to comply with its recommendations to provide greater transparency in the 
+reporting of climate-related risks and opportunities. Additionally, we have used TCFD’s 
+guidance and conducted a climate change risk assessment using various scenarios to 
+inform the development of Besi’s climate strategy.
+This is our second year reporting against TCFD recommendations. In accordance therewith, 
+we have made climate-related disclosures in the Annual Report 2023 broadly in line with 
+their recommendations on the following topics:
+• Governance (all recommended disclosures)
+• Strategy (all recommended disclosures)
+• Risk management (all recommended disclosures)
+• Metrics and targets (all recommended disclosure)
+In the future, we intend to evaluate our practices and consider opportunities to enhance 
+disclosures on an ongoing basis in order to expand best practice reporting against ESG 
+frameworks.
+Governance 
+Disclose the organization’s governance around climate-related risks and opportunities.
+ESG GOVERNANCE STRUCTURE
+Supervisory Board
+Oversight of ESG implementation
+Audit Committee
+Oversight reporting
+Remuneration Committee
+Review ESG-related remuneration 
+Board of Management
+ESG strategy and implementation
+SVPs Product Groups SVP Operations VP Strategic Supply 
+Management
+VP Strategic 
+Sourcing SVP Finance
+CTO office
+
+Page 46:
+46
+Recommended disclosure: a. Describe the board’s oversight of climate-related risks and 
+opportunities.
+Besi’s Board of Management is responsible for the direction of our ESG strategy which 
+includes climate-related issues. Developments with respect to Besi’s ESG initiatives are 
+discussed regularly with the Supervisory Board where we present progress against goals 
+and targets for climate-related issues. 
+In 2020, we introduced ESG reporting on a quarterly basis. Reporting data is used to 
+evaluate Besi’s ESG progress and risks which include climate change, natural resource 
+conservation and pollution. Short- and long-term topics are also addressed through 
+measures such as a materiality analysis, key performance indicators for Scope 1, 2 and 3 
+emissions, water and energy consumption and waste disposal, customer satisfaction and 
+employee engagement metrics, supplier audits, stakeholder dialogue and climate-related 
+scenario analysis.
+Recommended disclosure: b. Describe management’s role in assessing and managing 
+climate-related risks and opportunities.
+The Board of Management is responsible for defining and achieving Besi’s strategy and 
+ESG objectives. Day-to-day responsibility resides with the SVPs and facility management 
+in their respective departments and locations. Senior management is engaged to (i) assess 
+climate-related issues, (ii) develop climate-related initiatives and (iii) monitor and track 
+progress against Besi’s climate-related targets as follows:
+• CTO Office (responsible for supporting sustainable solutions for Besi’s assembly 
+equipment).
+• SVPs Product Groups (responsible for climate-related aspects associated with 
+sustainable design such as lower material consumption over product life cycles and 
+management of Besi’s product group operations).
+• SVP Operations (responsible for managing Besi’s production sites and for climate change 
+related aspects of operations such as increasing the energy efficiency of its facilities).
+• VP Strategic Supply Management (responsible for collection of sustainability related 
+information from our suppliers and monitoring compliance with Besi’s responsible 
+supply chain and Supplier Code of Conduct).
+• VP Strategic Sourcing (responsible for review and presentation of Besi’s progress per 
+ESG initiatives across its facilities and product lines).
+• SVP Finance (responsible for ESG data review including data collection, co-ordination of 
+ESG reporting and analysis of target versus actual results).
+Strategy 
+Disclose the actual and potential impact of climate-related risks and opportunities on the 
+organization’s business, strategy and financial planning where such information is 
+material.
+Recommended disclosure: a. Describe the climate-related risks and opportunities the 
+organization has identified over the short-, medium-, and long-term.
+Besi considers climate-related risks and opportunities across three time horizons:
+• Short-term (0-2 years): The annual budget includes capital expenditures for our 
+production facilities over a two-year time period.
+• Medium-term (period up to 2030): This period is considered the timeframe for major 
+product and market trends in alignment with our five-year planning cycle.
+• Long-term (2030 - 2050): Climate risks based on our scenario assessments that align 
+with a 2050 horizon.
+The tables below generally describe the climate-related risks considered over the 
+timeframes described above. We plan to further evaluate these risks and their associated 
+business impacts in a more comprehensive manner in future years:
+
+Page 47:
+47
+CLIMATE-RELATED RISKS
+Category of Climate Risk Climate Risk Drivers Main Affected Time Horizon
+Transition Risk Policy & Legal • Local, state, regional and national regulatory pressure to set more strict energy efficiency and emissions 
+intensity targets for Besi and our value chain.
+Medium – Long 
+Technology 
+ 
+• Uncertainties that surround the development and implementation of carbon reduction and energy efficient 
+technologies for our systems.
+Medium – Long
+Market • Uncertainty about the sustainability of sourcing and refining materials essential to Besi’s products. Short – Medium – Long
+Reputation • Besi will be required (or strongly pressured) to use the Company’s sustainability performance as a key 
+consideration in investment or partnership decisions.
+Short – Medium – Long
+Physical Risk Acute • Increased frequency and severity of river floods, cyclones and wildfires. Short – Medium – Long 
+Chronic • Rising air temperatures affecting working conditions, living conditions and the frequency of chronic heat 
+waves.
+Long
+Recommended disclosure: b. Describe the impact of climate-related risks and opportunities 
+on the organization’s businesses, strategy and financial planning.
+We have defined our climate-related goals and ambitions with specific targets identified 
+to guide our activities until 2030, set the objective of net-zero carbon emissions in our 
+operations and the objective of net zero carbon emissions. We have determined targets 
+per location to reduce our energy and water usage, hazardous and non-hazardous waste 
+and CO2 emissions. As a result, we are focused on addressing such risks by integrating 
+climate considerations into Besi’s sustainable design efforts, facility investments and 
+energy/resource efficiency as detailed below: 
+• Sustainable Design
+Besi continually seeks potential opportunities to develop new ways to assemble 
+semiconductors and components used in advanced electronic applications. We have 
+proactively developed a more efficient and cleaner industry through our products, 
+particularly low carbon products and services in order to help customers operate more 
+efficiently and in a more environmentally friendly and cost saving manner. Furthermore, 
+we offer upgrade kits to customers for certain product series which can increase the 
+lifespan of our systems. 
+For more information, please refer to page 71 of our Annual Report 2023, where we highlight 
+the favorable results of our collaboration with the Lucerne University of Applied Sciences 
+and Arts (Switzerland) as well as the inceptin of our “Design-to-X” intiative. These 
+initiatives help ensure that we keep pace with the transition to a net-zero economy by 
+complying with potential regulations, providing energy efficient technology and by 
+maintaining a strong reputation with stakeholders. 
+• Facility Investments
+Over the past three years, we have made investments in our facilities to facilitate the 
+adoption of renewable energy technologies. Such investments were targeted to reduce 
+transitional risks and included: 
+• Purchase and utilization of Solar PV panels at the Besi APac and Besi Austria facilities. 
+• Installation of a groundwater heatpump at Besi’s Radfeld, Austria facility to replace 
+natural gas usage for its central heating system.
+• Renewable energy procurement from local electricity suppliers. 
+• Installation of E-charge stations at our Austrian, Chinese, Dutch and Swiss facilities. 
+• Conversion of company cars from ICE to hybrid or electric. 
+• Capital spending to reduce the risk of flooding at our Malaysian facility.
+
+Page 48:
+48
+We will continue to assess investment opportunities in the future to improve the resilience 
+of our facilities. This assessment includes the prioritization of actions at our most 
+vulnerable locations based on the scenario analysis conducted in 2022. 
+• Energy/Resource Efficiency
+Additionally, we have worked on becoming more energy efficient through the purchase and 
+utilization of more energy-efficient process technologies and the better insulation of our 
+facilities. Such initiatives have included: 
+• LED light and Smart meter installation. 
+• Air compressor replacements. 
+• Upgraded heating, ventilation and air conditioning (HVAC) units. 
+• Better management of the transport mix of our freight operations with a focus on local 
+sourcing. 
+• Installation of sun/heat protective foils. 
+• Implementation of sustainable design methods in certain of our Die Attach platforms.
+Recommended disclosure: c. Describe the resilience of the organization’s strategy, taking 
+into consideration different climate-related scenarios, including a 2 °C or lower scenario.
+Besi engaged an external consultant in 2022 which conducted a scenario-based climate 
+change risk assessment exercise to determine the potential implications of climate risks 
+on our business. The objective of the exercise was, in part, to strengthen the resilience of 
+our ESG and climate related strategies moving forward. Intergovernmental Panel on 
+Climate Change (“IPCC”) warming scenarios were utilized to build our Besi-specific 
+scenarios. The IPCC provides pathways for assessing the physical impacts of climate 
+change utilizing varying degrees of GHG atmospheric emissions. The majority of the 
+publicly available climate-related scenario assumptions do not directly impact Besi 
+because they focus primarily on transitions for heavy-emitting sectors such as utilities. As 
+such three qualitative transition scenarios were drafted from existing scenarios and trends 
+and then combined with three warming scenarios: 
+• Business-as-usual 
+RPC 8.5 – Extremely high emissions scenario with the global mean temperature expected 
+to rise by 3.7 °C (2.6-4.9 °C) by the end of the 21 st century. The scenario assumes a high 
+dependence on fossil fuels and no policy-driven mitigation. 
+Qualitative assumptions: 
+• Limited impact of emissions performance on Besi’s reputation and market value. 
+• Available technologies do not have the capability for large scale emissions reduction. 
+• Reduced investment in new technologies due to high costs and limited public sector 
+incentives. 
+• Delayed transition
+RPC 6.0 – High emissions scenario with global mean temperature expected to rise by 2.2 °C 
+(1.4-3.1 °C) by the end of the century assuming emissions peak around 2080 and then 
+decline. 
+Qualitative assumptions: 
+• Inconsistent regulation. 
+• Uneven impact of emissions performance on Besi’s reputation and market value. 
+• Reduced demand in geographies with high vulnerability and exposure to climate risks. 
+• Net-zero
+RPC 2.6 – A stringent pathway with a large regulatory push. The development of new 
+technologies increases the probability of keeping global temperature growth below 2 °C by 
+2100. 
+Qualitative assumptions:
+• Strict regulation. 
+• Large impact of emissions performance on Besi’s reputation and market value. 
+• Customers have high interest in more energy efficient/lower emission products which 
+impacts purchasing decisions.
+
+Page 49:
+49
+Business impacts
+Set forth below is a table which summarizes the results of the scenario analysis.  
+It identifies how each scenario may impact Besi’s business and operations and our relative 
+preparedness for each scenario outcome:
+RCP 8.5/Business-as-usual RCP 6.0/Delayed Transition RCP 2.6/Net-zero
+Physical  
+climate risks
+• Increased acute risk of flooding and heatwaves affecting manufacturing operations  
+and supply chain.
+• Potential for additional disruption to offices and production sites.
+• Impact of flooding and heatwaves on manufacturing 
+already being observed.
+Transition  
+climate risks
+• Well prepared for policy/legal risks.
+• Low potential exposure to carbon pricing.
+• Relatively little pressure from customers 
+on product efficiency.
+• Uncertain customer behaviour and consumer 
+preferences.
+• Low potential exposure to carbon pricing in the short 
+term. High exposure in the long term.
+• Uneven pressure on product efficiency.
+• Greater potential exposure to policy/regulatory risks.
+• More potential reputational risk if not net-zero.
+• More significant transition costs.
+• Higher potential exposure to carbon pricing.
+Transition  
+opportunities
+• Increased resilience against climate and 
+weather impacts.
+• Energy and resource efficient product design.
+• Incorporate renewable technologies.
+• Drive decarbonization of upstream supply chain.
+• Improve energy efficiency and associated energy costs.
+• Opportunity to drive customer emissions reduction.
+Company preparedness on transitional risks
+Policy/Regulation Well prepared Well prepared Under evaluation
+Market Well prepared Well prepared Well prepared
+Reputation Well prepared Under evaluation Under evaluation
+Technology Well prepared Well prepared Under evaluation
+The key insights from the scenario analysis are as follows:
+• Besi is well prepared for climate-related market risks. 
+• A delayed or net-zero transition presents Besi with the largest opportunities for growth 
+if we manage the climate-related risks effectively.
+• We are currently evaluating ways in which we can further contribute to a net-zero 
+transition.
+
+Page 50:
+50
+Risk management 
+Disclose how the organization identifies, assesses and manages climate-related risks. 
+Recommended disclosure: a. Describe the organization’s processes for identifying and 
+assessing climate-related risks.
+Besi’s ESG strategy is influenced by important global trends currently such as climate 
+change, natural resource conservation, pollution and the circular economy as well as 
+human challenges such as diversity, human rights and the recruitment of qualified 
+technical personnel. We have internal control and risk management systems in place 
+designed to address and help identify and limit climate-related risk factors as well as 
+other ESG and non-financial risks that could affect both our strategy and business 
+operations. Short- and long-term topics are assessed through measures such as materiality 
+analyses, key performance indicators for Scope 1, 2 and 3 emissions, water usage and 
+waste disposal, customer and employee satisfaction metrics, supplier audits and 
+continuous stakeholder dialogue. 
+Besi’s ESG and non-financial risks are governed by a set of guidelines and instructions 
+including: 
+• ESG Policy
+• RBA Supplier Certification 
+• Conflict Minerals Policy 
+• Code of Conduct 
+• Supply Chain Policy 
+• Supplier Code of Conduct 
+• Code of Ethics for Senior Financial Officer 
+• Whistleblower procedure 
+• Guidelines regarding authorizations
+Besi regularly evaluates ESG topics deemed important to the conduct of its operations and 
+the development of its corporate culture. We periodically reassess our societal and 
+environmental impact in consideration of stakeholders’ concerns and adjust the ranking of 
+high and medium assessment priorities. In 2022, we engaged a third-party consultant to 
+conduct scenario analyses in order to identify potential risks and opportunities relevant to 
+Besi. 
+Recommended disclosure: b. Describe the organization’s processes for managing climate-
+related risks.
+The Board of Management is responsible for the management of internal and external 
+risks associated with Besi’s business activities and to guarantee compliance with 
+applicable legislation and regulations. The Board of Management is also responsible for 
+the monitoring and reporting of such identified risks and leading the response across the 
+organization to address any new risks which may arise. In addition, initiatives have been 
+established for any specific climate change risks identified that are considered material 
+per facility. As a result, targets have been set so that management can track climaterelated 
+KPIs and report progress to the Supervisory Board. 
+Please refer to the ‘Risk Management’ Section on page 82 of the Annual Report 2023 for 
+more detail on Besi’s internal control and risk management systems to manage and 
+mitigate climate-related and other ESG related risks.
+Recommended disclosure: c. Describe how processes for identifying, assessing, and 
+managing climate-related risks are integrated into the organization’s overall risk 
+management.
+Besi’s risk management program seeks to identify and control potential risks and events 
+which may affect our strategy, continuity, business and performance. We have identified 
+the following climate-related risks considered to have significant relevance: 
+• Besi may be materially and adversely affected by the impact of climate change including 
+laws and regulations implemented in response to climate change related issues. 
+• Asian production and personnel expansion could expose us to additional risks related to 
+corruption and human rights issues in the region. 
+• Recent regulations and increased customer focus on the usage of conflict minerals in 
+product supply chains may force us to incur additional expenses, make our supply chain 
+more complex and result in damage to Besi’s customer reputation. 
+Please refer to the ‘Risk Management’ Section on page 82 of the Annual Report 2023 for 
+more information. 
+Metrics and targets 
+Disclosure of metrics and targets used to assess and manage relevant climate-related 
+risks and opportunities where such information is material. 
+Recommended disclosure: a. Disclose the metrics used by the organization to assess 
+climate related risks and opportunities in line with its strategy and risk management 
+process.
+In addition to measuring and disclosing our Scope 1, 2 and 3 emissions and emissions 
+intensity, we track and monitor a number of other climate-related metrics and KPIs to 
+better help us manage climate-related risks and opportunities: 
+• Fuel and Electricity consumption (Pages 65 and 68 of our Annual Report 2023) 
+• Renewable Energy consumption (Pages 65 and 68 of our Annual Report 2023) 
+• Water withdrawal (Pages 66 and 71 of our Annual Report 2023) 
+• Hazardous and Non-hazardous Waste (Pages 66 and 71 of our Annual Report 2023) 
+• Percentage of EU Taxonomy-eligible and aligned activities (Pages 57 through 61 of our 
+Annual Report 2023)
+
+Page 51:
+51
+Recommended disclosure: b. Disclose Scope 1, Scope 2 and, if appropriate, Scope 3 
+greenhouse gas (GHG) emissions and the related risks.
+Our Scope 1, 2 and 3 emissions data have been reviewed by a third party, Ernst & Young 
+Accountants LLP, for the years 2021, 2022 and 2023 whose assurance report is included in 
+Other Information of the Annual Report 2023. Please refer to page 56 and 69 of our Annual 
+Report 2023 for information relating to the Scope 3 categories included and methodology 
+used to calculate emissions data.
+Emission (tCO₂) and Emission  
+Intensity (tCO₂e/€ million revenue)
+2019 2020 2021* 2022* 2023*
+Absolute Relative Absolute Relative Absolute Relative Absolute Relative Absolute Relative
+Scope 1 269 0.8 279 0.6 331 0.4 335 0.5 208 0.4
+Scope 2 8,796 24.7 8,308 19.2 10,481 14.0 3,420 4.7 4,916 8.5
+Scope 3 7,407 20.8 7,157 16.5 11,942 15.9 9,817 13.6 9,843 17.0
+Total Scope 1, 2 and 3 16,472 46.2 15,744 36.3 22,573 30.1 13,573 18.8 14,967 25.9
+*   2021, 2022 and 2023 are the years for which emissions data have been reviewed by Ernst & Young Accountants LLP, Besi’s 
+independent auditor.
+We plan to expand our climate-related scenario analysis and disclosure in the future so as 
+to better quantify climate-related risks and opportunities achieved.
+Recommended disclosure: c. Describe the targets used by the organization to manage 
+climate-related risks and opportunities and performance against targets.
+In 2021, Besi set the objective of net-zero carbon emissions by 2050 in recognition of the 
+global ecological and societal imperatives caused by climate change. In addition, we set an 
+objectve of reaching net zero greenhouse gas emissions in our operations by 2030, 
+incorporating scope 1 and 2 emissions. Toward this end, we have set interim emission-
+intensity targets for our Scope 1, 2 and 3 emissions and other climate related metrics 
+against which progress is measured and disclosed in this ESG Report and Annual Report 
+2023. See pages 65 through 73 in our Annual Report 2023 for more information on how such 
+metrics help support Besi’s climate-related efforts.
+
